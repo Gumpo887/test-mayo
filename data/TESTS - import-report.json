@@ -1258,5 +1258,21 @@
     "Servidor": 170,
     "Sostenibilidad": 146
   },
-  "totalValidatedQuestions": 1148
+  "totalValidatedQuestions": 1148,
+  "postPublishValidationFixes": {
+    "status": "completed-locally",
+    "fixes": [
+      {
+        "file": "data/TESTS - Python.json",
+        "id": 50,
+        "change": "Removed appended answer key text from option D; kept C as correct."
+      },
+      {
+        "file": "data/TESTS - Sostenibilidad.json",
+        "ids": "101-146",
+        "change": "Rechecked and corrected answer letters for the final platform/exam block."
+      }
+    ],
+    "note": "Servidor id 108 and Sostenibilidad id 117 keep 3 options because the source PDF exposes only 3 options; each still has exactly one correct answer."
+  }
 }

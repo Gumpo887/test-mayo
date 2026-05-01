@@ -2686,11 +2686,11 @@
       },
       {
         "text": "Porque decide precios.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Porque garantiza decisiones éticas y transparentes.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Porque dirige campañas publicitarias.",
@@ -2794,11 +2794,11 @@
       },
       {
         "text": "Formar profesionales comprometidos.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Rechazar políticas verdes.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Aplicar solo teoría.",
@@ -2848,11 +2848,11 @@
       },
       {
         "text": "Desechar productos rotos.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Reutilizar materiales de construcción.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Comprar más.",
@@ -2902,11 +2902,11 @@
       },
       {
         "text": "Economía social.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Economía digital.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Empresa tradicional.",
@@ -3037,11 +3037,11 @@
       },
       {
         "text": "ODS 4.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "ODS 6.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "ODS 10.",
@@ -3114,11 +3114,11 @@
       },
       {
         "text": "Bosque.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Ciudad.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Montaña rocosa.",
@@ -3141,11 +3141,11 @@
       },
       {
         "text": "Permite cuantificar el impacto climático de una persona o actividad.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Sustituye el impuesto al carbono.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Define la calidad del aire.",
@@ -3195,11 +3195,11 @@
       },
       {
         "text": "Fabricar objetos con vida útil limitada a propósito.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Reciclar rápido.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Innovación ecológica.",
@@ -3249,11 +3249,11 @@
       },
       {
         "text": "Económico.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Tecnológico.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Medioambiental.",
@@ -3303,11 +3303,11 @@
       },
       {
         "text": "Un modelo basado en el reciclaje y la reutilización.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Un sistema de pagos digitales.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Una estrategia para el crecimiento urbano.",
@@ -3330,11 +3330,11 @@
       },
       {
         "text": "Solar.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Nuclear.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Hidráulica.",
@@ -3465,11 +3465,11 @@
       },
       {
         "text": "Reducir el desempleo juvenil.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Limitar el calentamiento global.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Fomentar la innovación tecnológica.",
@@ -3492,11 +3492,11 @@
       },
       {
         "text": "Equilibrar las emisiones con absorciones.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "No emitir gases contaminantes.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Reducir el uso del plástico.",
@@ -3519,11 +3519,11 @@
       },
       {
         "text": "La variación estacional de temperaturas.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Alteración global del clima debido a la acción humana.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Un proceso natural sin intervención humana.",
@@ -3546,11 +3546,11 @@
       },
       {
         "text": "Garantizar justicia y equidad social.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Reducir la inversión pública.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Fomentar el turismo.",
@@ -3577,11 +3577,11 @@
       },
       {
         "text": "Dependencia de energías fósiles.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Concienciación ciudadana.",
-        "isCorrect": true
+        "isCorrect": false
       }
     ],
     "answerSource": "manual-review",
@@ -3627,7 +3627,7 @@
       },
       {
         "text": "Compostar productos.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Usar materias recicladas.",
@@ -3635,7 +3635,7 @@
       },
       {
         "text": "Desechar tras el uso.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ],
     "answerSource": "manual-review",
@@ -3677,11 +3677,11 @@
     "options": [
       {
         "text": "CE.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "ECO.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "ISO.",
@@ -3704,11 +3704,11 @@
     "options": [
       {
         "text": "Reducción de emisiones de CO2.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Emisión de más carbono.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Reemplazo de carbono por oxígeno.",
@@ -3735,11 +3735,11 @@
       },
       {
         "text": "Establecer objetivos globales de desarrollo sostenible.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Reducir las competencias locales.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Aumentar la burocracia ambiental.",
@@ -3762,11 +3762,11 @@
       },
       {
         "text": "Beneficios económicos.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Lucha contra la brecha salarial.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Mitigación del cambio climático.",

@@ -1241,7 +1241,7 @@
         "isCorrect": true
       },
       {
-        "text": "202 Accepted Respuestas correctas 1. A \u2014 mysql-connector-python 2. B \u2014 Obtiene todas las filas del resultado de la consulta. 3. B \u2014 pip install Django 4. B \u2014 settings.py 5. D \u2014 python manage.py migrate 6. A \u2014 Definir la estructura de los datos y mapear tablas de base de datos. 7. C \u2014 TextField 8. B \u2014 python manage.py makemigrations 9. D \u2014 def mi_vista(request): return HttpResponse('Hola') 10. D \u2014 {{ variable }} 11. B \u2014 forms.Form 12. B \u2014 DELETE 13. C \u2014 pip install djangorestframework 14. C \u2014 Convertir objetos Python a JSON y viceversa. 15. D \u2014 serializers.ModelSerializer 16. B \u2014 ModelViewSet 17. A \u2014 Generar autom\u00e1ticamente las URL para ViewSets. 18. C \u2014 pip install flask 19. C \u2014 @app.route() 20. C \u2014 app = Flask(name) 21. C \u2014 db.Model 22. D \u2014 db.session.commit() 23. C \u2014 session.query(User).filter(User.name.like('%john%')).all() 24. C \u2014 .html 25. C \u2014 201 Created",
+        "text": "202 Accepted",
         "isCorrect": false
       }
     ],
