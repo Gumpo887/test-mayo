@@ -1,0 +1,3727 @@
+[
+  {
+    "id": 1,
+    "question": "\u00bfCu\u00e1l es una caracter\u00edstica clave de un sistema distribuido?",
+    "options": [
+      {
+        "text": "Todos los componentes est\u00e1n en una sola m\u00e1quina.",
+        "isCorrect": false
+      },
+      {
+        "text": "Falta de comunicaci\u00f3n entre componentes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fallo de un componente no afecta al sistema.",
+        "isCorrect": true
+      },
+      {
+        "text": "Comunicaci\u00f3n s\u00edncrona obligatoria.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 2,
+    "question": "\u00bfC\u00f3mo se puede definir cloud computing?",
+    "options": [
+      {
+        "text": "Es la interconexi\u00f3n de una serie de ordenadores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es el proceso de planificar y ejecutar una serie de tareas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Son una serie de servicios de computaci\u00f3n ofrecidos a trav\u00e9s de Internet.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ninguna de las respuestas anteriores es correcta.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 3,
+    "question": "\u00bfQu\u00e9 tipo de hosting es m\u00e1s adecuado para una gran empresa que necesita el m\u00e1ximo rendimiento, seguridad y control total sobre su servidor?",
+    "options": [
+      {
+        "text": "Hosting compartido.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hosting VPS (servidor virtual privado).",
+        "isCorrect": false
+      },
+      {
+        "text": "Hosting dedicado.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hosting gratuito.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 4,
+    "question": "\u00bfCu\u00e1l de las siguientes opciones es un ejemplo de un servicio SaaS?",
+    "options": [
+      {
+        "text": "Un servidor virtual en la nube.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un entorno de desarrollo en la nube.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un software de gesti\u00f3n de relaciones con clientes (CRM) en l\u00ednea.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un sistema operativo alojado.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 5,
+    "question": "\u00bfCu\u00e1l es la capa encargada de interactuar directamente con la base de datos en una arquitectura web de tres capas?",
+    "options": [
+      {
+        "text": "Capa de presentaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Capa de negocio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Capa de datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Capa de seguridad.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 6,
+    "question": "\u00bfQu\u00e9 sucede si la capa de negocio y la capa de datos est\u00e1n fuertemente acopladas en una arquitectura web de tres capas?",
+    "options": [
+      {
+        "text": "Mejora la eficiencia de la aplicaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dificulta la reutilizaci\u00f3n de la l\u00f3gica de negocio.",
+        "isCorrect": true
+      },
+      {
+        "text": "Facilita la integraci\u00f3n de nuevas tecnolog\u00edas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumenta la independencia de la capa de presentaci\u00f3n.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 7,
+    "question": "\u00bfCu\u00e1l es el principal beneficio de utilizar un hosting en la nube (cloud hosting)?",
+    "options": [
+      {
+        "text": "Recursos fijos e inmutables.",
+        "isCorrect": false
+      },
+      {
+        "text": "Escalabilidad y alta disponibilidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Administraci\u00f3n compleja y costosa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dependencia de un \u00fanico servidor f\u00edsico.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 8,
+    "question": "\u00bfCu\u00e1l de las siguientes afirmaciones sobre la computaci\u00f3n en la nube es correcta?",
+    "options": [
+      {
+        "text": "Los usuarios deben gestionar la infraestructura subyacente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Los servicios en la nube no permiten la colaboraci\u00f3n en tiempo real.",
+        "isCorrect": false
+      },
+      {
+        "text": "La computaci\u00f3n en la nube siempre requiere un servidor local para funcionar.",
+        "isCorrect": false
+      },
+      {
+        "text": "La computaci\u00f3n en la nube elimina la necesidad de instalar aplicaciones en dispositivos locales.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 9,
+    "question": "\u00bfQu\u00e9 tipo de hosting ofrece recursos dedicados y mayor control del servidor sin el costo de un servidor f\u00edsico completo?",
+    "options": [
+      {
+        "text": "Hosting VPS (servidor virtual privado).",
+        "isCorrect": true
+      },
+      {
+        "text": "Hosting compartido.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hosting dedicado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hosting reseller.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 10,
+    "question": "\u00bfCu\u00e1l de las siguientes es una caracter\u00edstica importante de los servidores web modernos?",
+    "options": [
+      {
+        "text": "Gestionar bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proporcionar acceso remoto seguro a trav\u00e9s de SSH.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manejar grandes cantidades de tr\u00e1fico simult\u00e1neo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Almacenar archivos de sistema cr\u00edticos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 11,
+    "question": "\u00bfCu\u00e1l de las siguientes es una funci\u00f3n principal de un servidor web?",
+    "options": [
+      {
+        "text": "Proteger las conexiones de red.",
+        "isCorrect": false
+      },
+      {
+        "text": "Servir contenido est\u00e1tico a los clientes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Almacenar bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ejecutar scripts de servidor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 12,
+    "question": "\u00bfQu\u00e9 tipo de recurso es un archivo HTML en una aplicaci\u00f3n web?",
+    "options": [
+      {
+        "text": "Recurso est\u00e1tico.",
+        "isCorrect": true
+      },
+      {
+        "text": "Recurso din\u00e1mico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Recurso multimedia.",
+        "isCorrect": false
+      },
+      {
+        "text": "Recurso de red.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 13,
+    "question": "\u00bfQu\u00e9 tipo de recurso es una hoja de estilo CSS en una aplicaci\u00f3n web?",
+    "options": [
+      {
+        "text": "Recurso est\u00e1tico.",
+        "isCorrect": true
+      },
+      {
+        "text": "Recurso din\u00e1mico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Recurso de bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Recurso de red.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 14,
+    "question": "\u00bfCu\u00e1l es una ventaja clave de utilizar Nginx en comparaci\u00f3n con otros servidores web?",
+    "options": [
+      {
+        "text": "Es m\u00e1s f\u00e1cil de configurar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Maneja conexiones simult\u00e1neas de manera m\u00e1s eficiente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ofrece mayor compatibilidad con PHP .",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiene mejor integraci\u00f3n con sistemas Windows.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 15,
+    "question": "\u00bfCu\u00e1l es la funci\u00f3n de los archivos JavaScript en una aplicaci\u00f3n web?",
+    "options": [
+      {
+        "text": "A\u00f1adir interactividad a las p\u00e1ginas web.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aplicar estilos a las p\u00e1ginas web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacenar datos de la aplicaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Configurar el servidor web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 16,
+    "question": "\u00bfCu\u00e1l es el formato est\u00e1ndar utilizado para empaquetar aplicaciones web en Java?",
+    "options": [
+      {
+        "text": "ZIP .",
+        "isCorrect": false
+      },
+      {
+        "text": "JAR.",
+        "isCorrect": false
+      },
+      {
+        "text": "EAR.",
+        "isCorrect": false
+      },
+      {
+        "text": "WAR.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 17,
+    "question": "\u00bfPara qu\u00e9 tipo de aplicaciones est\u00e1 dise\u00f1ado principalmente Apache Tomcat?",
+    "options": [
+      {
+        "text": "Aplicaciones de escritorio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aplicaciones web basadas en Java.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aplicaciones m\u00f3viles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Juegos en l\u00ednea.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 18,
+    "question": "\u00bfQu\u00e9 tipo de servidor es Nginx?",
+    "options": [
+      {
+        "text": "Servidor de bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Servidor de aplicaciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Servidor web y proxy inverso.",
+        "isCorrect": true
+      },
+      {
+        "text": "Servidor de archivos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 19,
+    "question": "\u00bfQu\u00e9 informaci\u00f3n se puede encontrar t\u00edpicamente en un descriptor de despliegue?",
+    "options": [
+      {
+        "text": "C\u00f3digo fuente de la aplicaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Configuraciones del sistema operativo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mapeo de URL a servlets.",
+        "isCorrect": true
+      },
+      {
+        "text": "Estad\u00edsticas de rendimiento de la aplicaci\u00f3n.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 20,
+    "question": "\u00bfQu\u00e9 funci\u00f3n tiene el m\u00e9todo HTTP GET?",
+    "options": [
+      {
+        "text": "Solicitar un recurso sin modificarlo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Enviar datos al servidor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminar un recurso en el servidor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear un nuevo recurso en el servidor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 21,
+    "question": "\u00bfCu\u00e1l de los siguientes tipos de host virtual requiere que cada sitio web tenga una direcci\u00f3n IP \u00fanica?",
+    "options": [
+      {
+        "text": "Host virtual basado en nombre.",
+        "isCorrect": false
+      },
+      {
+        "text": "Host virtual basado en directorio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Host virtual basado en puerto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Host virtual basado en IP .",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 22,
+    "question": "\u00bfQu\u00e9 caracter\u00edstica principal diferencia HTTPS de HTTP?",
+    "options": [
+      {
+        "text": "HTTPS cifra las comunicaciones.",
+        "isCorrect": true
+      },
+      {
+        "text": "HTTPS es m\u00e1s r\u00e1pido.",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTPS es sin estado.",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTPS es un protocolo de transferencia de archivos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 23,
+    "question": "\u00bfCu\u00e1l de las siguientes afirmaciones es verdadera sobre el protocolo SSH?",
+    "options": [
+      {
+        "text": "SSH no cifra las comunicaciones por defecto.",
+        "isCorrect": false
+      },
+      {
+        "text": "SSH utiliza la autenticaci\u00f3n basada en claves p\u00fablicas.",
+        "isCorrect": true
+      },
+      {
+        "text": "SSH es menos seguro que Telnet.",
+        "isCorrect": false
+      },
+      {
+        "text": "SSH no permite la transferencia de archivos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 24,
+    "question": "\u00bfQu\u00e9 c\u00f3digo de estado HTTP indica que el recurso solicitado no se encuentra en el servidor?",
+    "options": [
+      {
+        "text": "200 OK.",
+        "isCorrect": false
+      },
+      {
+        "text": "401 Unauthorized.",
+        "isCorrect": false
+      },
+      {
+        "text": "404 Not Found.",
+        "isCorrect": true
+      },
+      {
+        "text": "500 Internal Server Error.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 25,
+    "question": "\u00bfCu\u00e1l es la principal ventaja de utilizar hosts virtuales basados en nombre en un servidor web?",
+    "options": [
+      {
+        "text": "Permite que varios servidores f\u00edsicos compartan un solo sitio web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permite que varios dominios compartan la misma direcci\u00f3n IP .",
+        "isCorrect": true
+      },
+      {
+        "text": "Facilita la configuraci\u00f3n de m\u00faltiples direcciones IP para un solo dominio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumenta la seguridad al encriptar las conexiones entre servidores.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 26,
+    "question": "\u00bfQu\u00e9 m\u00e9todo HTTP se utiliza para actualizar un recurso existente o crear uno nuevo si no existe?",
+    "options": [
+      {
+        "text": "DELETE.",
+        "isCorrect": false
+      },
+      {
+        "text": "GET.",
+        "isCorrect": false
+      },
+      {
+        "text": "POST.",
+        "isCorrect": false
+      },
+      {
+        "text": "PUT.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 27,
+    "question": ". \u00bfCu\u00e1l es una de las funciones principales del m\u00e9todo HTTP DELETE?",
+    "options": [
+      {
+        "text": "Solicitar un recurso sin modificarlo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Enviar datos al servidor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminar un recurso en el servidor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Actualizar un recurso existente en el servidor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 28,
+    "question": "\u00bfQu\u00e9 ventaja tiene HTTPS sobre HTTP , en t\u00e9rminos de seguridad?",
+    "options": [
+      {
+        "text": "HTTPS es m\u00e1s r\u00e1pido que HTTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTPS no requiere autenticaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTPS utiliza cifrado para proteger los datos en tr\u00e1nsito.",
+        "isCorrect": true
+      },
+      {
+        "text": "HTTPS utiliza el protocolo SSH.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 29,
+    "question": "\u00bfQu\u00e9 c\u00f3digo de estado HTTP indica que la solicitud no pudo ser entendida por el servidor debido a una sintaxis incorrecta?",
+    "options": [
+      {
+        "text": "401 Unauthorized.",
+        "isCorrect": false
+      },
+      {
+        "text": "400 Bad Request.",
+        "isCorrect": true
+      },
+      {
+        "text": "403 Forbidden.",
+        "isCorrect": false
+      },
+      {
+        "text": "500 Internal Server Error.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 30,
+    "question": "\u00bfCu\u00e1l de las siguientes tecnolog\u00edas se puede integrar con Tomcat para mejorar la seguridad y el rendimiento de las aplicaciones web?",
+    "options": [
+      {
+        "text": "Nginx.",
+        "isCorrect": true
+      },
+      {
+        "text": "MySQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "Docker.",
+        "isCorrect": false
+      },
+      {
+        "text": "Redis.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 31,
+    "question": "\u00bfQu\u00e9 funci\u00f3n es esencial en un servidor de aplicaciones para manejar operaciones de base de datos de manera confiable?",
+    "options": [
+      {
+        "text": "Gesti\u00f3n de sesiones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Integraci\u00f3n con servicios externos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manejo de transacciones.",
+        "isCorrect": true
+      },
+      {
+        "text": "Seguridad.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 32,
+    "question": "\u00bfCu\u00e1l de las siguientes tareas se realiza t\u00edpicamente en el archivo context.xml de Tomcat?",
+    "options": [
+      {
+        "text": "Configuraci\u00f3n del firewall.",
+        "isCorrect": false
+      },
+      {
+        "text": "Definici\u00f3n de par\u00e1metros espec\u00edficos de la aplicaci\u00f3n.",
+        "isCorrect": true
+      },
+      {
+        "text": "Configuraci\u00f3n del puerto HTTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesti\u00f3n de roles y usuarios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 33,
+    "question": "\u00bfQu\u00e9 comando se utiliza para iniciar el servicio Tomcat despu\u00e9s de su configuraci\u00f3n en Ubuntu?",
+    "options": [
+      {
+        "text": "sudo apt update",
+        "isCorrect": false
+      },
+      {
+        "text": "sudo nginx t",
+        "isCorrect": false
+      },
+      {
+        "text": "sudo systemctl daemonreload",
+        "isCorrect": false
+      },
+      {
+        "text": "sudo systemctl start tomcat",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 34,
+    "question": "\u00bfQu\u00e9 archivo en Tomcat se utiliza para definir el puerto en el que escucha el servidor?",
+    "options": [
+      {
+        "text": "tomcatusers.xml",
+        "isCorrect": false
+      },
+      {
+        "text": "server.xml",
+        "isCorrect": true
+      },
+      {
+        "text": "context.xml",
+        "isCorrect": false
+      },
+      {
+        "text": "web.xml",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 35,
+    "question": "\u00bfCu\u00e1l es la utilidad del comando sudo ufw allow 8080/tcp en la instalaci\u00f3n de Tomcat?",
+    "options": [
+      {
+        "text": "Iniciar Tomcat autom\u00e1ticamente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permitir tr\u00e1fico a trav\u00e9s del puerto 8080.",
+        "isCorrect": true
+      },
+      {
+        "text": "Verificar la versi\u00f3n de Java instalada.",
+        "isCorrect": false
+      },
+      {
+        "text": "Configurar usuarios de Tomcat.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 36,
+    "question": "\u00bfCu\u00e1l de las siguientes es una caracter\u00edstica principal de Apache Tomcat?",
+    "options": [
+      {
+        "text": "Soporte nativo para PHP .",
+        "isCorrect": false
+      },
+      {
+        "text": "Compatibilidad con Java Servlet y JSP .",
+        "isCorrect": true
+      },
+      {
+        "text": "Implementaci\u00f3n de ASP .NET.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesti\u00f3n de bases de datos NoSQL.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 37,
+    "question": "\u00bfQu\u00e9 especificaci\u00f3n adicional puede ser soportada por Tomcat mediante la extensi\u00f3n con otros componentes?",
+    "options": [
+      {
+        "text": "Ruby on Rails.",
+        "isCorrect": false
+      },
+      {
+        "text": "JPA (Java Persistence API).",
+        "isCorrect": true
+      },
+      {
+        "text": "ASP .NET.",
+        "isCorrect": false
+      },
+      {
+        "text": "Django.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 38,
+    "question": "\u00bfCu\u00e1l es el prop\u00f3sito de crear un archivo de servicio systemd para Tomcat en un servidor Ubuntu?",
+    "options": [
+      {
+        "text": "Mejorar la velocidad de arranque del servidor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Administrar Tomcat como un servicio del sistema.",
+        "isCorrect": true
+      },
+      {
+        "text": "Configurar las bases de datos para Tomcat.",
+        "isCorrect": false
+      },
+      {
+        "text": "Monitorear el tr\u00e1fico de red.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 39,
+    "question": "\u00bfCu\u00e1l es la principal diferencia entre un servidor de aplicaciones y un servidor web?",
+    "options": [
+      {
+        "text": "Un servidor de aplicaciones maneja contenido est\u00e1tico, mientras que un servidor web maneja l\u00f3gica de negocio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un servidor de aplicaciones maneja la l\u00f3gica din\u00e1mica de las aplicaciones, mientras que un servidor web se encarga de servir contenido est\u00e1tico.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un servidor de aplicaciones solo gestiona bases de datos, mientras que un servidor web maneja la interfaz de usuario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un servidor web no puede gestionar solicitudes HTTP , mientras que un servidor de aplicaciones s\u00ed.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 40,
+    "question": "\u00bfCu\u00e1l es el prop\u00f3sito de un archivo de zona en DNS?",
+    "options": [
+      {
+        "text": "Almacenar la cach\u00e9 de direcciones IP .",
+        "isCorrect": false
+      },
+      {
+        "text": "Reenviar consultas a otros servidores DNS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Contener los registros de recursos para una zona espec\u00edfica.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gestionar la asignaci\u00f3n de direcciones IP din\u00e1micas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 41,
+    "question": "\u00bfQu\u00e9 funci\u00f3n tiene un servidor DNS ra\u00edz?",
+    "options": [
+      {
+        "text": "Actuar como el punto de partida para la resoluci\u00f3n de nombres de dominio.",
+        "isCorrect": true
+      },
+      {
+        "text": "Almacenar toda la informaci\u00f3n de nombres de dominio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gestionar la cach\u00e9 de nombres de dominio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Delegar la gesti\u00f3n de nombres a servidores secundarios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 42,
+    "question": "\u00bfQu\u00e9 herramienta se utiliza para capturar y analizar el tr\u00e1fico DNS en tiempo real?",
+    "options": [
+      {
+        "text": "`nslookup`",
+        "isCorrect": false
+      },
+      {
+        "text": "Wireshark",
+        "isCorrect": false
+      },
+      {
+        "text": "DNSQuerySniffer",
+        "isCorrect": true
+      },
+      {
+        "text": "`dig`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 43,
+    "question": "\u00bfQu\u00e9 herramienta de l\u00ednea de comandos se utiliza para realizar consultas DNS avanzadas y proporciona una salida detallada?",
+    "options": [
+      {
+        "text": "`nslookup`",
+        "isCorrect": false
+      },
+      {
+        "text": "`dig`",
+        "isCorrect": true
+      },
+      {
+        "text": "`host`",
+        "isCorrect": false
+      },
+      {
+        "text": "`whois`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 44,
+    "question": "\u00bfQu\u00e9 caracter\u00edstica distingue a un sistema de nombres plano?",
+    "options": [
+      {
+        "text": "Estructura jer\u00e1rquica organizada en niveles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Resoluci\u00f3n distribuida de nombres.",
+        "isCorrect": false
+      },
+      {
+        "text": "Delegaci\u00f3n de autoridad en diferentes entidades.",
+        "isCorrect": false
+      },
+      {
+        "text": "Unicidad global de nombres dentro del sistema.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 45,
+    "question": "\u00bfQu\u00e9 herramienta se utiliza com\u00fanmente para realizar b\u00fasquedas de registros de dominio y obtener informaci\u00f3n de contacto del registrante?",
+    "options": [
+      {
+        "text": "nslookup",
+        "isCorrect": false
+      },
+      {
+        "text": "host",
+        "isCorrect": false
+      },
+      {
+        "text": "dig",
+        "isCorrect": false
+      },
+      {
+        "text": "whois",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 46,
+    "question": "\u00bfQu\u00e9 tipo de consulta DNS traduce una direcci\u00f3n IP en un nombre de dominio?",
+    "options": [
+      {
+        "text": "Consulta recursiva.",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulta iterativa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulta no recursiva.",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulta inversa.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 47,
+    "question": "\u00bfQu\u00e9 caracter\u00edstica distingue a un FQDN en la estructura DNS?",
+    "options": [
+      {
+        "text": "Incluye todos los niveles de dominio necesarios para localizar un recurso espec\u00edfico.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo incluye el nombre del host y el dominio de segundo nivel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es exclusivo de redes internas y no es accesible p\u00fablicamente.",
+        "isCorrect": false
+      },
+      {
+        "text": "No requiere de un dominio de nivel superior.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 48,
+    "question": "\u00bfQu\u00e9 tipo de consulta DNS requiere que el servidor DNS complete la resoluci\u00f3n sin delegar la responsabilidad al cliente?",
+    "options": [
+      {
+        "text": "Consulta recursiva.",
+        "isCorrect": true
+      },
+      {
+        "text": "Consulta iterativa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulta inversa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulta no recursiva.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 49,
+    "question": "\u00bfCu\u00e1l es un beneficio clave de utilizar un sistema de nombres jer\u00e1rquico como DNS en el despliegue de aplicaciones web?",
+    "options": [
+      {
+        "text": "Reduce el tr\u00e1fico de red al m\u00ednimo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permite una mayor escalabilidad y flexibilidad en la gesti\u00f3n de nombres de dominio.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elimina la necesidad de servidores de nombres secundarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proporciona direcciones IP din\u00e1micas autom\u00e1ticamente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 50,
+    "question": "\u00bfQu\u00e9 puerto se utiliza por defecto para el canal de control en FTP?",
+    "options": [
+      {
+        "text": "21.",
+        "isCorrect": true
+      },
+      {
+        "text": "22.",
+        "isCorrect": false
+      },
+      {
+        "text": "80.",
+        "isCorrect": false
+      },
+      {
+        "text": "443.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 51,
+    "question": "\u00bfCu\u00e1l de los siguientes es un protocolo de transferencia de archivos que no utiliza cifrado por defecto?",
+    "options": [
+      {
+        "text": "SFTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "FTPS.",
+        "isCorrect": false
+      },
+      {
+        "text": "FTP .",
+        "isCorrect": true
+      },
+      {
+        "text": "HTTPS.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 52,
+    "question": "\u00bfQu\u00e9 comando FTP se usa para cambiar el directorio en el servidor?",
+    "options": [
+      {
+        "text": "PWD.",
+        "isCorrect": false
+      },
+      {
+        "text": "LIST.",
+        "isCorrect": false
+      },
+      {
+        "text": "CWD.",
+        "isCorrect": true
+      },
+      {
+        "text": "STOR.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 53,
+    "question": "\u00bfQu\u00e9 herramienta permite a los administradores monitorear las actividades en un servidor FTP?",
+    "options": [
+      {
+        "text": "Logging.",
+        "isCorrect": true
+      },
+      {
+        "text": "LIST.",
+        "isCorrect": false
+      },
+      {
+        "text": "VPN.",
+        "isCorrect": false
+      },
+      {
+        "text": "Noop.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 54,
+    "question": "\u00bfQu\u00e9 operaci\u00f3n realiza el comando RETR en FTP?",
+    "options": [
+      {
+        "text": "Cambia el nombre de un archivo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crea un directorio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Descarga un archivo del servidor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sube un archivo al servidor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 55,
+    "question": "\u00bfQu\u00e9 puerto utiliza SFTP por defecto?",
+    "options": [
+      {
+        "text": "20.",
+        "isCorrect": false
+      },
+      {
+        "text": "22.",
+        "isCorrect": true
+      },
+      {
+        "text": "21.",
+        "isCorrect": false
+      },
+      {
+        "text": "80.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 56,
+    "question": "\u00bfCu\u00e1l es el prop\u00f3sito del comando FTP STOR?",
+    "options": [
+      {
+        "text": "Subir un archivo al servidor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Descargar un archivo del servidor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cambiar el directorio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminar un archivo del servidor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 57,
+    "question": "\u00bfQu\u00e9 protocolo usa SSL/TLS para garantizar la seguridad durante la transferencia de archivos?",
+    "options": [
+      {
+        "text": "SFTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "FTPS.",
+        "isCorrect": true
+      },
+      {
+        "text": "SMTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "IMAP .",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 58,
+    "question": "\u00bfQu\u00e9 tipo de cifrado utiliza SFTP para asegurar las transferencias de archivos?",
+    "options": [
+      {
+        "text": "SSL.",
+        "isCorrect": false
+      },
+      {
+        "text": "TLS.",
+        "isCorrect": false
+      },
+      {
+        "text": "SSH.",
+        "isCorrect": true
+      },
+      {
+        "text": "AES.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 59,
+    "question": "\u00bfQu\u00e9 puerto utiliza el canal de datos en modo activo de FTP?",
+    "options": [
+      {
+        "text": "20.",
+        "isCorrect": true
+      },
+      {
+        "text": "21.",
+        "isCorrect": false
+      },
+      {
+        "text": "22.",
+        "isCorrect": false
+      },
+      {
+        "text": "80.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 60,
+    "question": "\u00bfQu\u00e9 recurso de red se puede gestionar a trav\u00e9s de LDAP?",
+    "options": [
+      {
+        "text": "Solo bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo servidores de impresi\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo aplicaciones web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Servidores de archivos, aplicaciones web, servidores de impresi\u00f3n y bases de datos.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 61,
+    "question": "\u00bfPara qu\u00e9 se utiliza principalmente LDAP en una red local?",
+    "options": [
+      {
+        "text": "Autenticaci\u00f3n y autorizaci\u00f3n de usuarios y dispositivos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Transferencia de archivos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Configuraci\u00f3n de routers y switches.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cifrado de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 62,
+    "question": "\u00bfQu\u00e9 es LDAP?",
+    "options": [
+      {
+        "text": "Un protocolo para transmisi\u00f3n de archivos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un protocolo para acceder a servicios de directorio.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un tipo de base de datos relacional.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un sistema operativo de red.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 63,
+    "question": "\u00bfQu\u00e9 protocolo puede trabajar junto a LDAP para mejorar la seguridad de la autenticaci\u00f3n?",
+    "options": [
+      {
+        "text": "SSL/TLS.",
+        "isCorrect": true
+      },
+      {
+        "text": "SMTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "FTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "DHCP .",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 64,
+    "question": "\u00bfQu\u00e9 es el control de acceso basado en roles (RBAC)?",
+    "options": [
+      {
+        "text": "Un tipo de conexi\u00f3n a bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un sistema donde los permisos de acceso se otorgan en funci\u00f3n de los roles de los usuarios.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un protocolo de seguridad de red.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un mecanismo para transferir archivos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 65,
+    "question": "\u00bfQu\u00e9 tipo de informaci\u00f3n puede almacenar LDAP?",
+    "options": [
+      {
+        "text": "Solo credenciales de usuario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Credenciales de usuario, dispositivos y recursos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo dispositivos conectados.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo pol\u00edticas de seguridad.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 66,
+    "question": "\u00bfCu\u00e1l de las siguientes afirmaciones es verdadera sobre LDAP?",
+    "options": [
+      {
+        "text": "LDAP funciona \u00fanicamente con sistemas Windows.",
+        "isCorrect": false
+      },
+      {
+        "text": "LDAP no se puede utilizar para autenticaci\u00f3n de usuarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "LDAP es un protocolo de acceso a bases de datos relacionales.",
+        "isCorrect": false
+      },
+      {
+        "text": "LDAP es compatible con diferentes sistemas operativos, como Windows, Linux y Unix.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 67,
+    "question": "\u00bfC\u00f3mo se identifica una entrada en un servidor LDAP?",
+    "options": [
+      {
+        "text": "Por su direcci\u00f3n IP .",
+        "isCorrect": false
+      },
+      {
+        "text": "Por un ID de sesi\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Por un DN (distinguished name).",
+        "isCorrect": true
+      },
+      {
+        "text": "Por un archivo de configuraci\u00f3n.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 68,
+    "question": "\u00bfC\u00f3mo mejora LDAP la seguridad de la red?",
+    "options": [
+      {
+        "text": "Centralizando la autenticaci\u00f3n y autorizaci\u00f3n de usuarios.",
+        "isCorrect": true
+      },
+      {
+        "text": "Permitiendo el acceso a todos los dispositivos sin autenticaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bloqueando el tr\u00e1fico de red en todas las subredes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cifrando los correos electr\u00f3nicos enviados en la red.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 69,
+    "question": "\u00bfQu\u00e9 es OpenLDAP?",
+    "options": [
+      {
+        "text": "Una implementaci\u00f3n de c\u00f3digo abierto de LDAP .",
+        "isCorrect": true
+      },
+      {
+        "text": "Un sistema de gesti\u00f3n de bases de datos relacionales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un software para transferencia de archivos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un protocolo para transmisi\u00f3n de v\u00eddeo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 70,
+    "question": "\u00bfQu\u00e9 etiqueta de Javadoc se utiliza para describir un par\u00e1metro en un m\u00e9todo?",
+    "options": [
+      {
+        "text": "`@param`",
+        "isCorrect": true
+      },
+      {
+        "text": "`@return`",
+        "isCorrect": false
+      },
+      {
+        "text": "`@method`",
+        "isCorrect": false
+      },
+      {
+        "text": "`@version`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 71,
+    "question": "\u00bfQu\u00e9 comando permite fusionar dos ramas en Git?",
+    "options": [
+      {
+        "text": "`git add`",
+        "isCorrect": false
+      },
+      {
+        "text": "`git checkout`",
+        "isCorrect": false
+      },
+      {
+        "text": "`git log`",
+        "isCorrect": false
+      },
+      {
+        "text": "`git merge`",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 72,
+    "question": "\u00bfQu\u00e9 es un branch en Git?",
+    "options": [
+      {
+        "text": "Una versi\u00f3n final del c\u00f3digo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una funci\u00f3n externa a Git.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una l\u00ednea separada de desarrollo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un sistema de backup autom\u00e1tico.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 73,
+    "question": "\u00bfQu\u00e9 comando se utiliza para agregar un archivo al \u00e1rea de preparaci\u00f3n?",
+    "options": [
+      {
+        "text": "`git add`",
+        "isCorrect": true
+      },
+      {
+        "text": "`git commit`",
+        "isCorrect": false
+      },
+      {
+        "text": "`git push`",
+        "isCorrect": false
+      },
+      {
+        "text": "`git pull`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 74,
+    "question": "\u00bfQu\u00e9 archivo de configuraci\u00f3n guarda los ajustes globales de Git como el nombre de usuario y el correo electr\u00f3nico?",
+    "options": [
+      {
+        "text": "`.gitconfig`",
+        "isCorrect": true
+      },
+      {
+        "text": "`README.md`",
+        "isCorrect": false
+      },
+      {
+        "text": "`index.html`",
+        "isCorrect": false
+      },
+      {
+        "text": "`config.json`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 75,
+    "question": "\u00bfQu\u00e9 sistema de control de versiones es centralizado?",
+    "options": [
+      {
+        "text": "Git.",
+        "isCorrect": false
+      },
+      {
+        "text": "Subversion.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mercurial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Perforce.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 76,
+    "question": "\u00bfQu\u00e9 hace el comando `git status`?",
+    "options": [
+      {
+        "text": "Crea un nuevo repositorio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Guarda los cambios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimina una rama.",
+        "isCorrect": false
+      },
+      {
+        "text": "Muestra el estado actual del repositorio.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 77,
+    "question": "\u00bfCu\u00e1l es el prop\u00f3sito del comando `git pull`?",
+    "options": [
+      {
+        "text": "Crear una nueva rama.",
+        "isCorrect": false
+      },
+      {
+        "text": "Guardar los cambios locales en el servidor remoto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Actualizar el repositorio local con los cambios del remoto.",
+        "isCorrect": true
+      },
+      {
+        "text": "Crear un commit.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 78,
+    "question": "\u00bfQu\u00e9 hace el comando `git add`?",
+    "options": [
+      {
+        "text": "Guarda los cambios en el repositorio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crea un nuevo repositorio.",
+        "isCorrect": false
+      },
+      {
+        "text": "A\u00f1ade cambios al \u00e1rea de preparaci\u00f3n (staging area).",
+        "isCorrect": true
+      },
+      {
+        "text": "Muestra el historial de commits.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 79,
+    "question": "\u00bfQu\u00e9 es GitHub?",
+    "options": [
+      {
+        "text": "Un sistema operativo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un editor de texto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un servidor para aplicaciones Java.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una plataforma basada en Git para alojar repositorios y colaborar en proyectos.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 80,
+    "question": "\u00bfQu\u00e9 hace el comando `docker-compose up`?",
+    "options": [
+      {
+        "text": "Detiene todos los servicios definidos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Levanta y ejecuta todos los servicios definidos en el archivo `docker - compose.yml`.",
+        "isCorrect": true
+      },
+      {
+        "text": "Muestra la configuraci\u00f3n de los servicios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimina todos los servicios activos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 81,
+    "question": "\u00bfQu\u00e9 significa el comando `docker run -d`?",
+    "options": [
+      {
+        "text": "Ejecuta el contenedor en segundo plano.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ejecuta el contenedor y muestra el log de errores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimina el contenedor despu\u00e9s de su ejecuci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Muestra los detalles del contenedor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 82,
+    "question": "\u00bfQu\u00e9 comando se utiliza para crear una imagen Docker a partir de un Dockerfile?",
+    "options": [
+      {
+        "text": "`docker run`",
+        "isCorrect": false
+      },
+      {
+        "text": "`docker pull`",
+        "isCorrect": false
+      },
+      {
+        "text": "`docker push`",
+        "isCorrect": false
+      },
+      {
+        "text": "`docker build`",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 83,
+    "question": "\u00bfQu\u00e9 significa el comando `docker volume`?",
+    "options": [
+      {
+        "text": "Inicia un contenedor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gestiona vol\u00famenes de datos en Docker.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reinicia una red de Docker.",
+        "isCorrect": false
+      },
+      {
+        "text": "Detiene un contenedor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 84,
+    "question": "\u00bfQu\u00e9 comando se utiliza para iniciar un contenedor que ya ha sido creado, pero est\u00e1 detenido?",
+    "options": [
+      {
+        "text": "`docker run`",
+        "isCorrect": false
+      },
+      {
+        "text": "`docker pull`",
+        "isCorrect": false
+      },
+      {
+        "text": "`docker start`",
+        "isCorrect": true
+      },
+      {
+        "text": "`docker init`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 85,
+    "question": "\u00bfCu\u00e1l de los siguientes no es un comando de Docker?",
+    "options": [
+      {
+        "text": "`docker ps`",
+        "isCorrect": false
+      },
+      {
+        "text": "`docker ls`",
+        "isCorrect": true
+      },
+      {
+        "text": "`docker run`",
+        "isCorrect": false
+      },
+      {
+        "text": "`docker images`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 86,
+    "question": "\u00bfQu\u00e9 es una imagen en Docker?",
+    "options": [
+      {
+        "text": "Un archivo de configuraci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una plantilla inmutable que contiene todo lo necesario para ejecutar una aplicaci\u00f3n.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un archivo que define las dependencias de una aplicaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una instant\u00e1nea de un contenedor en ejecuci\u00f3n.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 87,
+    "question": "\u00bfCu\u00e1l es el prop\u00f3sito del comando `docker logs`?",
+    "options": [
+      {
+        "text": "Mostrar los registros de un contenedor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mostrar las im\u00e1genes almacenadas localmente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mostrar los contenedores detenidos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reiniciar el contenedor y guardar los registros.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 88,
+    "question": "\u00bfQu\u00e9 opci\u00f3n se usa para eliminar un contenedor inmediatamente despu\u00e9s de su ejecuci\u00f3n?",
+    "options": [
+      {
+        "text": "`--rm`",
+        "isCorrect": true
+      },
+      {
+        "text": "`--delete`",
+        "isCorrect": false
+      },
+      {
+        "text": "`--clean`",
+        "isCorrect": false
+      },
+      {
+        "text": "`--purge`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 89,
+    "question": "\u00bfQu\u00e9 hace el comando `docker exec`?",
+    "options": [
+      {
+        "text": "Elimina un contenedor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ejecuta un comando en un contenedor en ejecuci\u00f3n.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reinicia un contenedor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Lista las im\u00e1genes del sistema.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 90,
+    "question": "\u00bfCu\u00e1l es una ventaja de usar GitHub Actions para CI/CD?",
+    "options": [
+      {
+        "text": "Se requiere mucha intervenci\u00f3n manual.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es costoso.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo funciona en sistemas Windows.",
+        "isCorrect": false
+      },
+      {
+        "text": "Est\u00e1 completamente integrado con GitHub.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 91,
+    "question": "\u00bfQu\u00e9 herramienta es com\u00fanmente utilizada para analizar la calidad del c\u00f3digo en CI?",
+    "options": [
+      {
+        "text": "Excel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Maven.",
+        "isCorrect": false
+      },
+      {
+        "text": "CircleCI.",
+        "isCorrect": false
+      },
+      {
+        "text": "SonarQube.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 92,
+    "question": "\u00bfCu\u00e1l es uno de los eventos que pueden activar un flujo de trabajo en GitHub Actions?",
+    "options": [
+      {
+        "text": "push.",
+        "isCorrect": true
+      },
+      {
+        "text": "fork.",
+        "isCorrect": false
+      },
+      {
+        "text": "tag.",
+        "isCorrect": false
+      },
+      {
+        "text": "rollback.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 93,
+    "question": "\u00bfQu\u00e9 comando ejecuta pruebas en un proyecto Java usando Maven?",
+    "options": [
+      {
+        "text": "npm test",
+        "isCorrect": false
+      },
+      {
+        "text": "run test",
+        "isCorrect": false
+      },
+      {
+        "text": "execute tests",
+        "isCorrect": false
+      },
+      {
+        "text": "mvn test",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 94,
+    "question": "\u00bfCu\u00e1l es uno de los beneficios principales de la integraci\u00f3n continua?",
+    "options": [
+      {
+        "text": "Aumentar la carga de trabajo manual.",
+        "isCorrect": false
+      },
+      {
+        "text": "Detectar errores solo al final del proyecto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Detectar errores tempranos en el ciclo de desarrollo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reducir la colaboraci\u00f3n en el equipo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 95,
+    "question": "\u00bfCu\u00e1l de las siguientes no es una caracter\u00edstica de GitHub Actions?",
+    "options": [
+      {
+        "text": "Ejecuciones paralelas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Triggers por eventos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Marketplace de acciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Despliegues manuales obligatorios.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 96,
+    "question": "\u00bfQu\u00e9 herramienta es un ejemplo de plataforma de CI/CD en la nube?",
+    "options": [
+      {
+        "text": "GitHub Actions.",
+        "isCorrect": true
+      },
+      {
+        "text": "Jenkins.",
+        "isCorrect": false
+      },
+      {
+        "text": "SonarQube.",
+        "isCorrect": false
+      },
+      {
+        "text": "AWS CodePipeline.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 97,
+    "question": "\u00bfQu\u00e9 herramienta es conocida por su flexibilidad y popularidad en CI?",
+    "options": [
+      {
+        "text": "Travis CI.",
+        "isCorrect": false
+      },
+      {
+        "text": "GitHub Actions.",
+        "isCorrect": false
+      },
+      {
+        "text": "CircleCI.",
+        "isCorrect": false
+      },
+      {
+        "text": "Jenkins.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 98,
+    "question": "\u00bfCu\u00e1l de las siguientes opciones describe un pipeline de CI?",
+    "options": [
+      {
+        "text": "Un proceso de verificaci\u00f3n manual.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un conjunto automatizado de pruebas y validaciones.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un proceso exclusivo de desarrollo local.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un script que ejecuta tareas de documentaci\u00f3n.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 99,
+    "question": "\u00bfQu\u00e9 tipo de pruebas se ejecutan t\u00edpicamente en un pipeline de CI?",
+    "options": [
+      {
+        "text": "Unitarias e integraci\u00f3n.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo manuales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo de seguridad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pruebas visuales.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 100,
+    "question": "\u00bfCu\u00e1l de las siguientes capas se encarga de mostrar la interfaz de usuario y recoger la interacci\u00f3n del usuario?",
+    "options": [
+      {
+        "text": "Capa de acceso a datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Capa de l\u00f3gica de negocio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Capa de presentaci\u00f3n.",
+        "isCorrect": true
+      },
+      {
+        "text": "Capa de infraestructura.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 101,
+    "question": "\u00bfQu\u00e9 tipo de servidor se encarga de ejecutar la l\u00f3gica de negocio de una aplicaci\u00f3n web?",
+    "options": [
+      {
+        "text": "Servidor de aplicaciones.",
+        "isCorrect": true
+      },
+      {
+        "text": "Servidor de cach\u00e9.",
+        "isCorrect": false
+      },
+      {
+        "text": "Servidor DNS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Servidor proxy.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 102,
+    "question": "\u00bfQu\u00e9 formato de archivo se utiliza para empaquetar aplicaciones web Java para su despliegue?",
+    "options": [
+      {
+        "text": ".war",
+        "isCorrect": true
+      },
+      {
+        "text": ".zip",
+        "isCorrect": false
+      },
+      {
+        "text": ".jsp",
+        "isCorrect": false
+      },
+      {
+        "text": ".class",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 103,
+    "question": "\u00bfCu\u00e1l de los siguientes elementos permite identificar un recurso de red a partir de una direcci\u00f3n IP?",
+    "options": [
+      {
+        "text": "Registro MX.",
+        "isCorrect": false
+      },
+      {
+        "text": "Registro A.",
+        "isCorrect": false
+      },
+      {
+        "text": "Registro CNAME.",
+        "isCorrect": false
+      },
+      {
+        "text": "Registro PTR.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 104,
+    "question": "\u00bfQu\u00e9 caracter\u00edstica de los sistemas distribuidos permite aumentar el n\u00famero de nodos sin afectar al sistema existente?",
+    "options": [
+      {
+        "text": "Escalabilidad vertical.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alta disponibilidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Escalabilidad horizontal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Portabilidad.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 105,
+    "question": "\u00bfQu\u00e9 componente en Nginx se utiliza para distribuir la carga entre varios servidores de aplicaciones?",
+    "options": [
+      {
+        "text": "SSL Handler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Certificado TLS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cache Handler.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proxy inverso con balanceo de carga.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 106,
+    "question": "\u00bfQu\u00e9 archivo define las rutas, p\u00e1ginas de inicio y controladores de una aplicaci\u00f3n Java EE?",
+    "options": [
+      {
+        "text": "web.xml",
+        "isCorrect": true
+      },
+      {
+        "text": "server.xml",
+        "isCorrect": false
+      },
+      {
+        "text": "catalina.out",
+        "isCorrect": false
+      },
+      {
+        "text": "apache.conf",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 107,
+    "question": "\u00bfQu\u00e9 servicio DNS traduce un nombre como <ejemplo.com> en su direcci\u00f3n IP?",
+    "options": [
+      {
+        "text": "Consulta inversa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Consulta recursiva.",
+        "isCorrect": true
+      },
+      {
+        "text": "Zona PTR.",
+        "isCorrect": false
+      },
+      {
+        "text": "Registro SPF .",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 108,
+    "question": "\u00bfCu\u00e1l es una ventaja del hosting en la nube frente al hosting tradicional?",
+    "options": [
+      {
+        "text": "Escalabilidad y pago por uso.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mayor dependencia del hardware.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesti\u00f3n centralizada del software.",
+        "isCorrect": false
+      },
+      {
+        "text": "Menor disponibilidad.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 109,
+    "question": "\u00bfQu\u00e9 protocolo se usa habitualmente para administrar un servidor Linux de forma remota y segura?",
+    "options": [
+      {
+        "text": "HTTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "FTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "Telnet.",
+        "isCorrect": false
+      },
+      {
+        "text": "SSH.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 110,
+    "question": "\u00bfQu\u00e9 archivo contiene las clases Java compiladas de una aplicaci\u00f3n web?",
+    "options": [
+      {
+        "text": "web.xml",
+        "isCorrect": false
+      },
+      {
+        "text": "webapps/ROOT",
+        "isCorrect": false
+      },
+      {
+        "text": "WEB-INF/classes",
+        "isCorrect": true
+      },
+      {
+        "text": "META-INF/manifest",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 111,
+    "question": "\u00bfCu\u00e1l de los siguientes no es un modelo de servicio de cloud computing?",
+    "options": [
+      {
+        "text": "HTTP as a Service.",
+        "isCorrect": true
+      },
+      {
+        "text": "Infrastructure as a Service.",
+        "isCorrect": false
+      },
+      {
+        "text": "Software as a Service.",
+        "isCorrect": false
+      },
+      {
+        "text": "Platform as a Service.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 112,
+    "question": "\u00bfQu\u00e9 hace un archivo CNAME en una zona DNS?",
+    "options": [
+      {
+        "text": "Asocia una IP a un dominio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Define el servidor de correo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crea un alias de otro nombre de dominio.",
+        "isCorrect": true
+      },
+      {
+        "text": "Resuelve una IP inversa.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 113,
+    "question": "\u00bfQu\u00e9 componente de una arquitectura web se comunica directamente con la base de datos?",
+    "options": [
+      {
+        "text": "Capa de presentaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Capa de red.",
+        "isCorrect": false
+      },
+      {
+        "text": "Capa de acceso a datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Servidor proxy.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 114,
+    "question": "\u00bfCu\u00e1l es el nombre completo que identifica un recurso en Internet de forma \u00fanica?",
+    "options": [
+      {
+        "text": "IP .",
+        "isCorrect": false
+      },
+      {
+        "text": "Subdominio.",
+        "isCorrect": false
+      },
+      {
+        "text": "FQDN.",
+        "isCorrect": true
+      },
+      {
+        "text": "URL corta.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 115,
+    "question": "\u00bfQu\u00e9 herramienta permite realizar consultas DNS desde la l\u00ednea de comandos?",
+    "options": [
+      {
+        "text": "ipconfig.",
+        "isCorrect": false
+      },
+      {
+        "text": "netstat.",
+        "isCorrect": false
+      },
+      {
+        "text": "dig.",
+        "isCorrect": true
+      },
+      {
+        "text": "ssh.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 116,
+    "question": "\u00bfCu\u00e1l es la ventaja principal de HTTP/2 respecto a HTTP/1.1?",
+    "options": [
+      {
+        "text": "Multiplexaci\u00f3n de solicitudes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mayor n\u00famero de errores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminaci\u00f3n de cabeceras.",
+        "isCorrect": false
+      },
+      {
+        "text": "Requiere hardware nuevo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 117,
+    "question": "\u00bfQu\u00e9 tipo de host virtual permite m\u00faltiples dominios en una misma IP?",
+    "options": [
+      {
+        "text": "Host IP-based.",
+        "isCorrect": false
+      },
+      {
+        "text": "Host PTR.",
+        "isCorrect": false
+      },
+      {
+        "text": "Host name-based.",
+        "isCorrect": true
+      },
+      {
+        "text": "Host jer\u00e1rquico.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 118,
+    "question": "\u00bfCu\u00e1l es el protocolo seguro usado para cifrar las comunicaciones HTTP?",
+    "options": [
+      {
+        "text": "FTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "SFTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTPS.",
+        "isCorrect": true
+      },
+      {
+        "text": "SSH.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 119,
+    "question": "\u00bfQu\u00e9 significa que HTTP es un protocolo sin estado?",
+    "options": [
+      {
+        "text": "Cada solicitud es independiente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo permite GET.",
+        "isCorrect": false
+      },
+      {
+        "text": "No permite autenticaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Requiere cifrado.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 120,
+    "question": "\u00bfCu\u00e1l de los siguientes no es un servidor de aplicaciones?",
+    "options": [
+      {
+        "text": "Nginx.",
+        "isCorrect": true
+      },
+      {
+        "text": "JBoss.",
+        "isCorrect": false
+      },
+      {
+        "text": "WebLogic.",
+        "isCorrect": false
+      },
+      {
+        "text": "Apache Tomcat.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 121,
+    "question": "\u00bfQu\u00e9 servidor es el m\u00e1s adecuado para servir archivos est\u00e1ticos como HTML y CSS?",
+    "options": [
+      {
+        "text": "Apache HTTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "JBoss.",
+        "isCorrect": false
+      },
+      {
+        "text": "WildFly.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tomcat EE.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 122,
+    "question": "\u00bfQu\u00e9 protocolo permite conexiones cifradas y ejecuci\u00f3n remota de comandos en Linux?",
+    "options": [
+      {
+        "text": "DNS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Telnet.",
+        "isCorrect": false
+      },
+      {
+        "text": "FTP .",
+        "isCorrect": true
+      },
+      {
+        "text": "SSH.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 123,
+    "question": "\u00bfQu\u00e9 representa una zona en un servidor DNS?",
+    "options": [
+      {
+        "text": "Un servicio web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un tipo de consulta.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una parte del espacio de nombres.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un dominio inverso.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 124,
+    "question": "\u00bfCu\u00e1l de las siguientes opciones corresponde a una consulta inversa DNS?",
+    "options": [
+      {
+        "text": "www.google.com \u2014 142.250.190.4",
+        "isCorrect": false
+      },
+      {
+        "text": "dig google.com",
+        "isCorrect": false
+      },
+      {
+        "text": "142.250.190.4 \u2014 www.google.com",
+        "isCorrect": true
+      },
+      {
+        "text": "whois google.com",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 125,
+    "question": "\u00bfQu\u00e9 comando se utiliza para construir una imagen Docker a partir de un Dockerfile?",
+    "options": [
+      {
+        "text": "docker run",
+        "isCorrect": false
+      },
+      {
+        "text": "docker star.",
+        "isCorrect": false
+      },
+      {
+        "text": "docker buil.",
+        "isCorrect": true
+      },
+      {
+        "text": "docker creat.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 126,
+    "question": "\u00bfQu\u00e9 pr\u00e1ctica requiere menos intervenci\u00f3n manual para desplegar a producci\u00f3n?",
+    "options": [
+      {
+        "text": "Continuous Deployment.",
+        "isCorrect": true
+      },
+      {
+        "text": "Continuous Delivery.",
+        "isCorrect": false
+      },
+      {
+        "text": "Integraci\u00f3n manual.",
+        "isCorrect": false
+      },
+      {
+        "text": "Despliegue programado.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 127,
+    "question": "\u00bfCu\u00e1l es la funci\u00f3n de docker-compose.yml?",
+    "options": [
+      {
+        "text": "Crear contenedores individuales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Definir servicios multicontenedor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Administrar vol\u00famenes locales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Iniciar contenedores manualmente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 128,
+    "question": "\u00bfQu\u00e9 evento puede activar un workflow de GitHub Actions?",
+    "options": [
+      {
+        "text": "Reload.",
+        "isCorrect": false
+      },
+      {
+        "text": "Push.",
+        "isCorrect": true
+      },
+      {
+        "text": "Init.",
+        "isCorrect": false
+      },
+      {
+        "text": "Compile.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 129,
+    "question": "\u00bfQu\u00e9 herramienta de CI/CD est\u00e1 integrada nativamente en GitHub?",
+    "options": [
+      {
+        "text": "GitHub Actions.",
+        "isCorrect": true
+      },
+      {
+        "text": "Travis CI.",
+        "isCorrect": false
+      },
+      {
+        "text": "CircleCI.",
+        "isCorrect": false
+      },
+      {
+        "text": "Jenkins.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 130,
+    "question": "\u00bfQu\u00e9 comando permite iniciar un contenedor basado en una imagen existente?",
+    "options": [
+      {
+        "text": "docker run",
+        "isCorrect": true
+      },
+      {
+        "text": "docker create",
+        "isCorrect": false
+      },
+      {
+        "text": "docker exec",
+        "isCorrect": false
+      },
+      {
+        "text": "docker pull",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 131,
+    "question": "\u00bfCu\u00e1l es uno de los beneficios del enfoque CI?",
+    "options": [
+      {
+        "text": "Revisi\u00f3n manual de todo el c\u00f3digo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Integraci\u00f3n mensual del c\u00f3digo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Despliegue sin validaciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Detecci\u00f3n temprana de errores.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 132,
+    "question": "\u00bfQu\u00e9 parte del flujo de trabajo GitHub Actions ejecuta una tarea concreta?",
+    "options": [
+      {
+        "text": "job.",
+        "isCorrect": false
+      },
+      {
+        "text": "workflow.",
+        "isCorrect": false
+      },
+      {
+        "text": "step.",
+        "isCorrect": true
+      },
+      {
+        "text": "matrix.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 133,
+    "question": "\u00bfQu\u00e9 archivo define una imagen personalizada en Docker?",
+    "options": [
+      {
+        "text": "docker-compose.yml.",
+        "isCorrect": false
+      },
+      {
+        "text": "README.md.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dockerfile.",
+        "isCorrect": true
+      },
+      {
+        "text": "containerfile.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 134,
+    "question": "\u00bfQu\u00e9 herramienta de CI permite automatizar tareas desde GitHub sin servidores externos?",
+    "options": [
+      {
+        "text": "GitHub Actions.",
+        "isCorrect": true
+      },
+      {
+        "text": "Jenkins.",
+        "isCorrect": false
+      },
+      {
+        "text": "Travis.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bitbucket Pipelines.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 135,
+    "question": "\u00bfQu\u00e9 comando se usa para mostrar los contenedores activos en Docker?",
+    "options": [
+      {
+        "text": "docker show",
+        "isCorrect": false
+      },
+      {
+        "text": "docker ps",
+        "isCorrect": true
+      },
+      {
+        "text": "docker list",
+        "isCorrect": false
+      },
+      {
+        "text": "docker run",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 136,
+    "question": "\u00bfQu\u00e9 tipo de archivo utilizan los flujos de trabajo de GitHub Actions?",
+    "options": [
+      {
+        "text": ".json",
+        "isCorrect": false
+      },
+      {
+        "text": ".yml",
+        "isCorrect": true
+      },
+      {
+        "text": ".conf",
+        "isCorrect": false
+      },
+      {
+        "text": ".bash",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 137,
+    "question": "\u00bfQu\u00e9 indica EXPOSE 3000 en un Dockerfile?",
+    "options": [
+      {
+        "text": "Que el contenedor usar\u00e1 el puerto 3000.",
+        "isCorrect": true
+      },
+      {
+        "text": "Que se abrir\u00e1 una conexi\u00f3n SSH.",
+        "isCorrect": false
+      },
+      {
+        "text": "Que el puerto se cerrar\u00e1.",
+        "isCorrect": false
+      },
+      {
+        "text": "Que se usar\u00e1 como volumen.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 138,
+    "question": "\u00bfQu\u00e9 caracter\u00edstica ofrece Docker frente a m\u00e1quinas virtuales?",
+    "options": [
+      {
+        "text": "Uso exclusivo de Windows.",
+        "isCorrect": false
+      },
+      {
+        "text": "Emulaci\u00f3n de hardware.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ligereza y rapidez.",
+        "isCorrect": true
+      },
+      {
+        "text": "Menor aislamiento.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 139,
+    "question": "\u00bfQu\u00e9 elemento permite que Docker reutilice capas ya construidas",
+    "options": [
+      {
+        "text": "Vol\u00famenes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Imagen base.",
+        "isCorrect": false
+      },
+      {
+        "text": "Capas intermedias.",
+        "isCorrect": true
+      },
+      {
+        "text": "Variables de entorno.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 140,
+    "question": "\u00bfQu\u00e9 indica CMD [\"npm\" , \"start\"] en un Dockerfile?",
+    "options": [
+      {
+        "text": "La instalaci\u00f3n de dependencias.",
+        "isCorrect": false
+      },
+      {
+        "text": "La definici\u00f3n del volumen.",
+        "isCorrect": false
+      },
+      {
+        "text": "El comando que ejecuta la app.",
+        "isCorrect": true
+      },
+      {
+        "text": "La configuraci\u00f3n de red.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 141,
+    "question": "\u00bfQu\u00e9 comando en Docker elimina una imagen?",
+    "options": [
+      {
+        "text": "docker delete",
+        "isCorrect": false
+      },
+      {
+        "text": "docker rmi",
+        "isCorrect": true
+      },
+      {
+        "text": "docker shutdown",
+        "isCorrect": false
+      },
+      {
+        "text": "docker untag",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 142,
+    "question": "\u00bfCu\u00e1l es la funci\u00f3n de docker pull?",
+    "options": [
+      {
+        "text": "Subir una imagen.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear un contenedor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Descargar una imagen.",
+        "isCorrect": true
+      },
+      {
+        "text": "Listar contenedores.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 143,
+    "question": "\u00bfQu\u00e9 tipo de prueba automatizada verifica una funci\u00f3n espec\u00edfica del c\u00f3digo?",
+    "options": [
+      {
+        "text": "Prueba unitaria.",
+        "isCorrect": true
+      },
+      {
+        "text": "Prueba de integraci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Prueba manual.",
+        "isCorrect": false
+      },
+      {
+        "text": "Prueba de carga.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 144,
+    "question": "\u00bfQu\u00e9 permite escalar servicios en Docker Compose?",
+    "options": [
+      {
+        "text": "docker-compose update",
+        "isCorrect": false
+      },
+      {
+        "text": "docker scale",
+        "isCorrect": false
+      },
+      {
+        "text": "docker-compose up \u2013scale",
+        "isCorrect": true
+      },
+      {
+        "text": "docker-compose grow",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 145,
+    "question": "\u00bfCu\u00e1l es una ventaja del despliegue continuo?",
+    "options": [
+      {
+        "text": "Mayor control manual.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducci\u00f3n de commits.",
+        "isCorrect": false
+      },
+      {
+        "text": "No usar pruebas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Entrega frecuente de software.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 146,
+    "question": "\u00bfQu\u00e9 rol tiene GitHub Actions en CI/CD?",
+    "options": [
+      {
+        "text": "Gestionar usuarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Automatizar pruebas y despliegue.",
+        "isCorrect": true
+      },
+      {
+        "text": "Monitorear servidores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear contenedores.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 147,
+    "question": "\u00bfQu\u00e9 diferencia principal tiene un contenedor frente a una VM?",
+    "options": [
+      {
+        "text": "Comparte el kernel del sistema operativo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Usa m\u00e1s recursos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiene su propio sistema operativo completo.",
+        "isCorrect": false
+      },
+      {
+        "text": "No permite virtualizaci\u00f3n.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 148,
+    "question": "\u00bfQu\u00e9 comando se utiliza para ver el historial de commits en Git?",
+    "options": [
+      {
+        "text": "git show",
+        "isCorrect": false
+      },
+      {
+        "text": "git push",
+        "isCorrect": false
+      },
+      {
+        "text": "git log",
+        "isCorrect": true
+      },
+      {
+        "text": "git Branch",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 149,
+    "question": "\u00bfQu\u00e9 puerto se utiliza por defecto en GitHub Actions para ejecutar runners en Linux?",
+    "options": [
+      {
+        "text": "3000.",
+        "isCorrect": false
+      },
+      {
+        "text": "22.",
+        "isCorrect": false
+      },
+      {
+        "text": "5000.",
+        "isCorrect": false
+      },
+      {
+        "text": "No depende de un puerto espec\u00edfico.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  }
+]

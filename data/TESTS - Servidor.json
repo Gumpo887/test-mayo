@@ -1,0 +1,4488 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál de estos nombres no corresponde a un lenguaje de programación?",
+    "options": [
+      {
+        "text": "Java.",
+        "isCorrect": false
+      },
+      {
+        "text": "HTML.",
+        "isCorrect": true
+      },
+      {
+        "text": "PHP.",
+        "isCorrect": false
+      },
+      {
+        "text": "CSS.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 2,
+    "question": "Indica cuál de los siguientes elementos no es un componente Java EE:",
+    "options": [
+      {
+        "text": "Página HTML.",
+        "isCorrect": true
+      },
+      {
+        "text": "Servlet.",
+        "isCorrect": false
+      },
+      {
+        "text": "JSP.",
+        "isCorrect": false
+      },
+      {
+        "text": "EJB.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 3,
+    "question": "Una URL es:",
+    "options": [
+      {
+        "text": "Un protocolo de acceso a Internet.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un puerto de un servidor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una dirección de un recurso web.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una dirección de un servidor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 4,
+    "question": "Una de las principales tecnologías para programación en el entorno servidor es:",
+    "options": [
+      {
+        "text": "CSS.",
+        "isCorrect": false
+      },
+      {
+        "text": "JavaScript.",
+        "isCorrect": false
+      },
+      {
+        "text": "PHP.",
+        "isCorrect": true
+      },
+      {
+        "text": "HTML.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 5,
+    "question": "El software de la capa intermedia que dialoga con el navegador cliente es:",
+    "options": [
+      {
+        "text": "El contenedor web.",
+        "isCorrect": false
+      },
+      {
+        "text": "El servidor de aplicaciones.",
+        "isCorrect": true
+      },
+      {
+        "text": "El descriptor de despliegue.",
+        "isCorrect": false
+      },
+      {
+        "text": "El servidor web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 6,
+    "question": "Indica cuál de los siguientes nombres corresponde a un servidor de aplicaciones Java EE:",
+    "options": [
+      {
+        "text": "Eclipse.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tomcat.",
+        "isCorrect": true
+      },
+      {
+        "text": "IIS.",
+        "isCorrect": false
+      },
+      {
+        "text": "NodeJS.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 7,
+    "question": "Indica cuál de los siguientes lenguajes de programación puede ser interpretado por un navegador:",
+    "options": [
+      {
+        "text": "Java.",
+        "isCorrect": false
+      },
+      {
+        "text": "JavaScript.",
+        "isCorrect": true
+      },
+      {
+        "text": "PHP.",
+        "isCorrect": false
+      },
+      {
+        "text": "Python.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 8,
+    "question": "En una arquitectura de aplicaciones web, el componente que se comunica con la base de datos para realizar operaciones CRUD es:",
+    "options": [
+      {
+        "text": "Capa de persistencia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Capa de presentación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Capa de red.",
+        "isCorrect": false
+      },
+      {
+        "text": "Capa de usuario.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 9,
+    "question": "Un EJB es:",
+    "options": [
+      {
+        "text": "Un tipo de servidor de aplicaciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un contenedor de objetos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un protocolo para la ejecución de aplicaciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un componente Java EE.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 10,
+    "question": "Un contenedor web:",
+    "options": [
+      {
+        "text": "Gestiona el ciclo de vida de los componentes Java EE.",
+        "isCorrect": true
+      },
+      {
+        "text": "Interpreta los bloques de código dentro de un navegador.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacena las bases de datos que se emplean en las aplicaciones web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Despliega las clases en el servidor de aplicaciones.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 11,
+    "question": "¿Qué herramienta facilita la creación de nuevos proyectos Spring Boot desde la web?",
+    "options": [
+      {
+        "text": "Spring Studio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Spring Initializr.",
+        "isCorrect": true
+      },
+      {
+        "text": "Spring CLI.",
+        "isCorrect": false
+      },
+      {
+        "text": "Spring Cloud.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 12,
+    "question": "¿Qué objeto en Spring Boot es responsable de manejar el ciclo de vida de la aplicación?",
+    "options": [
+      {
+        "text": "BeanFactory.",
+        "isCorrect": false
+      },
+      {
+        "text": "WebApplicationContext.",
+        "isCorrect": false
+      },
+      {
+        "text": "ApplicationContext.",
+        "isCorrect": true
+      },
+      {
+        "text": "ServletContainer.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 13,
+    "question": "¿Qué herramienta de gestión de dependencias es comúnmente utilizada en proyectos Spring Boot?",
+    "options": [
+      {
+        "text": "Maven.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gradle.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ant.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ivy.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 14,
+    "question": "¿Qué anotación se utiliza para especificar la ruta base de un controlador en Spring Boot?",
+    "options": [
+      {
+        "text": "@RestController.",
+        "isCorrect": false
+      },
+      {
+        "text": "@RequestMapping.",
+        "isCorrect": true
+      },
+      {
+        "text": "@PathVariable.",
+        "isCorrect": false
+      },
+      {
+        "text": "@PostMapping.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 15,
+    "question": "¿Qué servidor web viene embebido de forma predeterminada en Spring Boot?",
+    "options": [
+      {
+        "text": "Jetty.",
+        "isCorrect": false
+      },
+      {
+        "text": "Undertow.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tomcat.",
+        "isCorrect": true
+      },
+      {
+        "text": "WildFly.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 16,
+    "question": "¿Qué método HTTP se utiliza para enviar datos y crear un nuevo recurso en una API REST?",
+    "options": [
+      {
+        "text": "POST.",
+        "isCorrect": true
+      },
+      {
+        "text": "GET.",
+        "isCorrect": false
+      },
+      {
+        "text": "PUT.",
+        "isCorrect": false
+      },
+      {
+        "text": "DELETE.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 17,
+    "question": "¿Cuál de los siguientes componentes está asociado con la configuración automática en Spring Boot?",
+    "options": [
+      {
+        "text": "@EnableAutoConfiguration.",
+        "isCorrect": true
+      },
+      {
+        "text": "@Autowired.",
+        "isCorrect": false
+      },
+      {
+        "text": "@Configuration.",
+        "isCorrect": false
+      },
+      {
+        "text": "@Component.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 18,
+    "question": "¿Qué anotación se utiliza para mapear una solicitud HTTP GET en Spring Boot?",
+    "options": [
+      {
+        "text": "@PostMapping.",
+        "isCorrect": false
+      },
+      {
+        "text": "@PutMapping.",
+        "isCorrect": false
+      },
+      {
+        "text": "@GetMapping.",
+        "isCorrect": true
+      },
+      {
+        "text": "@DeleteMapping.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 19,
+    "question": "¿Cómo se llama el archivo principal de configuración de Spring Boot?",
+    "options": [
+      {
+        "text": "application.html.",
+        "isCorrect": false
+      },
+      {
+        "text": "application.properties.",
+        "isCorrect": true
+      },
+      {
+        "text": "config.xml.",
+        "isCorrect": false
+      },
+      {
+        "text": "settings.xml.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 20,
+    "question": "¿Qué método HTTP se utiliza para actualizar un recurso existente en una API REST?",
+    "options": [
+      {
+        "text": "POST.",
+        "isCorrect": false
+      },
+      {
+        "text": "GET.",
+        "isCorrect": false
+      },
+      {
+        "text": "PUT.",
+        "isCorrect": true
+      },
+      {
+        "text": "DELETE.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 21,
+    "question": "¿Qué método de EntityManager se utiliza para encontrar una entidad por su clave primaria?",
+    "options": [
+      {
+        "text": "`remove()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`find()`",
+        "isCorrect": true
+      },
+      {
+        "text": "`merge()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`persist()`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 22,
+    "question": "¿Qué es el impedance mismatch en la programación orientada a objetos con bases de datos relacionales?",
+    "options": [
+      {
+        "text": "La falta de compatibilidad entre lenguajes de programación.",
+        "isCorrect": false
+      },
+      {
+        "text": "La diferencia conceptual entre el modelo orientado a objetos y el modelo relacional.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un problema de rendimiento en la conexión a la base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "La necesidad de usar SQL para acceder a la base de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 23,
+    "question": "¿Cuál es el propósito de EntityManagerFactory en JPA?",
+    "options": [
+      {
+        "text": "Crear consultas JPQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "Configurar las entidades de la base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear instancias de `EntityManager`.",
+        "isCorrect": true
+      },
+      {
+        "text": "Iniciar transacciones.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 24,
+    "question": "¿Cuál de las siguientes es una ventaja del uso de una capa de persistencia en aplicaciones Java?",
+    "options": [
+      {
+        "text": "Mayor dependencia del almacenamiento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Simplificación del código al trabajar con objetos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mayor complejidad en la programación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Menor rendimiento de las aplicaciones.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 25,
+    "question": "¿Qué es JPQL en JPA?",
+    "options": [
+      {
+        "text": "Un motor de base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un lenguaje de consultas orientado a objetos que trabaja con entidades.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un archivo de configuración para JPA.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un método para gestionar transacciones.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 26,
+    "question": "¿Qué método se utiliza para iniciar una transacción en JPA?",
+    "options": [
+      {
+        "text": "`commit()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`merge()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`persist()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`begin()`",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 27,
+    "question": "¿Cuál es el propósito del archivo `persistence.xml` en JPA?",
+    "options": [
+      {
+        "text": "Define el esquema de la base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Configura las relaciones entre entidades.",
+        "isCorrect": false
+      },
+      {
+        "text": "Define la unidad de persistencia, motor de persistencia y los detalles de conexión.",
+        "isCorrect": true
+      },
+      {
+        "text": "Especifica las clases a persistir y el tipo de base de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 28,
+    "question": "¿Qué anotación se utiliza para definir la clave primaria en una entidad JPA?",
+    "options": [
+      {
+        "text": "`@Id`",
+        "isCorrect": true
+      },
+      {
+        "text": "`@PrimaryKey`",
+        "isCorrect": false
+      },
+      {
+        "text": "`@Table`",
+        "isCorrect": false
+      },
+      {
+        "text": "`@Key`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 29,
+    "question": "¿Qué es un POJO en el contexto de JPA?",
+    "options": [
+      {
+        "text": "Un objeto Java simple que representa una entidad de base de datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un archivo de configuración XML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un tipo de consulta de JPQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un método para gestionar transacciones.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 30,
+    "question": "¿Qué operación realiza el método `merge()` en JPA?",
+    "options": [
+      {
+        "text": "Elimina una entidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Inserta una nueva entidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Actualiza una entidad existente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Encuentra una entidad por su clave primaria.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 31,
+    "question": "¿Qué tipo de base de datos es MongoDB?",
+    "options": [
+      {
+        "text": "Base de datos relacional.",
+        "isCorrect": false
+      },
+      {
+        "text": "Base de datos de grafos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Base de datos documental.",
+        "isCorrect": true
+      },
+      {
+        "text": "Base de datos de columnas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 32,
+    "question": "¿Qué tipo de índices soporta MongoDB?",
+    "options": [
+      {
+        "text": "Solo índices simples.",
+        "isCorrect": false
+      },
+      {
+        "text": "Índices compuestos, geoespaciales y de texto.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo índices de texto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo índices de columna.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 33,
+    "question": "¿Qué significa NoSQL?",
+    "options": [
+      {
+        "text": "Not Only SQL.",
+        "isCorrect": true
+      },
+      {
+        "text": "No Structured Query Language.",
+        "isCorrect": false
+      },
+      {
+        "text": "Non-SQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "New SQL.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 34,
+    "question": "¿Cuál de las siguientes NO es un tipo de base de datos NoSQL?",
+    "options": [
+      {
+        "text": "Base de datos de documentos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Base de datos de columnas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Base de datos clave-valor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Base de datos transaccional.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 35,
+    "question": "¿Qué hace el operador `$set` en una actualización de MongoDB?",
+    "options": [
+      {
+        "text": "Elimina un campo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Actualiza un campo existente o lo crea si no existe.",
+        "isCorrect": true
+      },
+      {
+        "text": "Incrementa el valor de un campo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Compara el valor de dos campos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 36,
+    "question": "¿Cuál de las siguientes características es única de las bases de datos documentales como MongoDB?",
+    "options": [
+      {
+        "text": "Almacenamiento de datos en documentos flexibles.",
+        "isCorrect": true
+      },
+      {
+        "text": "Uso obligatorio de SQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "Estructura de datos rígida.",
+        "isCorrect": false
+      },
+      {
+        "text": "Necesidad de definir todas las relaciones entre los datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 37,
+    "question": "¿Qué comando se utiliza para crear una colección en MongoDB?",
+    "options": [
+      {
+        "text": "`createCollection()`",
+        "isCorrect": true
+      },
+      {
+        "text": "`insertCollection()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`newCollection()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`makeCollection()`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 38,
+    "question": "¿Qué es una colección en MongoDB?",
+    "options": [
+      {
+        "text": "Un grupo de bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una fila de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un conjunto de documentos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un campo en un documento.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 39,
+    "question": "¿Cuál es una ventaja de usar bases de datos NoSQL como MongoDB?",
+    "options": [
+      {
+        "text": "Flexibilidad en el esquema de los datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Uso obligatorio de SQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "No permite la escalabilidad horizontal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo permite datos estructurados.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 40,
+    "question": "¿Cuál es la principal unidad de datos en MongoDB?",
+    "options": [
+      {
+        "text": "Fila.",
+        "isCorrect": false
+      },
+      {
+        "text": "Documento.",
+        "isCorrect": true
+      },
+      {
+        "text": "Columna.",
+        "isCorrect": false
+      },
+      {
+        "text": "Clave-valor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 41,
+    "question": "¿Cuál es la ventaja principal de usar Spring Data MongoDB?",
+    "options": [
+      {
+        "text": "Simplifica las operaciones CRUD y consultas complejas sin tener que escribir código específico para MongoDB.",
+        "isCorrect": true
+      },
+      {
+        "text": "Permite realizar consultas SQL en MongoDB.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hace que MongoDB sea relacional.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumenta la velocidad de consulta en bases de datos SQL.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 42,
+    "question": "¿Qué método de `MongoRepository` permite guardar un documento en la base de datos?",
+    "options": [
+      {
+        "text": "`save()`",
+        "isCorrect": true
+      },
+      {
+        "text": "`findById()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`delete()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`update()`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 43,
+    "question": "¿Cómo se define una consulta condicional con \"AND\" en Spring Data MongoDB?",
+    "options": [
+      {
+        "text": "`Criteria.andOperator()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`new Criteria().andOperator()`",
+        "isCorrect": true
+      },
+      {
+        "text": "`new Query().and()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`Criteria.where().and()`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 44,
+    "question": "¿Qué tipo de datos almacena MongoDB por defecto?",
+    "options": [
+      {
+        "text": "BSON.",
+        "isCorrect": true
+      },
+      {
+        "text": "JSON.",
+        "isCorrect": false
+      },
+      {
+        "text": "XML.",
+        "isCorrect": false
+      },
+      {
+        "text": "CSV.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 45,
+    "question": "¿Qué operador en MongoDB se utiliza para unir varios documentos de diferentes colecciones?",
+    "options": [
+      {
+        "text": "`$lookup`",
+        "isCorrect": true
+      },
+      {
+        "text": "`$join`",
+        "isCorrect": false
+      },
+      {
+        "text": "`$merge`",
+        "isCorrect": false
+      },
+      {
+        "text": "`$group`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 46,
+    "question": "¿Qué interfaz de Spring Data MongoDB extiende `MongoRepository` para agregar métodos adicionales?",
+    "options": [
+      {
+        "text": "BaseRepository.",
+        "isCorrect": false
+      },
+      {
+        "text": "CrudRepository.",
+        "isCorrect": true
+      },
+      {
+        "text": "JpaRepository.",
+        "isCorrect": false
+      },
+      {
+        "text": "QueryRepository.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 47,
+    "question": "¿Qué anotación de Spring Data MongoDB define el campo que se usará como ID en un documento?",
+    "options": [
+      {
+        "text": "`@Column`",
+        "isCorrect": false
+      },
+      {
+        "text": "`@Id`",
+        "isCorrect": false
+      },
+      {
+        "text": "`@Document`",
+        "isCorrect": true
+      },
+      {
+        "text": "`@PrimaryKey`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 48,
+    "question": "¿Qué es MongoDB?",
+    "options": [
+      {
+        "text": "Una base de datos relacional.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una base de datos NoSQL orientada a documentos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un servidor de aplicaciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un sistema de archivos distribuido.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 49,
+    "question": "¿Cuál es el propósito de Aggregation en Spring Data MongoDB?",
+    "options": [
+      {
+        "text": "Crear índices.",
+        "isCorrect": false
+      },
+      {
+        "text": "Realizar operaciones avanzadas como agrupamientos y sumatorias.",
+        "isCorrect": true
+      },
+      {
+        "text": "Actualizar múltiples documentos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminar datos masivos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 50,
+    "question": "¿Qué operador se usa en MongoDB para incrementar el valor de un campo?",
+    "options": [
+      {
+        "text": "`$sum`",
+        "isCorrect": false
+      },
+      {
+        "text": "`$inc`",
+        "isCorrect": true
+      },
+      {
+        "text": "`$max`",
+        "isCorrect": false
+      },
+      {
+        "text": "`$mul`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 51,
+    "question": "¿Qué principio SOLID se refiere a que las subclases deben ser sustituibles por sus clases base sin afectar el comportamiento del sistema?",
+    "options": [
+      {
+        "text": "Responsabilidad única.",
+        "isCorrect": false
+      },
+      {
+        "text": "Abierto/cerrado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustitución de Liskov.",
+        "isCorrect": true
+      },
+      {
+        "text": "Inversión de dependencias.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 52,
+    "question": "¿Cuál es el beneficio principal del principio de abierto/cerrado (OCP)?",
+    "options": [
+      {
+        "text": "Reducir la dependencia entre módulos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dividir las interfaces en múltiples métodos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permitir la extensión del comportamiento de una clase sin modificarla.",
+        "isCorrect": true
+      },
+      {
+        "text": "Asegurar que una clase tenga solo una razón para cambiar.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 53,
+    "question": "¿Qué función tiene Node.js en una aplicación web?",
+    "options": [
+      {
+        "text": "Ejecutar JavaScript en el servidor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Crear interfaces de usuario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diseñar bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gestionar la seguridad de la red.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 54,
+    "question": "¿Qué papel desempeña MongoDB en el stack MEAN?",
+    "options": [
+      {
+        "text": "Almacenar datos en formato NoSQL.",
+        "isCorrect": true
+      },
+      {
+        "text": "Servir como servidor de aplicaciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gestionar la lógica de negocio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Renderizar la interfaz del usuario.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 55,
+    "question": "¿Cuál es el formato más utilizado para transferir datos entre el cliente y el servidor en una API RESTful?",
+    "options": [
+      {
+        "text": "XML.",
+        "isCorrect": false
+      },
+      {
+        "text": "HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "JSON.",
+        "isCorrect": true
+      },
+      {
+        "text": "CSV.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 56,
+    "question": "¿Qué principio SOLID establece que los detalles deben depender de abstracciones y no al revés?",
+    "options": [
+      {
+        "text": "Responsabilidad única.",
+        "isCorrect": false
+      },
+      {
+        "text": "Inversión de dependencias.",
+        "isCorrect": true
+      },
+      {
+        "text": "Abierto/cerrado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustitución de Liskov.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 57,
+    "question": "¿Qué framework de Node.js se utiliza para gestionar rutas y peticiones HTTP?",
+    "options": [
+      {
+        "text": "Express.js.",
+        "isCorrect": true
+      },
+      {
+        "text": "Spring Boot.",
+        "isCorrect": false
+      },
+      {
+        "text": "Angular.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hibernate.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 58,
+    "question": "¿Qué tecnología permite la creación de componentes reutilizables en el front-end?",
+    "options": [
+      {
+        "text": "Spring Boot.",
+        "isCorrect": false
+      },
+      {
+        "text": "Angular.",
+        "isCorrect": true
+      },
+      {
+        "text": "Express.js.",
+        "isCorrect": false
+      },
+      {
+        "text": "MongoDB.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 59,
+    "question": "¿Cuál es el objetivo del principio de inversión de dependencias (DIP)?",
+    "options": [
+      {
+        "text": "Dividir interfaces en múltiples métodos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Asegurar que los módulos de alto nivel no dependan de módulos de bajo nivel.",
+        "isCorrect": true
+      },
+      {
+        "text": "Garantizar que una clase solo tenga una razón para cambiar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permitir la sustitución de clases base por subclases.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 60,
+    "question": "¿Qué tipo de base de datos es MongoDB?",
+    "options": [
+      {
+        "text": "Base de datos relacional.",
+        "isCorrect": false
+      },
+      {
+        "text": "Base de datos NoSQL.",
+        "isCorrect": true
+      },
+      {
+        "text": "Base de datos en memoria.",
+        "isCorrect": false
+      },
+      {
+        "text": "Base de datos distribuida.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 61,
+    "question": "¿Qué mecanismo de autenticación es vulnerable al envío de credenciales en texto claro?",
+    "options": [
+      {
+        "text": "BASIC.",
+        "isCorrect": true
+      },
+      {
+        "text": "DIGEST.",
+        "isCorrect": false
+      },
+      {
+        "text": "FORM.",
+        "isCorrect": false
+      },
+      {
+        "text": "CLIENT-CERT.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 62,
+    "question": "¿Qué protocolo se utiliza en la autenticación CLIENT-CERT?",
+    "options": [
+      {
+        "text": "HTTPS.",
+        "isCorrect": true
+      },
+      {
+        "text": "FTP.",
+        "isCorrect": false
+      },
+      {
+        "text": "SMTP.",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTP.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 63,
+    "question": "¿Qué recurso del archivo `web.xml` define el método de autenticación a utilizar?",
+    "options": [
+      {
+        "text": "`<security-role>`",
+        "isCorrect": false
+      },
+      {
+        "text": "`<login-config>`",
+        "isCorrect": true
+      },
+      {
+        "text": "`<security-constraint>`",
+        "isCorrect": false
+      },
+      {
+        "text": "`<auth-method>`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 64,
+    "question": "¿Qué archivo debe configurarse en Tomcat para definir un repositorio de usuarios basado en XML?",
+    "options": [
+      {
+        "text": "`tomcat-users.xml`",
+        "isCorrect": true
+      },
+      {
+        "text": "`server.xml`",
+        "isCorrect": false
+      },
+      {
+        "text": "`context.xml`",
+        "isCorrect": false
+      },
+      {
+        "text": "`users.xml`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 65,
+    "question": "¿Qué propiedad de la seguridad garantiza que los datos no se alteren sin autorización?",
+    "options": [
+      {
+        "text": "Autenticidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Disponibilidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Integridad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Confidencialidad.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 66,
+    "question": "¿Cuál es la diferencia principal entre seguridad declarativa y programática en JEE?",
+    "options": [
+      {
+        "text": "La seguridad declarativa usa certificados y la programática no.",
+        "isCorrect": false
+      },
+      {
+        "text": "La seguridad declarativa se configura sin usar código, mientras que la programática se implementa en el código.",
+        "isCorrect": true
+      },
+      {
+        "text": "La seguridad programática es más rápida.",
+        "isCorrect": false
+      },
+      {
+        "text": "No hay diferencia.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 67,
+    "question": "¿Qué archivo en una aplicación JEE se utiliza para configurar la autenticación?",
+    "options": [
+      {
+        "text": "`server.xml`",
+        "isCorrect": false
+      },
+      {
+        "text": "`web.xml`",
+        "isCorrect": true
+      },
+      {
+        "text": "`login.jsp`",
+        "isCorrect": false
+      },
+      {
+        "text": "`application.properties`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 68,
+    "question": "¿Qué rol cumple el proceso de autorización en una aplicación web?",
+    "options": [
+      {
+        "text": "Autenticar al usuario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Definir las reglas de cifrado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Determinar si un usuario tiene acceso a un recurso.",
+        "isCorrect": true
+      },
+      {
+        "text": "Almacenar credenciales.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 69,
+    "question": "¿En qué caso se debería utilizar el método CLIENT-CERT para la autenticación?",
+    "options": [
+      {
+        "text": "Para sistemas con pocos usuarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para aplicaciones con datos públicos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para sistemas de alta seguridad que requieren certificados digitales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cuando no se necesita autenticación.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 70,
+    "question": "¿Qué mecanismo de autenticación utiliza un formulario personalizado para solicitar credenciales?",
+    "options": [
+      {
+        "text": "BASIC.",
+        "isCorrect": false
+      },
+      {
+        "text": "DIGEST.",
+        "isCorrect": false
+      },
+      {
+        "text": "FORM.",
+        "isCorrect": true
+      },
+      {
+        "text": "CLIENT-CERT.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 71,
+    "question": "¿Qué método en Express redirige una solicitud a otra URL?",
+    "options": [
+      {
+        "text": "`res.json()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`res.send()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`res.redirect()`",
+        "isCorrect": true
+      },
+      {
+        "text": "`res.route()`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 72,
+    "question": "¿Qué hace el código `app.set('port', process.env.PORT || 3000);` en Express?",
+    "options": [
+      {
+        "text": "Cambia el motor de vistas a PUG.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crea una nueva ruta.",
+        "isCorrect": false
+      },
+      {
+        "text": "Instala dependencias.",
+        "isCorrect": false
+      },
+      {
+        "text": "Establece el puerto en el que escuchará el servidor.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 73,
+    "question": "¿Qué es un middleware en Express?",
+    "options": [
+      {
+        "text": "Una base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un archivo de configuración.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una herramienta para crear API REST.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una función que se ejecuta antes de que la solicitud llegue al manejador final.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 74,
+    "question": "¿Qué comando ejecuta todas las dependencias de un proyecto Express?",
+    "options": [
+      {
+        "text": "`node install`",
+        "isCorrect": false
+      },
+      {
+        "text": "`npm start`",
+        "isCorrect": false
+      },
+      {
+        "text": "`npm install`",
+        "isCorrect": true
+      },
+      {
+        "text": "`npm run all`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 75,
+    "question": "¿Cuál de las siguientes es una estructura de directorios común en Express?",
+    "options": [
+      {
+        "text": "`/static, /views, /lib`",
+        "isCorrect": false
+      },
+      {
+        "text": "`/assets, /api, /public`",
+        "isCorrect": false
+      },
+      {
+        "text": "`/views, /routes, /public`",
+        "isCorrect": true
+      },
+      {
+        "text": "`/views, /models, /test`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 76,
+    "question": "¿Qué método de respuesta convierte un objeto JavaScript en formato JSON?",
+    "options": [
+      {
+        "text": "`res.json()`",
+        "isCorrect": true
+      },
+      {
+        "text": "`res.send()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`res.redirect()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`res.end()`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 77,
+    "question": "¿Cuál de los siguientes archivos define las dependencias del proyecto en Express?",
+    "options": [
+      {
+        "text": "`app.js`",
+        "isCorrect": false
+      },
+      {
+        "text": "`index.js`",
+        "isCorrect": false
+      },
+      {
+        "text": "`package.json`",
+        "isCorrect": true
+      },
+      {
+        "text": "`routes.js`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 78,
+    "question": "¿Qué comando se usa para generar una nueva aplicación con el motor de plantillas PUG?",
+    "options": [
+      {
+        "text": "`express --view=pug miapp`",
+        "isCorrect": true
+      },
+      {
+        "text": "`npm install express-pug`",
+        "isCorrect": false
+      },
+      {
+        "text": "`express --view=hbs miapp`",
+        "isCorrect": false
+      },
+      {
+        "text": "`node install pug-view`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 79,
+    "question": "¿Cómo se define un middleware global en Express?",
+    "options": [
+      {
+        "text": "`app.get(function(req, res, next) {...});`",
+        "isCorrect": false
+      },
+      {
+        "text": "`app.route(function(req, res, next) {...});`",
+        "isCorrect": false
+      },
+      {
+        "text": "`app.set(function(req, res, next) {...});`",
+        "isCorrect": false
+      },
+      {
+        "text": "`app.use(function(req, res, next) {...});`",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 80,
+    "question": "¿Qué comando inicializa un nuevo proyecto con npm en Node.js?",
+    "options": [
+      {
+        "text": "`npm init`",
+        "isCorrect": true
+      },
+      {
+        "text": "`npm install`",
+        "isCorrect": false
+      },
+      {
+        "text": "`npm start`",
+        "isCorrect": false
+      },
+      {
+        "text": "`npm setup`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 81,
+    "question": "¿Cómo se llaman las propiedades que se calculan dinámicamente en Mongoose?",
+    "options": [
+      {
+        "text": "Propiedades virtuales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Propiedades estáticas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Propiedades dinámicas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Propiedades estáticas virtuales.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 82,
+    "question": "¿Qué método se utiliza en Mongoose para definir la estructura de los documentos?",
+    "options": [
+      {
+        "text": "Document.",
+        "isCorrect": false
+      },
+      {
+        "text": "Schema.",
+        "isCorrect": true
+      },
+      {
+        "text": "Collection.",
+        "isCorrect": false
+      },
+      {
+        "text": "Model.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 83,
+    "question": "¿Qué función en Mongoose permite definir esquemas?",
+    "options": [
+      {
+        "text": "Schema.",
+        "isCorrect": true
+      },
+      {
+        "text": "Model.",
+        "isCorrect": false
+      },
+      {
+        "text": "find.",
+        "isCorrect": false
+      },
+      {
+        "text": "Instance.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 84,
+    "question": "¿Qué método de Mongoose se utiliza para guardar un documento en la base de datos?",
+    "options": [
+      {
+        "text": "`.create()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`.saveDoc()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`.store()`",
+        "isCorrect": false
+      },
+      {
+        "text": "`.save()`",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 85,
+    "question": "¿Cuál es la principal ventaja de MongoDB sobre bases de datos relacionales?",
+    "options": [
+      {
+        "text": "Flexibilidad en los esquemas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mejor consistencia de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Integridad referencial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manejo de transacciones más eficiente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 86,
+    "question": "¿Qué operación pertenece al conjunto de métodos CRUD?",
+    "options": [
+      {
+        "text": "Conectar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear.",
+        "isCorrect": true
+      },
+      {
+        "text": "Registrar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ordenar.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 87,
+    "question": "¿Qué es el stack MEAN?",
+    "options": [
+      {
+        "text": "MongoDB, Ember, Angular, Node.js.",
+        "isCorrect": false
+      },
+      {
+        "text": "MySQL, Express, Angular, Node.js.",
+        "isCorrect": false
+      },
+      {
+        "text": "MongoDB, Express, Angular, Node.js.",
+        "isCorrect": true
+      },
+      {
+        "text": "MongoDB, Express, API, Node.js.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 88,
+    "question": "¿Qué método se utiliza en Mongoose para actualizar un documento por su ID?",
+    "options": [
+      {
+        "text": "findAndUpdate.",
+        "isCorrect": false
+      },
+      {
+        "text": "findById.",
+        "isCorrect": false
+      },
+      {
+        "text": "findByIdAndUpdate.",
+        "isCorrect": true
+      },
+      {
+        "text": "updateById.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 89,
+    "question": "¿Cómo se llama la técnica que permite usar JavaScript tanto en el front-end como en el back-end?",
+    "options": [
+      {
+        "text": "MVC.",
+        "isCorrect": false
+      },
+      {
+        "text": "Monolito.",
+        "isCorrect": false
+      },
+      {
+        "text": "Full Stack JavaScript.",
+        "isCorrect": true
+      },
+      {
+        "text": "CRUD.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 90,
+    "question": "¿Qué tipo de dato NO es soportado directamente por Mongoose?",
+    "options": [
+      {
+        "text": "HashMap.",
+        "isCorrect": true
+      },
+      {
+        "text": "String.",
+        "isCorrect": false
+      },
+      {
+        "text": "Number.",
+        "isCorrect": false
+      },
+      {
+        "text": "Boolean.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 91,
+    "question": "¿Cuándo se transforma una página JSP en un servlet dentro del servidor?",
+    "options": [
+      {
+        "text": "Durante cada solicitud sucede la transformación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nunca, son conceptos diferentes.",
+        "isCorrect": false
+      },
+      {
+        "text": "La primera vez que se solicita desde un navegador.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una página JSP y un servlet son conceptos equivalentes siempre.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 92,
+    "question": "¿Cuál es la sintaxis de la transferencia de control?",
+    "options": [
+      {
+        "text": "`<jsp:page=\"pagina.jsp\" />`",
+        "isCorrect": false
+      },
+      {
+        "text": "`<jsp:forward=\"pagina.jsp\" />`",
+        "isCorrect": false
+      },
+      {
+        "text": "`<jsp:forward page=\"pagina.jsp\" />`",
+        "isCorrect": false
+      },
+      {
+        "text": "`<jsp=\"pagina.jsp\" />`",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 93,
+    "question": "¿Cuál es el tipo de los parámetros ocultos?",
+    "options": [
+      {
+        "text": "hidden",
+        "isCorrect": true
+      },
+      {
+        "text": "restricted",
+        "isCorrect": false
+      },
+      {
+        "text": "private",
+        "isCorrect": false
+      },
+      {
+        "text": "classified",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 94,
+    "question": "¿Cuáles son los mecanismos de redirección disponibles?",
+    "options": [
+      {
+        "text": "redirect y direct.",
+        "isCorrect": false
+      },
+      {
+        "text": "sendRedirect y forward.",
+        "isCorrect": true
+      },
+      {
+        "text": "sendRedirect y redirect.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo forward.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 95,
+    "question": "¿Cuál es la sintaxis de una expresión que separa el código Java del código HTML?",
+    "options": [
+      {
+        "text": "`<%=exp%>`",
+        "isCorrect": false
+      },
+      {
+        "text": "`<#=expresión#>`",
+        "isCorrect": false
+      },
+      {
+        "text": "`<%=expresión%>`",
+        "isCorrect": true
+      },
+      {
+        "text": "`<@=expresión@>`",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 96,
+    "question": "Cuando se solicita una página JSP, ¿es visible el código Java en el navegador?",
+    "options": [
+      {
+        "text": "No, únicamente se muestra el resultado del bloque HTML.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sí, se muestra al usuario el código Java y HTML en el resultado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sí, únicamente se muestra el código Java.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una página JSP no es interpretable por ningún navegador.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 97,
+    "question": "¿Cuáles son las tres maneras de insertar código Java en una página JSP?",
+    "options": [
+      {
+        "text": "Expresiones, estructuras try catch y declaraciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Expresiones, interfaces y métodos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Expresiones, scriptlets y declaraciones.",
+        "isCorrect": true
+      },
+      {
+        "text": "Expresiones, métodos y herencia.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 98,
+    "question": "¿Cómo podemos consultar los parámetros de una petición?",
+    "options": [
+      {
+        "text": "Con el método `Enumeration getParameterNames()`.",
+        "isCorrect": true
+      },
+      {
+        "text": "Con la expresión `Enumeration ParametersNames()`.",
+        "isCorrect": false
+      },
+      {
+        "text": "Con el método `SetParametersNames()`.",
+        "isCorrect": false
+      },
+      {
+        "text": "Con la expresión `Enumeration Parameters()`.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 99,
+    "question": "¿A qué clase pertenece el objeto `application`?",
+    "options": [
+      {
+        "text": "ServletContext.",
+        "isCorrect": true
+      },
+      {
+        "text": "ServletApplication.",
+        "isCorrect": false
+      },
+      {
+        "text": "HttpApplication.",
+        "isCorrect": false
+      },
+      {
+        "text": "HttpServletContext.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 100,
+    "question": "¿A qué clase pertenece el objeto `out`?",
+    "options": [
+      {
+        "text": "JspWriter.",
+        "isCorrect": true
+      },
+      {
+        "text": "HttpSession.",
+        "isCorrect": false
+      },
+      {
+        "text": "HttpOut.",
+        "isCorrect": false
+      },
+      {
+        "text": "HttpServletOut.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md",
+    "sourcePart": "verified-md"
+  },
+  {
+    "id": 101,
+    "question": "El rol principal de un servidor de aplicaciones es:",
+    "options": [
+      {
+        "text": "Almacenar páginas web estáticas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ejecutar aplicaciones empresariales y gestionar la lógica de negocio.",
+        "isCorrect": true
+      },
+      {
+        "text": "Enviar correos electrónicos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proteger la red mediante cortafuegos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 102,
+    "question": "En la plataforma Java EE, un archivo con extensión .ear se utiliza para:",
+    "options": [
+      {
+        "text": "Contener archivos de hojas de estilo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Empaquetar y distribuir aplicaciones empresariales completas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Guardar configuraciones de bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ejecutar scripts de JavaScript en el servidor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 103,
+    "question": "Una herramienta de desarrollo comúnmente utilizada para crear aplicaciones web en Java es:",
+    "options": [
+      {
+        "text": "WordPress.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tomcat.",
+        "isCorrect": false
+      },
+      {
+        "text": "NetBeans.",
+        "isCorrect": true
+      },
+      {
+        "text": "Apache.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 104,
+    "question": "¿Qué servicio es proporcionado por la plataforma Java EE?",
+    "options": [
+      {
+        "text": "Acceso a etiquetas HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Transaccionalidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Intérprete de peticiones web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Contenedor web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 105,
+    "question": "En la arquitectura de aplicaciones web, el componente que interactúa directamente con el navegador del usuario es:",
+    "options": [
+      {
+        "text": "Cliente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Servidor de aplicaciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Servidor de bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proxy.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 106,
+    "question": "Las aplicaciones web Java EE se distribuyen en archivos:",
+    "options": [
+      {
+        "text": "WAR.",
+        "isCorrect": true
+      },
+      {
+        "text": "JS.",
+        "isCorrect": false
+      },
+      {
+        "text": "CLASS.",
+        "isCorrect": false
+      },
+      {
+        "text": "HTML.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 107,
+    "question": "Indica cuál de los siguientes paquetes software es un entorno de desarrollo para Java:",
+    "options": [
+      {
+        "text": "Internet Explorer.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eclipse.",
+        "isCorrect": true
+      },
+      {
+        "text": "Java Virtual Machine.",
+        "isCorrect": false
+      },
+      {
+        "text": "SQLDevelopper.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 108,
+    "question": "¿Cuál de las siguientes representa una ventaja de la arquitectura cliente servidor?",
+    "options": [
+      {
+        "text": "Un cambio en la aplicación no implica reinstalar la misma en los clientes.",
+        "isCorrect": true
+      },
+      {
+        "text": "La ejecución de las aplicaciones es mucho más rápida que en la arquitectura local.",
+        "isCorrect": false
+      },
+      {
+        "text": "El cliente necesita algún requerimiento especial en cuanto a sistema operativo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 109,
+    "question": "¿Qué anotación se utiliza para mapear una solicitud HTTP PUT en Spring Boot?",
+    "options": [
+      {
+        "text": "@GetMapping.",
+        "isCorrect": false
+      },
+      {
+        "text": "@PostMapping.",
+        "isCorrect": false
+      },
+      {
+        "text": "@PutMapping.",
+        "isCorrect": true
+      },
+      {
+        "text": "@DeleteMapping.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 110,
+    "question": "¿Qué anotación se utiliza para definir un controlador REST en Spring Boot?",
+    "options": [
+      {
+        "text": "@Controller.",
+        "isCorrect": false
+      },
+      {
+        "text": "@RestController.",
+        "isCorrect": true
+      },
+      {
+        "text": "@RequestMapping.",
+        "isCorrect": false
+      },
+      {
+        "text": "@Autowired.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 111,
+    "question": "¿Qué clase en Spring Boot se utiliza para ejecutar la aplicación?",
+    "options": [
+      {
+        "text": "SpringContext.",
+        "isCorrect": false
+      },
+      {
+        "text": "SpringApplication.",
+        "isCorrect": true
+      },
+      {
+        "text": "SpringRunner.",
+        "isCorrect": false
+      },
+      {
+        "text": "SpringBean.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 112,
+    "question": "¿Qué método HTTP se utiliza para eliminar un recurso en una API REST?",
+    "options": [
+      {
+        "text": "POST.",
+        "isCorrect": false
+      },
+      {
+        "text": "GET.",
+        "isCorrect": false
+      },
+      {
+        "text": "PUT.",
+        "isCorrect": false
+      },
+      {
+        "text": "DELETE.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 113,
+    "question": "¿Qué método HTTP se utiliza comúnmente para obtener datos de un recurso en una API REST?",
+    "options": [
+      {
+        "text": "POST.",
+        "isCorrect": false
+      },
+      {
+        "text": "GET.",
+        "isCorrect": true
+      },
+      {
+        "text": "PUT.",
+        "isCorrect": false
+      },
+      {
+        "text": "DELETE.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 114,
+    "question": "¿Qué anotación se utiliza para capturar datos enviados en el cuerpo de una solicitud HTTP en formato JSON?",
+    "options": [
+      {
+        "text": "@PathVariable.",
+        "isCorrect": false
+      },
+      {
+        "text": "@RequestParam.",
+        "isCorrect": false
+      },
+      {
+        "text": "@RequestBody.",
+        "isCorrect": true
+      },
+      {
+        "text": "@ModelAttribute.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 115,
+    "question": "¿Qué método se usa para confirmar una transacción en JPA?",
+    "options": [
+      {
+        "text": "begin().",
+        "isCorrect": false
+      },
+      {
+        "text": "rollback().",
+        "isCorrect": false
+      },
+      {
+        "text": "commit().",
+        "isCorrect": true
+      },
+      {
+        "text": "merge().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 116,
+    "question": "¿Qué motor de persistencia es compatible con JPA?",
+    "options": [
+      {
+        "text": "SQL Server.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hibernate.",
+        "isCorrect": true
+      },
+      {
+        "text": "MySQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "MongoDB.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 117,
+    "question": "¿Qué lenguaje de consultas es utilizado por JPA?",
+    "options": [
+      {
+        "text": "SQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "JPQL.",
+        "isCorrect": true
+      },
+      {
+        "text": "XML.",
+        "isCorrect": false
+      },
+      {
+        "text": "HQL.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 118,
+    "question": "¿Qué estrategia de generación de claves primarias utiliza la anotación @GeneratedValue(strategy = GenerationType.IDENTITY) ?",
+    "options": [
+      {
+        "text": "Genera la clave primaria mediante una secuencia de base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Genera la clave primaria mediante una tabla especial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permite que la base de datos genere automáticamente la clave primaria.",
+        "isCorrect": true
+      },
+      {
+        "text": "Delega en JPA la estrategia de generación de clave primaria.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 119,
+    "question": "¿Qué función de MongoDB se usa para eliminar varios documentos?",
+    "options": [
+      {
+        "text": "`removeOne()`.",
+        "isCorrect": false
+      },
+      {
+        "text": "`deleteMany()`.",
+        "isCorrect": true
+      },
+      {
+        "text": "`dropMany()`.",
+        "isCorrect": false
+      },
+      {
+        "text": "`delete()`.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 120,
+    "question": "¿Qué comando se usa para insertar un solo documento en MongoDB?",
+    "options": [
+      {
+        "text": "`insertOne()`.",
+        "isCorrect": true
+      },
+      {
+        "text": "`save()`.",
+        "isCorrect": false
+      },
+      {
+        "text": "`insertMany()`.",
+        "isCorrect": false
+      },
+      {
+        "text": "`insertDocument()`.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 121,
+    "question": "¿Qué hace el método `save()` en MongoDB?",
+    "options": [
+      {
+        "text": "Inserta un nuevo documento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reemplaza un documento si ya existe, o lo crea si no.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elimina un documento existente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo actualiza un campo en un documento.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 122,
+    "question": "¿Cuál es el formato de consulta que utiliza MongoDB?",
+    "options": [
+      {
+        "text": "JSON.",
+        "isCorrect": true
+      },
+      {
+        "text": "SQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "XML.",
+        "isCorrect": false
+      },
+      {
+        "text": "YAML.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 123,
+    "question": "13. ¿Qué operador en MongoDB permite combinar múltiples condiciones?",
+    "options": [
+      {
+        "text": "`$and`.",
+        "isCorrect": true
+      },
+      {
+        "text": "`$combine`.",
+        "isCorrect": false
+      },
+      {
+        "text": "`$join`.",
+        "isCorrect": false
+      },
+      {
+        "text": "`$merge`.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 124,
+    "question": "¿Qué comando se usa para realizar una consulta en MongoDB?",
+    "options": [
+      {
+        "text": "`select()`.",
+        "isCorrect": false
+      },
+      {
+        "text": "`get()`.",
+        "isCorrect": false
+      },
+      {
+        "text": "`find()`.",
+        "isCorrect": true
+      },
+      {
+        "text": "`search()`.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 125,
+    "question": "¿Cuál es el propósito del operador $match en MongoDB?",
+    "options": [
+      {
+        "text": "Ordenar los documentos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Filtrar documentos según una condición.",
+        "isCorrect": true
+      },
+      {
+        "text": "Unir colecciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Actualizar documentos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 126,
+    "question": "¿Qué anotación se utiliza para definir una colección en MongoDB dentro de una clase en Spring Data?",
+    "options": [
+      {
+        "text": "@Table.",
+        "isCorrect": false
+      },
+      {
+        "text": "@Entity.",
+        "isCorrect": false
+      },
+      {
+        "text": "@Document.",
+        "isCorrect": true
+      },
+      {
+        "text": "@Collection.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 127,
+    "question": "¿Cuál es el propósito de la anotación @Query en Spring Data MongoDB?",
+    "options": [
+      {
+        "text": "Definir una consulta SQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "Indicar el ID de un documento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Especificar una consulta personalizada en MongoDB.",
+        "isCorrect": true
+      },
+      {
+        "text": "Declarar un índice en la base de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 128,
+    "question": "¿Qué operador en MongoDB se utiliza para buscar coincidencias con expresiones regulares?",
+    "options": [
+      {
+        "text": "$match.",
+        "isCorrect": false
+      },
+      {
+        "text": "$regex.",
+        "isCorrect": true
+      },
+      {
+        "text": "$find.",
+        "isCorrect": false
+      },
+      {
+        "text": "$like.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 129,
+    "question": "¿Qué interfaz proporciona Spring Data MongoDB para realizar operaciones CRUD?",
+    "options": [
+      {
+        "text": "JpaRepository.",
+        "isCorrect": false
+      },
+      {
+        "text": "CrudRepository.",
+        "isCorrect": false
+      },
+      {
+        "text": "MongoRepository.",
+        "isCorrect": true
+      },
+      {
+        "text": "MongoCRUD.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 130,
+    "question": "¿Qué es una API RESTful?",
+    "options": [
+      {
+        "text": "Un servidor web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una interfaz de comunicación entre cliente y servidor basada en HTTP.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una herramienta para gestionar bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un lenguaje de programación.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 131,
+    "question": "¿Qué característica describe mejor a Express.js?",
+    "options": [
+      {
+        "text": "Maneja bases de datos relacionales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es un framework ligero para manejar peticiones HTTP en Node.js.",
+        "isCorrect": true
+      },
+      {
+        "text": "Es una biblioteca de diseño para front-end.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es un entorno de ejecución para JavaScript.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 132,
+    "question": "¿Qué es Spring Boot?",
+    "options": [
+      {
+        "text": "Un lenguaje de programación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un framework front-end.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una base de datos relacional.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un framework back-end basado en Java.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 133,
+    "question": "¿Qué principio SOLID establece que es preferible tener muchas interfaces pequeñas en lugar de una sola interfaz grande?",
+    "options": [
+      {
+        "text": "Sustitución de Liskov.",
+        "isCorrect": false
+      },
+      {
+        "text": "Segregación de interfaces.",
+        "isCorrect": true
+      },
+      {
+        "text": "Responsabilidad única.",
+        "isCorrect": false
+      },
+      {
+        "text": "Abierto/cerrado.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 134,
+    "question": "¿Cuál es el rol principal de Angular en el stack MEAN+Spring?",
+    "options": [
+      {
+        "text": "Actuar como el servidor de la aplicación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gestionar la base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear la interfaz de usuario en el front-end.",
+        "isCorrect": true
+      },
+      {
+        "text": "Proporcionar la lógica de negocio en el servidor",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 135,
+    "question": "¿Cuál de los siguientes es un principio básico de seguridad en aplicaciones web?",
+    "options": [
+      {
+        "text": "Disponibilidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Confidencialidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Trazabilidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Autenticidad",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 136,
+    "question": "¿Cuál de los siguientes métodos envía las credenciales en claro (sin cifrar)?",
+    "options": [
+      {
+        "text": "BASIC.",
+        "isCorrect": true
+      },
+      {
+        "text": "DIGEST.",
+        "isCorrect": false
+      },
+      {
+        "text": "FORM.",
+        "isCorrect": false
+      },
+      {
+        "text": "CLIENT-CERT.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 137,
+    "question": "¿Qué hace la anotación @RolesAllowed en JEE?",
+    "options": [
+      {
+        "text": "Restringe el acceso a ciertos métodos a usuarios en roles específicos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Define la autenticación de formularios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Genera un archivo de configuración de seguridad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Asigna roles a usuarios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 138,
+    "question": "¿Qué elemento en el archivo web.xml define qué roles tienen acceso a recursos específicos?",
+    "options": [
+      {
+        "text": "<login-config>.",
+        "isCorrect": false
+      },
+      {
+        "text": "<url-pattern>.",
+        "isCorrect": false
+      },
+      {
+        "text": "<auth-constraint>.",
+        "isCorrect": true
+      },
+      {
+        "text": "<form-login-config",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 139,
+    "question": "¿Cuál de las siguientes NO es una característica de Express?",
+    "options": [
+      {
+        "text": "Flexibilidad para crear rutas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Soporte para middleware.",
+        "isCorrect": false
+      },
+      {
+        "text": "Herramientas nativas para frontend.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gestión de respuestas HTTP.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 140,
+    "question": "¿Cómo se crea una nueva ruta GET en Express?",
+    "options": [
+      {
+        "text": "app.post('/' , function(req, res){}).",
+        "isCorrect": false
+      },
+      {
+        "text": "app.get('/' , function(req, res){}).",
+        "isCorrect": true
+      },
+      {
+        "text": "app.route('/' , function(req, res){}).",
+        "isCorrect": false
+      },
+      {
+        "text": "app.use('/' , function(req, res){}).",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 141,
+    "question": "¿Qué motor de plantillas se utiliza en el siguiente código: app.set('view engine' , 'pug');?",
+    "options": [
+      {
+        "text": "PUG.",
+        "isCorrect": true
+      },
+      {
+        "text": "Handlebars.",
+        "isCorrect": false
+      },
+      {
+        "text": "EJS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Jade.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 142,
+    "question": "¿Cuál de las siguientes opciones instala Express Generator?",
+    "options": [
+      {
+        "text": "npm install express.",
+        "isCorrect": false
+      },
+      {
+        "text": "npm install -g express-generator.",
+        "isCorrect": true
+      },
+      {
+        "text": "npm install express-generator –save.",
+        "isCorrect": false
+      },
+      {
+        "text": "npm install express --view=pug.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 143,
+    "question": "¿Cuál es la función de next() en un middleware?",
+    "options": [
+      {
+        "text": "Detener la ejecución.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pasar el control al siguiente middleware.",
+        "isCorrect": true
+      },
+      {
+        "text": "Enviar una respuesta.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reiniciar el servidor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 144,
+    "question": "¿Cuál es una ventaja principal de usar Express en lugar de solo Node.js?",
+    "options": [
+      {
+        "text": "Requiere menos memoria.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tiene mejor rendimiento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Simplifica la creación de rutas y middleware.",
+        "isCorrect": true
+      },
+      {
+        "text": "Proporciona mejores herramientas de frontend.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 145,
+    "question": "¿Qué librería facilita la interacción entre MongoDB y ExpressJS?",
+    "options": [
+      {
+        "text": "Sequelize.",
+        "isCorrect": false
+      },
+      {
+        "text": "MySQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "Lodash.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mongoose.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 146,
+    "question": "¿Cómo se define un middleware en ExpressJS?",
+    "options": [
+      {
+        "text": "app.use().",
+        "isCorrect": true
+      },
+      {
+        "text": "app.get().",
+        "isCorrect": false
+      },
+      {
+        "text": "app.post().",
+        "isCorrect": false
+      },
+      {
+        "text": "app.schema().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 147,
+    "question": "¿Qué comando instala la librería Mongoose en Node.js?",
+    "options": [
+      {
+        "text": "npm install express.",
+        "isCorrect": false
+      },
+      {
+        "text": "npm install mongodb.",
+        "isCorrect": false
+      },
+      {
+        "text": "npm install mongoose.",
+        "isCorrect": true
+      },
+      {
+        "text": "npm install mongo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 148,
+    "question": "¿Cuál de las siguientes características NO pertenece a ExpressJS?",
+    "options": [
+      {
+        "text": "Gestión de rutas HTTP.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gestión de esquemas de datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Middleware de preprocesamiento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manejo de API RESTful.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 149,
+    "question": "¿Cómo podemos crear una página JSP?",
+    "options": [
+      {
+        "text": "Dentro del proyecto, hay que tocar el botón derecho para elegir «Export » → «JSP File».",
+        "isCorrect": false
+      },
+      {
+        "text": "Dentro del proyecto, elegir «Opciones»→ «Configuración» → «JSP File».",
+        "isCorrect": false
+      },
+      {
+        "text": "Dentro del proyecto hay que tocar botón derecho para elegir «New» → «JSP File».",
+        "isCorrect": true
+      },
+      {
+        "text": "Dentro del proyecto, hay que ir a la pestaña «Archivo» → «Show In» → «JSP File».",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 150,
+    "question": "¿Cuál es el directorio donde debemos almacenar las páginas JSP?",
+    "options": [
+      {
+        "text": "SRC.",
+        "isCorrect": false
+      },
+      {
+        "text": "WebContent o webapp.",
+        "isCorrect": true
+      },
+      {
+        "text": "«main» → «Java».",
+        "isCorrect": false
+      },
+      {
+        "text": "Sources.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 151,
+    "question": "¿A qué clase pertenece el objeto Config ?",
+    "options": [
+      {
+        "text": "HttpConfig.",
+        "isCorrect": false
+      },
+      {
+        "text": "HttpServletConfig.",
+        "isCorrect": false
+      },
+      {
+        "text": "ServletConfig.",
+        "isCorrect": true
+      },
+      {
+        "text": "ServletHttpConfig.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 152,
+    "question": "¿Qué código encontramos en una página JSP?",
+    "options": [
+      {
+        "text": "Código HTML y código Java.",
+        "isCorrect": true
+      },
+      {
+        "text": "Código Java y código Python.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo código Java.",
+        "isCorrect": false
+      },
+      {
+        "text": "Código Java y código CSS.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 153,
+    "question": "¿Cuál es la sintaxis de las acciones JSP?",
+    "options": [
+      {
+        "text": "<jsp:accion [parámetros]/>.",
+        "isCorrect": true
+      },
+      {
+        "text": "<accion [parámetros]>.",
+        "isCorrect": false
+      },
+      {
+        "text": "lt;jsp:accion [parámetros]>.",
+        "isCorrect": false
+      },
+      {
+        "text": "<jsp [parámetros]:accion/>.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 154,
+    "question": "Los objetos implícitos sirven para:",
+    "options": [
+      {
+        "text": "Acceder a las clases padre.",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceder a diferente información como parámetros, atributos, etc.",
+        "isCorrect": true
+      },
+      {
+        "text": "Acceder a las librerías del proyecto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceder a la información de las clases privadas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 155,
+    "question": "¿A qué clase pertenece el objeto Response ?",
+    "options": [
+      {
+        "text": "HttpServlet.",
+        "isCorrect": false
+      },
+      {
+        "text": "HttpSession.",
+        "isCorrect": false
+      },
+      {
+        "text": "HttpResponse.",
+        "isCorrect": false
+      },
+      {
+        "text": "HttpServletResponse.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 156,
+    "question": "HTTP es un:",
+    "options": [
+      {
+        "text": "Lenguaje de programación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Lenguaje de marcado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Protocolo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Puerto.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t1",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 157,
+    "question": "¿Cómo se denomina el archivo donde se configuran las dependencias en un proyecto Maven?",
+    "options": [
+      {
+        "text": "settings.xml.",
+        "isCorrect": false
+      },
+      {
+        "text": "manifest.xml.",
+        "isCorrect": false
+      },
+      {
+        "text": "pom.xml.",
+        "isCorrect": true
+      },
+      {
+        "text": "config.xml.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t1",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 158,
+    "question": "¿Qué anotación en Spring Boot se utiliza para mapear un parámetro en la URL?",
+    "options": [
+      {
+        "text": "@RequestBody.",
+        "isCorrect": false
+      },
+      {
+        "text": "@PathVariable.",
+        "isCorrect": true
+      },
+      {
+        "text": "@RequestParam.",
+        "isCorrect": false
+      },
+      {
+        "text": "@ModelAttribute.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t1",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 159,
+    "question": "¿Cuál es el propósito principal de una capa de persistencia?",
+    "options": [
+      {
+        "text": "Permitir que las aplicaciones Java manipulen datos en bases de datos utilizando objetos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Acelerar el acceso a la base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear la base de datos automáticamente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitar la conexión a diferentes bases de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t1",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 160,
+    "question": "¿Cuál es el rol de la anotación @Entity en JPA?",
+    "options": [
+      {
+        "text": "Define la clave primaria de una tabla.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crea un índice en una tabla.",
+        "isCorrect": false
+      },
+      {
+        "text": "Indica que una clase Java es una entidad que debe mapearse a una tabla de base de datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Establece una relación entre dos entidades.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t1",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 161,
+    "question": "¿Qué es EntityManager en JPA?",
+    "options": [
+      {
+        "text": "Es la interfaz principal para realizar operaciones CRUD y consultas en la capa de persistencia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Es el archivo de configuración que define la unidad de persistencia.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es una clase que se utiliza para definir la clave primaria.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es un método para gestionar transacciones en JPA.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t1",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 162,
+    "question": "¿Cuál de las siguientes anotaciones se usa para definir una relación entre entidades?",
+    "options": [
+      {
+        "text": "@Table.",
+        "isCorrect": false
+      },
+      {
+        "text": "@Column.",
+        "isCorrect": false
+      },
+      {
+        "text": "@OneToMany.",
+        "isCorrect": true
+      },
+      {
+        "text": "@GeneratedValue.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t1",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 163,
+    "question": "¿Cómo se obtiene un solo documento de una colección usando MongoRepository?",
+    "options": [
+      {
+        "text": "findById().",
+        "isCorrect": true
+      },
+      {
+        "text": "getOne().",
+        "isCorrect": false
+      },
+      {
+        "text": "findOne().",
+        "isCorrect": false
+      },
+      {
+        "text": "fetchOne().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t1",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 164,
+    "question": "¿Cuál de las siguientes tecnologías forma parte del back-end en el stack MEAN?",
+    "options": [
+      {
+        "text": "Angular.",
+        "isCorrect": false
+      },
+      {
+        "text": "MongoDB",
+        "isCorrect": false
+      },
+      {
+        "text": "HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Node.js.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t2",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 165,
+    "question": "¿Cuál de las siguientes no es una tecnología del stack MEAN?",
+    "options": [
+      {
+        "text": "Angular.",
+        "isCorrect": false
+      },
+      {
+        "text": "Spring Boot.",
+        "isCorrect": true
+      },
+      {
+        "text": "MongoDB.",
+        "isCorrect": false
+      },
+      {
+        "text": "Node.js.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t2",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 166,
+    "question": "¿Qué significa el término «autenticación» en el contexto de seguridad web?",
+    "options": [
+      {
+        "text": "La capacidad de acceder a la información de la aplicación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Verificar que el usuario es quien dice ser.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dar acceso a recursos específicos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Definir roles de usuario.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t2",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 167,
+    "question": "¿Qué es ExpressJS?",
+    "options": [
+      {
+        "text": "Un sistema operativo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un framework para Node.js.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un lenguaje de programación.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t2",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 168,
+    "question": "¿Cuál de las siguientes opciones inicia un servidor con Express?",
+    "options": [
+      {
+        "text": "npm start server",
+        "isCorrect": false
+      },
+      {
+        "text": "node start.js",
+        "isCorrect": false
+      },
+      {
+        "text": "node ./bin/www",
+        "isCorrect": true
+      },
+      {
+        "text": "npm run start",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t2",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 169,
+    "question": "¿Cómo se realiza la conexión a una base de datos MongoDB desde Mongoose?",
+    "options": [
+      {
+        "text": "mongodb.connect(url)",
+        "isCorrect": false
+      },
+      {
+        "text": "mongoose.connect(url)",
+        "isCorrect": true
+      },
+      {
+        "text": "express.connect(url)",
+        "isCorrect": false
+      },
+      {
+        "text": "mongoose.start(url)",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t2",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 170,
+    "question": "¿Qué comando se utiliza para eliminar un documento por ID en MongoDB con Mongoose?",
+    "options": [
+      {
+        "text": "findAndDelete.",
+        "isCorrect": false
+      },
+      {
+        "text": "deleteById.",
+        "isCorrect": false
+      },
+      {
+        "text": "removeById.",
+        "isCorrect": false
+      },
+      {
+        "text": "findByIdAndDelete.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-t2",
+    "reviewedAsDudosa": true
+  }
+]

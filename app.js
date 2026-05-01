@@ -1,6 +1,18 @@
 const appRoot = document.querySelector("#app");
 
-const subjectFiles = ["Acceso a Datos.json", "Desarrollo de Interfaces.json", "Digitalizacion.json", "IPE.json" ];
+const subjects = [
+  { label: "Acceso a Datos", file: "Acceso a Datos.json" },
+  { label: "Desarrollo de Interfaces", file: "Desarrollo de Interfaces.json" },
+  { label: "Digitalizacion", file: "Digitalizacion.json" },
+  { label: "IPE", file: "IPE.json" },
+  { label: "TESTS - Cliente", file: "TESTS - Cliente.json" },
+  { label: "TESTS - Despliegue", file: "TESTS - Despliegue.json" },
+  { label: "TESTS - Digitalizacion", file: "TESTS - Digitalizacion.json" },
+  { label: "TESTS - Interfaces", file: "TESTS - Interfaces.json" },
+  { label: "TESTS - Python", file: "TESTS - Python.json" },
+  { label: "TESTS - Servidor", file: "TESTS - Servidor.json" },
+  { label: "TESTS - Sostenibilidad", file: "TESTS - Sostenibilidad.json" },
+];
 const countOptions = [10, 20, 50, "all", "custom"];
 
 const initialState = {
@@ -35,10 +47,24 @@ function render() {
 }
 
 function renderHome() {
-  const subjectButtons = subjectFiles
-    .map((fileName) => {
-      const label = formatSubjectLabel(fileName);
-      return `<button data-action="select-subject" data-file="${escapeHtml(fileName)}">${escapeHtml(label)}</button>`;
+  const subjectButtons = subjects
+    .map((subject) => {
+      if (subject.disabledReason) {
+        return `
+          <button class="subject-button disabled" type="button" disabled>
+            <span>${escapeHtml(subject.label)}</span>
+            <small>${escapeHtml(subject.disabledReason)}</small>
+          </button>
+        `;
+      }
+
+      return `
+        <button class="subject-button" type="button" data-action="select-subject" data-file="${escapeHtml(
+          subject.file
+        )}">
+          <span>${escapeHtml(subject.label)}</span>
+        </button>
+      `;
     })
     .join("");
 
@@ -67,7 +93,7 @@ function renderConfig() {
     return;
   }
 
-  const subjectLabel = formatSubjectLabel(appState.selectedFile);
+  const subjectLabel = getSubjectLabel(appState.selectedFile);
   const countButtons = countOptions
     .map((countValue) => {
       const selectedClass = appState.selectedCount === countValue ? "primary" : "";
@@ -186,9 +212,13 @@ function isValidQuestion(questionItem) {
   if (typeof questionItem.question !== "string") return false;
   if (!Array.isArray(questionItem.options) || questionItem.options.length < 2) return false;
 
-  return questionItem.options.every((optionItem) => {
+  const hasValidOptions = questionItem.options.every((optionItem) => {
     return optionItem && typeof optionItem.text === "string" && typeof optionItem.isCorrect === "boolean";
   });
+
+  if (!hasValidOptions) return false;
+
+  return questionItem.options.filter((optionItem) => optionItem.isCorrect).length === 1;
 }
 
 function renderQuiz() {
@@ -203,6 +233,8 @@ function renderQuiz() {
   const isAnswered = selectedOptionIndex !== undefined;
   const progressPercent = Math.round((session.index / session.questions.length) * 100);
   const nextButtonLabel = session.index === session.questions.length - 1 ? "Ver resultado" : "Siguiente";
+  const doubtfulBadge =
+    currentQuestion.confidence === "dudosa" ? '<span class="question-badge">Dudosa</span>' : "";
 
   const optionsMarkup = currentQuestion.options
     .map((optionItem, optionIndex) => {
@@ -234,6 +266,7 @@ function renderQuiz() {
     </section>
 
     <section class="card">
+      ${doubtfulBadge}
       <h3>${escapeHtml(currentQuestion.question)}</h3>
       <div class="options-list">${optionsMarkup}</div>
       <p class="helper">${isAnswered ? "Respuesta guardada." : "Selecciona una respuesta para continuar."}</p>
@@ -373,6 +406,11 @@ function getCountLabel(countValue) {
   if (countValue === "all") return "Todas";
   if (countValue === "custom") return "Personalizado";
   return String(countValue);
+}
+
+function getSubjectLabel(fileName) {
+  const subject = subjects.find((subjectItem) => subjectItem.file === fileName);
+  return subject ? subject.label : formatSubjectLabel(fileName);
 }
 
 function formatSubjectLabel(fileName) {

@@ -1,0 +1,5077 @@
+[
+  {
+    "id": 1,
+    "question": "Visual Studio Code integra directamente:",
+    "options": [
+      {
+        "text": "Control de Git.",
+        "isCorrect": false
+      },
+      {
+        "text": "Finalizaci\u00f3n inteligente de c\u00f3digo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Implementa soporte para la depuraci\u00f3n y resaltado de sintaxis.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todas son correctas.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 2,
+    "question": "Para favorecer el SEO de una p\u00e1gina web:",
+    "options": [
+      {
+        "text": "Deber\u00edamos tener un solo archivo .js con toda la funcionalidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Lo mejor ser\u00eda separar las acciones que desarrollemos en tantos archivos con extensi\u00f3n .js.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todas son incorrectas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Incluir el c\u00f3digo JavaScript dentro del fichero HTML.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 3,
+    "question": "Visual Studio Code:",
+    "options": [
+      {
+        "text": "Esta desarrollado en TypeScript, JavaScript y CSS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todas son correctas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Se encuentra disponible en Windows, macOs y Linux.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuenta con un amplio ecosistema de extensiones para ampliar sus funcionalidades.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 4,
+    "question": "Typescript:",
+    "options": [
+      {
+        "text": "Es un lenguaje de programaci\u00f3n fuertemente tipado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se basa en JavaScript.",
+        "isCorrect": false
+      },
+      {
+        "text": "Est\u00e1 creciendo en popularidad debido al uso en frameworks, como Angular y React.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todas son correctas.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 5,
+    "question": "Para insertar c\u00f3digo JavaScript en una p\u00e1gina web:",
+    "options": [
+      {
+        "text": "Siempre se insertar en los propios elementos HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "No se puede, JavaScript solo se ejecuta en el servidor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todas son incorrectas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Siempre se debe de hacer en un fichero externo.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 6,
+    "question": "\u00bfQu\u00e9 frameworks o bibliotecas son compatibles con Typescript?:",
+    "options": [
+      {
+        "text": "Angular.",
+        "isCorrect": false
+      },
+      {
+        "text": "Angular y React.",
+        "isCorrect": true
+      },
+      {
+        "text": "Angular y Vue.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todas son incorrectas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 7,
+    "question": "Actualmente en JavaScript, se importan librer\u00edas para:",
+    "options": [
+      {
+        "text": "AJAX / recuperaci\u00f3n de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manipulaci\u00f3n del DOM.",
+        "isCorrect": false
+      },
+      {
+        "text": "Efectos y animaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todas son correctas.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 8,
+    "question": "\u00bfCu\u00e1l de estos lenguajes es un lenguaje de programaci\u00f3n?:",
+    "options": [
+      {
+        "text": "HTML y JavaScript.",
+        "isCorrect": false
+      },
+      {
+        "text": "JavaScript.",
+        "isCorrect": true
+      },
+      {
+        "text": "HTML y XHTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "JavaScript y XML.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 9,
+    "question": "En JavaScript, la manera de reutilizar c\u00f3digo es:",
+    "options": [
+      {
+        "text": "No se puede.",
+        "isCorrect": false
+      },
+      {
+        "text": "Copiando y pegando en cada HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Usando una biblioteca, es decir, un archivo de JS que contiene muchas funciones precocinadas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Todas son incorrectas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 10,
+    "question": "Consorcio W3C (world wide web consortium) se dedica:",
+    "options": [
+      {
+        "text": "Organizaci\u00f3n de est\u00e1ndares de internet.",
+        "isCorrect": true
+      },
+      {
+        "text": "Crear aplicaciones de validaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "A la formaci\u00f3n de los usuarios de internet.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todas son correctas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 11,
+    "question": "\u00bfQu\u00e9 frameworks o bibliotecas nos permiten usar JavaScript fuera del navegador?:",
+    "options": [
+      {
+        "text": "Angular y Vue.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ember.",
+        "isCorrect": false
+      },
+      {
+        "text": "NodeJS.",
+        "isCorrect": true
+      },
+      {
+        "text": "Todas son correctas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 12,
+    "question": "\u00bfCu\u00e1les de estos navegadores, los m\u00e1s importantes actualmente, son de c\u00f3digo abierto?:",
+    "options": [
+      {
+        "text": "Son todos de software propietario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Chrome y Firefox.",
+        "isCorrect": true
+      },
+      {
+        "text": "Chrome, Firefox y Safari.",
+        "isCorrect": false
+      },
+      {
+        "text": "Chrome, Firefox y Opera.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 13,
+    "question": "En la arquitectura cliente-servidor:",
+    "options": [
+      {
+        "text": "El cliente: solicita y responde a solicitud.",
+        "isCorrect": false
+      },
+      {
+        "text": "El servidor solicita la informaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "El servidor solicita y responde a la solicitud.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todas son incorrectas.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 14,
+    "question": "Para acceder m\u00e1s f\u00e1cilmente a los contenidos definidos en un documento HTML los navegadores suelen:",
+    "options": [
+      {
+        "text": "Tener un sistema de persistencia de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un int\u00e9rprete de JavaScript.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un motor de renderizaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un m\u00f3dulo denominado parser.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 15,
+    "question": "\u00bfCu\u00e1l de estos lenguajes derivan de SGML?:",
+    "options": [
+      {
+        "text": "HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "XML.",
+        "isCorrect": false
+      },
+      {
+        "text": "CSS",
+        "isCorrect": false
+      },
+      {
+        "text": "HTML y XML",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 16,
+    "question": "Cual de estos lenguajes de marcas interpreta el navegador para mostrar contenido:",
+    "options": [
+      {
+        "text": "HTML y CSS.",
+        "isCorrect": true
+      },
+      {
+        "text": "HTML y XML.",
+        "isCorrect": false
+      },
+      {
+        "text": "HTML y XHTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "HTML, XML y XHTML.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 17,
+    "question": "El software cliente m\u00e1s utilizado es el navegador su funci\u00f3n principal es:",
+    "options": [
+      {
+        "text": "Generar requerimientos de bases de datos y recibir/formatear los resultados del servidor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Procesar la l\u00f3gica de la aplicaci\u00f3n y hacer validaciones locales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solicitar al servidor los recursos elegidos por el usuario y mostrarlos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Todas son correctas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 18,
+    "question": "Los navegadores tienen un sistema de persistencia de datos para:",
+    "options": [
+      {
+        "text": "Guardar los scripts de JS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manipulaci\u00f3n del DOM.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almac\u00e9n de diferentes tipos de datos (historias, sesiones de usuario, certificados, etc.)",
+        "isCorrect": true
+      },
+      {
+        "text": "Todas son incorrectas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 19,
+    "question": "\u00bfQu\u00e9 significa que JavaScript es un lenguaje de \"hilo \u00fanico\"?",
+    "options": [
+      {
+        "text": "Solo puede ejecutar una l\u00ednea de c\u00f3digo a la vez.",
+        "isCorrect": false
+      },
+      {
+        "text": "No permite el uso de promesas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo tiene un flujo de ejecuci\u00f3n principal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo puede manejar eventos de un solo tipo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 20,
+    "question": "\u00bfCu\u00e1l de los siguientes m\u00e9todos se utiliza para cambiar el valor de un atributo en un elemento del DOM?",
+    "options": [
+      {
+        "text": "changeAttribute.",
+        "isCorrect": false
+      },
+      {
+        "text": "setAttribute.",
+        "isCorrect": true
+      },
+      {
+        "text": "modifyAttribute.",
+        "isCorrect": false
+      },
+      {
+        "text": "updateAttribute.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 21,
+    "question": "\u00bfQu\u00e9 m\u00e9todo de eventos es m\u00e1s recomendado para suscribirse a eventos en JavaScript?",
+    "options": [
+      {
+        "text": "OnClick.",
+        "isCorrect": false
+      },
+      {
+        "text": "addEventListener.",
+        "isCorrect": true
+      },
+      {
+        "text": "bindEvent.",
+        "isCorrect": false
+      },
+      {
+        "text": "attachEvent.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 22,
+    "question": "\u00bfCu\u00e1l es el objetivo de usar la palabra clave async en una funci\u00f3n de JavaScript?",
+    "options": [
+      {
+        "text": "Hacer que la funci\u00f3n se ejecute m\u00e1s r\u00e1pido.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bloquear la ejecuci\u00f3n de otras funciones",
+        "isCorrect": false
+      },
+      {
+        "text": "Detener la ejecuci\u00f3n de la funci\u00f3n hasta que se cumpla una condici\u00f3n",
+        "isCorrect": false
+      },
+      {
+        "text": "Convertir la funci\u00f3n en as\u00edncrona",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 23,
+    "question": "\u00bfC\u00f3mo se crea una promesa en estado \"fulfilled\" en JavaScript?",
+    "options": [
+      {
+        "text": "Utilizando reject().",
+        "isCorrect": false
+      },
+      {
+        "text": "Llamando a resolve().",
+        "isCorrect": true
+      },
+      {
+        "text": "Usando then().",
+        "isCorrect": false
+      },
+      {
+        "text": "Usando finally().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 24,
+    "question": "\u00bfCu\u00e1l es el estado inicial de una promesa en JavaScript?",
+    "options": [
+      {
+        "text": "FullFilled.",
+        "isCorrect": false
+      },
+      {
+        "text": "Rejected.",
+        "isCorrect": false
+      },
+      {
+        "text": "Incomplete.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pending.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 25,
+    "question": "\u00bfQu\u00e9 m\u00e9todo de JavaScript permite obtener un elemento por su ID?",
+    "options": [
+      {
+        "text": "querySelector.",
+        "isCorrect": false
+      },
+      {
+        "text": "getElementByClassName.",
+        "isCorrect": false
+      },
+      {
+        "text": "getElementById",
+        "isCorrect": true
+      },
+      {
+        "text": "querySelectorAll",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 26,
+    "question": "\u00bf Cu\u00e1l es la diferencia entre querySelector y querySelectorAll en JavaScript?",
+    "options": [
+      {
+        "text": "querySelector devuelve un solo elemento y querySelectorAll devuelve todos los elementos que coincidan",
+        "isCorrect": true
+      },
+      {
+        "text": "querySelector devuelve un array y querySelectorAll una cadena de texto",
+        "isCorrect": false
+      },
+      {
+        "text": "querySelectorAll es m\u00e1s r\u00e1pido que querySelector.",
+        "isCorrect": false
+      },
+      {
+        "text": "querySelector solo selecciona por clase y querySelectorAll por ID.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 27,
+    "question": "\u00bfCu\u00e1l es el tipo de evento que se dispara cuando se hace clic en un bot\u00f3n?",
+    "options": [
+      {
+        "text": "mouseover.",
+        "isCorrect": false
+      },
+      {
+        "text": "dbclick.",
+        "isCorrect": false
+      },
+      {
+        "text": "submit.",
+        "isCorrect": false
+      },
+      {
+        "text": "click",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 28,
+    "question": "\u00bfQu\u00e9 propiedad de un elemento del DOM se utiliza para obtener o modificar su clase CSS?",
+    "options": [
+      {
+        "text": "classList.",
+        "isCorrect": false
+      },
+      {
+        "text": "className.",
+        "isCorrect": true
+      },
+      {
+        "text": "style.",
+        "isCorrect": false
+      },
+      {
+        "text": "cssSelector.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 29,
+    "question": "\u00bfQu\u00e9 propiedad se utiliza para cambiar el contenido HTML interno de un elemento?",
+    "options": [
+      {
+        "text": "innerHTML.",
+        "isCorrect": true
+      },
+      {
+        "text": "textContent.",
+        "isCorrect": false
+      },
+      {
+        "text": "classList.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todas las opciones son correctas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 30,
+    "question": "\u00bfQu\u00e9 significa el m\u00e9todo JSON.parse()?",
+    "options": [
+      {
+        "text": "Convierte un objeto en una cadena de texto",
+        "isCorrect": true
+      },
+      {
+        "text": "Ejecuta una cadena de c\u00f3digo en formato JSON",
+        "isCorrect": false
+      },
+      {
+        "text": "Convierte un archivo en formato JSON.",
+        "isCorrect": false
+      },
+      {
+        "text": "Convierte una cadena de texto en un objeto",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 31,
+    "question": "\u00bfCu\u00e1l de las siguientes es una ventaja del uso de JSON en JavaScript?:",
+    "options": [
+      {
+        "text": "Es m\u00e1s r\u00e1pido que XML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se parece a la sintaxis de los objetos en JavaScript.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo se puede usar en navegadores modernos.",
+        "isCorrect": false
+      },
+      {
+        "text": "No requiere un servidor para funcionar.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 32,
+    "question": "\u00bfQu\u00e9 es el DOM en JavaScript?",
+    "options": [
+      {
+        "text": "Un lenguaje de programaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una representaci\u00f3n en memoria de un documento HTML.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un m\u00e9todo para hacer peticiones HTTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "Una estructura de datos de Java.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 33,
+    "question": "\u00bfQu\u00e9 propiedad de un objeto fetch se utiliza para verificar si una petici\u00f3n HTTP ha sido exitosa?",
+    "options": [
+      {
+        "text": "status.",
+        "isCorrect": false
+      },
+      {
+        "text": "responseText",
+        "isCorrect": false
+      },
+      {
+        "text": "ok.",
+        "isCorrect": true
+      },
+      {
+        "text": "readyState.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 34,
+    "question": "\u00bfQu\u00e9 hace el m\u00e9todo fetch en JavaScript?",
+    "options": [
+      {
+        "text": "Cargar archivos del sistema local.",
+        "isCorrect": false
+      },
+      {
+        "text": "Realiza peticiones HTTP.",
+        "isCorrect": true
+      },
+      {
+        "text": "Modifica el DOM.",
+        "isCorrect": false
+      },
+      {
+        "text": "Genera eventos de usuario.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 35,
+    "question": "\u00bfQu\u00e9 evento se dispara cuando el documento HTML ha sido completamente cargado y procesado por el navegador?",
+    "options": [
+      {
+        "text": "load",
+        "isCorrect": false
+      },
+      {
+        "text": "DOMReady.",
+        "isCorrect": false
+      },
+      {
+        "text": "DOMContentLoaded.",
+        "isCorrect": true
+      },
+      {
+        "text": "completeDOM.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 36,
+    "question": "\u00bfQu\u00e9 se obtiene al ejecutar JSON.stringify(objeto)?",
+    "options": [
+      {
+        "text": "Un objeto con formato JSON.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una cadena de texto en formato JSON.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una promesa que resuelve un objeto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un archivo con datos JSON.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 37,
+    "question": "\u00bfQu\u00e9 m\u00e9todo permite eliminar un nodo hijo en el DOM?",
+    "options": [
+      {
+        "text": "removeNode.",
+        "isCorrect": false
+      },
+      {
+        "text": "deleteNode.",
+        "isCorrect": false
+      },
+      {
+        "text": "removeChild",
+        "isCorrect": true
+      },
+      {
+        "text": "deleteChild",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 38,
+    "question": "\u00bfQu\u00e9 tipo se utiliza en una funci\u00f3n que no devuelve ning\u00fan valor?",
+    "options": [
+      {
+        "text": "undefined.",
+        "isCorrect": false
+      },
+      {
+        "text": "void.",
+        "isCorrect": true
+      },
+      {
+        "text": "null.",
+        "isCorrect": false
+      },
+      {
+        "text": "empty.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 39,
+    "question": "\u00bfQu\u00e9 es una clase abstracta en TypeScript?",
+    "options": [
+      {
+        "text": "Una clase que se instancia solo una vez.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una clase que se ejecuta en segundo plano.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una clase que no tiene m\u00e9todos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una clase que no puede instanciarse y se utiliza como base para otras clases.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 40,
+    "question": "\u00bfCu\u00e1l es la salida esperada de la siguiente instrucci\u00f3n? let x: any = \u201chello\u201d; console.log((x as string).length);",
+    "options": [
+      {
+        "text": "'Hello'",
+        "isCorrect": false
+      },
+      {
+        "text": "5.",
+        "isCorrect": true
+      },
+      {
+        "text": "undefined.",
+        "isCorrect": false
+      },
+      {
+        "text": "NaN.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 41,
+    "question": "\u00bfQu\u00e9 se logra al usar la palabra clave override en TypeScript?",
+    "options": [
+      {
+        "text": "Eliminar una clase.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cambiar el tipo de una variable.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reemplazar un m\u00e9todo heredado de la clase padre.",
+        "isCorrect": true
+      },
+      {
+        "text": "Todas son incorrectas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 42,
+    "question": "\u00bfQu\u00e9 framework adopt\u00f3 TypeScript como su lenguaje por defecto?",
+    "options": [
+      {
+        "text": "React.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vue.js.",
+        "isCorrect": false
+      },
+      {
+        "text": "Angular.",
+        "isCorrect": true
+      },
+      {
+        "text": "Todas son correctas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 43,
+    "question": "\u00bfQu\u00e9 es una interfaz en TypeScript?",
+    "options": [
+      {
+        "text": "Un tipo de funci\u00f3n especial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una variable global.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una clase abstracta.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un contrato que define los m\u00e9todos y propiedades que deben implementarse.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 44,
+    "question": "\u00bfCu\u00e1l es la sintaxis correcta para definir un constructor de la clase Persona?",
+    "options": [
+      {
+        "text": "Persona(){}.",
+        "isCorrect": false
+      },
+      {
+        "text": "function Persona(){}",
+        "isCorrect": false
+      },
+      {
+        "text": "constructor(){}.",
+        "isCorrect": true
+      },
+      {
+        "text": "Todas son correctas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 45,
+    "question": "\u00bfCu\u00e1l es la principal ventaja de usar TypeScript sobre JavaScript?",
+    "options": [
+      {
+        "text": "Tipado fuerte y detecci\u00f3n de errores en tiempo de desarrollo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mayor velocidad de ejecuci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Compatibilidad con todos los navegadores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Menor tama\u00f1o de archivos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 46,
+    "question": "\u00bfCu\u00e1l es la extensi\u00f3n de los archivos de TypeScript?",
+    "options": [
+      {
+        "text": ".js.",
+        "isCorrect": false
+      },
+      {
+        "text": ".tsx.",
+        "isCorrect": false
+      },
+      {
+        "text": ".jsx.",
+        "isCorrect": false
+      },
+      {
+        "text": ".ts.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 47,
+    "question": "\u00bfQu\u00e9 tipo de datos permite almacenar una secuencia de elementos de diferentes tipos en un orden fijo?",
+    "options": [
+      {
+        "text": "Array",
+        "isCorrect": false
+      },
+      {
+        "text": "Enum().",
+        "isCorrect": false
+      },
+      {
+        "text": "Any",
+        "isCorrect": false
+      },
+      {
+        "text": "Tupla",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 48,
+    "question": "\u00bfQu\u00e9 tipo de dato representa una colecci\u00f3n de valores con un nombre amigable?",
+    "options": [
+      {
+        "text": "Array.",
+        "isCorrect": false
+      },
+      {
+        "text": "Enum.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tupla.",
+        "isCorrect": false
+      },
+      {
+        "text": "Interfaz.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 49,
+    "question": "\u00bfQu\u00e9 significa que una variable tenga un tipo impl\u00edcito en TypeScript?",
+    "options": [
+      {
+        "text": "El tipo de la variable es inferido autom\u00e1ticamente.",
+        "isCorrect": true
+      },
+      {
+        "text": "La variable no tiene tipo.",
+        "isCorrect": false
+      },
+      {
+        "text": "La variable puede cambiar de tipo.",
+        "isCorrect": false
+      },
+      {
+        "text": "La variable tiene un tipo desconocido.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 50,
+    "question": "\u00bfC\u00f3mo se insertar\u00eda un comentario que tiene m\u00e1s de una l\u00ednea en TypeScript?",
+    "options": [
+      {
+        "text": "/* Esto es un comentario de m\u00e1s de una linea */.",
+        "isCorrect": true
+      },
+      {
+        "text": "// Esto es un comentario de m\u00e1s de una linea.",
+        "isCorrect": false
+      },
+      {
+        "text": "<!-- Esto es un comentario de m\u00e1s de una linea -->.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todas son correctas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 51,
+    "question": "\u00bfCu\u00e1l de las siguientes afirmaciones es correcta sobre el uso de let en TypeScript?:",
+    "options": [
+      {
+        "text": "Permite declarar variables de forma global.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se recomienda usarla en lugar de var.",
+        "isCorrect": false
+      },
+      {
+        "text": "No permite la redeclaraci\u00f3n dentro del mismo bloque.",
+        "isCorrect": true
+      },
+      {
+        "text": "Todas las anteriores son correctas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 52,
+    "question": "\u00bfC\u00f3mo se declara un array de n\u00fameros en TypeScript?:",
+    "options": [
+      {
+        "text": "let list: Array<number> = [1, 2, 3];",
+        "isCorrect": false
+      },
+      {
+        "text": "let list: number[] = [1, 2, 3];",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambas son correctas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ninguna es correcta.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 53,
+    "question": "\u00bfQu\u00e9 hace un decorador de clase?",
+    "options": [
+      {
+        "text": "Modifica el constructor de la clase.",
+        "isCorrect": true
+      },
+      {
+        "text": "A\u00f1ade propiedades adicionales a la clase.",
+        "isCorrect": false
+      },
+      {
+        "text": "Define la clase padre de la clase.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bloquea la clase para que solo haya una instancia de esta.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 54,
+    "question": "\u00bfQu\u00e9 palabra clave se usa para heredar de una clase en TypeScript?",
+    "options": [
+      {
+        "text": "implements.",
+        "isCorrect": false
+      },
+      {
+        "text": "inherits.",
+        "isCorrect": false
+      },
+      {
+        "text": "extends.",
+        "isCorrect": true
+      },
+      {
+        "text": ":.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 55,
+    "question": "\u00bfCu\u00e1l es la funci\u00f3n de un tipo any en TypeScript?",
+    "options": [
+      {
+        "text": "Almacenar solo n\u00fameros.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacenar valores de cualquier tipo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Almacenar solo cadenas de textos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacenar funciones.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 56,
+    "question": "\u00bfQu\u00e9 es TypeScript?",
+    "options": [
+      {
+        "text": "Un lenguaje de programaci\u00f3n orientado a objetos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un lenguaje de tipado fuerte basado en JavaScript.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un framework para desarrollo web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un compilador de JavaScript.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 57,
+    "question": "\u00bfQu\u00e9 m\u00e9todo de ciclo de vida en Angular se utiliza para inicializar la l\u00f3gica del componente despu\u00e9s de que se hayan definido sus entradas?",
+    "options": [
+      {
+        "text": "ngOnChanges.",
+        "isCorrect": false
+      },
+      {
+        "text": "ngAfterViewInit.",
+        "isCorrect": false
+      },
+      {
+        "text": "ngOnInit.",
+        "isCorrect": true
+      },
+      {
+        "text": "ngOnDestroy.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 58,
+    "question": "\u00bfQu\u00e9 significa el concepto de lazy loading en Angular?",
+    "options": [
+      {
+        "text": "Cargar los componentes inmediatamente al inicio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evitar cargar componentes innecesarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cargar los m\u00f3dulos solo cuando son necesarios para optimizar el rendimiento.",
+        "isCorrect": true
+      },
+      {
+        "text": "Retrasar la carga de datos hasta que se establezca una conexi\u00f3n.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 59,
+    "question": "\u00bfQu\u00e9 es Angular?",
+    "options": [
+      {
+        "text": "Una librer\u00eda de dedicado al desarrollo de frontend.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un framework de JavaScript dedicado al desarrollo de frontend.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una evoluci\u00f3n de JavaScript nativo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es un conjunto de funcionalidades realizadas en TypeScript que me permiten desarrollar p\u00e1ginas web completas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 60,
+    "question": "\u00bfC\u00f3mo se declara una propiedad de entrada en un componente de Angular?",
+    "options": [
+      {
+        "text": "@Input().",
+        "isCorrect": true
+      },
+      {
+        "text": "@Output().",
+        "isCorrect": false
+      },
+      {
+        "text": "@Injectable().",
+        "isCorrect": false
+      },
+      {
+        "text": "@Component().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 61,
+    "question": "\u00bfQu\u00e9 significa la etiqueta <app-root></app-root>?",
+    "options": [
+      {
+        "text": "La etiqueta que inicializa todo el proyecto de Angular.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es la etiqueta principal, carga el componente principal, dentro del index.html.",
+        "isCorrect": true
+      },
+      {
+        "text": "Es la etiqueta que marca donde se cargan los componentes definidos en las rutas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es la etiqueta que se carga en el componente principal del sistema.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 62,
+    "question": "\u00bfQu\u00e9 funci\u00f3n tiene el archivo angular.json en un proyecto Angular?",
+    "options": [
+      {
+        "text": "Definir la l\u00f3gica del componente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Configurar la estructura del proyecto y los estilos globales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gestionar la seguridad del proyecto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gestionar las dependencias.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 63,
+    "question": "\u00bfQu\u00e9 comando se utiliza para construir un proyecto de Angular para producci\u00f3n?",
+    "options": [
+      {
+        "text": "ng serve.",
+        "isCorrect": false
+      },
+      {
+        "text": "ng build.",
+        "isCorrect": true
+      },
+      {
+        "text": "ng generate.",
+        "isCorrect": false
+      },
+      {
+        "text": "ng start.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 64,
+    "question": "\u00bfQu\u00e9 significa SPA en el contexto de Angular?:",
+    "options": [
+      {
+        "text": "Sistema de Pagos Automatizado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Single Path Application.",
+        "isCorrect": false
+      },
+      {
+        "text": "Single Page Application.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sistema de P\u00e1gina Adaptativa.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 65,
+    "question": "\u00bfCu\u00e1l es el comando para generar un componente en Angular?",
+    "options": [
+      {
+        "text": "ng generate.",
+        "isCorrect": false
+      },
+      {
+        "text": "ng test.",
+        "isCorrect": false
+      },
+      {
+        "text": "ng generate component /ruta del componente.",
+        "isCorrect": true
+      },
+      {
+        "text": "ng component.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 66,
+    "question": "\u00bfQu\u00e9 m\u00e9todo se usa para observar cambios en las propiedades de un componente en Angular?",
+    "options": [
+      {
+        "text": "ngOnInit.",
+        "isCorrect": false
+      },
+      {
+        "text": "ngDoCheck.",
+        "isCorrect": false
+      },
+      {
+        "text": "ngOnChanges.",
+        "isCorrect": true
+      },
+      {
+        "text": "ngAfterViewInit.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 67,
+    "question": "\u00bfQu\u00e9 es el ciclo de vida de un componente en Angular?",
+    "options": [
+      {
+        "text": "El tiempo que tarda en compilarse.",
+        "isCorrect": false
+      },
+      {
+        "text": "La cantidad de eventos que puede manejar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Los eventos que describen las etapas de creaci\u00f3n, actualizaci\u00f3n y destrucci\u00f3n del componente.",
+        "isCorrect": true
+      },
+      {
+        "text": "El tiempo que tarda en ejecutarse un m\u00e9todo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 68,
+    "question": "\u00bfQu\u00e9 es un decorador en Angular?",
+    "options": [
+      {
+        "text": "Una funci\u00f3n que modifica un objeto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una funci\u00f3n que a\u00f1ade metadatos a una clase o propiedad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una funci\u00f3n para definir rutas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un m\u00e9todo para inyectar dependencias.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 69,
+    "question": "\u00bfQu\u00e9 comando ejecutamos en nuestra terminal para crear un nuevo proyecto de Angular?",
+    "options": [
+      {
+        "text": "ng generate.",
+        "isCorrect": false
+      },
+      {
+        "text": "ng build.",
+        "isCorrect": false
+      },
+      {
+        "text": "ng new.",
+        "isCorrect": true
+      },
+      {
+        "text": "ng test.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 70,
+    "question": "\u00bfQu\u00e9 es un componente en Angular?",
+    "options": [
+      {
+        "text": "Una clase que define directivas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un m\u00f3dulo que gestiona el backend.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una clase que controla una parte de la interfaz de usuario.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un servicio de backend.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 71,
+    "question": "\u00bfCu\u00e1ntas hojas de estilo puede tener un proyecto de Angular?",
+    "options": [
+      {
+        "text": "Una, la que se carga inicialmente en la carpeta principal del proyecto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una por cada componente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Depende de la cantidad de estilos que quieras implementar.",
+        "isCorrect": true
+      },
+      {
+        "text": "No existe l\u00edmite.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 72,
+    "question": "\u00bfQu\u00e9 comando se utiliza para compilar y ejecutar un proyecto de Angular en el navegador?",
+    "options": [
+      {
+        "text": "ng build.",
+        "isCorrect": false
+      },
+      {
+        "text": "ng serve.",
+        "isCorrect": true
+      },
+      {
+        "text": "ng test.",
+        "isCorrect": false
+      },
+      {
+        "text": "ng run.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 73,
+    "question": "\u00bfQu\u00e9 propiedad se utiliza para asociar rutas con componentes en Angular?",
+    "options": [
+      {
+        "text": "provider.",
+        "isCorrect": false
+      },
+      {
+        "text": "bootstrap.",
+        "isCorrect": false
+      },
+      {
+        "text": "declarations.",
+        "isCorrect": false
+      },
+      {
+        "text": "path.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 74,
+    "question": "\u00bfQu\u00e9 propiedad de un componente en Angular define los estilos CSS asociados?",
+    "options": [
+      {
+        "text": "templateUrl.",
+        "isCorrect": false
+      },
+      {
+        "text": "styleUrls.",
+        "isCorrect": true
+      },
+      {
+        "text": "selector.",
+        "isCorrect": false
+      },
+      {
+        "text": "providers.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 75,
+    "question": "\u00bfCu\u00e1l es la ventaja principal de usar ngOnInit sobre el constructor en Angular?",
+    "options": [
+      {
+        "text": "Ambos son iguales.",
+        "isCorrect": false
+      },
+      {
+        "text": "ngOnInit es m\u00e1s r\u00e1pido.",
+        "isCorrect": false
+      },
+      {
+        "text": "ngOnInit es m\u00e1s adecuado para la inicializaci\u00f3n de datos y no para tareas costosas.",
+        "isCorrect": true
+      },
+      {
+        "text": "El constructor no es accesible.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 76,
+    "question": "\u00bfC\u00f3mo se define el archivo de pruebas unitarias de un componente en Angular?",
+    "options": [
+      {
+        "text": "spec.ts.",
+        "isCorrect": true
+      },
+      {
+        "text": "unit.ts.",
+        "isCorrect": false
+      },
+      {
+        "text": "test.ts.",
+        "isCorrect": false
+      },
+      {
+        "text": "cases.ts.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 77,
+    "question": "\u00bfQu\u00e9 finalidad tiene el servicio?",
+    "options": [
+      {
+        "text": "Conectar componentes entre s\u00ed.",
+        "isCorrect": false
+      },
+      {
+        "text": "Conectar a los componentes entre s\u00ed y pasarles los datos conect\u00e1ndose a la API externas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Conectarse con las API externas para poder recibir los datos que luego le pasaremos a los dem\u00e1s componentes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sirve para almacenar nuestros datos de una aplicaci\u00f3n para poder trabajar con ellos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 78,
+    "question": "\u00bfQu\u00e9 permite el decorador @Output en Angular?",
+    "options": [
+      {
+        "text": "Pasar datos del componente padre al hijo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Emitir eventos desde un componente hijo hacia su padre.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sincronizar datos bidireccionales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear nuevas directivas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 79,
+    "question": "\u00bfQu\u00e9 es el data binding en Angular?",
+    "options": [
+      {
+        "text": "La t\u00e9cnica para realizar peticiones HTTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "El enlace de datos entre la l\u00f3gica del componente y el HTML.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un m\u00e9todo para crear directivas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un patr\u00f3n para manejar eventos de usuario.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 80,
+    "question": "\u00bfQu\u00e9 es un evento personalizado en Angular?",
+    "options": [
+      {
+        "text": "Un evento que solo puede ser capturado una vez.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un evento limitado a un componente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un evento emitido por un componente a trav\u00e9s de @Output.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un evento global que no requiere suscripci\u00f3n.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 81,
+    "question": "\u00bfC\u00f3mo se utiliza el evento $event para capturar un clic en un bot\u00f3n?",
+    "options": [
+      {
+        "text": "(click)=\"$event() => funcion()\"",
+        "isCorrect": false
+      },
+      {
+        "text": "[click]=\"$event, funcion()\"",
+        "isCorrect": false
+      },
+      {
+        "text": "(click)=\"funcion($event)\"",
+        "isCorrect": true
+      },
+      {
+        "text": "{click}=\"funcion($event)\"",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 82,
+    "question": "\u00bfQu\u00e9 es class binding en Angular?",
+    "options": [
+      {
+        "text": "Un mecanismo para cambiar estilos de manera condicional.",
+        "isCorrect": false
+      },
+      {
+        "text": "El enlace de una clase CSS a una propiedad del componente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un patr\u00f3n para inyectar dependencias.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una forma de conectar datos entre servicios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 83,
+    "question": "\u00bfQu\u00e9 permite el decorador @Input en Angular?",
+    "options": [
+      {
+        "text": "Pasar datos desde un componente padre a un componente hijo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Crear rutas din\u00e1micas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Emitir eventos desde un componente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Enlazar datos entre servicios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 84,
+    "question": "\u00bfC\u00f3mo se asigna un valor din\u00e1mico a un atributo HTML en Angular usando property binding?",
+    "options": [
+      {
+        "text": "[atributo]=\"valor\"",
+        "isCorrect": true
+      },
+      {
+        "text": "{atributo=\"valor\"}",
+        "isCorrect": false
+      },
+      {
+        "text": "<atributo: valor>",
+        "isCorrect": false
+      },
+      {
+        "text": "=\"valor\"",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 85,
+    "question": "\u00bf C\u00f3mo se puede aplicar una clase condicional en Angular usando class binding?",
+    "options": [
+      {
+        "text": "<elemento class.condicion=\"valor\">",
+        "isCorrect": true
+      },
+      {
+        "text": "[class.condicion]=\"valor\"",
+        "isCorrect": false
+      },
+      {
+        "text": "{class.condicion=\"valor\"}",
+        "isCorrect": false
+      },
+      {
+        "text": "class.condicion=\"valor",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 86,
+    "question": "\u00bfQu\u00e9 es un servicio en Angular?",
+    "options": [
+      {
+        "text": "Un componente que gestiona eventos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una clase que contiene l\u00f3gica reutilizable para compartir entre componentes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un decorador para vincular datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una clase que maneja la l\u00f3gica de directivas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 87,
+    "question": "\u00bfQu\u00e9 limita el uso de la interpolaci\u00f3n en Angular?:",
+    "options": [
+      {
+        "text": "No permite expresiones JavaScript.",
+        "isCorrect": false
+      },
+      {
+        "text": "No permite la asignaci\u00f3n de variables o el uso de incrementos/decrementos.",
+        "isCorrect": true
+      },
+      {
+        "text": "No se puede usar en propiedades HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "No admite sentencias booleanas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 88,
+    "question": "\u00bfQu\u00e9 es el two way data binding en Angular?",
+    "options": [
+      {
+        "text": "Un mecanismo para capturar eventos del usuario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una forma de enlazar de manera bidireccional datos entre la vista y el componente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un patr\u00f3n de inyecci\u00f3n de dependencias.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un m\u00e9todo para modificar directivas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 89,
+    "question": "\u00bfQu\u00e9 hace la propiedad value en un evento $event de un input en Angular?",
+    "options": [
+      {
+        "text": "Devuelve el tipo de evento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Devuelve la posici\u00f3n del evento en pantalla.",
+        "isCorrect": false
+      },
+      {
+        "text": "Devuelve el valor actual del input.",
+        "isCorrect": true
+      },
+      {
+        "text": "Devuelve el nombre del evento.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 90,
+    "question": "\u00bfQu\u00e9 es event binding en Angular?",
+    "options": [
+      {
+        "text": "Un enlace entre propiedades del componente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un enlace entre directivas y servicios.",
+        "isCorrect": false
+      },
+      {
+        "text": "La captura de eventos desde el DOM al componente.",
+        "isCorrect": true
+      },
+      {
+        "text": "La actualizaci\u00f3n de estilos din\u00e1micos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 91,
+    "question": "\u00bfPara qu\u00e9 sirve la interpolaci\u00f3n en Angular?",
+    "options": [
+      {
+        "text": "Para intercalar el uso de clase dentro de nuestra aplicaci\u00f3n y cargar los componentes dentro de otros componentes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para poder ejecutar operaciones matem\u00e1ticas dentro del HTML del componente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para inyectar texto dentro de una plantilla HTML de nuestro componente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Todas son correctas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 92,
+    "question": "\u00bfCu\u00e1l es la principal diferencia entre event binding y property binding en Angular?",
+    "options": [
+      {
+        "text": "Event binding env\u00eda datos desde el DOM al componente, mientras que property binding env\u00eda datos del componente al DOM.",
+        "isCorrect": true
+      },
+      {
+        "text": "Event binding modifica clases y property binding modifica directivas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambos hacen lo mismo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Property binding env\u00eda eventos y event binding asigna propiedades.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 93,
+    "question": "\u00bfQu\u00e9 s\u00edmbolo se utiliza para realizar interpolaci\u00f3n en Angular?",
+    "options": [
+      {
+        "text": "{{ }}",
+        "isCorrect": true
+      },
+      {
+        "text": "[[ ]]",
+        "isCorrect": false
+      },
+      {
+        "text": "( )",
+        "isCorrect": false
+      },
+      {
+        "text": ": :",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 94,
+    "question": "\u00bfQu\u00e9 directiva se utiliza para aplicar estilos en l\u00ednea din\u00e1micamente?",
+    "options": [
+      {
+        "text": "ngClass.",
+        "isCorrect": false
+      },
+      {
+        "text": "ngStyle.",
+        "isCorrect": true
+      },
+      {
+        "text": "ngFor.",
+        "isCorrect": false
+      },
+      {
+        "text": "ngIf.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 95,
+    "question": "\u00bfQu\u00e9 hace la funci\u00f3n set en un signal?",
+    "options": [
+      {
+        "text": "Modifica el valor de @input.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacena datos en cach\u00e9.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cambia el valor del signal, disparando una actualizaci\u00f3n en el DOM.",
+        "isCorrect": true
+      },
+      {
+        "text": "Desactiva el two way binding.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 96,
+    "question": "\u00bfQu\u00e9 hace el bloque @default en @switch?",
+    "options": [
+      {
+        "text": "Conecta servicios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Define un valor constante.",
+        "isCorrect": false
+      },
+      {
+        "text": "Especifica el contenido a mostrar cuando no hay coincidencias en @case.",
+        "isCorrect": true
+      },
+      {
+        "text": "Almacena datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 97,
+    "question": "\u00bfQu\u00e9 propiedad usa el objeto Renderer en una directiva personalizada para cambiar estilos?",
+    "options": [
+      {
+        "text": "setElementStyle.",
+        "isCorrect": true
+      },
+      {
+        "text": "applyStyle.",
+        "isCorrect": false
+      },
+      {
+        "text": "styleSetter.",
+        "isCorrect": false
+      },
+      {
+        "text": "elementStyle.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 98,
+    "question": "\u00bfQu\u00e9 diferencia existe entre $index y $count en un bloque @for?",
+    "options": [
+      {
+        "text": "$index representa la posici\u00f3n actual, mientras $count es el n\u00famero total de elementos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ambos representan la cantidad total de elementos.",
+        "isCorrect": false
+      },
+      {
+        "text": "$count es solo para atributos.",
+        "isCorrect": false
+      },
+      {
+        "text": "$index y $count no tienen relaci\u00f3n.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 99,
+    "question": "\u00bfQu\u00e9 variable impl\u00edcita en @for indica si la fila actual es la primera del bucle?",
+    "options": [
+      {
+        "text": "$even.",
+        "isCorrect": false
+      },
+      {
+        "text": "$first.",
+        "isCorrect": true
+      },
+      {
+        "text": "$index.",
+        "isCorrect": false
+      },
+      {
+        "text": "$last.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 100,
+    "question": "\u00bfQu\u00e9 ventaja tiene @for sobre *ngFor?",
+    "options": [
+      {
+        "text": "Es menos flexible.",
+        "isCorrect": false
+      },
+      {
+        "text": "Requiere menos recursos de renderizado y optimiza el DOM.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo se usa en formularios.",
+        "isCorrect": false
+      },
+      {
+        "text": "No permite condiciones.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 101,
+    "question": "\u00bfQu\u00e9 directiva permite realizar bucles desde Angular 17?",
+    "options": [
+      {
+        "text": "@for.",
+        "isCorrect": true
+      },
+      {
+        "text": "ngIf.",
+        "isCorrect": false
+      },
+      {
+        "text": "ngSwitch.",
+        "isCorrect": false
+      },
+      {
+        "text": "ngClass.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 102,
+    "question": "\u00bfQu\u00e9 tipo de cambio manejan las directivas de atributo en Angular?",
+    "options": [
+      {
+        "text": "Apariencia y comportamiento de elementos del DOM.",
+        "isCorrect": true
+      },
+      {
+        "text": "Modificaciones en el modelo de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Conexiones a bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Peticiones HTTP .",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 103,
+    "question": "\u00bfQu\u00e9 es la expresi\u00f3n track en el bloque @for?",
+    "options": [
+      {
+        "text": "Un evento de entrada.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un elemento est\u00e1tico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una clase CSS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una expresi\u00f3n que optimiza la asignaci\u00f3n de elementos del DOM.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 104,
+    "question": "\u00bfQu\u00e9 es una directiva en Angular?",
+    "options": [
+      {
+        "text": "Una clase para manejar eventos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un mecanismo que extiende la funcionalidad de HTML.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una herramienta para gestionar datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un tipo de componente sin vista.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 105,
+    "question": "\u00bfQu\u00e9 permite la funci\u00f3n input.required en Angular?",
+    "options": [
+      {
+        "text": "Crear eventos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Configurar estilos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Prederminar el valor de los inputs.",
+        "isCorrect": false
+      },
+      {
+        "text": "Especificar inputs obligatorios en un componente.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 106,
+    "question": "\u00bfCu\u00e1l es una caracter\u00edstica del decorador @Directive en Angular?",
+    "options": [
+      {
+        "text": "Permite crear directivas personalizadas que alteran el DOM.",
+        "isCorrect": true
+      },
+      {
+        "text": "Se usa solo para atributos CSS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crea directivas de bucle.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es necesario solo en el servidor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 107,
+    "question": "\u00bfC\u00f3mo se declaran las directivas en Angular para que act\u00faen sobre clases CSS?",
+    "options": [
+      {
+        "text": "No es posible en Angular.",
+        "isCorrect": false
+      },
+      {
+        "text": "Usando @class.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo se pueden aplicar a atributos HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Usando el selector con un punto, como en .miClase.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 108,
+    "question": "\u00bfQu\u00e9 es un signal en Angular?",
+    "options": [
+      {
+        "text": "Un valor reactivo que permite la reactividad sin observables tradicionales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un evento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un tipo de directiva estructural.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un servicio de Angular.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 109,
+    "question": "\u00bfCu\u00e1l es una ventaja de usar @if en lugar de *ngIf?",
+    "options": [
+      {
+        "text": "Permite realizar two way binding.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crea y elimina elementos del DOM de manera m\u00e1s eficiente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Almacena datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo funciona con objetos est\u00e1ticos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 110,
+    "question": "\u00bfQu\u00e9 hace el operador === en @switch?",
+    "options": [
+      {
+        "text": "Activa bucles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crea clases CSS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Compara valores estrictamente en @case.",
+        "isCorrect": true
+      },
+      {
+        "text": "Almacena datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 111,
+    "question": "\u00bfQu\u00e9 propiedad indica que un campo ha sido modificado?",
+    "options": [
+      {
+        "text": "untouched.",
+        "isCorrect": false
+      },
+      {
+        "text": "dirty.",
+        "isCorrect": true
+      },
+      {
+        "text": "valid.",
+        "isCorrect": false
+      },
+      {
+        "text": "invalid.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 112,
+    "question": "\u00bfQu\u00e9 significa el valor booleano touched en Angular?",
+    "options": [
+      {
+        "text": "Que el campo es obligatorio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Que el campo es editable.",
+        "isCorrect": false
+      },
+      {
+        "text": "Que el campo ha sido seleccionado y luego perdido el foco.",
+        "isCorrect": true
+      },
+      {
+        "text": "Que el campo est\u00e1 en blanco.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 113,
+    "question": "\u00bfCu\u00e1l es el prop\u00f3sito del FormsModule en Angular?",
+    "options": [
+      {
+        "text": "Permitir el manejo de formularios en Angular, incluyendo two way data binding.",
+        "isCorrect": true
+      },
+      {
+        "text": "Definir servicios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear componentes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Conectar API externas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 114,
+    "question": "\u00bfQu\u00e9 ventaja tiene desacoplar servicios del componente mediante la inyecci\u00f3n de dependencias?",
+    "options": [
+      {
+        "text": "Hace que el componente sea m\u00e1s grande.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce la cantidad de c\u00f3digo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permite que otros componentes reutilicen el servicio sin duplicar c\u00f3digo.",
+        "isCorrect": true
+      },
+      {
+        "text": "No tiene ninguna ventaja.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 115,
+    "question": "\u00bfQu\u00e9 directiva permite enlazar un campo en el HTML a un FormControl en el componente?",
+    "options": [
+      {
+        "text": "formControlName.",
+        "isCorrect": true
+      },
+      {
+        "text": "ngForm.",
+        "isCorrect": false
+      },
+      {
+        "text": "ngModel.",
+        "isCorrect": false
+      },
+      {
+        "text": "formGroup.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 116,
+    "question": "\u00bfCu\u00e1l es la ventaja de los formularios de tipo model en Angular?",
+    "options": [
+      {
+        "text": "Son m\u00e1s f\u00e1ciles de configurar.",
+        "isCorrect": false
+      },
+      {
+        "text": "No requieren validaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permiten una mayor personalizaci\u00f3n y validaciones complejas en el componente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Funcionan sin ReactiveFormsModule.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 117,
+    "question": "\u00bfQu\u00e9 funci\u00f3n tiene la directiva ngForm en un formulario de Angular?",
+    "options": [
+      {
+        "text": "Estilizar el formulario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear servicios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Declarar el formulario en el componente y facilitar el seguimiento de su estado.",
+        "isCorrect": true
+      },
+      {
+        "text": "Importar datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 118,
+    "question": "\u00bfCu\u00e1l es la primera acci\u00f3n para utilizar un servicio en un componente mediante inyecci\u00f3n de dependencias?",
+    "options": [
+      {
+        "text": "Crearlo en el constructor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Declararlo en el HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Inyectarlo en el constructor del componente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Asociarlo a una directiva.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 119,
+    "question": "\u00bfQu\u00e9 decorador se utiliza en Angular para definir un servicio como inyectable?",
+    "options": [
+      {
+        "text": "@Injectable",
+        "isCorrect": true
+      },
+      {
+        "text": "@Inject",
+        "isCorrect": false
+      },
+      {
+        "text": "@Service",
+        "isCorrect": false
+      },
+      {
+        "text": "@Component",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 120,
+    "question": "\u00bfQu\u00e9 tipo de validaci\u00f3n se activa cuando un campo en Angular no tiene contenido?",
+    "options": [
+      {
+        "text": "asyncValidators.",
+        "isCorrect": false
+      },
+      {
+        "text": "required.",
+        "isCorrect": true
+      },
+      {
+        "text": "pattern.",
+        "isCorrect": false
+      },
+      {
+        "text": "minLength.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 121,
+    "question": "\u00bfCu\u00e1l es la diferencia entre FormGroup y FormArray?",
+    "options": [
+      {
+        "text": "FormGroup valida arrays y FormArray, grupos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambos son iguales.",
+        "isCorrect": false
+      },
+      {
+        "text": "FormGroup agrupa controles con nombres y FormArray agrupa controles en una lista.",
+        "isCorrect": true
+      },
+      {
+        "text": "FormArray crea objetos y FormGroup, listas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 122,
+    "question": "\u00bfQu\u00e9 clase en Angular se usa para definir un grupo de controles en un formulario reactivo?",
+    "options": [
+      {
+        "text": "FormGroup.",
+        "isCorrect": true
+      },
+      {
+        "text": "FormControl.",
+        "isCorrect": false
+      },
+      {
+        "text": "Validators.",
+        "isCorrect": false
+      },
+      {
+        "text": "TemplateGroup.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 123,
+    "question": "\u00bfQu\u00e9 funci\u00f3n tiene Validators.compose en Angular?",
+    "options": [
+      {
+        "text": "Crear un FormGroup.",
+        "isCorrect": false
+      },
+      {
+        "text": "Combinar m\u00faltiples validadores en uno solo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dividir validaciones",
+        "isCorrect": false
+      },
+      {
+        "text": "Aplicar solo validaciones de tipo pattern.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 124,
+    "question": "\u00bfQu\u00e9 propiedad comprueba si un campo del formulario es v\u00e1lido?",
+    "options": [
+      {
+        "text": "errors.",
+        "isCorrect": false
+      },
+      {
+        "text": "touched.",
+        "isCorrect": false
+      },
+      {
+        "text": "valid.",
+        "isCorrect": true
+      },
+      {
+        "text": "pristine.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 125,
+    "question": "\u00bfPara qu\u00e9 se usa ngModel en un formulario?",
+    "options": [
+      {
+        "text": "Crear nuevos campos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ejecutar validaciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Estilizar el formulario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Enlazar datos bidireccionales entre el modelo y la vista.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 126,
+    "question": "\u00bfQu\u00e9 es la inyecci\u00f3n de dependencias en Angular?",
+    "options": [
+      {
+        "text": "Un sistema de dise\u00f1o de componentes",
+        "isCorrect": false
+      },
+      {
+        "text": "Un patr\u00f3n que permite a las clases recibir sus dependencias de fuentes externas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un m\u00e9todo para crear directivas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una forma de vincular datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 127,
+    "question": "\u00bfPor qu\u00e9 es beneficioso el uso de la inyecci\u00f3n de dependencias en Angular?",
+    "options": [
+      {
+        "text": "Mejora la velocidad del servidor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilita el mantenimiento y reutilizaci\u00f3n del c\u00f3digo al desacoplar las clases.",
+        "isCorrect": true
+      },
+      {
+        "text": "Permite modificar el DOM.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evita la creaci\u00f3n de servicios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 128,
+    "question": "\u00bfC\u00f3mo se accede a un array privado dentro de un servicio desde otros componentes?",
+    "options": [
+      {
+        "text": "Cambiando el modificador a p\u00fablico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Usando un m\u00e9todo getter dentro del servicio.",
+        "isCorrect": true
+      },
+      {
+        "text": "Modificando directamente la propiedad.",
+        "isCorrect": false
+      },
+      {
+        "text": "No es posible acceder.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 129,
+    "question": "\u00bfC\u00f3mo se define un formulario de tipo template en Angular?",
+    "options": [
+      {
+        "text": "Solo desde el componente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Usando m\u00e9todos HTTP .",
+        "isCorrect": false
+      },
+      {
+        "text": "Desde la plantilla HTML utilizando ngForm y ngModel.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mediante directivas personalizadas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 130,
+    "question": "\u00bfQu\u00e9 m\u00f3dulo es esencial para los formularios de tipo model en Angular?",
+    "options": [
+      {
+        "text": "FormsModule.",
+        "isCorrect": false
+      },
+      {
+        "text": "ReactiveFormsModule.",
+        "isCorrect": true
+      },
+      {
+        "text": "BrowserModule.",
+        "isCorrect": false
+      },
+      {
+        "text": "AppModule.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 131,
+    "question": "\u00bfQu\u00e9 servicio se utiliza para navegar entre rutas desde un componente?",
+    "options": [
+      {
+        "text": "ActivatedRoute.",
+        "isCorrect": false
+      },
+      {
+        "text": "RouterStateSnapshot.",
+        "isCorrect": false
+      },
+      {
+        "text": "Router.",
+        "isCorrect": true
+      },
+      {
+        "text": "RouteConfig.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 132,
+    "question": "\u00bfQu\u00e9 significa pathMatch: 'full' en una ruta?",
+    "options": [
+      {
+        "text": "Que acepta cualquier URL parcial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Que solo coincide si la URL es exactamente igual al path definido.",
+        "isCorrect": true
+      },
+      {
+        "text": "Que ignora los par\u00e1metros de la URL.",
+        "isCorrect": false
+      },
+      {
+        "text": "Que requiere autenticaci\u00f3n.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 133,
+    "question": "\u00bfQu\u00e9 clase se inyecta para acceder a par\u00e1metros din\u00e1micos en una ruta activa?",
+    "options": [
+      {
+        "text": "ActivatedRoute",
+        "isCorrect": true
+      },
+      {
+        "text": "RouteSnapshot",
+        "isCorrect": false
+      },
+      {
+        "text": "Router",
+        "isCorrect": false
+      },
+      {
+        "text": "CanActivate",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 134,
+    "question": "\u00bfQu\u00e9 hace la propiedad redirectTo en un objeto route?",
+    "options": [
+      {
+        "text": "Cambia el t\u00edtulo de la ruta.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimina componentes asociados.",
+        "isCorrect": false
+      },
+      {
+        "text": "Redirige autom\u00e1ticamente a otra ruta definida.",
+        "isCorrect": true
+      },
+      {
+        "text": "Convierte el enlace en un hash.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 135,
+    "question": "\u00bfQu\u00e9 servicio permite acceder al historial de navegaci\u00f3n en Angular?",
+    "options": [
+      {
+        "text": "ActivatedRoute.",
+        "isCorrect": false
+      },
+      {
+        "text": "Location.",
+        "isCorrect": true
+      },
+      {
+        "text": "Router.",
+        "isCorrect": false
+      },
+      {
+        "text": "RouteSnapshot.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 136,
+    "question": "\u00bfQu\u00e9 par\u00e1metro se a\u00f1ade al RouterModule para habilitar el uso de # en las URL?",
+    "options": [
+      {
+        "text": "useHash: true",
+        "isCorrect": true
+      },
+      {
+        "text": "enableTracing: true",
+        "isCorrect": false
+      },
+      {
+        "text": "lazyLoading: true",
+        "isCorrect": false
+      },
+      {
+        "text": "defaultRoute: \u2018/\u2019",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 137,
+    "question": "\u00bfQu\u00e9 m\u00f3dulo se utiliza para gestionar rutas en Angular?",
+    "options": [
+      {
+        "text": "FormsModule.",
+        "isCorrect": false
+      },
+      {
+        "text": "HttpClientModule.",
+        "isCorrect": false
+      },
+      {
+        "text": "RouterModule.",
+        "isCorrect": true
+      },
+      {
+        "text": "BrowserModule.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 138,
+    "question": "\u00bfQu\u00e9 permite la directiva routerLinkActive?",
+    "options": [
+      {
+        "text": "Definir rutas hijas",
+        "isCorrect": false
+      },
+      {
+        "text": "Redirigir autom\u00e1ticamente",
+        "isCorrect": false
+      },
+      {
+        "text": "Aplicar estilos CSS al enlace activo",
+        "isCorrect": true
+      },
+      {
+        "text": "Deshabilitar rutas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 139,
+    "question": "\u00bfQu\u00e9 guard se usa para verificar si un usuario puede acceder a una ruta?",
+    "options": [
+      {
+        "text": "CanDeactivate",
+        "isCorrect": false
+      },
+      {
+        "text": "CanActivate",
+        "isCorrect": true
+      },
+      {
+        "text": "Resolve",
+        "isCorrect": false
+      },
+      {
+        "text": "CanLoad",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 140,
+    "question": "\u00bfQu\u00e9 se necesita para manejar rutas hijas en Angular?",
+    "options": [
+      {
+        "text": "Definirlas dentro de la propiedad children en un objeto route",
+        "isCorrect": true
+      },
+      {
+        "text": "A\u00f1adir routerLinkActive a las rutas hijas",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear componentes secundarios sin rutas",
+        "isCorrect": false
+      },
+      {
+        "text": "Usar el servicio HttpClient",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 141,
+    "question": "\u00bfQu\u00e9 propiedad del router permite redirigir a otra ruta en Angular?",
+    "options": [
+      {
+        "text": "queryParams",
+        "isCorrect": false
+      },
+      {
+        "text": "navigate",
+        "isCorrect": true
+      },
+      {
+        "text": "subscribe",
+        "isCorrect": false
+      },
+      {
+        "text": "goTo",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 142,
+    "question": "\u00bfQu\u00e9 guard se usa para evitar que se carguen m\u00f3dulos sin autorizaci\u00f3n?",
+    "options": [
+      {
+        "text": "CanDeactivate",
+        "isCorrect": false
+      },
+      {
+        "text": "CanActivate",
+        "isCorrect": false
+      },
+      {
+        "text": "CanResolve",
+        "isCorrect": false
+      },
+      {
+        "text": "CanLoad",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 143,
+    "question": "\u00bfQu\u00e9 propiedad en un objeto de tipo route define el componente asociado a una ruta?",
+    "options": [
+      {
+        "text": "pathMatch.",
+        "isCorrect": false
+      },
+      {
+        "text": "component.",
+        "isCorrect": true
+      },
+      {
+        "text": "redirectTo.",
+        "isCorrect": false
+      },
+      {
+        "text": "resolve.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 144,
+    "question": "\u00bfQu\u00e9 directiva se utiliza para enlazar rutas directamente desde una plantilla HTML?",
+    "options": [
+      {
+        "text": "router-outlet",
+        "isCorrect": false
+      },
+      {
+        "text": "ngLink",
+        "isCorrect": false
+      },
+      {
+        "text": "routerLink",
+        "isCorrect": true
+      },
+      {
+        "text": "routerActive",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 145,
+    "question": "\u00bfC\u00f3mo se accede a par\u00e1metros de consulta en Angular?",
+    "options": [
+      {
+        "text": "snapshot.params",
+        "isCorrect": false
+      },
+      {
+        "text": "params",
+        "isCorrect": false
+      },
+      {
+        "text": "queryParams",
+        "isCorrect": true
+      },
+      {
+        "text": "resolve",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 146,
+    "question": "\u00bfQu\u00e9 operador se usa en una ruta para definir par\u00e1metros din\u00e1micos?",
+    "options": [
+      {
+        "text": "*",
+        "isCorrect": false
+      },
+      {
+        "text": "#",
+        "isCorrect": false
+      },
+      {
+        "text": "?",
+        "isCorrect": true
+      },
+      {
+        "text": ":",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 147,
+    "question": "\u00bfQu\u00e9 problema se presenta si una SPA no utiliza un sistema de rutas adecuado?",
+    "options": [
+      {
+        "text": "La aplicaci\u00f3n se ralentiza.",
+        "isCorrect": false
+      },
+      {
+        "text": "No se puede a\u00f1adir CSS.",
+        "isCorrect": false
+      },
+      {
+        "text": "No se pueden guardar marcadores ni compartir enlaces espec\u00edficos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Se pierden datos en la base de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 148,
+    "question": "\u00bfQu\u00e9 permite la propiedad children en una configuraci\u00f3n de rutas?",
+    "options": [
+      {
+        "text": "Definir rutas hijas dentro de un mismo componente padre.",
+        "isCorrect": true
+      },
+      {
+        "text": "Crear componentes sin ruta asociada.",
+        "isCorrect": false
+      },
+      {
+        "text": "A\u00f1adir estilos CSS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Configurar lazy loading.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 149,
+    "question": "\u00bfQu\u00e9 directiva se usa para renderizar componentes din\u00e1micos basados en rutas?",
+    "options": [
+      {
+        "text": "ngIf",
+        "isCorrect": false
+      },
+      {
+        "text": "ngFor",
+        "isCorrect": false
+      },
+      {
+        "text": "formControlName",
+        "isCorrect": false
+      },
+      {
+        "text": "router-outlet",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 150,
+    "question": "\u00bfQu\u00e9 m\u00e9todo se usa para cancelar una suscripci\u00f3n a un observable?",
+    "options": [
+      {
+        "text": "complete",
+        "isCorrect": false
+      },
+      {
+        "text": "end",
+        "isCorrect": false
+      },
+      {
+        "text": "destroy",
+        "isCorrect": false
+      },
+      {
+        "text": "unsubscribe",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 151,
+    "question": "\u00bfQu\u00e9 funci\u00f3n de HttpClient se utiliza para agregar opciones personalizadas como headers o par\u00e1metros?",
+    "options": [
+      {
+        "text": "request",
+        "isCorrect": true
+      },
+      {
+        "text": "options",
+        "isCorrect": false
+      },
+      {
+        "text": "httpHeaders",
+        "isCorrect": false
+      },
+      {
+        "text": "paramsSetup",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 152,
+    "question": "\u00bfQu\u00e9 patr\u00f3n sigue Angular para gestionar instancias \u00fanicas de servicios?",
+    "options": [
+      {
+        "text": "MVC",
+        "isCorrect": false
+      },
+      {
+        "text": "Factory",
+        "isCorrect": false
+      },
+      {
+        "text": "Singleton",
+        "isCorrect": true
+      },
+      {
+        "text": "Observer",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 153,
+    "question": "\u00bfQu\u00e9 operador se utiliza para combinar dos o m\u00e1s observables en Angular?",
+    "options": [
+      {
+        "text": "retry",
+        "isCorrect": false
+      },
+      {
+        "text": "filter",
+        "isCorrect": false
+      },
+      {
+        "text": "debounceTime",
+        "isCorrect": false
+      },
+      {
+        "text": "merge",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 154,
+    "question": "\u00bfQu\u00e9 funci\u00f3n permite enviar cabeceras personalizadas en una petici\u00f3n HTTP?",
+    "options": [
+      {
+        "text": "setRequestHeaders",
+        "isCorrect": false
+      },
+      {
+        "text": "createHeaders",
+        "isCorrect": false
+      },
+      {
+        "text": "HttpHeaders",
+        "isCorrect": true
+      },
+      {
+        "text": "headerBuilder",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 155,
+    "question": "\u00bfD\u00f3nde se registra un servicio para que est\u00e9 disponible en toda la aplicaci\u00f3n?",
+    "options": [
+      {
+        "text": "En el componente principal",
+        "isCorrect": false
+      },
+      {
+        "text": "En providedIn: 'root' del decorador @Injectable",
+        "isCorrect": true
+      },
+      {
+        "text": "En el archivo HTML",
+        "isCorrect": false
+      },
+      {
+        "text": "En el archivo CSS.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 156,
+    "question": "\u00bfQu\u00e9 hace async/await en JavaScript?",
+    "options": [
+      {
+        "text": "Simplifica la ejecuci\u00f3n de funciones as\u00edncronas, haci\u00e9ndolas parecer s\u00edncronas",
+        "isCorrect": true
+      },
+      {
+        "text": "Convierte una promesa en un observable",
+        "isCorrect": false
+      },
+      {
+        "text": "Maneja m\u00faltiples promesas simult\u00e1neamente",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignora errores",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 157,
+    "question": "\u00bfQu\u00e9 ventaja ofrecen las promesas sobre los callbacks?",
+    "options": [
+      {
+        "text": "Son m\u00e1s r\u00e1pidas",
+        "isCorrect": false
+      },
+      {
+        "text": "Tienen una sintaxis m\u00e1s legible y manejan mejor errores con then y catch",
+        "isCorrect": true
+      },
+      {
+        "text": "No bloquean el hilo principal",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo funcionan con Angular",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 158,
+    "question": "\u00bfQu\u00e9 librer\u00eda nativa gestiona observables en Angular?",
+    "options": [
+      {
+        "text": "angular/http",
+        "isCorrect": false
+      },
+      {
+        "text": "@angular/rx",
+        "isCorrect": false
+      },
+      {
+        "text": "rxjs",
+        "isCorrect": true
+      },
+      {
+        "text": "observableHandler",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 159,
+    "question": "\u00bfQu\u00e9 m\u00f3dulo permite realizar peticiones HTTP en Angular?",
+    "options": [
+      {
+        "text": "RouterModule",
+        "isCorrect": false
+      },
+      {
+        "text": "HttpClientModule",
+        "isCorrect": true
+      },
+      {
+        "text": "FormsModule",
+        "isCorrect": false
+      },
+      {
+        "text": "ReactiveFormsModule.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 160,
+    "question": "\u00bfQu\u00e9 decorador define un servicio como inyectable en Angular?",
+    "options": [
+      {
+        "text": "@Inject",
+        "isCorrect": false
+      },
+      {
+        "text": "@Injectable",
+        "isCorrect": true
+      },
+      {
+        "text": "@Service",
+        "isCorrect": false
+      },
+      {
+        "text": "@Provider",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 161,
+    "question": "\u00bfQu\u00e9 verbo HTTP se utiliza para obtener datos de una API?",
+    "options": [
+      {
+        "text": "POST",
+        "isCorrect": false
+      },
+      {
+        "text": "PUT",
+        "isCorrect": false
+      },
+      {
+        "text": "GET",
+        "isCorrect": true
+      },
+      {
+        "text": "DELETE",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 162,
+    "question": "\u00bfQu\u00e9 m\u00e9todo HTTP permite reemplazar completamente un recurso en el servidor?",
+    "options": [
+      {
+        "text": "patch",
+        "isCorrect": false
+      },
+      {
+        "text": "get",
+        "isCorrect": false
+      },
+      {
+        "text": "delete",
+        "isCorrect": false
+      },
+      {
+        "text": "put",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 163,
+    "question": "\u00bfQu\u00e9 m\u00e9todo permite configurar un observador en Angular para un marcador en Google Maps?",
+    "options": [
+      {
+        "text": "listener()",
+        "isCorrect": false
+      },
+      {
+        "text": "observe()",
+        "isCorrect": false
+      },
+      {
+        "text": "addListener()",
+        "isCorrect": true
+      },
+      {
+        "text": "eventManager()",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 164,
+    "question": "\u00bfQu\u00e9 m\u00f3dulo de Angular se utiliza para integrar formularios con Firebase Authentication?",
+    "options": [
+      {
+        "text": "ReactiveFormsModule",
+        "isCorrect": true
+      },
+      {
+        "text": "HttpClientModule",
+        "isCorrect": false
+      },
+      {
+        "text": "RouterModule",
+        "isCorrect": false
+      },
+      {
+        "text": "FormsModule",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 165,
+    "question": "\u00bfQu\u00e9 comando sube una aplicaci\u00f3n Angular a Firebase?",
+    "options": [
+      {
+        "text": "ng deploy",
+        "isCorrect": false
+      },
+      {
+        "text": "firebase init",
+        "isCorrect": false
+      },
+      {
+        "text": "npm deploy",
+        "isCorrect": false
+      },
+      {
+        "text": "firebase deploy",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 166,
+    "question": "\u00bfD\u00f3nde se configura la API key de Google Maps en un proyecto Angular?",
+    "options": [
+      {
+        "text": "angular.json",
+        "isCorrect": false
+      },
+      {
+        "text": "firebase.json",
+        "isCorrect": false
+      },
+      {
+        "text": "environment.ts",
+        "isCorrect": true
+      },
+      {
+        "text": "main.ts",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 167,
+    "question": "\u00bfCu\u00e1l es el prop\u00f3sito de configurar el archivo angular.json al instalar Bootstrap?",
+    "options": [
+      {
+        "text": "Estilizar componentes directamente en TypeScript.",
+        "isCorrect": false
+      },
+      {
+        "text": "Agregar clases de Bootstrap a los componentes sin configuraci\u00f3n adicional.",
+        "isCorrect": false
+      },
+      {
+        "text": "Indicar las rutas a los archivos CSS y JS de Bootstrap para su carga correcta.",
+        "isCorrect": true
+      },
+      {
+        "text": "Activar las animaciones predeterminadas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 168,
+    "question": "\u00bfQu\u00e9 comando compila una aplicaci\u00f3n Angular para producci\u00f3n?",
+    "options": [
+      {
+        "text": "ng run prod",
+        "isCorrect": false
+      },
+      {
+        "text": "ng build --prod",
+        "isCorrect": true
+      },
+      {
+        "text": "npm run build",
+        "isCorrect": false
+      },
+      {
+        "text": "firebase deploy",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 169,
+    "question": "\u00bfQu\u00e9 comando se utiliza para agregar un servicio de Firebase Authentication a un proyecto Angular?",
+    "options": [
+      {
+        "text": "ng add firebase-auth",
+        "isCorrect": false
+      },
+      {
+        "text": "npm install firebase-auth",
+        "isCorrect": true
+      },
+      {
+        "text": "npm install firebase",
+        "isCorrect": false
+      },
+      {
+        "text": "ng deploy authentication",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 170,
+    "question": "\u00bfQu\u00e9 archivo necesita modificarse para que Firebase conozca el directorio p\u00fablico de la aplicaci\u00f3n Angular?",
+    "options": [
+      {
+        "text": "angular.json",
+        "isCorrect": false
+      },
+      {
+        "text": "package.json",
+        "isCorrect": false
+      },
+      {
+        "text": "src/index.html",
+        "isCorrect": false
+      },
+      {
+        "text": "firebase.json",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 171,
+    "question": "\u00bfQu\u00e9 componente de AGM permite trazar rutas en un mapa?",
+    "options": [
+      {
+        "text": "agm-marker",
+        "isCorrect": false
+      },
+      {
+        "text": "agm-polyline",
+        "isCorrect": true
+      },
+      {
+        "text": "agm-layer",
+        "isCorrect": false
+      },
+      {
+        "text": "agm-rectangle",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 172,
+    "question": "\u00bfQu\u00e9 se debe hacer si se actualiza una aplicaci\u00f3n despu\u00e9s de haber sido subida a Firebase?",
+    "options": [
+      {
+        "text": "Reiniciar el servidor Firebase",
+        "isCorrect": false
+      },
+      {
+        "text": "Modificar el archivo angular.json",
+        "isCorrect": false
+      },
+      {
+        "text": "Configurar nuevas reglas de seguridad",
+        "isCorrect": false
+      },
+      {
+        "text": "Recompilar con ng build y volver a ejecutar firebase deploy",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 173,
+    "question": "\u00bfQu\u00e9 comando se utiliza para instalar Bootstrap en un proyecto Angular?",
+    "options": [
+      {
+        "text": "npm install bootstrap --global",
+        "isCorrect": true
+      },
+      {
+        "text": "ng add bootstrap",
+        "isCorrect": false
+      },
+      {
+        "text": "npm install bootstrap",
+        "isCorrect": false
+      },
+      {
+        "text": "ng install bootstrap",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 174,
+    "question": "\u00bfQu\u00e9 comando verifica que una aplicaci\u00f3n Angular est\u00e9 lista para deploy?",
+    "options": [
+      {
+        "text": "firebase test",
+        "isCorrect": false
+      },
+      {
+        "text": "ng prepare",
+        "isCorrect": false
+      },
+      {
+        "text": "ng build --prod",
+        "isCorrect": true
+      },
+      {
+        "text": "firebase ready",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 175,
+    "question": "\u00bfQu\u00e9 propiedad se usa para habilitar el uso de m\u00faltiples capas en un mapa de AGM?",
+    "options": [
+      {
+        "text": "polylineConfig",
+        "isCorrect": false
+      },
+      {
+        "text": "clusterOptions",
+        "isCorrect": false
+      },
+      {
+        "text": "agm-layer",
+        "isCorrect": true
+      },
+      {
+        "text": "mapRoutes",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 176,
+    "question": "\u00bfQu\u00e9 tipo de autenticaci\u00f3n permite Firebase Auth?",
+    "options": [
+      {
+        "text": "Solo usuarios y contrase\u00f1as.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo autenticaci\u00f3n de terceros.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo biometr\u00eda.",
+        "isCorrect": false
+      },
+      {
+        "text": "Autenticaci\u00f3n basada en contrase\u00f1as, terceros y m\u00e9todos avanzados como OTP o biometr\u00eda.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 177,
+    "question": "\u00bfCu\u00e1l es el prop\u00f3sito de la librer\u00eda AGM en Angular?",
+    "options": [
+      {
+        "text": "Gestionar rutas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Autenticaci\u00f3n en Firebase.",
+        "isCorrect": false
+      },
+      {
+        "text": "Integrar Google Maps en aplicaciones Angular.",
+        "isCorrect": true
+      },
+      {
+        "text": "Manejo de almacenamiento en la nube.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 178,
+    "question": "\u00bfQu\u00e9 caracter\u00edstica principal ofrece Bootstrap en Angular?",
+    "options": [
+      {
+        "text": "Optimizaci\u00f3n de rutas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gesti\u00f3n de API externas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Prototipado r\u00e1pido y maquetaci\u00f3n profesional mediante clases predefinidas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Manejo de bases de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 179,
+    "question": "\u00bfQu\u00e9 ventaja principal ofrecen los standalone components en Angular?",
+    "options": [
+      {
+        "text": "Permiten evitar el uso de NgModules y simplifican la estructura del proyecto.",
+        "isCorrect": true
+      },
+      {
+        "text": "Son obligatorios para usar TypeScript.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo se pueden utilizar en proyectos sin rutas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reemplazan completamente a los servicios de Angular.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf"
+  },
+  {
+    "id": 180,
+    "question": "\u00bfQu\u00e9 hace el bloque @if en Angular moderno?",
+    "options": [
+      {
+        "text": "Crea un signal",
+        "isCorrect": false
+      },
+      {
+        "text": "Renderiza contenido condicionalmente en el DOM",
+        "isCorrect": true
+      },
+      {
+        "text": "Itera arrays",
+        "isCorrect": false
+      },
+      {
+        "text": "Define una ruta",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 181,
+    "question": "\u00bfQu\u00e9 permite el bloque @for?",
+    "options": [
+      {
+        "text": "Declarar servicios",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear rutas din\u00e1micas",
+        "isCorrect": false
+      },
+      {
+        "text": "Iterar colecciones y renderizar elementos",
+        "isCorrect": true
+      },
+      {
+        "text": "Crear formularios reactivos",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 182,
+    "question": "\u00bfPara qu\u00e9 sirve la expresi\u00f3n track en un bloque @for?",
+    "options": [
+      {
+        "text": "Ordenar la colecci\u00f3n",
+        "isCorrect": false
+      },
+      {
+        "text": "Optimizar el renderizado manteniendo la identidad de cada elemento",
+        "isCorrect": true
+      },
+      {
+        "text": "Convertir datos en signals",
+        "isCorrect": false
+      },
+      {
+        "text": "Filtrar elementos",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 183,
+    "question": "\u00bfQu\u00e9 hace computed()?",
+    "options": [
+      {
+        "text": "Crea un signal modificable",
+        "isCorrect": false
+      },
+      {
+        "text": "Ejecuta peticiones HTTP",
+        "isCorrect": false
+      },
+      {
+        "text": "Genera un valor derivado a partir de otros signals",
+        "isCorrect": true
+      },
+      {
+        "text": "Renderiza rutas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 184,
+    "question": "\u00bfQu\u00e9 funci\u00f3n tiene effect()?",
+    "options": [
+      {
+        "text": "Crear formularios",
+        "isCorrect": false
+      },
+      {
+        "text": "Ejecutar l\u00f3gica cuando cambian signals",
+        "isCorrect": true
+      },
+      {
+        "text": "Reemplazar HttpClient",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear rutas hijas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 185,
+    "question": "\u00bfQu\u00e9 funci\u00f3n cumple router-outlet?",
+    "options": [
+      {
+        "text": "Define rutas hijas",
+        "isCorrect": false
+      },
+      {
+        "text": "Renderiza din\u00e1micamente el componente asociado a la ruta activa",
+        "isCorrect": true
+      },
+      {
+        "text": "Crea enlaces",
+        "isCorrect": false
+      },
+      {
+        "text": "Protege rutas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 186,
+    "question": "\u00bfQu\u00e9 hace routerLink?",
+    "options": [
+      {
+        "text": "Redirige autom\u00e1ticamente en TypeScript",
+        "isCorrect": false
+      },
+      {
+        "text": "Permite navegaci\u00f3n declarativa en el HTML",
+        "isCorrect": true
+      },
+      {
+        "text": "Carga servicios",
+        "isCorrect": false
+      },
+      {
+        "text": "Activa guards",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 187,
+    "question": "\u00bfPara qu\u00e9 sirve routerLinkActive?",
+    "options": [
+      {
+        "text": "Activar una ruta",
+        "isCorrect": false
+      },
+      {
+        "text": "Aplicar una clase CSS cuando el enlace est\u00e1 activo",
+        "isCorrect": true
+      },
+      {
+        "text": "Crear rutas din\u00e1micas",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminar rutas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 188,
+    "question": "\u00bfQu\u00e9 propiedad se usa para redirigir una ruta autom\u00e1ticamente?",
+    "options": [
+      {
+        "text": "navigateTo",
+        "isCorrect": false
+      },
+      {
+        "text": "pathMatch",
+        "isCorrect": false
+      },
+      {
+        "text": "redirectTo",
+        "isCorrect": true
+      },
+      {
+        "text": "forward",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 189,
+    "question": "\u00bfQu\u00e9 significa pathMatch: \u2018full\u2019?",
+    "options": [
+      {
+        "text": "Coincide con cualquier parte de la URL",
+        "isCorrect": false
+      },
+      {
+        "text": "Coincide solo si la URL es exactamente igual",
+        "isCorrect": true
+      },
+      {
+        "text": "Coincide solo con rutas hijas",
+        "isCorrect": false
+      },
+      {
+        "text": "Coincide con par\u00e1metros din\u00e1micos",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 190,
+    "question": "\u00bfQu\u00e9 clase permite acceder a par\u00e1metros de una ruta activa?",
+    "options": [
+      {
+        "text": "Router",
+        "isCorrect": false
+      },
+      {
+        "text": "ActivatedRoute",
+        "isCorrect": true
+      },
+      {
+        "text": "RouteProvide",
+        "isCorrect": false
+      },
+      {
+        "text": "RouteService",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 191,
+    "question": "\u00bfQu\u00e9 devuelve http.get()?",
+    "options": [
+      {
+        "text": "Promise",
+        "isCorrect": false
+      },
+      {
+        "text": "Array",
+        "isCorrect": false
+      },
+      {
+        "text": "Observable",
+        "isCorrect": true
+      },
+      {
+        "text": "Signal",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 192,
+    "question": "\u00bfQu\u00e9 m\u00e9todo se utiliza para enviar datos al servidor?",
+    "options": [
+      {
+        "text": "get()",
+        "isCorrect": false
+      },
+      {
+        "text": "send(",
+        "isCorrect": false
+      },
+      {
+        "text": "post()",
+        "isCorrect": true
+      },
+      {
+        "text": "emit()",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 193,
+    "question": "\u00bfQu\u00e9 funci\u00f3n tiene subscribe()?",
+    "options": [
+      {
+        "text": "Convertir observable en signal",
+        "isCorrect": false
+      },
+      {
+        "text": "Escuchar la respuesta del observable",
+        "isCorrect": true
+      },
+      {
+        "text": "Crear rutas",
+        "isCorrect": false
+      },
+      {
+        "text": "Ignorar errores",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 194,
+    "question": "\u00bfQu\u00e9 patr\u00f3n utiliza Angular para inyectar servicios?",
+    "options": [
+      {
+        "text": "Factory",
+        "isCorrect": false
+      },
+      {
+        "text": "Herencia",
+        "isCorrect": false
+      },
+      {
+        "text": "Inyecci\u00f3n de dependencias",
+        "isCorrect": true
+      },
+      {
+        "text": "Singleton manual",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 195,
+    "question": "\u00bfQu\u00e9 hace providedIn: \u2018root\u2019 en un servicio?",
+    "options": [
+      {
+        "text": "Limita el servicio a un componente",
+        "isCorrect": false
+      },
+      {
+        "text": "Lo hace global en toda la aplicaci\u00f3n",
+        "isCorrect": true
+      },
+      {
+        "text": "Lo convierte en directiva",
+        "isCorrect": false
+      },
+      {
+        "text": "Lo elimina",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 196,
+    "question": "\u00bfC\u00f3mo se integra Bootstrap correctamente en Angular?",
+    "options": [
+      {
+        "text": "Copiando CSS en cada componente",
+        "isCorrect": false
+      },
+      {
+        "text": "Instal\u00e1ndolo con npm y a\u00f1adi\u00e9ndolo en angular.json",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo mediante CDN",
+        "isCorrect": false
+      },
+      {
+        "text": "Con RouterModule",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 197,
+    "question": "\u00bfQu\u00e9 es necesario para utilizar una librer\u00eda externa en Angular?",
+    "options": [
+      {
+        "text": "Importarla correctamente y configurarla si requiere provider",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo instalarla",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear un m\u00f3dulo nuevo",
+        "isCorrect": false
+      },
+      {
+        "text": "Declararla en HTML",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 198,
+    "question": "\u00bfQu\u00e9 servicio ofrece Firebase para autenticaci\u00f3n?",
+    "options": [
+      {
+        "text": "FirestoreModule",
+        "isCorrect": false
+      },
+      {
+        "text": "AngularFireAuth",
+        "isCorrect": true
+      },
+      {
+        "text": "HttpFirebase",
+        "isCorrect": false
+      },
+      {
+        "text": "Convierte el enlace en un hash",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 199,
+    "question": "\u00bfQu\u00e9 es Firestore?",
+    "options": [
+      {
+        "text": "Un sistema de rutas",
+        "isCorrect": false
+      },
+      {
+        "text": "Una base de datos NoSQL en la nube",
+        "isCorrect": true
+      },
+      {
+        "text": "Un sistema de estilos",
+        "isCorrect": false
+      },
+      {
+        "text": "Un router din\u00e1mico",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 200,
+    "question": "\u00bfQu\u00e9 se necesita para utilizar Google Maps en Angular?",
+    "options": [
+      {
+        "text": "Un token JWT",
+        "isCorrect": false
+      },
+      {
+        "text": "Una API Key de Google",
+        "isCorrect": true
+      },
+      {
+        "text": "Un m\u00f3dulo de Firebase obligatorio",
+        "isCorrect": false
+      },
+      {
+        "text": "Un guard",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 201,
+    "question": "\u00bfQu\u00e9 permite el componente google-map?",
+    "options": [
+      {
+        "text": "Crear rutas",
+        "isCorrect": false
+      },
+      {
+        "text": "Mostrar mapas interactivos",
+        "isCorrect": true
+      },
+      {
+        "text": "Gestionar formularios",
+        "isCorrect": false
+      },
+      {
+        "text": "Inyectar servicios",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 202,
+    "question": "\u00bfQu\u00e9 ventaja tiene usar Firebase en Angular?",
+    "options": [
+      {
+        "text": "Elimina la necesidad de Rout",
+        "isCorrect": false
+      },
+      {
+        "text": "Permite backend como servicio sin crear servidor propio",
+        "isCorrect": true
+      },
+      {
+        "text": "Sustituye HttpClient",
+        "isCorrect": false
+      },
+      {
+        "text": "Obliga a usar Bootstrap",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  },
+  {
+    "id": 203,
+    "question": "\u00bfQu\u00e9 es una librer\u00eda externa en Angular?",
+    "options": [
+      {
+        "text": "Un componente interno",
+        "isCorrect": false
+      },
+      {
+        "text": "Un m\u00f3dulo propio",
+        "isCorrect": false
+      },
+      {
+        "text": "Un paquete instalado desde npm que ampl\u00eda funcionalidades",
+        "isCorrect": true
+      },
+      {
+        "text": "Un archivo CSS local",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf"
+  }
+]

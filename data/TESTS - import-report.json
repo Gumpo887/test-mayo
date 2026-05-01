@@ -1,0 +1,1262 @@
+{
+  "summary": {
+    "processedFiles": 13,
+    "duplicateFilesSkipped": 1,
+    "questionsExtracted": 769,
+    "questionsAdded": 654,
+    "questionsSkippedAsDuplicates": 115,
+    "questionsWithAltaConfidence": 0,
+    "questionsWithDudosaConfidence": 654,
+    "questionsNotExtractedEstimate": 144
+  },
+  "files": [
+    {
+      "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Servidor - Test 2a.pdf",
+      "subject": "Servidor",
+      "status": "duplicate-file-skipped",
+      "duplicateOf": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+      "subject": "Cliente",
+      "status": "processed",
+      "parser": "labeled",
+      "rawCandidateCount": 193,
+      "extractedQuestionCount": 125,
+      "addedQuestionCount": 107,
+      "skippedDuplicateQuestionCount": 18,
+      "notExtractedEstimate": 68,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 107
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+      "subject": "Cliente",
+      "status": "processed",
+      "parser": "canvas",
+      "rawCandidateCount": 24,
+      "extractedQuestionCount": 19,
+      "addedQuestionCount": 3,
+      "skippedDuplicateQuestionCount": 16,
+      "notExtractedEstimate": 5,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 3
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf",
+      "subject": "Cliente",
+      "status": "processed",
+      "parser": "canvas",
+      "rawCandidateCount": 0,
+      "extractedQuestionCount": 0,
+      "addedQuestionCount": 0,
+      "skippedDuplicateQuestionCount": 0,
+      "notExtractedEstimate": 0,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 0
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+      "subject": "Despliegue",
+      "status": "processed",
+      "parser": "labeled",
+      "rawCandidateCount": 151,
+      "extractedQuestionCount": 141,
+      "addedQuestionCount": 140,
+      "skippedDuplicateQuestionCount": 1,
+      "notExtractedEstimate": 10,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 140
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+      "subject": "Digitalizacion",
+      "status": "processed",
+      "parser": "labeled",
+      "rawCandidateCount": 100,
+      "extractedQuestionCount": 99,
+      "addedQuestionCount": 99,
+      "skippedDuplicateQuestionCount": 0,
+      "notExtractedEstimate": 1,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 99
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+      "subject": "Interfaces",
+      "status": "processed",
+      "parser": "labeled",
+      "rawCandidateCount": 101,
+      "extractedQuestionCount": 92,
+      "addedQuestionCount": 84,
+      "skippedDuplicateQuestionCount": 8,
+      "notExtractedEstimate": 9,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 84
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Interfaces - Test 1a.pdf",
+      "subject": "Interfaces",
+      "status": "processed",
+      "parser": "canvas",
+      "rawCandidateCount": 0,
+      "extractedQuestionCount": 0,
+      "addedQuestionCount": 0,
+      "skippedDuplicateQuestionCount": 0,
+      "notExtractedEstimate": 0,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 0
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+      "subject": "Python",
+      "status": "processed",
+      "parser": "labeled",
+      "rawCandidateCount": 99,
+      "extractedQuestionCount": 66,
+      "addedQuestionCount": 66,
+      "skippedDuplicateQuestionCount": 0,
+      "notExtractedEstimate": 33,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 66
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf",
+      "subject": "Python",
+      "status": "processed",
+      "parser": "canvas",
+      "rawCandidateCount": 4,
+      "extractedQuestionCount": 0,
+      "addedQuestionCount": 0,
+      "skippedDuplicateQuestionCount": 0,
+      "notExtractedEstimate": 4,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 0
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+      "subject": "Servidor",
+      "status": "processed",
+      "parser": "labeled",
+      "rawCandidateCount": 110,
+      "extractedQuestionCount": 102,
+      "addedQuestionCount": 57,
+      "skippedDuplicateQuestionCount": 45,
+      "notExtractedEstimate": 8,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 57
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Servidor - Test 1a.pdf",
+      "subject": "Servidor",
+      "status": "processed",
+      "parser": "canvas",
+      "rawCandidateCount": 6,
+      "extractedQuestionCount": 3,
+      "addedQuestionCount": 0,
+      "skippedDuplicateQuestionCount": 3,
+      "notExtractedEstimate": 3,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 0
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+      "subject": "Sostenibilidad",
+      "status": "processed",
+      "parser": "labeled",
+      "rawCandidateCount": 100,
+      "extractedQuestionCount": 98,
+      "addedQuestionCount": 96,
+      "skippedDuplicateQuestionCount": 2,
+      "notExtractedEstimate": 2,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 96
+      }
+    },
+    {
+      "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+      "subject": "Sostenibilidad",
+      "status": "processed",
+      "parser": "labeled",
+      "rawCandidateCount": 25,
+      "extractedQuestionCount": 24,
+      "addedQuestionCount": 2,
+      "skippedDuplicateQuestionCount": 22,
+      "notExtractedEstimate": 1,
+      "confidence": {
+        "alta": 0,
+        "dudosa": 2
+      }
+    }
+  ],
+  "manualReview": {
+    "sourceFile": "C:/Users/7991j/Desktop/solucion_cliente_preguntas_dudosas.txt",
+    "subject": "Cliente",
+    "solutionsWithLetter": 107,
+    "resolvedToAlta": 104,
+    "keptDudosaWithLetter": [
+      2,
+      57,
+      106
+    ],
+    "leftUnchangedNoLetter": [
+      5,
+      63,
+      102
+    ],
+    "remainingDudosasBySubject": {
+      "TESTS - Cliente": 6,
+      "TESTS - Despliegue": 140,
+      "TESTS - Digitalizacion": 99,
+      "TESTS - Interfaces": 84,
+      "TESTS - Python": 66,
+      "TESTS - Servidor": 57,
+      "TESTS - Sostenibilidad": 98
+    },
+    "remainingDudosasTotal": 550,
+    "remainingDudosasAfterFullReview": 0
+  },
+  "fullManualReview": {
+    "status": "completed",
+    "method": "manual question-by-question review",
+    "resolvedDudosasBySubject": {
+      "TESTS - Cliente": 6,
+      "TESTS - Despliegue": 140,
+      "TESTS - Digitalizacion": 99,
+      "TESTS - Interfaces": 84,
+      "TESTS - Python": 66,
+      "TESTS - Servidor": 57,
+      "TESTS - Sostenibilidad": 98
+    },
+    "resolvedDudosasTotal": 550,
+    "remainingDudosasTotal": 0,
+    "outputFile": "preguntas_dudosas.txt"
+  },
+  "pythonReimport": {
+    "status": "completed",
+    "reason": "Python PDFs contained more structured questions than the previous import captured.",
+    "previousJsonTotal": 91,
+    "structuredCandidatesBySource": {
+      "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf": 25,
+      "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf": 25,
+      "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf": 100
+    },
+    "structuredCandidatesTotal": 150,
+    "duplicatesSkippedByNormalizedQuestionText": 1,
+    "duplicatesSkipped": [
+      {
+        "question": "¿Qué es el polimorfismo en programación orientada a objetos?",
+        "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+      }
+    ],
+    "finalUniqueQuestions": 149,
+    "remainingDudosasTotal": 0
+  },
+  "clienteReaudit": {
+    "status": "completed",
+    "reason": "Cliente had additional structured questions not captured by the previous import.",
+    "previousJsonTotal": 110,
+    "structuredCandidatesBySource": {
+      "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf": 193,
+      "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf": 25,
+      "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf": 25
+    },
+    "structuredCandidatesTotal": 243,
+    "duplicatesSkippedByNormalizedQuestionText": 40,
+    "duplicatesSkipped": [
+      {
+        "question": "¿Cómo se crea una promesa en estado \"fulfilled\" en JavaScript?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué finalidad tiene el servicio?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál es la ventaja principal de usar ngOnInit sobre el constructor en Angular?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué función de HttpClient se utiliza para agregar opciones personalizadas como headers o parámetros?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué patrón sigue Angular para gestionar instancias únicas de servicios?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué función tiene el archivo angular.json en un proyecto Angular?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué función permite enviar cabeceras personalizadas en una petición HTTP?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué comando compila una aplicación Angular para producción?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "aplicación Angular?:",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Dónde se configura la API key de Google Maps en un proyecto Angular?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué función tiene el archivo angular.json en un proyecto Angular?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué componente de AGM permite trazar rutas en un mapa?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué comando sube una aplicación Angular a Firebase?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál es el propósito de configurar el archivo angular.json al instalar Bootstrap?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué comando compila una aplicación Angular para producción?",
+        "sourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "En la arquitectura cliente-servidor:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "Para insertar código JavaScript en una página web:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál es el estado inicial de una promesa en JavaScript?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué hace el método fetch en JavaScript?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál es la principal ventaja de usar TypeScript sobre JavaScript?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué es una interfaz en TypeScript?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué método de ciclo de vida en Angular se utiliza para inicializar la lógica del componente después de que se hayan definido sus entradas?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué es un decorador en Angular?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué es un servicio en Angular?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál es la principal diferencia entre Event Binding y Property Binding en Angular?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "Para favorecer el SEO de una página web:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "Los navegadores tienen un sistema de persistencia de datos para:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué se obtiene al ejecutar JSON.stringify(objeto)?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué propiedad de un objeto fetch se utiliza para verificar si una petición HTTP ha sido exitosa?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué tipo de datos permite almacenar una secuencia de elementos de diferentes tipos en un orden fijo?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué palabra clave se usa para heredar de una clase en TypeScript?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál es la sintaxis correcta para definir un constructor de la clase Persona?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál es el comando para generar un componente en Angular?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cómo se declara una propiedad de entrada en un componente de Angular?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué comando se utiliza para construir un proyecto de Angular para producción?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué es el Data Binding en Angular?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué es el Two Way Data Binding en Angular?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué permite el decorador @Output en Angular?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cómo se asigna un valor dinámico a un atributo HTML en Angular usando Property Binding?:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué es un signal en Angular?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Cliente - Test 2a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Cliente - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      }
+    ],
+    "finalUniqueQuestions": 203,
+    "remainingDudosasTotal": 0
+  },
+  "despliegueReaudit": {
+    "status": "completed",
+    "reason": "Despliegue had clean labeled questions missed by the previous import.",
+    "previousJsonTotal": 140,
+    "structuredCandidatesBySource": {
+      "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf": 150
+    },
+    "structuredCandidatesTotal": 150,
+    "duplicatesSkippedByNormalizedQuestionText": 1,
+    "duplicatesSkipped": [
+      {
+        "question": "¿Cómo se puede definir cloud computing?",
+        "sourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Despliegue - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      }
+    ],
+    "finalUniqueQuestions": 149,
+    "remainingDudosasTotal": 0
+  },
+  "digitalizacionReaudit": {
+    "status": "completed",
+    "reason": "Rechecked both Digitalizacion PDFs; no additional unique questions beyond 149. Reparsed the 99 platform questions with cleaner text.",
+    "previousJsonTotal": 149,
+    "verifiedSimulacroQuestionsKept": 50,
+    "platformQuestionsReparsed": 99,
+    "finalUniqueQuestions": 149,
+    "remainingDudosasTotal": 0
+  },
+  "interfacesReaudit": {
+    "status": "completed",
+    "reason": "Interfaces PDF contained platform questions, Kahoot review questions, and two exam blocks; the previous import captured only part of the platform block.",
+    "previousJsonTotal": 84,
+    "structuredCandidatesBySource": {
+      "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf": {
+        "platformLabeled": 100,
+        "kahoot": 37,
+        "examen1T": 25,
+        "examen2T": 25
+      },
+      "TESTS/TESTS/Tests Pruebas Trimestrales/Interfaces - Test 1a.pdf": 25
+    },
+    "structuredCandidatesTotal": 212,
+    "duplicatesSkippedByNormalizedQuestionText": 29,
+    "duplicatesSkipped": [
+      {
+        "question": "¿Cuál de los siguientes no es un componente básico de una interfaz web según el documento?",
+        "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-kahoot",
+        "duplicateOfSourcePart": "platform-labeled"
+      },
+      {
+        "question": "El equilibrio informal se logra principalmente mediante:",
+        "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-kahoot",
+        "duplicateOfSourcePart": "platform-labeled"
+      },
+      {
+        "question": "¿Qué función cumple la cabecera (header) en una interfaz web?",
+        "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-kahoot",
+        "duplicateOfSourcePart": "platform-labeled"
+      },
+      {
+        "question": "El equilibrio formal en un diseño se basa en:",
+        "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-kahoot",
+        "duplicateOfSourcePart": "platform-labeled"
+      },
+      {
+        "question": "Interfaces - Test 1a.pdf duplicates the EXAMEN 1T block already present in the platform PDF.",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Interfaces - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      }
+    ],
+    "notImported": [
+      {
+        "question": "User experience (UX) se refiere a cómo los usuarios perciben, interactúan y se sienten al usar un producto o servicio, abarcando aspectos de usabilidad, accesibilidad y diseño.",
+        "options": [
+          "Evaluación A/B.",
+          "Card sorting.",
+          "Estudio cualitativo.",
+          "Mapas de afinidad."
+        ],
+        "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-2t",
+        "reason": "Extracted block has no coherent correct answer among its options."
+      }
+    ],
+    "finalUniqueQuestions": 182,
+    "remainingDudosasTotal": 0,
+    "questionsBySourcePart": {
+      "platform-labeled": 100,
+      "platform-kahoot": 33,
+      "platform-examen-1t": 25,
+      "platform-examen-2t": 24
+    }
+  },
+  "sostenibilidadReaudit": {
+    "status": "completed",
+    "reason": "Sostenibilidad contained malformed Test 1a remnants and missed clean platform questions. Test 1a duplicates the EXAMEN T1 block inside the platform PDF.",
+    "previousJsonTotal": 148,
+    "verifiedSimulacroQuestionsKept": 50,
+    "structuredCandidatesBySource": {
+      "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf": 100,
+      "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf": 25
+    },
+    "structuredCandidatesTotal": 175,
+    "duplicatesSkippedByNormalizedQuestionText": 29,
+    "duplicatesSkipped": [
+      {
+        "question": "¿Qué es el desarrollo sostenible?",
+        "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué cumbre internacional tuvo lugar en 1992 y se centró en sostenibilidad?",
+        "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál de estos no es un beneficio empresarial del enfoque sostenible?",
+        "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "La brecha salarial de género se refiere a:",
+        "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué es el desarrollo sostenible?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué cumbre internacional tuvo lugar en 1992 y se centró en sostenibilidad?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál de estos no es un beneficio empresarial del enfoque sostenible?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué institución supervisa el cumplimiento de los ODS en España?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Por qué es importante la gobernanza en sostenibilidad?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué organismo promueve la educación para el desarrollo sostenible (EDS) a nivel global?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué documento internacional establece los diecisiete ODS?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "La brecha salarial de género se refiere a:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué significa ASG en sostenibilidad empresarial?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué papel tiene la FP en la sostenibilidad?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué mide la huella de carbono?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Que practica refleja la economía circular?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué tipo de movilidad es más sostenible?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "Una cooperativa que reinvierte beneficios en su comunidad es:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué ODS busca la igualdad de género?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué medida favorece una transición ecológica justa?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué objetivo persigue la Agenda 2030?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál es uno de los compromisos del Acuerdo de París?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué ODS promueve la educación de calidad?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál de los siguientes gases es un GEI natural y antropogénico?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué tipo de energía es renovable?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué ecosistema tiene más capacidad de absorber carbono?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Por qué es importante la huella de carbono?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "Una empresa que fomenta la contratación inclusiva y la igualdad de género está actuando en el ámbito:",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué significa obsolescencia programada?",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Sostenibilidad - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      }
+    ],
+    "finalUniqueQuestions": 146,
+    "remainingDudosasTotal": 0,
+    "questionsBySourceFile": {
+      "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf": 50,
+      "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf": 96
+    }
+  },
+  "servidorReaudit": {
+    "status": "completed",
+    "reason": "Servidor PDF contains 110 labeled topic questions plus EXAMEN T1 and EXAMEN T2; the previous import captured only 57 unique PDF questions.",
+    "previousJsonTotal": 157,
+    "verifiedMarkdownQuestionsKept": 100,
+    "structuredCandidatesBySource": {
+      "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf": {
+        "platformLabeled": 110,
+        "examenT1": 25,
+        "examenT2": 25
+      },
+      "TESTS/TESTS/Tests Pruebas Trimestrales/Servidor - Test 1a.pdf": 25,
+      "TESTS/TESTS/Tests Pruebas Trimestrales/Servidor - Test 2a.pdf": "duplicate of platform PDF"
+    },
+    "structuredCandidatesTotal": 285,
+    "duplicatesSkippedByNormalizedQuestionText": 115,
+    "duplicatesSkipped": [
+      {
+        "question": "¿Cuál de estos nombres no corresponde a un lenguaje de programación?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md"
+      },
+      {
+        "question": "Una URL es:",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md"
+      },
+      {
+        "question": "¿Qué anotación se utiliza para mapear una solicitud HTTP GET en Spring Boot?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md"
+      },
+      {
+        "question": "¿Qué método HTTP se utiliza para enviar datos y crear un nuevo recurso en una API REST?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md"
+      },
+      {
+        "question": "¿Qué herramienta facilita la creación de nuevos proyectos Spring Boot desde la web?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md"
+      },
+      {
+        "question": "¿Qué anotación se utiliza para especificar la ruta base de un controlador en Spring Boot?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md"
+      },
+      {
+        "question": "¿Cuál de las siguientes es una ventaja del uso de una capa de persistencia en aplicaciones Java?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md"
+      },
+      {
+        "question": "¿Qué es JPQL en JPA?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md"
+      },
+      {
+        "question": "¿Qué es un POJO en el contexto de JPA?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md"
+      },
+      {
+        "question": "¿Cuál es el propósito del archivo persistence.xml en JPA?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md"
+      },
+      {
+        "question": "¿Qué operación realiza el método merge() en JPA?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md"
+      },
+      {
+        "question": "¿Qué método de EntityManager se utiliza para encontrar una entidad por su clave primaria?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md"
+      },
+      {
+        "question": "¿Qué significa NoSQL?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md"
+      },
+      {
+        "question": "¿Cuál es la principal unidad de datos en MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md"
+      },
+      {
+        "question": "¿Qué es una colección en MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md"
+      },
+      {
+        "question": "¿Qué comando se utiliza para crear una colección en MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md"
+      },
+      {
+        "question": "¿Qué método de MongoRepository permite guardar un documento en la base de datos?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md"
+      },
+      {
+        "question": "¿Qué operador se usa en MongoDB para incrementar el valor de un campo?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md"
+      },
+      {
+        "question": "¿Qué anotación de Spring Data MongoDB define el campo que se usará como ID en un documento?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md"
+      },
+      {
+        "question": "¿Qué tipo de datos almacena MongoDB por defecto?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md"
+      },
+      {
+        "question": "¿Qué es MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md"
+      },
+      {
+        "question": "¿Qué tipo de base de datos es MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md"
+      },
+      {
+        "question": "¿Cuál es el beneficio principal del principio de abierto/cerrado (OCP)?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md"
+      },
+      {
+        "question": "¿Cuál es el objetivo del principio de inversión de dependencias (DIP)?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md"
+      },
+      {
+        "question": "¿Qué principio SOLID se refiere a que las subclases deben ser sustituibles por sus clases base sin afectar el comportamiento del sistema?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md"
+      },
+      {
+        "question": "¿Qué tecnología permite la creación de componentes reutilizables en el front-end?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md"
+      },
+      {
+        "question": "¿Cuál es la diferencia principal entre seguridad declarativa y programática en JEE?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md"
+      },
+      {
+        "question": "¿Qué archivo en una aplicación JEE se utiliza para configurar la autenticación?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md"
+      },
+      {
+        "question": "¿En qué caso se debería utilizar el método CLIENT-CERT para la autenticación?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md"
+      },
+      {
+        "question": "¿Qué archivo debe configurarse en Tomcat para definir un repositorio de usuarios basado en XML?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md"
+      },
+      {
+        "question": "¿Qué mecanismo de autenticación es vulnerable al envío de credenciales en texto claro?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md"
+      },
+      {
+        "question": "¿Qué propiedad de la seguridad garantiza que los datos no se alteren sin autorización?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema7_plataforma.md"
+      },
+      {
+        "question": "¿Qué método en Express redirige una solicitud a otra URL?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md"
+      },
+      {
+        "question": "¿Qué comando ejecuta todas las dependencias de un proyecto Express?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md"
+      },
+      {
+        "question": "¿Cómo se define un middleware global en Express?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md"
+      },
+      {
+        "question": "¿Qué método de respuesta convierte un objeto JavaScript en formato JSON?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md"
+      },
+      {
+        "question": "¿Qué método en Express redirige una solicitud a otra URL?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md"
+      },
+      {
+        "question": "¿Cuál de las siguientes NO es una característica de Express?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué comando ejecuta todas las dependencias de un proyecto Express?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md"
+      },
+      {
+        "question": "¿Cómo se crea una nueva ruta GET en Express?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cómo se define un middleware global en Express?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md"
+      },
+      {
+        "question": "¿Qué motor de plantillas se utiliza en el siguiente código: app.set('view engine' , 'pug');?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué método de respuesta convierte un objeto JavaScript en formato JSON?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema8_plataforma.md"
+      },
+      {
+        "question": "¿Cuál de las siguientes opciones instala Express Generator?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál es la función de next() en un middleware?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál es una ventaja principal de usar Express en lugar de solo Node.js?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué método de Mongoose se utiliza para guardar un documento en la base de datos?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md"
+      },
+      {
+        "question": "¿Qué tipo de base de datos es MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md"
+      },
+      {
+        "question": "¿Qué tipo de dato NO es soportado directamente por Mongoose?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md"
+      },
+      {
+        "question": "¿Cómo se llaman las propiedades que se calculan dinámicamente en Mongoose?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md"
+      },
+      {
+        "question": "¿Qué función en Mongoose permite definir esquemas?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md"
+      },
+      {
+        "question": "¿Qué método se utiliza en Mongoose para actualizar un documento por su ID?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema9_plataforma.md"
+      },
+      {
+        "question": "¿Cuál es el tipo de los parámetros ocultos?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md"
+      },
+      {
+        "question": "¿Cuáles son los mecanismos de redirección disponibles?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md"
+      },
+      {
+        "question": "¿Cuál es la sintaxis de la transferencia de control?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-labeled",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema10_plataforma.md"
+      },
+      {
+        "question": "Indica cuál de los siguientes elementos no es un componente Java EE:",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md"
+      },
+      {
+        "question": "Indica cuál de los siguientes nombres corresponde a un servidor de aplicaciones Java EE:",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md"
+      },
+      {
+        "question": "Una URL es:",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema1_plataforma.md"
+      },
+      {
+        "question": "¿Qué anotación se utiliza para definir un controlador REST en Spring Boot?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué anotación se utiliza para capturar datos enviados en el cuerpo de una solicitud HTTP en formato JSON?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué servidor web viene embebido de forma predeterminada en Spring Boot?:",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md"
+      },
+      {
+        "question": "¿Cómo se llama el archivo principal de configuración de Spring Boot?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema2_plataforma.md"
+      },
+      {
+        "question": "¿Qué anotación se utiliza para definir la clave primaria en una entidad JPA?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema3_plataforma.md"
+      },
+      {
+        "question": "¿Qué tipo de base de datos es MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md"
+      },
+      {
+        "question": "¿Qué comando se usa para realizar una consulta en MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué hace el operador $set en una actualización de MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md"
+      },
+      {
+        "question": "¿Qué tipo de índices soporta MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md"
+      },
+      {
+        "question": "¿Cuál de las siguientes características es única de las bases de datos documentales como MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema4_plataforma.md"
+      },
+      {
+        "question": "¿Qué interfaz proporciona Spring Data MongoDB para realizar operaciones CRUD?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué anotación se utiliza para definir una colección en MongoDB dentro de una clase en Spring Data?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Cuál es el propósito de la anotación @Query en Spring Data MongoDB?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué anotación de Spring Data MongoDB define el campo que se usará como ID en un documento?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t1",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema5_plataforma.md"
+      },
+      {
+        "question": "¿Qué es una API RESTful?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t2",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "¿Qué framework de Node.js se utiliza para gestionar rutas y peticiones HTTP?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t2",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md"
+      },
+      {
+        "question": "¿Cuál es el formato más utilizado para transferir datos entre el cliente y el servidor en una API RESTful?",
+        "sourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+        "sourcePart": "platform-examen-t2",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma (Alumno -  Stephen Nicholas)/tipo_test_tema6_plataforma.md"
+      },
+      {
+        "question": "Servidor - Test 1a.pdf duplicates the EXAMEN T1 block already present in the platform PDF.",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Servidor - Test 1a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      },
+      {
+        "question": "Servidor - Test 2a.pdf duplicates the platform PDF.",
+        "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Servidor - Test 2a.pdf",
+        "duplicateOfSourceFile": "TESTS/TESTS/Servidor - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+      }
+    ],
+    "finalUniqueQuestions": 170,
+    "remainingDudosasTotal": 0,
+    "questionsBySourcePart": {
+      "verified-md": 100,
+      "platform-labeled": 55,
+      "platform-examen-t1": 8,
+      "platform-examen-t2": 7
+    },
+    "finalQuestions": 170,
+    "finalUniqueQuestionTexts": 169,
+    "verifiedDuplicateQuestionTextsRetained": [
+      {
+        "question": "?Qu? tipo de base de datos es MongoDB?",
+        "reason": "Appears in two verified markdown topic tests with different option sets."
+      }
+    ]
+  },
+  "finalTotalsBySubject": {
+    "Cliente": 203,
+    "Despliegue": 149,
+    "Digitalizacion": 149,
+    "Interfaces": 182,
+    "Python": 149,
+    "Servidor": 170,
+    "Sostenibilidad": 146
+  },
+  "totalValidatedQuestions": 1148
+}

@@ -1,0 +1,4916 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál de los siguientes no es un componente básico de una interfaz web según el documento?",
+    "options": [
+      {
+        "text": "Cabecera (header).",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuerpo (body).",
+        "isCorrect": false
+      },
+      {
+        "text": "Pie de página (footer).",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistema de gestión de bases de datos.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 2,
+    "question": "La barra lateral en un diseño web se utiliza para:",
+    "options": [
+      {
+        "text": "Exclusivamente para mostrar imágenes de alta resolución.",
+        "isCorrect": false
+      },
+      {
+        "text": "Presentar información complementaria, enlaces y elementos interactivos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Almacenar datos del usuario de manera oculta.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mostrar únicamente el menú de navegación principal.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál de las siguientes opciones es una característica fundamental en el manejo de colores en el diseño web?",
+    "options": [
+      {
+        "text": "La utilización de códigos decimales de 0 a 100.",
+        "isCorrect": false
+      },
+      {
+        "text": "La asignación aleatoria de colores sin un sistema definido.",
+        "isCorrect": false
+      },
+      {
+        "text": "La exclusión del componente azul en el diseño.",
+        "isCorrect": false
+      },
+      {
+        "text": "La representación mediante valores hexadecimales que indican la intensidad de rojo, verde y azul.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 4,
+    "question": "¿Qué función cumple un carousel o slider en una página web?",
+    "options": [
+      {
+        "text": "Incrementar el tamaño del logotipo de la empresa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permitir la visualización de múltiples elementos (imágenes o contenido) mediante el desplazamiento horizontal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Servir como barra de búsqueda.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mostrar únicamente texto sin formato.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 5,
+    "question": "En el diseño web, ¿por qué es importante tener un equilibrio entre los componentes visuales?",
+    "options": [
+      {
+        "text": "Para ocultar la información importante mediante el exceso de elementos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para saturar la página con elementos gráficos y texto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para evitar el uso de cualquier elemento interactivo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para garantizar una comunicación clara y evitar distracciones, facilitando la asimilación del mensaje.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 6,
+    "question": "La barra de búsqueda en una interfaz web tiene la finalidad de:",
+    "options": [
+      {
+        "text": "Aumentar la complejidad visual sin ningún beneficio funcional.",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitar a los usuarios la localización de contenido específico en el sitio.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mostrar únicamente anuncios publicitarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacenar datos personales del usuario.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 7,
+    "question": "¿Qué función cumple la cabecera (header) en una interfaz web?",
+    "options": [
+      {
+        "text": "Identificar la marca o empresa, pudiendo incluir logotipo y textos descriptivos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mostrar únicamente imágenes animadas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Servir como el área exclusiva para formularios de contacto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacenar la información interna de la página.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 8,
+    "question": "El equilibrio formal en un diseño se basa en:",
+    "options": [
+      {
+        "text": "La disposición caótica de los elementos.",
+        "isCorrect": false
+      },
+      {
+        "text": "La simetría y la búsqueda de un centro óptico.",
+        "isCorrect": true
+      },
+      {
+        "text": "El uso excesivo de colores.",
+        "isCorrect": false
+      },
+      {
+        "text": "La eliminación de cualquier forma de simetría.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 9,
+    "question": "¿Cuál es el propósito de un formulario de contacto en una interfaz web?",
+    "options": [
+      {
+        "text": "Permitir a los usuarios enviar mensajes o consultas directamente al propietario del sitio.",
+        "isCorrect": true
+      },
+      {
+        "text": "Servir únicamente como un elemento decorativo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacenar datos de navegación de manera oculta.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reemplazar el menú de navegación.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 10,
+    "question": "El equilibrio informal se logra principalmente mediante:",
+    "options": [
+      {
+        "text": "La aplicación de la simetría perfecta en el diseño.",
+        "isCorrect": false
+      },
+      {
+        "text": "La contraposición de pesos visuales y uso de asimetría deliberada.",
+        "isCorrect": true
+      },
+      {
+        "text": "La eliminación de todos los elementos gráficos.",
+        "isCorrect": false
+      },
+      {
+        "text": "El uso exclusivo de imágenes sin texto.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 11,
+    "question": "¿Qué tipo de mockup se aproxima más al diseño final de la página, que incluye colores y tipografía?",
+    "options": [
+      {
+        "text": "Prototipo inicial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mockup de baja fidelidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mockup de alta fidelidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Wireframe.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 12,
+    "question": "¿Cuál es el primer consejo para elegir la herramienta de mockup adecuada?",
+    "options": [
+      {
+        "text": "Seleccionar la herramienta más popular.",
+        "isCorrect": false
+      },
+      {
+        "text": "Verificar la velocidad de Internet.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluar la compatibilidad con redes sociales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Determinar nuestras expectativas y objetivos.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 13,
+    "question": "¿Qué representan los wireframes en el proceso de prototipado web?",
+    "options": [
+      {
+        "text": "Versiones finales del diseño listas para su implementación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Representaciones interactivas que simulan la funcionalidad completa del sitio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Representaciones de alta fidelidad con colores y tipografías finales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Representaciones de baja fidelidad que muestran la estructura principal y organización de la información.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 14,
+    "question": "¿Qué es un wireflow en el contexto del prototipado web?",
+    "options": [
+      {
+        "text": "Una guía de estilo para los diseñadores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un tipo de wireframe detallado que incluye estilos de color.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una representación en forma de árbol de navegación que muestra el flujo de usuario.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un diagrama de base de datos para el sitio web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 15,
+    "question": "¿Por qué son importantes los mockups en el proceso de diseño web?",
+    "options": [
+      {
+        "text": "Facilitan la evaluación de conceptos antes de la codificación.",
+        "isCorrect": true
+      },
+      {
+        "text": "Permiten la codificación rápida del sitio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumentan automáticamente el tráfico del sitio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejoran la velocidad de carga del sitio.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 16,
+    "question": "¿Cuál de las siguientes afirmaciones describe mejor un wireframe?",
+    "options": [
+      {
+        "text": "Es un esquema que muestra la funcionalidad completa del sitio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es una versión final del sitio web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es un prototipo interactivo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es un esquema preliminar que muestra la estructura sin funcionalidad.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 17,
+    "question": "¿Cuál es la función principal de un mockup en el diseño web?",
+    "options": [
+      {
+        "text": "Proporcionar un esquema preliminar del diseño.",
+        "isCorrect": true
+      },
+      {
+        "text": "Implementar el sitio web final.",
+        "isCorrect": false
+      },
+      {
+        "text": "Escribir el código del sitio web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejorar la optimización SEO.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 18,
+    "question": "¿Cuál es la diferencia principal entre un mockup y un diseño integral de sitio web?",
+    "options": [
+      {
+        "text": "El diseño integral se enfoca solo en la estructura.",
+        "isCorrect": false
+      },
+      {
+        "text": "El diseño integral no incluye tipografía ni colores.",
+        "isCorrect": false
+      },
+      {
+        "text": "El mockup representa visualmente la disposición de elementos sin detalles gráficos.",
+        "isCorrect": true
+      },
+      {
+        "text": "El mockup incluye funcionalidades interactivas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 19,
+    "question": "¿Cuándo es esencial utilizar una guía de estilo en el diseño web?",
+    "options": [
+      {
+        "text": "Solo para sitios web de comercio electrónico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuando el sitio web tiene una sola página.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuando no se requiere consistencia visual.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuando hay una amplia participación de profesionales en el diseño del sitio web.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 20,
+    "question": "¿Qué beneficios ofrece el prototipado antes de la implementación completa del sitio web?",
+    "options": [
+      {
+        "text": "Identificación de dificultades en usabilidad, diseño y estructura de contenidos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Representación precisa de la funcionalidad completa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminación de la necesidad de una guía de estilo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducción del contenido textual necesario.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 21,
+    "question": "¿En qué año se publicó la recomendación CSS2 por el W3C?",
+    "options": [
+      {
+        "text": "1995.",
+        "isCorrect": false
+      },
+      {
+        "text": "1998.",
+        "isCorrect": true
+      },
+      {
+        "text": "1996.",
+        "isCorrect": false
+      },
+      {
+        "text": "2000.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 22,
+    "question": "En CSS, ¿qué propiedad se utiliza para establecer el tipo de letra de un elemento?",
+    "options": [
+      {
+        "text": "text-style.",
+        "isCorrect": false
+      },
+      {
+        "text": "typeface.",
+        "isCorrect": false
+      },
+      {
+        "text": "font-type.",
+        "isCorrect": false
+      },
+      {
+        "text": "font-family.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 23,
+    "question": "¿Cuál es el propósito principal de CSS?",
+    "options": [
+      {
+        "text": "Gestionar bases de datos en la web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Desarrollar la estructura de documentos HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear contenido dinámico en páginas web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Regular la presentación de documentos HTML.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 24,
+    "question": "¿Qué define el nuevo valor de una propiedad en una declaración CSS?",
+    "options": [
+      {
+        "text": "Propiedad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Selector.",
+        "isCorrect": false
+      },
+      {
+        "text": "Declaración.",
+        "isCorrect": false
+      },
+      {
+        "text": "Valor.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 25,
+    "question": "¿Cuál de las siguientes unidades de medida es absoluta en CSS?",
+    "options": [
+      {
+        "text": "px.",
+        "isCorrect": true
+      },
+      {
+        "text": "em.",
+        "isCorrect": false
+      },
+      {
+        "text": "rem.",
+        "isCorrect": false
+      },
+      {
+        "text": "vh.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 26,
+    "question": "¿Cómo se incluye CSS dentro de un documento HTML?",
+    "options": [
+      {
+        "text": "Usando la etiqueta <link>.",
+        "isCorrect": false
+      },
+      {
+        "text": "Usando la etiqueta <css>.",
+        "isCorrect": false
+      },
+      {
+        "text": "Usando la etiqueta <style>.",
+        "isCorrect": true
+      },
+      {
+        "text": "Usando la etiqueta <script>.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 27,
+    "question": "¿Cuál selector permite asignar el mismo estilo a múltiples elementos HTML?",
+    "options": [
+      {
+        "text": "Selector de ID.",
+        "isCorrect": false
+      },
+      {
+        "text": "Selector universal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Selector de tipo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Selector de clase.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál de las siguientes no es una ventaja de utilizar CSS?",
+    "options": [
+      {
+        "text": "Simplificar el mantenimiento del diseño.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permitir la separación de la estructura y presentación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Optimizar el acceso al documento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Incrementar el tamaño de los archivos HTML.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 29,
+    "question": "¿Qué parte de una regla CSS especifica a qué elementos HTML se aplican los estilos?",
+    "options": [
+      {
+        "text": "Selector.",
+        "isCorrect": true
+      },
+      {
+        "text": "Valor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Declaración.",
+        "isCorrect": false
+      },
+      {
+        "text": "Propiedad.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 30,
+    "question": "¿Qué propiedad CSS se emplea para especificar una imagen de fondo en un elemento?",
+    "options": [
+      {
+        "text": "background-image.",
+        "isCorrect": true
+      },
+      {
+        "text": "background-repeat.",
+        "isCorrect": false
+      },
+      {
+        "text": "background-position.",
+        "isCorrect": false
+      },
+      {
+        "text": "background-color.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 31,
+    "question": "¿Qué unidad en CSS Grid representa una fracción del espacio disponible en el contenedor?",
+    "options": [
+      {
+        "text": "px.",
+        "isCorrect": false
+      },
+      {
+        "text": "%.",
+        "isCorrect": false
+      },
+      {
+        "text": "fr.",
+        "isCorrect": true
+      },
+      {
+        "text": "em.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 32,
+    "question": "¿Qué se entiende por flujo normal en el diseño de páginas web con CSS?",
+    "options": [
+      {
+        "text": "La disposición de los elementos utilizando flexbox.",
+        "isCorrect": false
+      },
+      {
+        "text": "El modo predeterminado en que el navegador presenta las páginas HTML sin modificaciones.",
+        "isCorrect": true
+      },
+      {
+        "text": "La utilización de posiciones absolutas para los elementos.",
+        "isCorrect": false
+      },
+      {
+        "text": "El uso de la propiedad float para alinear elementos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 33,
+    "question": "¿Cuál es la principal diferencia entre usar la propiedad display y la propiedad float para modificar el flujo de un elemento?",
+    "options": [
+      {
+        "text": "Display solo funciona con elementos inline, mientras que float solo con block.",
+        "isCorrect": false
+      },
+      {
+        "text": "No hay diferencias, ambas propiedades funcionan de la misma manera.",
+        "isCorrect": false
+      },
+      {
+        "text": "Display puede cambiar el tipo de caja del elemento, mientras que float posiciona el elemento a un lado.",
+        "isCorrect": true
+      },
+      {
+        "text": "Display altera la visibilidad, mientras que float alinea elementos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 34,
+    "question": "¿Qué propiedad de CSS Grid se utiliza para definir el espacio entre columnas?",
+    "options": [
+      {
+        "text": "gap.",
+        "isCorrect": false
+      },
+      {
+        "text": "column-gap.",
+        "isCorrect": true
+      },
+      {
+        "text": "row-gap.",
+        "isCorrect": false
+      },
+      {
+        "text": "grid-gap.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 35,
+    "question": "En flexbox, ¿cómo se llama el eje que se desplaza en la dirección principal de disposición de los elementos flexibles?",
+    "options": [
+      {
+        "text": "Eje principal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Eje transversal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eje horizontal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eje vertical.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 36,
+    "question": "¿Cuál de las siguientes propiedades de flexbox se utiliza para alinear los elementos flexibles verticalmente en su contenedor?",
+    "options": [
+      {
+        "text": "flex-direction.",
+        "isCorrect": false
+      },
+      {
+        "text": "justify-content.",
+        "isCorrect": false
+      },
+      {
+        "text": "align-items.",
+        "isCorrect": true
+      },
+      {
+        "text": "flex-wrap.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 37,
+    "question": "¿Cuál de los siguientes valores de la propiedad display hace que un elemento se comporte como un bloque?",
+    "options": [
+      {
+        "text": "flex.",
+        "isCorrect": false
+      },
+      {
+        "text": "inline.",
+        "isCorrect": false
+      },
+      {
+        "text": "block.",
+        "isCorrect": true
+      },
+      {
+        "text": "none.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 38,
+    "question": "¿Cuál es el valor predeterminado de la propiedad flex-direction en flexbox?",
+    "options": [
+      {
+        "text": "row.",
+        "isCorrect": true
+      },
+      {
+        "text": "column-reverse.",
+        "isCorrect": false
+      },
+      {
+        "text": "row-reverse.",
+        "isCorrect": false
+      },
+      {
+        "text": "column.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 39,
+    "question": "¿Qué valor se asigna a la propiedad display para activar el sistema de cuadrícula CSS?",
+    "options": [
+      {
+        "text": "block.",
+        "isCorrect": false
+      },
+      {
+        "text": "inline.",
+        "isCorrect": false
+      },
+      {
+        "text": "flex.",
+        "isCorrect": false
+      },
+      {
+        "text": "grid.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 40,
+    "question": "¿Qué ocurre con los elementos que siguen a un elemento flotado en el flujo normal?",
+    "options": [
+      {
+        "text": "Se colocan encima del elemento flotado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Quedan completamente fuera del flujo y no interactúan con el elemento flotado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Flotan alrededor del elemento flotado.",
+        "isCorrect": true
+      },
+      {
+        "text": "Se reorganizan en una nueva línea.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 41,
+    "question": "¿Qué navegador no es compatible con el formato WebP según el contexto?",
+    "options": [
+      {
+        "text": "Ninguno, todos son compatibles.",
+        "isCorrect": true
+      },
+      {
+        "text": "Chrome.",
+        "isCorrect": false
+      },
+      {
+        "text": "Firefox.",
+        "isCorrect": false
+      },
+      {
+        "text": "Edge.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 42,
+    "question": "¿Cuál es una función principal de las interfaces de programación de aplicaciones (API)?",
+    "options": [
+      {
+        "text": "Diseñar la interfaz de usuario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gestionar la seguridad de la red.",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitar la creación de funciones complejas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Almacenar datos en bases de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 43,
+    "question": "¿Qué atributo se utiliza para habilitar la carga diferida de una imagen en HTML?",
+    "options": [
+      {
+        "text": "defer='true' .",
+        "isCorrect": false
+      },
+      {
+        "text": "async='true' .",
+        "isCorrect": false
+      },
+      {
+        "text": "loading='lazy' .",
+        "isCorrect": true
+      },
+      {
+        "text": "lazyload='enabled' .",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 44,
+    "question": "¿Qué formato de imagen es recomendado para una reproducción más exacta de la imagen original?",
+    "options": [
+      {
+        "text": "PNG.",
+        "isCorrect": true
+      },
+      {
+        "text": "JPG.",
+        "isCorrect": false
+      },
+      {
+        "text": "WebP .",
+        "isCorrect": false
+      },
+      {
+        "text": "GIF .",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 45,
+    "question": "¿Cuál de los siguientes formatos es preferido para imágenes con transparencia?",
+    "options": [
+      {
+        "text": "JPEG.",
+        "isCorrect": false
+      },
+      {
+        "text": "PNG.",
+        "isCorrect": true
+      },
+      {
+        "text": "GIF .",
+        "isCorrect": false
+      },
+      {
+        "text": "BMP .",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 46,
+    "question": "¿Cómo se desactiva la reproducción automática de un vídeo usando el atributo autoplay?",
+    "options": [
+      {
+        "text": "autoplay=\"false\" .",
+        "isCorrect": false
+      },
+      {
+        "text": "autoplay=\"no\" .",
+        "isCorrect": false
+      },
+      {
+        "text": "Quitar completamente el atributo autoplay.",
+        "isCorrect": true
+      },
+      {
+        "text": "autoplay=\"0\" .",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 47,
+    "question": "¿Cuál es una ventaja de utilizar el formato WebP sobre JPEG?",
+    "options": [
+      {
+        "text": "El soporte para secuencias de comandos.",
+        "isCorrect": false
+      },
+      {
+        "text": "La mejor calidad de audio.",
+        "isCorrect": false
+      },
+      {
+        "text": "La mayor compatibilidad con navegadores.",
+        "isCorrect": false
+      },
+      {
+        "text": "La compresión superior y soporte para profundidad cromática.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 48,
+    "question": "¿Qué representa el modelo de objetos del documento (DOM) en el contexto de una página web?",
+    "options": [
+      {
+        "text": "Las hojas de estilo aplicadas.",
+        "isCorrect": false
+      },
+      {
+        "text": "La estructura lógica del documento en la memoria.",
+        "isCorrect": true
+      },
+      {
+        "text": "El contenido multimedia incluido.",
+        "isCorrect": false
+      },
+      {
+        "text": "El diseño visual de la página web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 49,
+    "question": "¿Cuál es el propósito principal del atributo alt en el elemento <img>?",
+    "options": [
+      {
+        "text": "Proveer una descripción alternativa para la imagen.",
+        "isCorrect": true
+      },
+      {
+        "text": "Definir el tamaño de la imagen.",
+        "isCorrect": false
+      },
+      {
+        "text": "Establecer la ubicación de la imagen en la página.",
+        "isCorrect": false
+      },
+      {
+        "text": "Especificar el formato de la imagen.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 50,
+    "question": "¿Cuál es el uso principal del formato MPEG-4 (MP4) en la web?",
+    "options": [
+      {
+        "text": "Almacenar tanto audio como vídeo con varios códecs.",
+        "isCorrect": true
+      },
+      {
+        "text": "Crear imágenes animadas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Desarrollar aplicaciones web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacenar datos de sonido únicamente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 51,
+    "question": "¿Cuál es la dirección predeterminada del eje principal en flexbox?",
+    "options": [
+      {
+        "text": "De arriba hacia abajo.",
+        "isCorrect": false
+      },
+      {
+        "text": "De abajo hacia arriba.",
+        "isCorrect": false
+      },
+      {
+        "text": "De izquierda a derecha.",
+        "isCorrect": true
+      },
+      {
+        "text": "De derecha a izquierda.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 52,
+    "question": "¿Qué indica el valor width=device-width en el atributo <meta name=\"viewport\">?",
+    "options": [
+      {
+        "text": "Que el diseño será siempre de una sola columna.",
+        "isCorrect": false
+      },
+      {
+        "text": "Que la página no será escalable.",
+        "isCorrect": false
+      },
+      {
+        "text": "Que el navegador renderizará la página a la medida completa del dispositivo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Que la página debe tener un ancho fijo de 980 píxeles.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 53,
+    "question": "¿Qué representa el campo de visión (viewport) en el diseño web adaptativo?",
+    "options": [
+      {
+        "text": "La resolución máxima soportada por el servidor.",
+        "isCorrect": false
+      },
+      {
+        "text": "La velocidad de conexión requerida.",
+        "isCorrect": false
+      },
+      {
+        "text": "El área reservada para anuncios publicitarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "El espacio de pantalla donde se visualiza la página web.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 54,
+    "question": "¿Qué módulo CSS se introdujo para optimizar el diseño adaptativo y evitar el uso de divs flotantes?",
+    "options": [
+      {
+        "text": "CSS Grid.",
+        "isCorrect": false
+      },
+      {
+        "text": "CSS Flexbox.",
+        "isCorrect": true
+      },
+      {
+        "text": "CSS Box Model.",
+        "isCorrect": false
+      },
+      {
+        "text": "CSS Media Queries.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 55,
+    "question": "¿Qué propiedad se utiliza para definir un elemento como \"flex container\"?",
+    "options": [
+      {
+        "text": "display: block.",
+        "isCorrect": false
+      },
+      {
+        "text": "display: flex.",
+        "isCorrect": true
+      },
+      {
+        "text": "display: grid.",
+        "isCorrect": false
+      },
+      {
+        "text": "display: inline.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 56,
+    "question": "¿Qué propiedad CSS se utiliza para evitar la expansión innecesaria del contenido en pantallas grandes?",
+    "options": [
+      {
+        "text": "width.",
+        "isCorrect": false
+      },
+      {
+        "text": "max-width.",
+        "isCorrect": true
+      },
+      {
+        "text": "height.",
+        "isCorrect": false
+      },
+      {
+        "text": "min-width.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 57,
+    "question": "¿Qué es el diseño web adaptativo?",
+    "options": [
+      {
+        "text": "Un diseño que se ajusta a la estructura del servidor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un diseño que utiliza solo HTML básico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un método que crea una versión móvil y una de escritorio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un enfoque que ofrece una experiencia óptima sin considerar el dispositivo.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 58,
+    "question": "¿Cuál es uno de los desafíos más significativos en el diseño web?",
+    "options": [
+      {
+        "text": "Mejorar la interacción del usuario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Optimizar la velocidad de carga.",
+        "isCorrect": false
+      },
+      {
+        "text": "Garantizar la seguridad de los datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Adaptarse a las variadas resoluciones de los dispositivos.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 59,
+    "question": "¿Por qué la estrategia de crear versiones específicas para cada tipo de pantalla es considerada ineficiente?",
+    "options": [
+      {
+        "text": "Dificultad para actualizar contenido.",
+        "isCorrect": false
+      },
+      {
+        "text": "Problemas de compatibilidad con navegadores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Falta de personal capacitado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elevado costo e ineficiencia en términos de recursos.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 60,
+    "question": "¿Cuál es el propósito de establecer clases como col-1, col-2, ... col-12 en una parrilla flexible?",
+    "options": [
+      {
+        "text": "Determinar el color de las columnas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Definir el comportamiento de las imágenes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Establecer diferentes anchuras para las columnas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ajustar el tamaño de la fuente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 61,
+    "question": "¿Cuál es el propósito principal de la evaluación A/B en UX?",
+    "options": [
+      {
+        "text": "Contrastar dos versiones de un elemento para determinar cuál tiene mejor rendimiento.",
+        "isCorrect": true
+      },
+      {
+        "text": "Realizar entrevistas abiertas a usuarios sobre su experiencia en un sitio web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Organizar información en categorías predefinidas por los diseñadores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Medir la cantidad de tráfico que recibe un sitio web sin comparar variantes.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 62,
+    "question": "¿En qué ámbito se utiliza actualmente la UX?",
+    "options": [
+      {
+        "text": "Solo en el desarrollo de sitios web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusivamente en la realidad virtual.",
+        "isCorrect": false
+      },
+      {
+        "text": "En múltiples áreas tecnológicas, desde apps móviles hasta la realidad virtual.",
+        "isCorrect": true
+      },
+      {
+        "text": "Únicamente en videojuegos y e-commerce.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 63,
+    "question": "¿Cuál es la función principal del establecimiento de metas y requisitos en UX?",
+    "options": [
+      {
+        "text": "Diseñar directamente el producto sin pruebas previas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear posibles soluciones mediante brainstorming.",
+        "isCorrect": false
+      },
+      {
+        "text": "Definir problemas, oportunidades y objetivos que lograr en la experiencia de usuario.",
+        "isCorrect": true
+      },
+      {
+        "text": "Probar la usabilidad del producto con usuarios reales.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 64,
+    "question": "¿Qué técnica de UX ayuda a organizar información mediante la agrupación de tarjetas?",
+    "options": [
+      {
+        "text": "Evaluación A/B.",
+        "isCorrect": false
+      },
+      {
+        "text": "Card sorting.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cuestionarios estructurados.",
+        "isCorrect": false
+      },
+      {
+        "text": "Análisis de métricas web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 65,
+    "question": "¿Cuál de los siguientes no es una ventaja al integrar la UX en el desarrollo de productos?",
+    "options": [
+      {
+        "text": "Disminución de gastos y duración del desarrollo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Potenciación de la percepción de marca.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mayor fidelización de usuarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminación total del servicio de soporte técnico.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 66,
+    "question": "¿Cómo ayudan los mapas de afinidad en UX?",
+    "options": [
+      {
+        "text": "Analizan la cantidad de visitas que recibe un sitio web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Organizan información en grupos visuales para identificar patrones y tendencias.",
+        "isCorrect": true
+      },
+      {
+        "text": "Evalúan la comprensión de un formulario mediante encuestas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diseñan la interfaz de usuario sin necesidad de investigación previa.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 67,
+    "question": "¿A qué hace referencia el término experiencia del usuario (UX)?",
+    "options": [
+      {
+        "text": "A la capacidad de una aplicación para funcionar sin Internet.",
+        "isCorrect": false
+      },
+      {
+        "text": "Al conjunto de estrategias de marketing enfocadas en la venta de productos.",
+        "isCorrect": false
+      },
+      {
+        "text": "A cómo los individuos perciben, comprenden e interactúan con un producto, servicio o sistema.",
+        "isCorrect": true
+      },
+      {
+        "text": "A la habilidad de un software para procesar grandes volúmenes de datos sin retrasos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 68,
+    "question": "¿Cuál es la utilidad del prototipado en UX?",
+    "options": [
+      {
+        "text": "Crear modelos interactivos para probar conceptos antes del desarrollo final.",
+        "isCorrect": true
+      },
+      {
+        "text": "Publicar la versión definitiva del producto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Analizar métricas de tráfico web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Implementar directamente la solución sin pruebas previas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 69,
+    "question": "¿Por qué es importante el monitoreo en UX?",
+    "options": [
+      {
+        "text": "Para corregir errores antes de lanzar un producto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para garantizar que el producto siga cumpliendo con las necesidades del usuario tras su lanzamiento.",
+        "isCorrect": true
+      },
+      {
+        "text": "Para validar la estructura del sitio web antes de su desarrollo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para realizar pruebas A/B en fases iniciales de diseño.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 70,
+    "question": "¿Cuál de las siguientes técnicas pertenece a los estudios cualitativos en UX?",
+    "options": [
+      {
+        "text": "Cuestionarios y encuestas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Análisis web y métricas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Entrevistas a usuarios y observación contextual.",
+        "isCorrect": true
+      },
+      {
+        "text": "Evaluación A/B.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 71,
+    "question": "¿Qué beneficio aporta el HTML semántico a la accesibilidad?",
+    "options": [
+      {
+        "text": "Solo mejora el aspecto visual de la página.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permite que los motores de búsqueda y tecnologías de asistencia comprendan la estructura y el significado del contenido.",
+        "isCorrect": true
+      },
+      {
+        "text": "Incrementa el tamaño del documento sin ninguna ventaja.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evita la necesidad de usar CSS.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 72,
+    "question": "¿Qué nivel de conformidad de las WCAG se recomienda para la mayoría de las páginas web?",
+    "options": [
+      {
+        "text": "Nivel A.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nivel AA.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nivel AAA.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nivel B.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 73,
+    "question": "¿Qué se recomienda para mejorar la legibilidad del texto mediante CSS?",
+    "options": [
+      {
+        "text": "Usar unidades fijas como píxeles exclusivamente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Definir un tamaño de fuente adecuado, un buen interlineado y usar colores con alto contraste.",
+        "isCorrect": true
+      },
+      {
+        "text": "No definir ningún estilo, dejando que el navegador decida.",
+        "isCorrect": false
+      },
+      {
+        "text": "Utilizar múltiples fuentes decorativas en una misma página.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 74,
+    "question": "¿Qué impacto tiene la accesibilidad web en la experiencia del usuario?",
+    "options": [
+      {
+        "text": "Solo beneficia a usuarios con discapacidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejora la usabilidad global, lo que favorece a todos los usuarios, independientemente de sus capacidades o dispositivos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aumenta el tiempo de carga sin beneficios reales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se limita a cumplir con normativas sin influir en la experiencia.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 75,
+    "question": "¿Cuál de las siguientes afirmaciones es verdadera sobre el uso de textos alternativos en imágenes?",
+    "options": [
+      {
+        "text": "Se debe usar un texto genérico como \"imagen\" en todas las imágenes.",
+        "isCorrect": false
+      },
+      {
+        "text": "El atributo alt debe proporcionar una descripción significativa que ayude a comprender el contenido visual.",
+        "isCorrect": true
+      },
+      {
+        "text": "No es necesario usar el atributo alt si la imagen es decorativa.",
+        "isCorrect": false
+      },
+      {
+        "text": "El texto alternativo solo es relevante para el SEO y no para la accesibilidad.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 76,
+    "question": "¿Qué debe contener el atributo for de un <label>?",
+    "options": [
+      {
+        "text": "El nombre del formulario.",
+        "isCorrect": false
+      },
+      {
+        "text": "El identificador (id) del campo de entrada asociado.",
+        "isCorrect": true
+      },
+      {
+        "text": "La clase del campo de entrada.",
+        "isCorrect": false
+      },
+      {
+        "text": "La URL del sitio web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 77,
+    "question": "¿Qué papel juegan los principios de «operable» y «comprensible» en la accesibilidad web?",
+    "options": [
+      {
+        "text": "Solo se aplican a la parte gráfica del sitio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aseguran que los elementos interactivos sean manejables y que la información sea clara y lógica para el usuario.",
+        "isCorrect": true
+      },
+      {
+        "text": "Permiten ignorar las normas de accesibilidad si se usan animaciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se refieren únicamente a la optimización para motores de búsqueda.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 78,
+    "question": "¿Cuándo se debe dejar el atributo alt vacío (alt=\"\") en una imagen?",
+    "options": [
+      {
+        "text": "Cuando la imagen es parte fundamental del contenido.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuando la imagen es meramente decorativa y no aporta información relevante.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cuando se desea incluir una descripción larga en otro lugar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nunca, siempre se debe incluir un texto alternativo descriptivo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 79,
+    "question": "¿Cuál es una ventaja de utilizar herramientas de análisis de accesibilidad, como WAVE o Axe?",
+    "options": [
+      {
+        "text": "Permiten eliminar la necesidad de evaluaciones manuales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitan la identificación y corrección de obstáculos en el acceso al contenido digital.",
+        "isCorrect": true
+      },
+      {
+        "text": "Incrementan la complejidad del proceso de desarrollo sin beneficios reales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se enfocan únicamente en aspectos estéticos del diseño web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 80,
+    "question": "¿Cuál de los siguientes es un objetivo clave de las WCAG?",
+    "options": [
+      {
+        "text": "Incrementar el tráfico del sitio web sin considerar la accesibilidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitar que personas con diferentes discapacidades accedan, naveguen e interactúen con contenidos digitales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Restringir el acceso a usuarios sin discapacidades.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducir el uso de imágenes en la web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 81,
+    "question": "¿Qué herramienta de Bootstrap permite diseñar y alinear el contenido usando un sistema de cuadrícula basado en flexbox?",
+    "options": [
+      {
+        "text": "El sistema de contenedores (container).",
+        "isCorrect": false
+      },
+      {
+        "text": "El sistema de columnas (columns).",
+        "isCorrect": false
+      },
+      {
+        "text": "El sistema de cuadrícula (grid).",
+        "isCorrect": true
+      },
+      {
+        "text": "El sistema de estilos (styles).",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 82,
+    "question": "¿Qué clase se usa para agregar un texto de ayuda debajo de un input en Bootstrap?",
+    "options": [
+      {
+        "text": ".form-help",
+        "isCorrect": false
+      },
+      {
+        "text": ".form-text",
+        "isCorrect": true
+      },
+      {
+        "text": ".input-helper",
+        "isCorrect": false
+      },
+      {
+        "text": ".text-small",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 83,
+    "question": "¿Qué hace .container-{breakpoint} en Bootstrap?",
+    "options": [
+      {
+        "text": "Mantiene el ancho al 100 % hasta alcanzar un punto de interrupción y, luego, define un ancho máximo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hace que el contenedor sea siempre de ancho completo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aplica márgenes automáticos a un contenedor en todos los dispositivos.",
+        "isCorrect": false
+      },
+      {
+        "text": "No tiene ninguna diferencia con .container-fluid.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 84,
+    "question": "¿Cuál es una de las principales ventajas de Bootstrap?",
+    "options": [
+      {
+        "text": "Obliga a los desarrolladores a crear todas las clases desde cero.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo funciona si se escriben estilos personalizados.",
+        "isCorrect": false
+      },
+      {
+        "text": "Viene con clases y estilos predefinidos que pueden usarse directamente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo es compatible con navegadores antiguos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 85,
+    "question": "¿Qué clase de Bootstrap se usa para crear un contenedor de ancho completo en todos los dispositivos?",
+    "options": [
+      {
+        "text": ".container-fluid",
+        "isCorrect": true
+      },
+      {
+        "text": ".container",
+        "isCorrect": false
+      },
+      {
+        "text": ".container-{breakpoint}",
+        "isCorrect": false
+      },
+      {
+        "text": ".row",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 86,
+    "question": "¿Por qué Bootstrap está optimizado para dispositivos móviles?",
+    "options": [
+      {
+        "text": "Porque oculta automáticamente contenido en pantallas grandes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque solo permite desarrollar aplicaciones móviles y no para escritorio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque reduce el uso de HTML y CSS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque usa una estrategia de diseño mobile-first, aplicando estilos mínimos en pantallas pequeñas y escalando a dispositivos más grandes.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 87,
+    "question": "¿Cuál de las siguientes afirmaciones sobre los menús <select> en Bootstrap es correcta?",
+    "options": [
+      {
+        "text": "Se pueden personalizar completamente, incluyendo los <option>.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo requieren la clase .form-select para aplicar estilos.",
+        "isCorrect": true
+      },
+      {
+        "text": "No se pueden personalizar en Bootstrap.",
+        "isCorrect": false
+      },
+      {
+        "text": "Necesitan JavaScript para funcionar correctamente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 88,
+    "question": "¿Cuál es la jerarquía correcta del sistema de cuadrícula en Bootstrap?",
+    "options": [
+      {
+        "text": "Contenedor > Fila > Columna > Contenido",
+        "isCorrect": true
+      },
+      {
+        "text": "Fila > Columna > Contenedor > Contenido",
+        "isCorrect": false
+      },
+      {
+        "text": "Contenedor > Columna > Fila > Contenido",
+        "isCorrect": false
+      },
+      {
+        "text": "Contenedor > Contenido > Fila > Columna",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 89,
+    "question": "¿Cuántos puntos de interrupción (breakpoints) tiene Bootstrap de forma predeterminada?",
+    "options": [
+      {
+        "text": "4.",
+        "isCorrect": false
+      },
+      {
+        "text": "5.",
+        "isCorrect": false
+      },
+      {
+        "text": "6.",
+        "isCorrect": true
+      },
+      {
+        "text": "7.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 90,
+    "question": "¿Qué utilidad de Bootstrap permite alinear columnas vertical y horizontalmente?",
+    "options": [
+      {
+        "text": ".row-align",
+        "isCorrect": false
+      },
+      {
+        "text": ".align-items",
+        "isCorrect": true
+      },
+      {
+        "text": ".justify-content",
+        "isCorrect": false
+      },
+      {
+        "text": ".flex-column",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 91,
+    "question": "¿Cuál de los siguientes elementos no es un componente mencionado en el texto sobre Bootstrap?",
+    "options": [
+      {
+        "text": "Barras de navegación (navbar).",
+        "isCorrect": false
+      },
+      {
+        "text": "Tarjetas (cards).",
+        "isCorrect": false
+      },
+      {
+        "text": "Gráficos de barras (bar charts).",
+        "isCorrect": true
+      },
+      {
+        "text": "Formularios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 92,
+    "question": "¿Cuál es el propósito del sistema de rejilla (grid) en Bootstrap?",
+    "options": [
+      {
+        "text": "Permitir que los desarrolladores dibujen gráficos directamente en la página web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitar que los componentes se ajusten automáticamente a diferentes tamaños de pantalla.",
+        "isCorrect": true
+      },
+      {
+        "text": "Limitar el tamaño de los componentes para que no superen los 800 píxeles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reemplazar completamente el uso de CSS en el diseño de sitios web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 93,
+    "question": "¿Cómo se define un título dentro de una tarjeta en Bootstrap?",
+    "options": [
+      {
+        "text": "Usando la clase .card-header en un <h1>.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aplicando la clase .card-title a una etiqueta de encabezado <h*>.",
+        "isCorrect": true
+      },
+      {
+        "text": "Colocando el título directamente dentro de un <div> sin clase.",
+        "isCorrect": false
+      },
+      {
+        "text": "Usando la clase .card-heading en un <p>.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 94,
+    "question": "¿Cómo puedes cambiar el tema del navbar a un esquema de colores oscuros en Bootstrap?",
+    "options": [
+      {
+        "text": "Añadiendo .bg-dark-theme a la clase navbar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Estableciendo data-bs-theme=\"dark\" en el elemento .navbar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cambiando la clase a .navbar-dark.",
+        "isCorrect": false
+      },
+      {
+        "text": "Agregando theme=\"dark\" al contenedor principal.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 95,
+    "question": "¿Cuál de los siguientes elementos de Bootstrap 3 han sido reemplazados por las tarjetas (cards) en Bootstrap?",
+    "options": [
+      {
+        "text": "Botones y modales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Paneles y miniaturas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Formularios y alertas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Carruseles y menús desplegables.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 96,
+    "question": "¿Cuál es la clase principal que se utiliza para crear un Listgroup en Bootstrap?",
+    "options": [
+      {
+        "text": ".list-item",
+        "isCorrect": false
+      },
+      {
+        "text": ".list-group",
+        "isCorrect": true
+      },
+      {
+        "text": ".group-list",
+        "isCorrect": false
+      },
+      {
+        "text": ".ul-list",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 97,
+    "question": "¿Cuál es la clase base que se debe utilizar para crear una barra de navegación en Bootstrap?",
+    "options": [
+      {
+        "text": ".navigation-bar",
+        "isCorrect": false
+      },
+      {
+        "text": ".navbar-container",
+        "isCorrect": false
+      },
+      {
+        "text": ".navbar",
+        "isCorrect": true
+      },
+      {
+        "text": ".nav-bar",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 98,
+    "question": "¿Qué atributo debe añadirse a un elemento <a> cuando se usa como botón en Bootstrap para mejorar la accesibilidad?",
+    "options": [
+      {
+        "text": "type=\"button\"",
+        "isCorrect": false
+      },
+      {
+        "text": "class=\"link-button\"",
+        "isCorrect": false
+      },
+      {
+        "text": "role=\"button\"",
+        "isCorrect": true
+      },
+      {
+        "text": "aria-type=\"button\"",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 99,
+    "question": "¿Cuál de las siguientes afirmaciones describe correctamente una ventaja de usar los componentes de Bootstrap?",
+    "options": [
+      {
+        "text": "Los componentes de Bootstrap requieren codificación desde cero para mantener la consistencia visual.",
+        "isCorrect": false
+      },
+      {
+        "text": "Los componentes de Bootstrap solo funcionan en pantallas de escritorio, no en dispositivos móviles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Los componentes de Bootstrap permiten un ahorro de tiempo al estar preconfigurados y listos para su uso.",
+        "isCorrect": true
+      },
+      {
+        "text": "Los componentes de Bootstrap no pueden ser personalizados y limitan la creatividad del desarrollador.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 100,
+    "question": "¿Cuál de las siguientes clases de botón en Bootstrap se utiliza para representar una acción de advertencia (warning)?",
+    "options": [
+      {
+        "text": ".btn-warning",
+        "isCorrect": true
+      },
+      {
+        "text": ".btn-danger",
+        "isCorrect": false
+      },
+      {
+        "text": ".btn-info",
+        "isCorrect": false
+      },
+      {
+        "text": ".btn-success",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-labeled",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 101,
+    "question": "¿Qué es una interfaz de usuario (UI)?",
+    "options": [
+      {
+        "text": "Un sistema operativo para dispositivos móviles.",
+        "isCorrect": false
+      },
+      {
+        "text": "La parte visual e interactiva de una aplicación o sitio web.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un lenguaje de programación específico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un hardware especializado para diseño gráfico.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 102,
+    "question": "¿Cuál es el objetivo principal del prototipado dentro del ciclo de vida del diseño web?",
+    "options": [
+      {
+        "text": "Implementar el sitio final.",
+        "isCorrect": false
+      },
+      {
+        "text": "Escribir el código del backend.",
+        "isCorrect": false
+      },
+      {
+        "text": "Definir el plan de marketing.",
+        "isCorrect": false
+      },
+      {
+        "text": "Conformar ideas y explorar alternativas visuales.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 103,
+    "question": "¿Qué describe mejor a un wireframe?",
+    "options": [
+      {
+        "text": "Un diseño final listo para publicar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un prototipo con interacciones reales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un catálogo de recursos gráficos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un esquema de baja fidelidad sin estilos final.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 104,
+    "question": "¿Qué es un wireflow?",
+    "options": [
+      {
+        "text": "Un manual de identidad visual.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un mapa del sitio para SEO.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un árbol de navegación que muestra el flujo del usuario entre wireframes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un set de componentes UI.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 105,
+    "question": "En el proceso, un mockup se caracteriza por...",
+    "options": [
+      {
+        "text": "Ser de alta fidelidad con funcionalidad implementada.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proponer imágenes, colores y tipografías sobre la estructura del wireframe.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ser únicamente monocromático.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustituir la guía de estilo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 106,
+    "question": "¿Cuál es el propósito de una guía de estilo?",
+    "options": [
+      {
+        "text": "Establecer políticas de seguridad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Documentar código.",
+        "isCorrect": false
+      },
+      {
+        "text": "Agrupar decisiones de diseño (logo, paleta...) para coherencia visual.",
+        "isCorrect": true
+      },
+      {
+        "text": "Definir precios del proyecto.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 107,
+    "question": "¿Cuándo es especialmente necesaria una guía de estilo?",
+    "options": [
+      {
+        "text": "Cuando hay una sola página.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo en e-commerce.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuando no hay equipo de diseño.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuando participan muchos profesionales en el mismo sitio.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 108,
+    "question": "¿Qué no se incluye en un wireframe de baja fidelidad?",
+    "options": [
+      {
+        "text": "Tipografías elaboradas y esquemas de color.",
+        "isCorrect": true
+      },
+      {
+        "text": "Estructura de la información.",
+        "isCorrect": false
+      },
+      {
+        "text": "Jerarquía de contenidos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elementos básicos de interacción.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 109,
+    "question": "¿Cuál es la diferencia clave entre mockup y prototipo?",
+    "options": [
+      {
+        "text": "El mockup es siempre responsive y el prototipo no.",
+        "isCorrect": false
+      },
+      {
+        "text": "El prototipo incluye interacción, el mockup muestra apariencia sin función.",
+        "isCorrect": true
+      },
+      {
+        "text": "No existe diferencia.",
+        "isCorrect": false
+      },
+      {
+        "text": "El mockup es más detallado que el diseño final.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 110,
+    "question": "¿Qué tipo de mockup se aproxima más al diseño final (incluye colores y tipografía)?",
+    "options": [
+      {
+        "text": "Wireframe.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mockup de baja fidelidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mockup de alta fidelidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Boceto a mano alzada.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 111,
+    "question": "¿Qué beneficio aporta el prototipado antes de implementar el sitio completo?",
+    "options": [
+      {
+        "text": "Aumenta automáticamente el tráfico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce la necesidad de contenidos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Identifica problemas de usabilidad, diseño y estructura con bajo costo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elimina la fase de pruebas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 112,
+    "question": "¿Cuál de las siguientes unidades en CSS es absoluta?",
+    "options": [
+      {
+        "text": "em",
+        "isCorrect": false
+      },
+      {
+        "text": "px",
+        "isCorrect": true
+      },
+      {
+        "text": "%",
+        "isCorrect": false
+      },
+      {
+        "text": "rem",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 113,
+    "question": "¿Qué unidad se basa en el tamaño de fuente del elemento padre?",
+    "options": [
+      {
+        "text": "px",
+        "isCorrect": false
+      },
+      {
+        "text": "pt",
+        "isCorrect": false
+      },
+      {
+        "text": "em",
+        "isCorrect": true
+      },
+      {
+        "text": "cm",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 114,
+    "question": "¿Cuál es la unidad relativa que se basa en el tamaño de fuente del html?",
+    "options": [
+      {
+        "text": "vh",
+        "isCorrect": false
+      },
+      {
+        "text": "rem",
+        "isCorrect": true
+      },
+      {
+        "text": "mm",
+        "isCorrect": false
+      },
+      {
+        "text": "pc",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 115,
+    "question": "¿Cuál de estas unidades representa el 1% de la altura de la ventana?",
+    "options": [
+      {
+        "text": "vh",
+        "isCorrect": true
+      },
+      {
+        "text": "vw",
+        "isCorrect": false
+      },
+      {
+        "text": "rem",
+        "isCorrect": false
+      },
+      {
+        "text": "pt",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 116,
+    "question": "¿Cuántos milímetros hay en un centímetro en CSS?",
+    "options": [
+      {
+        "text": "10mm",
+        "isCorrect": true
+      },
+      {
+        "text": "5mm",
+        "isCorrect": false
+      },
+      {
+        "text": "100mm",
+        "isCorrect": false
+      },
+      {
+        "text": "25,4mm",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 117,
+    "question": "Si el tamaño de fuente base es 16px, ¿cuánto es 2em?",
+    "options": [
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "32",
+        "isCorrect": true
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 118,
+    "question": "¿Cuál es la diferencia entre px y % en CSS?",
+    "options": [
+      {
+        "text": "px es relativo y % es absoluto",
+        "isCorrect": false
+      },
+      {
+        "text": "px es absoluto y % es relativo al contenedor padre.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ambos son unidades relativas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambos son unidades absolutas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 119,
+    "question": "¿Qué pasa si usas una unidad relativa en el tamaño de texto de una página web?",
+    "options": [
+      {
+        "text": "Siempre se mantiene del mismo tamaño sin importar el dispositivo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se vuelve más pequeño cada vez que recargas la página.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se vuelve invisible.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se adapta según el tamaño del contenedor o pantalla.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 120,
+    "question": "Si quieres que un elemento en tu web tenga siempre el mismo tamaño sin importar la pantalla, ¿qué unidad deberías usar?",
+    "options": [
+      {
+        "text": "% (porcentaje).",
+        "isCorrect": false
+      },
+      {
+        "text": "px (píxeles).",
+        "isCorrect": true
+      },
+      {
+        "text": "vw (ancho de la pantalla).",
+        "isCorrect": false
+      },
+      {
+        "text": "em",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 121,
+    "question": "¿Qué unidad es mejor para que el texto sea más fácil de leer en distintos dispositivos?",
+    "options": [
+      {
+        "text": "cm (centímetros).",
+        "isCorrect": false
+      },
+      {
+        "text": "mm (milímetros).",
+        "isCorrect": false
+      },
+      {
+        "text": "rem (basado en el tamaño del texto del navegador).",
+        "isCorrect": true
+      },
+      {
+        "text": "pt (puntos tipográficos).",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 122,
+    "question": "Si un diseñador web dice que usa vh y vw en su diseño, ¿qué está controlando?",
+    "options": [
+      {
+        "text": "El tamaño de los elementos basado en la altura y ancho de la pantalla.",
+        "isCorrect": true
+      },
+      {
+        "text": "La cantidad de memoria que usa la página.",
+        "isCorrect": false
+      },
+      {
+        "text": "La visibilidad de los elementos en la página web.",
+        "isCorrect": false
+      },
+      {
+        "text": "La velocidad de carga del sitio web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 123,
+    "question": "¿Qué problema principal vino a resolver flexbox en CSS?",
+    "options": [
+      {
+        "text": "Animaciones 3D.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alineación y distribución en una sola dimensión.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cargar fuentes externas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Compatibilidad con SVG.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 124,
+    "question": "¿Cuál es la diferencia clave entre flexbox y grid?",
+    "options": [
+      {
+        "text": "Flexbox es unidimensional, Grid es bidimensional.",
+        "isCorrect": true
+      },
+      {
+        "text": "Flexbox es más nuevo que Grid.",
+        "isCorrect": false
+      },
+      {
+        "text": "Flexbox es para impresión y Grid para web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Grid reemplaza completamente a Flexbox.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 125,
+    "question": "¿Qué describe ‘flujo normal’ en CSS?",
+    "options": [
+      {
+        "text": "El orden del DOM.",
+        "isCorrect": false
+      },
+      {
+        "text": "El orden de apilamiento (z-index).",
+        "isCorrect": false
+      },
+      {
+        "text": "El modelo de caja.",
+        "isCorrect": false
+      },
+      {
+        "text": "El comportamiento por defecto de colocación sin cambios de diseño.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 126,
+    "question": "¿Qué hace la propiedad display en el flujo normal?",
+    "options": [
+      {
+        "text": "Cambia el tamaño de fuente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Controla visibilidad únicamente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Define cómo se comporta la caja (block, inline, etc.).",
+        "isCorrect": true
+      },
+      {
+        "text": "Establece la posición absoluta.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 127,
+    "question": "¿Qué efecto conceptual tiene float: left aplicado a un elemento?",
+    "options": [
+      {
+        "text": "Lo centra verticalmente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Lo saca del flujo normal y permite que el contenido fluya a su alrededor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Lo fija a la ventana.",
+        "isCorrect": false
+      },
+      {
+        "text": "Lo envía detrás de otros elementos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 128,
+    "question": "En Flexbox, ¿qué es el ‘eje principal’ (main axis)?",
+    "options": [
+      {
+        "text": "Siempre vertical.",
+        "isCorrect": false
+      },
+      {
+        "text": "Siempre horizontal.",
+        "isCorrect": false
+      },
+      {
+        "text": "El eje definido por flex-direction.",
+        "isCorrect": true
+      },
+      {
+        "text": "El eje de escritura del idioma.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 129,
+    "question": "¿Qué papel cumple el contenedor flexible?",
+    "options": [
+      {
+        "text": "Es el elemento con display: flex que controla a sus hijos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Es cualquier div con ancho fijo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es el primer article del documento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es el body siempre.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 130,
+    "question": "¿Para qué sirve flex-wrap?",
+    "options": [
+      {
+        "text": "Para cambiar el orden de tabulación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para permitir que los ítems flex pasen a múltiples líneas/columnas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Para alinear en el eje transversal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para definir el ancho mínimo del contenedor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 131,
+    "question": "¿Qué alinean justify-content y align-items respectivamente en Flexbox?",
+    "options": [
+      {
+        "text": "Ambos en el eje transversal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambos en el eje principal.",
+        "isCorrect": false
+      },
+      {
+        "text": "justify-content en el principal y align.items en el transversal.",
+        "isCorrect": true
+      },
+      {
+        "text": "justify-content en el transversal y align-items en el principal.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 132,
+    "question": "Al declarar display: grid en un contenedor sin más propiedades, ¿qué sucede?",
+    "options": [
+      {
+        "text": "Se crea una cuadrícula de tres columnas automáticamente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nada cambia: se comporta como una sola columna.",
+        "isCorrect": true
+      },
+      {
+        "text": "Los hijos se superponen.",
+        "isCorrect": false
+      },
+      {
+        "text": "Todos los hijos se centran.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 133,
+    "question": "¿Para qué se usa grid-template-columns?",
+    "options": [
+      {
+        "text": "Para definir el número y tamaño de columnas de la cuadrícula.",
+        "isCorrect": true
+      },
+      {
+        "text": "Para alinear contenido en el eje transversal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para crear áreas con nombre.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para establecer el alto de filas implícitas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-kahoot",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 134,
+    "question": "¿Cuál de los siguientes componentes se utiliza principalmente para facilitar la navegación del usuario en una interfaz web?",
+    "options": [
+      {
+        "text": "Cabecera.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pie de página.",
+        "isCorrect": false
+      },
+      {
+        "text": "Menú de navegación.",
+        "isCorrect": true
+      },
+      {
+        "text": "Banner.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 135,
+    "question": "¿Qué elemento en el diseño web se utiliza para representar la identidad de la marca en la parte superior de la página?",
+    "options": [
+      {
+        "text": "Cabecera.",
+        "isCorrect": true
+      },
+      {
+        "text": "Barra lateral.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuerpo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Footer.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 136,
+    "question": "En CSS, ¿qué propiedad se utiliza para definir el color de fondo de un elemento?",
+    "options": [
+      {
+        "text": "background-color",
+        "isCorrect": true
+      },
+      {
+        "text": "color",
+        "isCorrect": false
+      },
+      {
+        "text": "border-color",
+        "isCorrect": false
+      },
+      {
+        "text": "text-color",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 137,
+    "question": "¿Cuál de las siguientes afirmaciones describe mejor el modelo de cajas en CSS?",
+    "options": [
+      {
+        "text": "Cada elemento HTML se representa como una caja que incluye margen, borde y relleno.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo los elementos de bloque tienen modelo de caja.",
+        "isCorrect": false
+      },
+      {
+        "text": "El modelo de cajas se aplica únicamente a imágenes y textos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Las cajas en CSS se usan únicamente para diseño de fondos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 138,
+    "question": "¿Qué propiedad CSS se utiliza para cambiar el comportamiento de visualización de un elemento (por ejemplo, de block a inline)?",
+    "options": [
+      {
+        "text": "display",
+        "isCorrect": true
+      },
+      {
+        "text": "position",
+        "isCorrect": false
+      },
+      {
+        "text": "float",
+        "isCorrect": false
+      },
+      {
+        "text": "visibility",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 139,
+    "question": "En la selección de una herramienta de mockup, ¿cuál es un criterio fundamental?",
+    "options": [
+      {
+        "text": "La cantidad de plugins disponibles.",
+        "isCorrect": false
+      },
+      {
+        "text": "La facilidad de uso y la curva de aprendizaje.",
+        "isCorrect": true
+      },
+      {
+        "text": "La popularidad en redes sociales.",
+        "isCorrect": false
+      },
+      {
+        "text": "El tamaño de la comunidad de desarrolladores.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 140,
+    "question": "¿Qué ventaja ofrece el uso de un archivo CSS externo en comparación con incluir CSS directamente en el HTML?",
+    "options": [
+      {
+        "text": "Permite una edición más rápida del HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilita el mantenimiento y la reutilización de estilos en múltiples páginas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduce significativamente el tamaño del archivo HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejora la velocidad de carga de imágenes.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 141,
+    "question": "En el proceso de prototipado, ¿qué representa un wireframe?",
+    "options": [
+      {
+        "text": "Una representación de alta fidelidad con interactividad completa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un esquema básico de la estructura y distribución de contenido.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un modelo final del diseño gráfico del sitio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un conjunto de códigos optimizados para navegadores.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 142,
+    "question": "¿Cuál es el objetivo principal de una guía de estilo en el diseño web?",
+    "options": [
+      {
+        "text": "Incrementar el número de visitas al sitio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejorar el posicionamiento SEO.",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitar la integración de nuevos plugins.",
+        "isCorrect": false
+      },
+      {
+        "text": "Consolidar las decisiones de diseño y asegurar consistencia visual.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 143,
+    "question": "¿Qué elemento se utiliza para proporcionar retroalimentación al usuario mediante mensajes emergentes?",
+    "options": [
+      {
+        "text": "Banner.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tooltip o ayuda flotante.",
+        "isCorrect": true
+      },
+      {
+        "text": "Carrusel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Footer.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 144,
+    "question": "En el desarrollo front-end, ¿cuál de las siguientes tecnologías se utiliza para transformar diseños en código funcional?",
+    "options": [
+      {
+        "text": "HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "JavaScript.",
+        "isCorrect": false
+      },
+      {
+        "text": "Frameworks de desarrollo de interfaces.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bases de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 145,
+    "question": "¿Qué diferencia principal existe entre un mockup de alta fidelidad y uno de baja fidelidad?",
+    "options": [
+      {
+        "text": "Los mockups de alta fidelidad carecen de colores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Los mockups de alta fidelidad muestran detalles gráficos y se aproximan al diseño final.",
+        "isCorrect": true
+      },
+      {
+        "text": "Los mockups de baja fidelidad incluyen interactividad completa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Los mockups de baja fidelidad utilizan tipografías predefinidas sin personalización.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 146,
+    "question": "¿Cuál es la principal función de la propiedad CSS display: flex?",
+    "options": [
+      {
+        "text": "Distribuir y alinear elementos en un contenedor flexible.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ocultar elementos en la página.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumentar el tamaño de fuente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Establecer márgenes automáticos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 147,
+    "question": "¿Qué componente se ubica generalmente en la parte inferior de una interfaz web y suele contener enlaces a políticas y formularios de contacto?",
+    "options": [
+      {
+        "text": "Cabecera.",
+        "isCorrect": false
+      },
+      {
+        "text": "Barra lateral.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pie de página.",
+        "isCorrect": true
+      },
+      {
+        "text": "Menú de navegación.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 148,
+    "question": "En CSS, ¿cuál de las siguientes unidades de medida es relativa?",
+    "options": [
+      {
+        "text": "px.",
+        "isCorrect": false
+      },
+      {
+        "text": "em.",
+        "isCorrect": true
+      },
+      {
+        "text": "cm.",
+        "isCorrect": false
+      },
+      {
+        "text": "in.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 149,
+    "question": "¿Cuál es uno de los principales beneficios de utilizar frameworks como Bootstrap en el desarrollo web?",
+    "options": [
+      {
+        "text": "Permiten escribir menos código HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminan la necesidad de utilizar CSS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumentan la seguridad de la aplicación web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitan la creación de sitios web responsivos con componentes predefinidos.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 150,
+    "question": "¿Qué propiedad CSS se utiliza para ajustar el espacio interno (relleno) de un elemento?",
+    "options": [
+      {
+        "text": "margin",
+        "isCorrect": false
+      },
+      {
+        "text": "padding",
+        "isCorrect": true
+      },
+      {
+        "text": "border",
+        "isCorrect": false
+      },
+      {
+        "text": "outline",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 151,
+    "question": "¿Cuál de los siguientes componentes no forma parte de la interfaz de usuario final de un sitio web?",
+    "options": [
+      {
+        "text": "Formulario de contacto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuadro de diálogo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Prototipo interactivo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Iconos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 152,
+    "question": "¿Qué técnica se utiliza para asegurar la compatibilidad y consistencia de visualización en distintos navegadores?",
+    "options": [
+      {
+        "text": "Uso de HTML obsoleto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Uso de un único archivo CSS externo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Implementación de los estándares del W3C.",
+        "isCorrect": true
+      },
+      {
+        "text": "Uso exclusivo de JavaScript.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 153,
+    "question": "¿Cuál es la principal función de los iconos en el diseño de interfaces web?",
+    "options": [
+      {
+        "text": "Representar gráficamente acciones o contenidos para facilitar la comunicación.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reemplazar completamente el texto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumentar el tamaño del sitio web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejorar el SEO.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 154,
+    "question": "En el proceso de prototipado, ¿cuál es la principal diferencia entre un mockup y un prototipo?",
+    "options": [
+      {
+        "text": "El mockup es interactivo, mientras que el prototipo no lo es.",
+        "isCorrect": false
+      },
+      {
+        "text": "El prototipo simula la funcionalidad, mientras que el mockup solo muestra la apariencia visual.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ambos son idénticos en fidelidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "El mockup requiere programación, el prototipo no.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 155,
+    "question": "¿Qué representa la propiedad font-family en CSS?",
+    "options": [
+      {
+        "text": "La alineación del texto.",
+        "isCorrect": false
+      },
+      {
+        "text": "El tipo de letra o tipografía a utilizar.",
+        "isCorrect": true
+      },
+      {
+        "text": "El tamaño del borde.",
+        "isCorrect": false
+      },
+      {
+        "text": "El color de fondo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 156,
+    "question": "¿Cuál de las siguientes afirmaciones sobre el equilibrio visual en el diseño es correcta?",
+    "options": [
+      {
+        "text": "El equilibrio visual solo se logra con simetría perfecta.",
+        "isCorrect": false
+      },
+      {
+        "text": "El equilibrio visual no es relevante en el diseño de interfaces.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se consigue eliminando todos los elementos superfluos.",
+        "isCorrect": false
+      },
+      {
+        "text": "El equilibrio formal se basa en la bisimetría y un centro óptico, mientras que el equilibrio informal se alcanza mediante contraposición de pesos visuales.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 157,
+    "question": "¿Qué etiqueta HTML se utiliza para forzar un salto de línea en un párrafo?",
+    "options": [
+      {
+        "text": "<p>",
+        "isCorrect": false
+      },
+      {
+        "text": "<div>",
+        "isCorrect": false
+      },
+      {
+        "text": "<br>",
+        "isCorrect": true
+      },
+      {
+        "text": "<span>",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 158,
+    "question": "¿Cuál es la definición correcta de flujo normal en el contexto del diseño web?",
+    "options": [
+      {
+        "text": "Es la disposición predeterminada de los elementos HTML sin aplicar estilos CSS que alteren su comportamiento.",
+        "isCorrect": true
+      },
+      {
+        "text": "Es el método de alineación horizontal exclusivo de elementos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es una técnica para ocultar elementos en la página.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es la configuración por defecto de los frameworks modernos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-1t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 159,
+    "question": "¿Cuál es el objetivo principal del diseño responsive?",
+    "options": [
+      {
+        "text": "Ofrecer una experiencia visual óptima en cualquier dispositivo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aumentar la velocidad de carga únicamente en móviles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permitir la utilización de imágenes de alta resolución en escritorio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Unificar la apariencia sin importar el dispositivo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 160,
+    "question": "¿Qué tecnología de CSS3 permite aplicar estilos en función de la resolución del dispositivo?",
+    "options": [
+      {
+        "text": "Animaciones CSS.",
+        "isCorrect": false
+      },
+      {
+        "text": "Media queries.",
+        "isCorrect": true
+      },
+      {
+        "text": "Transiciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Variables CSS.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 161,
+    "question": "¿Cuál es la principal diferencia entre un diseño de ancho fijo y un diseño fluido?",
+    "options": [
+      {
+        "text": "El diseño fijo se adapta a cualquier dispositivo.",
+        "isCorrect": false
+      },
+      {
+        "text": "El diseño fluido ajusta el contenido al ancho de la ventana.",
+        "isCorrect": true
+      },
+      {
+        "text": "El diseño fijo permite el uso de media queries.",
+        "isCorrect": false
+      },
+      {
+        "text": "El diseño fluido siempre muestra múltiples columnas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 162,
+    "question": "¿Qué atributo HTML se utiliza para definir el viewport en un sitio web adaptativo?",
+    "options": [
+      {
+        "text": "lang",
+        "isCorrect": false
+      },
+      {
+        "text": "charset",
+        "isCorrect": false
+      },
+      {
+        "text": "meta viewport",
+        "isCorrect": true
+      },
+      {
+        "text": "link rel",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 163,
+    "question": "En un diseño adaptativo, ¿cuál de las siguientes afirmaciones es cierta?",
+    "options": [
+      {
+        "text": "Se muestra el mismo contenido en todos los dispositivos sin modificaciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "La estructura se modifica en función del ancho del navegador.",
+        "isCorrect": true
+      },
+      {
+        "text": "Se utilizan únicamente imágenes estáticas.",
+        "isCorrect": false
+      },
+      {
+        "text": "El diseño se basa en colores predefinidos sin cambios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 164,
+    "question": "¿Qué propiedad CSS se utiliza comúnmente para asegurar que padding y border se incluyan en el ancho total de un elemento?",
+    "options": [
+      {
+        "text": "float",
+        "isCorrect": false
+      },
+      {
+        "text": "display",
+        "isCorrect": false
+      },
+      {
+        "text": "box-sizing: border-box",
+        "isCorrect": true
+      },
+      {
+        "text": "overflow",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 165,
+    "question": "En un sistema de parrillas flexible basado en 12 columnas, ¿cuál es el ancho aproximado de cada columna en porcentaje?",
+    "options": [
+      {
+        "text": "10 %.",
+        "isCorrect": false
+      },
+      {
+        "text": "12 %.",
+        "isCorrect": false
+      },
+      {
+        "text": "9.5 %.",
+        "isCorrect": true
+      },
+      {
+        "text": "33 %.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 166,
+    "question": "¿Cuál es la función principal del clear: both aplicado al contenedor de columnas?",
+    "options": [
+      {
+        "text": "Ocultar las columnas flotantes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evitar que elementos posteriores se sitúen en los huecos generados por los floats.",
+        "isCorrect": true
+      },
+      {
+        "text": "Centrar el contenido horizontalmente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cambiar el color de fondo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 167,
+    "question": "¿Cuál de las siguientes es una ventaja de utilizar flexbox en el diseño web?",
+    "options": [
+      {
+        "text": "Permite alinear y distribuir espacios de manera eficiente sin usar floats.",
+        "isCorrect": true
+      },
+      {
+        "text": "Requiere mucho código HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo se puede usar en diseños fijos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Limita la cantidad de columnas en el diseño.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 168,
+    "question": "¿Qué modelo de diseño se basa en la creación de filas y columnas sin necesidad de usar floats?",
+    "options": [
+      {
+        "text": "Diseño de ancho fijo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diseño de caja.",
+        "isCorrect": false
+      },
+      {
+        "text": "CSS Grid.",
+        "isCorrect": true
+      },
+      {
+        "text": "Diseño fluido.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 169,
+    "question": "¿Cómo se denomina el campo de visión en el contexto del diseño responsive?",
+    "options": [
+      {
+        "text": "Viewport.",
+        "isCorrect": true
+      },
+      {
+        "text": "Grid.",
+        "isCorrect": false
+      },
+      {
+        "text": "Container.",
+        "isCorrect": false
+      },
+      {
+        "text": "Margin.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 170,
+    "question": "¿Qué valor se utiliza en el atributo meta viewport para que la página se renderice a la medida completa del dispositivo?",
+    "options": [
+      {
+        "text": "width=980",
+        "isCorrect": false
+      },
+      {
+        "text": "width=device-width",
+        "isCorrect": true
+      },
+      {
+        "text": "width=100%",
+        "isCorrect": false
+      },
+      {
+        "text": "width=auto",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 171,
+    "question": "En una media query, ¿qué operador se utiliza para establecer una restricción máxima de ancho?",
+    "options": [
+      {
+        "text": "min-width",
+        "isCorrect": false
+      },
+      {
+        "text": "width-equals",
+        "isCorrect": false
+      },
+      {
+        "text": "only-width",
+        "isCorrect": false
+      },
+      {
+        "text": "max-width",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 172,
+    "question": "¿Cuál de las siguientes opciones no es un tipo de diseño adaptativo mencionado en el documento?",
+    "options": [
+      {
+        "text": "Diseño predominantemente fluido.",
+        "isCorrect": false
+      },
+      {
+        "text": "Patrón de caída de columnas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Patrón fuera de la ventana.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diseño de resolución fija.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 173,
+    "question": "¿Qué término se utiliza para describir la experiencia global del usuario al interactuar con un producto digital?",
+    "options": [
+      {
+        "text": "Usabilidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "User experience (UX).",
+        "isCorrect": true
+      },
+      {
+        "text": "Diseño gráfico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Front-end.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 174,
+    "question": "¿Qué herramienta gratuita usarías para la creación de encuestas y cuestionarios en UX?",
+    "options": [
+      {
+        "text": "Adobe Forms.",
+        "isCorrect": false
+      },
+      {
+        "text": "Google Forms.",
+        "isCorrect": true
+      },
+      {
+        "text": "Microsoft Survey.",
+        "isCorrect": false
+      },
+      {
+        "text": "SurveyMonkey Pro.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 175,
+    "question": "¿Qué método de análisis UX consiste en comparar dos versiones de un elemento para determinar cuál es más efectiva?",
+    "options": [
+      {
+        "text": "Card sorting.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluación A/B.",
+        "isCorrect": true
+      },
+      {
+        "text": "Estudio cualitativo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mapas de afinidad.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 176,
+    "question": "¿Qué técnica permite organizar grandes volúmenes de información en categorías visuales para detectar patrones?",
+    "options": [
+      {
+        "text": "Mapas de afinidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Prototipado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Wireframes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Feedback visual.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 177,
+    "question": "¿Cuál es uno de los beneficios principales de utilizar HTML semántico?",
+    "options": [
+      {
+        "text": "Aumenta la velocidad de carga del sitio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejora el SEO y facilita la interpretación por tecnologías de asistencia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Permite el uso de estilos CSS más avanzados.",
+        "isCorrect": false
+      },
+      {
+        "text": "Incrementa la cantidad de etiquetas en el código.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 178,
+    "question": "¿Qué elemento en un formulario HTML es esencial para mejorar su accesibilidad?",
+    "options": [
+      {
+        "text": "El atributo placeholder.",
+        "isCorrect": false
+      },
+      {
+        "text": "La etiqueta label con atributo for.",
+        "isCorrect": true
+      },
+      {
+        "text": "Los botones de envío.",
+        "isCorrect": false
+      },
+      {
+        "text": "Los comentarios en el código.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 179,
+    "question": "¿Cuál es la finalidad de establecer altos niveles de contraste en el CSS?",
+    "options": [
+      {
+        "text": "Mejorar la legibilidad para usuarios con dificultades visuales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aumentar la velocidad del sitio web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducir el consumo de energía en dispositivos móviles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitar el uso de animaciones.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 180,
+    "question": "Según las directrices WCAG, ¿cuál de los siguientes principios no forma parte del acrónimo POUR?",
+    "options": [
+      {
+        "text": "Perceptible.",
+        "isCorrect": false
+      },
+      {
+        "text": "Operable.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducible.",
+        "isCorrect": true
+      },
+      {
+        "text": "Robusto.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 181,
+    "question": "¿Qué significa alcanzar el nivel AAA en las WCAG?",
+    "options": [
+      {
+        "text": "Cumplir solo las especificaciones básicas de accesibilidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Lograr el nivel medio recomendado para la mayoría de las páginas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alcanzar el grado más alto de accesibilidad, aplicable en situaciones específicas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Implementar estilos avanzados de CSS sin restricciones.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 182,
+    "question": "¿Qué elemento no es fundamental para garantizar la accesibilidad en el diseño web según el documento?",
+    "options": [
+      {
+        "text": "Uso de HTML semántico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Inclusión de textos alternativos en imágenes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusión de media queries.",
+        "isCorrect": true
+      },
+      {
+        "text": "Contraste adecuado en colores y tipografía.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Interfaces - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-examen-2t",
+    "reviewedAsDudosa": true
+  }
+]

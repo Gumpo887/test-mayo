@@ -1,0 +1,3727 @@
+[
+  {
+    "id": 1,
+    "question": "\u00bfQu\u00e9 es Python?",
+    "options": [
+      {
+        "text": "Un motor de base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un sistema operativo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un compilador para Java.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un lenguaje de programaci\u00f3n de alto nivel, interpretado y de prop\u00f3sito general.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 2,
+    "question": "\u00bfCu\u00e1l de los siguientes es un nombre de variable v\u00e1lido en Python?",
+    "options": [
+      {
+        "text": "2variable.",
+        "isCorrect": false
+      },
+      {
+        "text": "class.",
+        "isCorrect": false
+      },
+      {
+        "text": "mi-variable.",
+        "isCorrect": false
+      },
+      {
+        "text": "_mi_variable.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 3,
+    "question": "\u00bfQu\u00e9 tipo de dato tiene la variable x en el c\u00f3digo x = True?",
+    "options": [
+      {
+        "text": "Booleano.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cadena.",
+        "isCorrect": false
+      },
+      {
+        "text": "Entero.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ninguno.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 4,
+    "question": "\u00bfCu\u00e1l es el operador para la divisi\u00f3n entera en Python?",
+    "options": [
+      {
+        "text": "/.",
+        "isCorrect": false
+      },
+      {
+        "text": "//.",
+        "isCorrect": true
+      },
+      {
+        "text": "**.",
+        "isCorrect": false
+      },
+      {
+        "text": "%.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 5,
+    "question": "\u00bfCu\u00e1l es el resultado de la expresi\u00f3n 5 % 2?",
+    "options": [
+      {
+        "text": "2.",
+        "isCorrect": false
+      },
+      {
+        "text": "0.",
+        "isCorrect": false
+      },
+      {
+        "text": "2.5.",
+        "isCorrect": false
+      },
+      {
+        "text": "1.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 6,
+    "question": "\u00bfQu\u00e9 estructura de control se usa para decisiones condicionales?",
+    "options": [
+      {
+        "text": "if.",
+        "isCorrect": true
+      },
+      {
+        "text": "while.",
+        "isCorrect": false
+      },
+      {
+        "text": "try.",
+        "isCorrect": false
+      },
+      {
+        "text": "for.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 7,
+    "question": "\u00bfCu\u00e1l de las siguientes estructuras permite iterar un n\u00famero definido de veces?",
+    "options": [
+      {
+        "text": "if.",
+        "isCorrect": false
+      },
+      {
+        "text": "for.",
+        "isCorrect": true
+      },
+      {
+        "text": "try.",
+        "isCorrect": false
+      },
+      {
+        "text": "break.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 8,
+    "question": "\u00bfCu\u00e1l de las siguientes es una lista v\u00e1lida en Python?:",
+    "options": [
+      {
+        "text": "(1, 2, 3).",
+        "isCorrect": false
+      },
+      {
+        "text": "{1, 2, 3}.",
+        "isCorrect": false
+      },
+      {
+        "text": "[1, 2, 3].",
+        "isCorrect": true
+      },
+      {
+        "text": "\u201c1, 2, 3\u201d.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 9,
+    "question": "\u00bfQu\u00e9 estructura de datos es inmutable?",
+    "options": [
+      {
+        "text": "Lista.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diccionario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tupla.",
+        "isCorrect": true
+      },
+      {
+        "text": "Conjunto.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 10,
+    "question": "\u00bfCu\u00e1l es la funci\u00f3n para obtener la longitud de una lista?",
+    "options": [
+      {
+        "text": "count().",
+        "isCorrect": false
+      },
+      {
+        "text": "length().",
+        "isCorrect": false
+      },
+      {
+        "text": "size().",
+        "isCorrect": false
+      },
+      {
+        "text": "len().",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 11,
+    "question": "\u00bfQu\u00e9 m\u00e9todo se usa para agregar un elemento a una lista?",
+    "options": [
+      {
+        "text": "append().",
+        "isCorrect": true
+      },
+      {
+        "text": "insert().",
+        "isCorrect": false
+      },
+      {
+        "text": "put().",
+        "isCorrect": false
+      },
+      {
+        "text": "add().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 12,
+    "question": "\u00bfQu\u00e9 palabra clave se usa para definir una funci\u00f3n en Python?",
+    "options": [
+      {
+        "text": "function.",
+        "isCorrect": false
+      },
+      {
+        "text": "def.",
+        "isCorrect": true
+      },
+      {
+        "text": "define.",
+        "isCorrect": false
+      },
+      {
+        "text": "func.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 13,
+    "question": "\u00bfQu\u00e9 palabra clave se usa para manejar excepciones en Python?",
+    "options": [
+      {
+        "text": "try.",
+        "isCorrect": true
+      },
+      {
+        "text": "error.",
+        "isCorrect": false
+      },
+      {
+        "text": "catch.",
+        "isCorrect": false
+      },
+      {
+        "text": "exception.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 14,
+    "question": "\u00bfCu\u00e1l es el prop\u00f3sito de import en Python?",
+    "options": [
+      {
+        "text": "Importar m\u00f3dulos o bibliotecas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Exportar funciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear clases.",
+        "isCorrect": false
+      },
+      {
+        "text": "Definir excepciones.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 15,
+    "question": "\u00bfQu\u00e9 tipo de datos devuelve la funci\u00f3n input()?:",
+    "options": [
+      {
+        "text": "Lista.",
+        "isCorrect": false
+      },
+      {
+        "text": "Entero.",
+        "isCorrect": false
+      },
+      {
+        "text": "Booleano.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cadena de texto.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 16,
+    "question": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n len(\u201cPython\u201d)?",
+    "options": [
+      {
+        "text": "5.",
+        "isCorrect": false
+      },
+      {
+        "text": "7.",
+        "isCorrect": false
+      },
+      {
+        "text": "Error.",
+        "isCorrect": false
+      },
+      {
+        "text": "6.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 17,
+    "question": "\u00bfC\u00f3mo se crea una clase en Python?",
+    "options": [
+      {
+        "text": "Usando la palabra clave class.",
+        "isCorrect": true
+      },
+      {
+        "text": "Usando la palabra clave object.",
+        "isCorrect": false
+      },
+      {
+        "text": "Usando la palabra clave def.",
+        "isCorrect": false
+      },
+      {
+        "text": "Usando la palabra clave type.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 18,
+    "question": "\u00bfCu\u00e1l es el nombre del m\u00e9todo constructor en una clase de Python?",
+    "options": [
+      {
+        "text": "__init__.",
+        "isCorrect": true
+      },
+      {
+        "text": "__start__.",
+        "isCorrect": false
+      },
+      {
+        "text": "_create__.",
+        "isCorrect": false
+      },
+      {
+        "text": "constructor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 19,
+    "question": "\u00bfQu\u00e9 palabra clave permite acceder a atributos y m\u00e9todos dentro de una clase?",
+    "options": [
+      {
+        "text": "this.",
+        "isCorrect": false
+      },
+      {
+        "text": "self.",
+        "isCorrect": true
+      },
+      {
+        "text": "cls.",
+        "isCorrect": false
+      },
+      {
+        "text": "me.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 20,
+    "question": "\u00bfCu\u00e1l de las siguientes opciones es correcta acerca de estas clases?:",
+    "options": [
+      {
+        "text": "class Estudiante(Persona):",
+        "isCorrect": false
+      },
+      {
+        "text": "pass",
+        "isCorrect": false
+      },
+      {
+        "text": "Es una composici\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es polimorfismo.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 21,
+    "question": "\u00bfQu\u00e9 es el polimorfismo en programaci\u00f3n orientada a objetos?",
+    "options": [
+      {
+        "text": "La creaci\u00f3n de m\u00faltiples clases a partir de una sola.",
+        "isCorrect": false
+      },
+      {
+        "text": "La restricci\u00f3n del acceso a los datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "La capacidad de usar el mismo m\u00e9todo con diferentes comportamientos.",
+        "isCorrect": true
+      },
+      {
+        "text": "La eliminaci\u00f3n de herencia.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 22,
+    "question": "\u00bfQu\u00e9 es la encapsulaci\u00f3n?",
+    "options": [
+      {
+        "text": "El uso de m\u00faltiples clases.",
+        "isCorrect": false
+      },
+      {
+        "text": "La modificaci\u00f3n de m\u00e9todos.",
+        "isCorrect": false
+      },
+      {
+        "text": "El ocultamiento de los detalles internos de un objeto.",
+        "isCorrect": true
+      },
+      {
+        "text": "La herencia de atributos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 23,
+    "question": "\u00bfCu\u00e1l es la diferencia entre una lista y un conjunto en Python?",
+    "options": [
+      {
+        "text": "Un conjunto mantiene el orden de inserci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una lista no puede contener enteros.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un conjunto no permite elementos duplicados, una lista s\u00ed.",
+        "isCorrect": true
+      },
+      {
+        "text": "No hay diferencia.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 24,
+    "question": "\u00bfQu\u00e9 estructura se usa para asociar claves a valores?",
+    "options": [
+      {
+        "text": "Lista.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tupla.",
+        "isCorrect": false
+      },
+      {
+        "text": "Set.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diccionario.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 25,
+    "question": "\u00bfCu\u00e1l es el resultado de la operaci\u00f3n \u2018a\u2019 * 3?",
+    "options": [
+      {
+        "text": "\u2018a3\u2019.",
+        "isCorrect": false
+      },
+      {
+        "text": "Error.",
+        "isCorrect": false
+      },
+      {
+        "text": "\u2018aaa\u2019.",
+        "isCorrect": true
+      },
+      {
+        "text": "\u2018a a a\u2019.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 1a.pdf"
+  },
+  {
+    "id": 26,
+    "question": "\u00bfCu\u00e1l es la biblioteca est\u00e1ndar de Python para conectarse a bases de datos MySQL?",
+    "options": [
+      {
+        "text": "mysql-connector-python",
+        "isCorrect": true
+      },
+      {
+        "text": "pymongo",
+        "isCorrect": false
+      },
+      {
+        "text": "sqlite3",
+        "isCorrect": false
+      },
+      {
+        "text": "psycopg2",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 27,
+    "question": "En el siguiente c\u00f3digo MySQL con Python, \u00bfqu\u00e9 hace el m\u00e9todo fetchall()? cursor.execute(\"SELECT * FROM usuarios\") resultados = cursor.fetchall()",
+    "options": [
+      {
+        "text": "Ejecuta la consulta en la base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Obtiene todas las filas del resultado de la consulta.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cierra la conexi\u00f3n a la base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Obtiene solo la primera fila del resultado.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 28,
+    "question": "\u00bfCu\u00e1l es el comando correcto para instalar Django?",
+    "options": [
+      {
+        "text": "pip install django-framework",
+        "isCorrect": false
+      },
+      {
+        "text": "pip install Django",
+        "isCorrect": true
+      },
+      {
+        "text": "npm install django",
+        "isCorrect": false
+      },
+      {
+        "text": "conda install django-web",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 29,
+    "question": "En Django, cu\u00e1l es el archivo principal de configuraci\u00f3n de un proyecto?",
+    "options": [
+      {
+        "text": "config.py",
+        "isCorrect": false
+      },
+      {
+        "text": "settings.py",
+        "isCorrect": true
+      },
+      {
+        "text": "urls.py",
+        "isCorrect": false
+      },
+      {
+        "text": "models.py",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 30,
+    "question": "\u00bfQu\u00e9 comando de Django se utiliza para crear las tablas en la base de datos bas\u00e1ndose en los modelos?",
+    "options": [
+      {
+        "text": "python manage.py makemigrations",
+        "isCorrect": false
+      },
+      {
+        "text": "python manage.py syncdb",
+        "isCorrect": false
+      },
+      {
+        "text": "python manage.py created",
+        "isCorrect": false
+      },
+      {
+        "text": "python manage.py migrate",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 31,
+    "question": "En Django, \u00bfcu\u00e1l es la funci\u00f3n principal de un modelo?",
+    "options": [
+      {
+        "text": "Definir la estructura de los datos y mapear tablas de base de datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Manejar las URL del proyecto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Procesar las solicitudes HTTP.",
+        "isCorrect": false
+      },
+      {
+        "text": "Renderizar plantillas HTML.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 32,
+    "question": "\u00bfCu\u00e1l es el tipo de campo correcto en Django para almacenar texto largo?",
+    "options": [
+      {
+        "text": "CharField",
+        "isCorrect": false
+      },
+      {
+        "text": "StringField",
+        "isCorrect": false
+      },
+      {
+        "text": "TextField",
+        "isCorrect": true
+      },
+      {
+        "text": "LongTextField",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 33,
+    "question": "En Django, \u00bfqu\u00e9 comando se usa para crear migraciones despu\u00e9s de modificar un modelo?",
+    "options": [
+      {
+        "text": "python manage.py migrate",
+        "isCorrect": false
+      },
+      {
+        "text": "python manage.py makemigrations",
+        "isCorrect": true
+      },
+      {
+        "text": "python manage.py createmigrations",
+        "isCorrect": false
+      },
+      {
+        "text": "python manage.py updatemigrations",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 34,
+    "question": "\u00bfCu\u00e1l es la sintaxis correcta para definir una vista basada en funci\u00f3n en Django?",
+    "options": [
+      {
+        "text": "class MiVista(View): def get(self, request):",
+        "isCorrect": false
+      },
+      {
+        "text": "def mi_vista(): return render('template.html')",
+        "isCorrect": false
+      },
+      {
+        "text": "@view def mi_vista(request):",
+        "isCorrect": false
+      },
+      {
+        "text": "def mi_vista(request): return HttpResponse('Hola')",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 35,
+    "question": "En las plantillas de Django, \u00bfcu\u00e1l es la sintaxis correcta para mostrar una variable?",
+    "options": [
+      {
+        "text": "{% variable %}",
+        "isCorrect": false
+      },
+      {
+        "text": "<% variable %>",
+        "isCorrect": false
+      },
+      {
+        "text": "{$ variable $}",
+        "isCorrect": false
+      },
+      {
+        "text": "{{ variable }}",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 36,
+    "question": "\u00bfCu\u00e1l es la clase base m\u00e1s b\u00e1sica y general para crear formularios en Django?",
+    "options": [
+      {
+        "text": "forms.BaseForm",
+        "isCorrect": false
+      },
+      {
+        "text": "forms.Form",
+        "isCorrect": true
+      },
+      {
+        "text": "forms.ModelForm",
+        "isCorrect": false
+      },
+      {
+        "text": "forms.HTMLForm",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 37,
+    "question": "En Django, \u00bfqu\u00e9 m\u00e9todo HTTP se usa t\u00edpicamente para eliminar un registro?",
+    "options": [
+      {
+        "text": "POST",
+        "isCorrect": false
+      },
+      {
+        "text": "DELETE",
+        "isCorrect": true
+      },
+      {
+        "text": "GET",
+        "isCorrect": false
+      },
+      {
+        "text": "PUT",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 38,
+    "question": "\u00bfCu\u00e1l es el comando para instalar Django REST Framework?",
+    "options": [
+      {
+        "text": "pip install django-rest",
+        "isCorrect": false
+      },
+      {
+        "text": "pip install drf",
+        "isCorrect": false
+      },
+      {
+        "text": "pip install djangorestframework",
+        "isCorrect": true
+      },
+      {
+        "text": "pip install django-api",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 39,
+    "question": "En Django REST Framework, \u00bfcu\u00e1l es la funci\u00f3n principal de un serializador?",
+    "options": [
+      {
+        "text": "Manejar las URL de la API.",
+        "isCorrect": false
+      },
+      {
+        "text": "Autenticar usuarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Convertir objetos Python a JSON y viceversa.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cachear respuestas de la API.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 40,
+    "question": "\u00bfCu\u00e1l es la clase base m\u00e1s com\u00fan para crear un serializador de modelo en DRF?",
+    "options": [
+      {
+        "text": "serializers.Serializer",
+        "isCorrect": false
+      },
+      {
+        "text": "serializers.BaseSerializer",
+        "isCorrect": false
+      },
+      {
+        "text": "serializers.JSONSerializer",
+        "isCorrect": false
+      },
+      {
+        "text": "serializers.ModelSerializer",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 41,
+    "question": "En Django REST Framework, \u00bfqu\u00e9 clase proporciona operaciones CRUD completas autom\u00e1ticamente?",
+    "options": [
+      {
+        "text": "APIView",
+        "isCorrect": false
+      },
+      {
+        "text": "ModelViewSet",
+        "isCorrect": true
+      },
+      {
+        "text": "GenericAPIView",
+        "isCorrect": false
+      },
+      {
+        "text": "ListCreateAPIView",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 42,
+    "question": "\u00bfCu\u00e1l es la funci\u00f3n de DefaultRouter en Django REST Framework?",
+    "options": [
+      {
+        "text": "Generar autom\u00e1ticamente las URL para ViewSets.",
+        "isCorrect": true
+      },
+      {
+        "text": "Manejar la autenticaci\u00f3n de usuarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Serializar modelos de Django.",
+        "isCorrect": false
+      },
+      {
+        "text": "Configurar permisos de API.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 43,
+    "question": "\u00bfCu\u00e1l es el comando para instalar Flask?",
+    "options": [
+      {
+        "text": "npm install flask",
+        "isCorrect": false
+      },
+      {
+        "text": "pip install flask-framework",
+        "isCorrect": false
+      },
+      {
+        "text": "pip install flask",
+        "isCorrect": true
+      },
+      {
+        "text": "conda install python-flask",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 44,
+    "question": "En Flask, \u00bfcu\u00e1l es el decorador b\u00e1sico para definir una ruta?",
+    "options": [
+      {
+        "text": "@route()",
+        "isCorrect": false
+      },
+      {
+        "text": "@app.url()",
+        "isCorrect": false
+      },
+      {
+        "text": "@app.route()",
+        "isCorrect": true
+      },
+      {
+        "text": "@flask.route()",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 45,
+    "question": "\u00bfCu\u00e1l es la forma correcta de crear una aplicaci\u00f3n Flask b\u00e1sica?",
+    "options": [
+      {
+        "text": "app = Flask()",
+        "isCorrect": false
+      },
+      {
+        "text": "app = new Flask(name)",
+        "isCorrect": false
+      },
+      {
+        "text": "app = Flask(name)",
+        "isCorrect": true
+      },
+      {
+        "text": "app = Flask.create(name)",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 46,
+    "question": "En Flask con SQLAlchemy, \u00bfcu\u00e1l es la clase base t\u00edpica para definir modelos?",
+    "options": [
+      {
+        "text": "SQLAlchemy.Model",
+        "isCorrect": false
+      },
+      {
+        "text": "Model.Base",
+        "isCorrect": false
+      },
+      {
+        "text": "db.Model",
+        "isCorrect": true
+      },
+      {
+        "text": "db.Table",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 47,
+    "question": "\u00bfCu\u00e1l es el m\u00e9todo correcto para guardar cambios en la base de datos con SQLAlchemy?",
+    "options": [
+      {
+        "text": "db.save()",
+        "isCorrect": false
+      },
+      {
+        "text": "db.session.save()",
+        "isCorrect": false
+      },
+      {
+        "text": "db.commit()",
+        "isCorrect": false
+      },
+      {
+        "text": "db.session.commit()",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 48,
+    "question": "\u00bfCu\u00e1l es la forma correcta de usar like para buscar patrones que contengan una palabra espec\u00edfica en SQLAlchemy?",
+    "options": [
+      {
+        "text": "session.query(User).filter(User.name.like('john')).all()",
+        "isCorrect": false
+      },
+      {
+        "text": "session.query(User).filter(User.name.like('.john.')).all()",
+        "isCorrect": false
+      },
+      {
+        "text": "session.query(User).filter(User.name.like('%john%')).all()",
+        "isCorrect": true
+      },
+      {
+        "text": "session.query(User).filter(User.name.like('john')).all()",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 49,
+    "question": "\u00bfCu\u00e1l es la extensi\u00f3n de archivo t\u00edpica para las plantillas en Django?",
+    "options": [
+      {
+        "text": ".template",
+        "isCorrect": false
+      },
+      {
+        "text": ".django",
+        "isCorrect": false
+      },
+      {
+        "text": ".html",
+        "isCorrect": true
+      },
+      {
+        "text": ".tpl",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 50,
+    "question": "En Django REST Framework, \u00bfcu\u00e1l es el c\u00f3digo de estado HTTP t\u00edpico para una creaci\u00f3n exitosa?",
+    "options": [
+      {
+        "text": "200 OK",
+        "isCorrect": false
+      },
+      {
+        "text": "204 No Content",
+        "isCorrect": false
+      },
+      {
+        "text": "201 Created",
+        "isCorrect": true
+      },
+      {
+        "text": "202 Accepted Respuestas correctas 1. A \u2014 mysql-connector-python 2. B \u2014 Obtiene todas las filas del resultado de la consulta. 3. B \u2014 pip install Django 4. B \u2014 settings.py 5. D \u2014 python manage.py migrate 6. A \u2014 Definir la estructura de los datos y mapear tablas de base de datos. 7. C \u2014 TextField 8. B \u2014 python manage.py makemigrations 9. D \u2014 def mi_vista(request): return HttpResponse('Hola') 10. D \u2014 {{ variable }} 11. B \u2014 forms.Form 12. B \u2014 DELETE 13. C \u2014 pip install djangorestframework 14. C \u2014 Convertir objetos Python a JSON y viceversa. 15. D \u2014 serializers.ModelSerializer 16. B \u2014 ModelViewSet 17. A \u2014 Generar autom\u00e1ticamente las URL para ViewSets. 18. C \u2014 pip install flask 19. C \u2014 @app.route() 20. C \u2014 app = Flask(name) 21. C \u2014 db.Model 22. D \u2014 db.session.commit() 23. C \u2014 session.query(User).filter(User.name.like('%john%')).all() 24. C \u2014 .html 25. C \u2014 201 Created",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Tests Pruebas Trimestrales/Python - Test 2a.pdf"
+  },
+  {
+    "id": 51,
+    "question": "\u00bfCu\u00e1l de las siguientes afirmaciones sobre la consola interactiva de Python es falsa?",
+    "options": [
+      {
+        "text": "No permite definir funciones o clases, solo ejecutar expresiones simples.",
+        "isCorrect": true
+      },
+      {
+        "text": "Se puede acceder al resultado de la \u00faltima expresi\u00f3n mediante la variable especial _.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permite probar c\u00f3digo Python de forma inmediata sin crear archivos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se puede iniciar escribiendo python o python3 en la terminal.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 52,
+    "question": "\u00bfCu\u00e1l es la forma correcta de ejecutar un script de Python llamado \u00abscript.py\u00bb desde la l\u00ednea de comandos?",
+    "options": [
+      {
+        "text": "Python script.py.",
+        "isCorrect": true
+      },
+      {
+        "text": "Run script.py.",
+        "isCorrect": false
+      },
+      {
+        "text": "Execute python script.py.",
+        "isCorrect": false
+      },
+      {
+        "text": "Python -run script.py.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 53,
+    "question": "\u00bfQui\u00e9n cre\u00f3 el lenguaje de programaci\u00f3n Python?",
+    "options": [
+      {
+        "text": "James Gosling.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bjarne Stroustrup.",
+        "isCorrect": false
+      },
+      {
+        "text": "Rasmus Lerdorf.",
+        "isCorrect": false
+      },
+      {
+        "text": "Guido van Rossum.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 54,
+    "question": "\u00bfQu\u00e9 m\u00f3dulo de Python se utiliza para depuraci\u00f3n interactiva dentro del c\u00f3digo?",
+    "options": [
+      {
+        "text": "Pdb.",
+        "isCorrect": true
+      },
+      {
+        "text": "Debug.",
+        "isCorrect": false
+      },
+      {
+        "text": "Trace.",
+        "isCorrect": false
+      },
+      {
+        "text": "Inspect.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 55,
+    "question": "\u00bfQu\u00e9 ocurri\u00f3 en 2018 con respecto a la gobernanza de Python?",
+    "options": [
+      {
+        "text": "Guido van Rossum se retir\u00f3 como \u00abdictador benevolente de por vida\u00bb y se cre\u00f3 el consejo directivo de Python.",
+        "isCorrect": true
+      },
+      {
+        "text": "Python fue adquirido por Microsoft.",
+        "isCorrect": false
+      },
+      {
+        "text": "La Python Software Foundation se disolvi\u00f3.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se decidi\u00f3 terminar el soporte para Python 2 inmediatamente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 56,
+    "question": "\u00bfCu\u00e1l es la principal diferencia entre Python 2 y Python 3?",
+    "options": [
+      {
+        "text": "Python 3 introdujo cambios que no son compatibles hacia atr\u00e1s con Python 2.",
+        "isCorrect": true
+      },
+      {
+        "text": "Python 3 solo funciona en sistemas operativos modernos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Python 3 es m\u00e1s lento que Python 2.",
+        "isCorrect": false
+      },
+      {
+        "text": "Python 3 no soporta programaci\u00f3n orientada a objetos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 57,
+    "question": "\u00bfQu\u00e9 comando se utiliza para crear un entorno virtual con el m\u00f3dulo venv en Python?",
+    "options": [
+      {
+        "text": "Python -m venv nombre_entorno.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pip install venv nombre_entorno.",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtualenv create nombre_entorno.",
+        "isCorrect": false
+      },
+      {
+        "text": "Python venv --create nombre_entorno.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 58,
+    "question": "\u00bfQu\u00e9 opci\u00f3n permite ejecutar un script Python y luego entrar en modo interactivo con acceso a las variables definidas en el script?",
+    "options": [
+      {
+        "text": "Python -i script.py.",
+        "isCorrect": true
+      },
+      {
+        "text": "Python --interactive script.py.",
+        "isCorrect": false
+      },
+      {
+        "text": "Python script.py --console.",
+        "isCorrect": false
+      },
+      {
+        "text": "Python --repl script.py.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 59,
+    "question": "\u00bfQu\u00e9 es un f-string en Python?",
+    "options": [
+      {
+        "text": "Una forma de formatear cadenas que permite incluir expresiones dentro de llaves {}.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un tipo especial de cadena que solo contiene caracteres del alfabeto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una funci\u00f3n para convertir n\u00fameros a cadenas de texto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una cadena que solo puede contener valores flotantes.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 60,
+    "question": "\u00bfCu\u00e1l de los siguientes no es un IDE o editor com\u00fanmente usado para Python?",
+    "options": [
+      {
+        "text": "Eclipse C/C++.",
+        "isCorrect": true
+      },
+      {
+        "text": "Visual Studio Code.",
+        "isCorrect": false
+      },
+      {
+        "text": "PyCharm.",
+        "isCorrect": false
+      },
+      {
+        "text": "Jupyter Notebook.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 61,
+    "question": "\u00bfCu\u00e1l es la salida del siguiente c\u00f3digo? def modificar(lista): lista.append(4) lista = [7, 8, 9] return lista mi_lista = [1, 2, 3] resultado = modificar(mi_lista) print(mi_lista)",
+    "options": [
+      {
+        "text": "[1, 2, 3, 4].",
+        "isCorrect": true
+      },
+      {
+        "text": "[7, 8, 9].",
+        "isCorrect": false
+      },
+      {
+        "text": "[1, 2, 3].",
+        "isCorrect": false
+      },
+      {
+        "text": "[1, 2, 3, 4, 7, 8, 9].",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 62,
+    "question": "\u00bfCu\u00e1l es la forma correcta de definir una funci\u00f3n en Python?",
+    "options": [
+      {
+        "text": "def saludar(nombre): return f\"Hola, {nombre}\"",
+        "isCorrect": true
+      },
+      {
+        "text": "function saludar(nombre) { return f\"Hola, {nombre}\" }",
+        "isCorrect": false
+      },
+      {
+        "text": "func saludar(nombre): return f\"Hola, {nombre}\"",
+        "isCorrect": false
+      },
+      {
+        "text": "saludar = function(nombre): return f\"Hola, {nombre}\"",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 63,
+    "question": "\u00bfCu\u00e1l es la forma correcta de crear una variable en Python?",
+    "options": [
+      {
+        "text": "Nombre = \"Ana\"",
+        "isCorrect": true
+      },
+      {
+        "text": "Var nombre = \"Ana\"",
+        "isCorrect": false
+      },
+      {
+        "text": "String nombre = \"Ana\"",
+        "isCorrect": false
+      },
+      {
+        "text": "Nombre := \"Ana\"",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 64,
+    "question": "\u00bfCu\u00e1l es la salida del c\u00f3digo print(\"Python\"[1:4]) ?",
+    "options": [
+      {
+        "text": "\u201cyth\u201d",
+        "isCorrect": true
+      },
+      {
+        "text": "\u201cPyt\u201d",
+        "isCorrect": false
+      },
+      {
+        "text": "\u201cytho\u201d",
+        "isCorrect": false
+      },
+      {
+        "text": "\u201cPython\u201d",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 65,
+    "question": "?Cu?l es la forma correcta de crear un conjunto (set) en Python?",
+    "options": [
+      {
+        "text": "Colores = {\"rojo\", \"verde\", \"azul\"}.",
+        "isCorrect": true
+      },
+      {
+        "text": "Colores = [\"rojo\", \"verde\", \"azul\"].",
+        "isCorrect": false
+      },
+      {
+        "text": "Colores = (\"rojo\", \"verde\", \"azul\").",
+        "isCorrect": false
+      },
+      {
+        "text": "Colores = {1: \"rojo\", 2: \"verde\", 3: \"azul\"}.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 66,
+    "question": "\u00bfQu\u00e9 hace f = lambda x, y: x * y ?",
+    "options": [
+      {
+        "text": "Multiplica dos n\u00fameros.",
+        "isCorrect": true
+      },
+      {
+        "text": "Crea una lista con los elementos x e y repetidos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Concatena las cadenas x e y.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eleva x a la potencia y.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 67,
+    "question": "\u00bfCu\u00e1l es la salida del siguiente c\u00f3digo? x = True y = False print(x and not y)",
+    "options": [
+      {
+        "text": "True.",
+        "isCorrect": true
+      },
+      {
+        "text": "False.",
+        "isCorrect": false
+      },
+      {
+        "text": "None.",
+        "isCorrect": false
+      },
+      {
+        "text": "Error, no se pueden combinar operadores l\u00f3gicos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 68,
+    "question": "\u00bfCu\u00e1l es la forma correcta de crear una funci\u00f3n que acepte un n\u00famero variable de argumentos posicionales?",
+    "options": [
+      {
+        "text": "def suma(*args): return sum(args)",
+        "isCorrect": true
+      },
+      {
+        "text": "def suma([*args]): return sum(args)",
+        "isCorrect": false
+      },
+      {
+        "text": "def suma(**args): return sum(args)",
+        "isCorrect": false
+      },
+      {
+        "text": "def suma(args...): return sum(args)",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 69,
+    "question": "\u00bfCu\u00e1l es la salida del siguiente c\u00f3digo? x = 5 y = 2 print(x // y)",
+    "options": [
+      {
+        "text": "2.",
+        "isCorrect": true
+      },
+      {
+        "text": "2,5.",
+        "isCorrect": false
+      },
+      {
+        "text": "2,0.",
+        "isCorrect": false
+      },
+      {
+        "text": "3.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 70,
+    "question": "\u00bfQu\u00e9 hace la comprensi\u00f3n de lista [x**2 for x in range(5) if x % 2 == 0] ?",
+    "options": [
+      {
+        "text": "Crea una lista con los cuadrados de los n\u00fameros pares entre 0 y 4.",
+        "isCorrect": true
+      },
+      {
+        "text": "Crea una lista con los cuadrados de todos los n\u00fameros entre 0 y 4.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crea una lista con los n\u00fameros pares entre 0 y 4.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crea una lista con los cuadrados de los n\u00fameros impares entre 0 y 4.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 71,
+    "question": "\u00bfC\u00f3mo se define correctamente una clase que hereda de otra en Python?",
+    "options": [
+      {
+        "text": "class ClaseHija(ClasePadre): pass",
+        "isCorrect": true
+      },
+      {
+        "text": "class ClaseHija extends ClasePadre: pass",
+        "isCorrect": false
+      },
+      {
+        "text": "class ClaseHija inherits ClasePadre: pass",
+        "isCorrect": false
+      },
+      {
+        "text": "class ClaseHija parent = ClasePadre",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 72,
+    "question": "\u00bfQu\u00e9 es una propiedad en Python?",
+    "options": [
+      {
+        "text": "Un m\u00e9todo especial que se comporta como un atributo, permitiendo controlar el acceso y la modificaci\u00f3n de datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un tipo especial de atributo que no puede ser modificado despu\u00e9s de su inicializaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un atributo que se comparte entre todas las instancias de una clase.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una variable global accesible desde cualquier parte del programa.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 73,
+    "question": "\u00bfQu\u00e9 es la herencia en programaci\u00f3n orientada a objetos?",
+    "options": [
+      {
+        "text": "Un mecanismo que permite crear una nueva clase basada en una clase existente, heredando sus atributos y m\u00e9todos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un proceso para copiar objetos existentes y modificarlos sin afectar al original.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una t\u00e9cnica para ocultar los detalles de implementaci\u00f3n de una clase.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un m\u00e9todo para compartir variables entre diferentes m\u00f3dulos de Python.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 74,
+    "question": "\u00bfQu\u00e9 es una fixture en PyTest?",
+    "options": [
+      {
+        "text": "Una funci\u00f3n que se ejecuta antes de cada prueba para preparar el entorno de prueba.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un conjunto de datos de prueba predefinidos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una clase base que todas las pruebas deben heredar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un archivo de configuraci\u00f3n para PyTest.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 75,
+    "question": "\u00bfCu\u00e1l es la convenci\u00f3n de nomenclatura para los archivos de prueba en PyTest?",
+    "options": [
+      {
+        "text": "Deben comenzar con test_ o terminar con _test.py.",
+        "isCorrect": true
+      },
+      {
+        "text": "Deben comenzar con pytest_ o terminar con _pytest.py.",
+        "isCorrect": false
+      },
+      {
+        "text": "Deben estar en un directorio llamado tests o testing.",
+        "isCorrect": false
+      },
+      {
+        "text": "Deben tener la extensi\u00f3n .pytest en lugar de .py.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 76,
+    "question": "\u00bfC\u00f3mo se parametrizan pruebas en Pytest?",
+    "options": [
+      {
+        "text": "@pytest.mark.parametrize(\u201centrada, esperado\u201d, [ (1, 2), (2, 4), (3, 6) ]) def test_funcion(entrada, esperado): assert 5\u00e9todo5(entrada) == esperado",
+        "isCorrect": true
+      },
+      {
+        "text": "@pytest.parametrize(\u201centrada, esperado\u201d, [ (1, 2), (2, 4), (3, 6) ]) def test_funcion(entrada, esperado): assert 5\u00e9todo5(entrada) == esperado",
+        "isCorrect": false
+      },
+      {
+        "text": "def test_funcion(): for entrada, esperado in [(1, 2), (2, 4), (3, 6)]: assert 5\u00e9todo5(entrada) == esperado",
+        "isCorrect": false
+      },
+      {
+        "text": "@pytest.parameters([ (1, 2), (2, 4), (3, 6) ]) def test_funcion(entrada, esperado): assert 5\u00e9todo5(entrada) == esperado",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 77,
+    "question": "\u00bfQu\u00e9 es PyTest?",
+    "options": [
+      {
+        "text": "Un framework para realizar pruebas unitarias en Python.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una herramienta para medir el rendimiento de c\u00f3digo Python.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un m\u00f3dulo est\u00e1ndar de Python para depuraci\u00f3n de c\u00f3digo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una biblioteca para generar documentaci\u00f3n autom\u00e1tica a partir de pruebas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 78,
+    "question": "\u00bfC\u00f3mo se define un m\u00e9todo abstracto en Python?",
+    "options": [
+      {
+        "text": "from abc import ABC, abstractmethod class MiClase(ABC): @abstractmethod def mi_metodo(self): pass",
+        "isCorrect": true
+      },
+      {
+        "text": "class MiClase: def mi_metodo(self): raise NotImplementedError()",
+        "isCorrect": false
+      },
+      {
+        "text": "class MiClase: @abstract def mi_metodo(self): pass",
+        "isCorrect": false
+      },
+      {
+        "text": "class MiClase: abstract def mi_metodo(self): pass",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 79,
+    "question": "\u00bfCu\u00e1l es la convenci\u00f3n de nomenclatura recomendada para nombrar clases en Python?",
+    "options": [
+      {
+        "text": "Palabras en min\u00fascula separadas por guiones bajos: snake_case ().",
+        "isCorrect": false
+      },
+      {
+        "text": "Primera palabra en min\u00fascula y el resto de las palabras con la primera letra may\u00fascula: camelCase ().",
+        "isCorrect": false
+      },
+      {
+        "text": "Toda la palabra en may\u00fasculas: UPPERCASE ().",
+        "isCorrect": false
+      },
+      {
+        "text": "La primera letra de cada palabra en may\u00fascula: PascalCase ().",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 80,
+    "question": "\u00bfCu\u00e1l es la forma correcta de ejecutar una transacci\u00f3n con m\u00faltiples operaciones en MySQL usando Python?",
+    "options": [
+      {
+        "text": "try: cursor.execute(\"INSERT INTO tabla1 VALUES (1, 'a')\") cursor.execute(\"UPDATE tabla2 SET col = 'valor' WHERE id = 1\") conexion.commit() except: conexion.rollback()",
+        "isCorrect": true
+      },
+      {
+        "text": "cursor.begin_transaction() cursor.execute(\"INSERT INTO tabla1 VALUES (1, 'a')\") cursor.execute(\"UPDATE tabla2 SET col = 'valor' WHERE id = 1\") cursor.end_transaction()",
+        "isCorrect": false
+      },
+      {
+        "text": "with conexion.transaction(): cursor.execute(\"INSERT INTO tabla1 VALUES (1, 'a')\") cursor.execute(\"UPDATE tabla2 SET col = 'valor' WHERE id = 1\")",
+        "isCorrect": false
+      },
+      {
+        "text": "cursor.execute(\"BEGIN TRANSACTION\") cursor.execute(\"INSERT INTO tabla1 VALUES (1, 'a')\") cursor.execute(\"UPDATE tabla2 SET col = 'valor' WHERE id = 1\") cursor.execute(\"COMMIT\")",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 81,
+    "question": "\u00bfQu\u00e9 tipo de error se produce cuando intentamos conectarnos a MySQL con credenciales incorrectas?",
+    "options": [
+      {
+        "text": "ER_ACCESS_DENIED_ERROR",
+        "isCorrect": true
+      },
+      {
+        "text": "AUTHENTICATION_FAILED",
+        "isCorrect": false
+      },
+      {
+        "text": "INVALID_CREDENTIALS_ERROR",
+        "isCorrect": false
+      },
+      {
+        "text": "LOGIN_FAILED_ERROR",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 82,
+    "question": "\u00bfQu\u00e9 par\u00e1metro se debe pasar al crear un cursor para que los resultados se devuelvan como diccionarios en lugar de tuplas?",
+    "options": [
+      {
+        "text": "dictionary=True.",
+        "isCorrect": true
+      },
+      {
+        "text": "as_dict=True.",
+        "isCorrect": false
+      },
+      {
+        "text": "dict_format=True.",
+        "isCorrect": false
+      },
+      {
+        "text": "return_dict=True.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 83,
+    "question": "\u00bfQu\u00e9 m\u00e9todo se utiliza para revertir los cambios realizados en una transacci\u00f3n si ocurre un error?",
+    "options": [
+      {
+        "text": "conexion.rollback()",
+        "isCorrect": true
+      },
+      {
+        "text": "conexion.revert()",
+        "isCorrect": false
+      },
+      {
+        "text": "cursor.rollback()",
+        "isCorrect": false
+      },
+      {
+        "text": "cursor.undo()",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 84,
+    "question": "\u00bfQu\u00e9 biblioteca se utiliza com\u00fanmente para cargar variables de entorno desde un archivo .env en Python?",
+    "options": [
+      {
+        "text": "python-dotenv.",
+        "isCorrect": true
+      },
+      {
+        "text": "env-loader.",
+        "isCorrect": false
+      },
+      {
+        "text": "environment-vars.",
+        "isCorrect": false
+      },
+      {
+        "text": "config-env.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 85,
+    "question": "\u00bfC\u00f3mo se instala MySQL Connector/Python?",
+    "options": [
+      {
+        "text": "pip install mysql-connector-python",
+        "isCorrect": true
+      },
+      {
+        "text": "pip install python-mysql",
+        "isCorrect": false
+      },
+      {
+        "text": "apt-get install mysql-python",
+        "isCorrect": false
+      },
+      {
+        "text": "conda install mysql",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 86,
+    "question": "\u00bfQu\u00e9 ventaja ofrece el uso de un pool de conexiones al trabajar con bases de datos en aplicaciones Python?",
+    "options": [
+      {
+        "text": "Reduce la sobrecarga de crear y cerrar conexiones frecuentemente, mejorando el rendimiento.",
+        "isCorrect": true
+      },
+      {
+        "text": "Permite ejecutar consultas SQL sin necesidad de crear un cursor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Convierte autom\u00e1ticamente los resultados de las consultas en objetos Python.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimina la necesidad de usar transacciones expl\u00edcitas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 87,
+    "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal del patr\u00f3n DAO (data access object) en aplicaciones que trabajan con bases de datos?",
+    "options": [
+      {
+        "text": "Proporcionar una interfaz orientada a objetos para interactuar con la base de datos, ocultando los detalles de implementaci\u00f3n.",
+        "isCorrect": true
+      },
+      {
+        "text": "Optimizar autom\u00e1ticamente las consultas SQL para mejorar el rendimiento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Convertir objetos Python en registros de base de datos sin escribir SQL.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear una capa de cach\u00e9 para reducir las consultas a la base de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 88,
+    "question": "\u00bfQu\u00e9 significa el par\u00e1metro autocommit=True al establecer una conexi\u00f3n a MySQL?",
+    "options": [
+      {
+        "text": "Los cambios se confirman autom\u00e1ticamente sin necesidad de llamar a commit() expl\u00edcitamente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Las consultas se ejecutan autom\u00e1ticamente sin necesidad de llamar a execute().",
+        "isCorrect": false
+      },
+      {
+        "text": "La conexi\u00f3n se cierra autom\u00e1ticamente despu\u00e9s de cada operaci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Los errores se manejan autom\u00e1ticamente sin necesidad de bloques try-except.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 89,
+    "question": "\u00bfCu\u00e1l es la mejor pr\u00e1ctica para manejar credenciales de base de datos en una aplicaci\u00f3n Python?",
+    "options": [
+      {
+        "text": "Almacenarlas en variables de entorno o archivos de configuraci\u00f3n externos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Codificarlas directamente en el c\u00f3digo fuente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Guardarlas en un archivo de texto plano junto al c\u00f3digo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacenarlas en una variable global dentro del programa.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 90,
+    "question": "\u00bfC\u00f3mo se crea un formulario basado en modelo en Django?",
+    "options": [
+      {
+        "text": "from django import forms from .models import MiModelo class MiModeloForm(forms.ModelForm): class Meta: model = MiModelo fields = ['campo1' , 'campo2']",
+        "isCorrect": true
+      },
+      {
+        "text": "from django.forms import ModelForm from .models import MiModelo class MiModeloForm(ModelForm): model = MiModelo fields = ['campo1' , 'campo2']",
+        "isCorrect": false
+      },
+      {
+        "text": "from django import forms from .models import MiModelo class MiModeloForm(forms.Form): class Meta: model = MiModelo fields = ['campo1' , 'campo2']",
+        "isCorrect": false
+      },
+      {
+        "text": "from django.forms import Form from .models import MiModelo class MiModeloForm(Form, MiModelo): fields = ['campo1' , 'campo2']",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 91,
+    "question": "\u00bfC\u00f3mo se redirige a otra p\u00e1gina despu\u00e9s de procesar un formulario en Django?",
+    "options": [
+      {
+        "text": "from django.shortcuts import redirect return redirect('nombre_url')",
+        "isCorrect": true
+      },
+      {
+        "text": "from django.http import HttpRedirect return HttpRedirect('nombre_url')",
+        "isCorrect": false
+      },
+      {
+        "text": "from django.shortcuts import render_redirect return render_redirect('nombre_url')",
+        "isCorrect": false
+      },
+      {
+        "text": "from django.http import Redirect return Redirect('nombre_url')",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 92,
+    "question": "\u00bfQu\u00e9 clase se utiliza para personalizar la apariencia de un modelo en el panel de administraci\u00f3n de Django?",
+    "options": [
+      {
+        "text": "ModelAdmin.",
+        "isCorrect": true
+      },
+      {
+        "text": "AdminModel.",
+        "isCorrect": false
+      },
+      {
+        "text": "AdminPanel.",
+        "isCorrect": false
+      },
+      {
+        "text": "ModelPanel.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 93,
+    "question": "\u00bfC\u00f3mo se muestra una variable en una plantilla de Django?",
+    "options": [
+      {
+        "text": "{{ variable }}.",
+        "isCorrect": true
+      },
+      {
+        "text": "{% variable %}.",
+        "isCorrect": false
+      },
+      {
+        "text": "{# variable #}.",
+        "isCorrect": false
+      },
+      {
+        "text": "{$ variable $}.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 94,
+    "question": "\u00bfCu\u00e1l es la forma correcta de extender una plantilla base en Django?",
+    "options": [
+      {
+        "text": "{% extends 'base.html' %} {% block contenido %} <!-- Contenido espec\u00edfico --> {% endblock %}",
+        "isCorrect": true
+      },
+      {
+        "text": "{% include 'base.html' %} {% block contenido %} <!-- Contenido espec\u00edfico --> {% endblock %}",
+        "isCorrect": false
+      },
+      {
+        "text": "{% inherit 'base.html' %} {% block contenido %} <!-- Contenido espec\u00edfico --> {% endblock %}",
+        "isCorrect": false
+      },
+      {
+        "text": "{% extends from 'base.html' %} {% section contenido %} <!-- Contenido espec\u00edfico --> {% endsection %}",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 95,
+    "question": "\u00bfC\u00f3mo se incluye una plantilla parcial dentro de otra plantilla en Django?",
+    "options": [
+      {
+        "text": "{% include 'parcial.html' %}.",
+        "isCorrect": true
+      },
+      {
+        "text": "{% partial 'parcial.html' %}.",
+        "isCorrect": false
+      },
+      {
+        "text": "{% insert 'parcial.html' %}.",
+        "isCorrect": false
+      },
+      {
+        "text": "{% extends 'parcial.html' %}.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 96,
+    "question": "\u00bfC\u00f3mo se muestra un formulario en una plantilla de Django?",
+    "options": [
+      {
+        "text": "<form method=\"post\"> {% csrf_token %} {{ form.as_p }} <button type=\"submit\">Enviar</button> </form>",
+        "isCorrect": true
+      },
+      {
+        "text": "<form method=\"post\"> {% csrf_token %} {% form.render %} <button type=\"submit\">Enviar</button> </form>",
+        "isCorrect": false
+      },
+      {
+        "text": "<form method=\"post\"> {{ csrf_token }} {{ form.as_p }} <button type=\"submit\">Enviar</button> </form>",
+        "isCorrect": false
+      },
+      {
+        "text": "<form method=\"post\"> {% csrf %} {% for field in form %} {{ field }} {% endfor %} </form>",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 97,
+    "question": "\u00bfCu\u00e1l de los siguientes comandos se utiliza para crear un nuevo proyecto Django?",
+    "options": [
+      {
+        "text": "django-admin startproject miproyecto.",
+        "isCorrect": true
+      },
+      {
+        "text": "python manage.py createproject miproyecto.",
+        "isCorrect": false
+      },
+      {
+        "text": "django-admin createproject miproyecto.",
+        "isCorrect": false
+      },
+      {
+        "text": "python manage.py startproject miproyecto.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 98,
+    "question": "\u00bfCu\u00e1l es la forma correcta de definir una relaci\u00f3n uno a muchos en Django?",
+    "options": [
+      {
+        "text": "autor = models.ForeignKey(Autor, on_delete=models.CASCADE).",
+        "isCorrect": true
+      },
+      {
+        "text": "autor = models.OneToMany(Autor, on_delete=models.CASCADE).",
+        "isCorrect": false
+      },
+      {
+        "text": "autor = models.ManyToOne(Autor, on_delete=models.CASCADE).",
+        "isCorrect": false
+      },
+      {
+        "text": "autor = models.RelatedTo(Autor, type='one_to_many').",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 99,
+    "question": "\u00bfQu\u00e9 archivo de Django se utiliza para definir los modelos de datos de una aplicaci\u00f3n?",
+    "options": [
+      {
+        "text": "models.py.",
+        "isCorrect": true
+      },
+      {
+        "text": "schema.py.",
+        "isCorrect": false
+      },
+      {
+        "text": "database.py.",
+        "isCorrect": false
+      },
+      {
+        "text": "tables.py.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 100,
+    "question": "\u00bfQu\u00e9 l\u00ednea debe a\u00f1adirse a INSTALLED_APPS en settings.py para habilitar Django REST framework?",
+    "options": [
+      {
+        "text": "'rest_framework'",
+        "isCorrect": true
+      },
+      {
+        "text": "'django_rest_framework'",
+        "isCorrect": false
+      },
+      {
+        "text": "'API_framework'",
+        "isCorrect": false
+      },
+      {
+        "text": "'django.contrib.rest_framework'",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 101,
+    "question": "\u00bfQu\u00e9 m\u00e9todo se utiliza en un ViewSet para seleccionar diferentes serializadores seg\u00fan la acci\u00f3n?",
+    "options": [
+      {
+        "text": "get_serializer_class().",
+        "isCorrect": true
+      },
+      {
+        "text": "select_serializer().",
+        "isCorrect": false
+      },
+      {
+        "text": "choose_serializer().",
+        "isCorrect": false
+      },
+      {
+        "text": "serializer_for_action().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 102,
+    "question": "\u00bfQu\u00e9 m\u00e9todo se utiliza en un ViewSet para personalizar el queryset basado en par\u00e1metros de la solicitud?",
+    "options": [
+      {
+        "text": "get_queryset()",
+        "isCorrect": true
+      },
+      {
+        "text": "filter_queryset()",
+        "isCorrect": false
+      },
+      {
+        "text": "customize_queryset()",
+        "isCorrect": false
+      },
+      {
+        "text": "queryset_filter()",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 103,
+    "question": "\u00bfCu\u00e1l es la diferencia principal entre PUT y PATCH en una API REST?",
+    "options": [
+      {
+        "text": "PUT actualiza todo el recurso, mientras que PATCH actualiza parcialmente el recurso.",
+        "isCorrect": true
+      },
+      {
+        "text": "PUT crea un nuevo recurso, mientras que PATCH actualiza uno existente.",
+        "isCorrect": false
+      },
+      {
+        "text": "PUT es idempotente, mientras que PATCH no lo es.",
+        "isCorrect": false
+      },
+      {
+        "text": "PUT requiere autenticaci\u00f3n, mientras que PATCH no.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 104,
+    "question": "\u00bfQu\u00e9 c\u00f3digo de estado HTTP se devuelve t\u00edpicamente despu\u00e9s de eliminar con \u00e9xito un recurso?",
+    "options": [
+      {
+        "text": "204 No Content.",
+        "isCorrect": true
+      },
+      {
+        "text": "200 OK.",
+        "isCorrect": false
+      },
+      {
+        "text": "202 Accepted.",
+        "isCorrect": false
+      },
+      {
+        "text": "205 Reset Content.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 105,
+    "question": "\u00bfQu\u00e9 decorador se utiliza para a\u00f1adir acciones personalizadas a un ViewSet?",
+    "options": [
+      {
+        "text": "@action.",
+        "isCorrect": true
+      },
+      {
+        "text": "@custom_action.",
+        "isCorrect": false
+      },
+      {
+        "text": "@detail_route.",
+        "isCorrect": false
+      },
+      {
+        "text": "@API_action.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 106,
+    "question": "\u00bfQu\u00e9 decorador se utiliza para crear una vista basada en funci\u00f3n en Django REST framework?",
+    "options": [
+      {
+        "text": "@API_view.",
+        "isCorrect": true
+      },
+      {
+        "text": "@rest_view.",
+        "isCorrect": false
+      },
+      {
+        "text": "@APIView.",
+        "isCorrect": false
+      },
+      {
+        "text": "@rest_API.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 107,
+    "question": "\u00bfQu\u00e9 tipo de campo se utiliza en un serializador para crear un campo calculado que no existe en el modelo?",
+    "options": [
+      {
+        "text": "SerializerMethodField.",
+        "isCorrect": true
+      },
+      {
+        "text": "ComputedField.",
+        "isCorrect": false
+      },
+      {
+        "text": "CalculatedField.",
+        "isCorrect": false
+      },
+      {
+        "text": "DerivedField.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 108,
+    "question": "\u00bfCu\u00e1l de los siguientes no es uno de los m\u00e9todos HTTP est\u00e1ndar utilizados en API REST?",
+    "options": [
+      {
+        "text": "MODIFY .",
+        "isCorrect": true
+      },
+      {
+        "text": "GET.",
+        "isCorrect": false
+      },
+      {
+        "text": "POST.",
+        "isCorrect": false
+      },
+      {
+        "text": "DELETE.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 109,
+    "question": "\u00bfQu\u00e9 clase base se utiliza para crear un ViewSet que proporcione solo operaciones de lectura?",
+    "options": [
+      {
+        "text": "ReadOnlyModelViewSet.",
+        "isCorrect": true
+      },
+      {
+        "text": "ListRetrieveViewSet.",
+        "isCorrect": false
+      },
+      {
+        "text": "GetOnlyViewSet.",
+        "isCorrect": false
+      },
+      {
+        "text": "ViewOnlyModelViewSet.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 110,
+    "question": "\u00bfQu\u00e9 m\u00e9todo se utiliza para filtrar registros en Flask-SQLAlchemy?",
+    "options": [
+      {
+        "text": "db.session.select().",
+        "isCorrect": false
+      },
+      {
+        "text": "Producto.query.filter().",
+        "isCorrect": true
+      },
+      {
+        "text": "db.Model.find().",
+        "isCorrect": false
+      },
+      {
+        "text": "db.session.where().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 111,
+    "question": "\u00bfCu\u00e1l de las siguientes no es una extensi\u00f3n popular de Flask?",
+    "options": [
+      {
+        "text": "Flask-SQLAlchemy.",
+        "isCorrect": false
+      },
+      {
+        "text": "Flask-WTF .",
+        "isCorrect": false
+      },
+      {
+        "text": "Flask-Security.",
+        "isCorrect": false
+      },
+      {
+        "text": "Flask-Django.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 112,
+    "question": "\u00bfQu\u00e9 m\u00e9todo de Flask-SQLAlchemy se utiliza para a\u00f1adir un nuevo objeto a la sesi\u00f3n de base de datos?",
+    "options": [
+      {
+        "text": "db.session.add().",
+        "isCorrect": true
+      },
+      {
+        "text": "db.session.insert().",
+        "isCorrect": false
+      },
+      {
+        "text": "db.session.create().",
+        "isCorrect": false
+      },
+      {
+        "text": "db.session.new().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 113,
+    "question": "\u00bfCon qu\u00e9 prop\u00f3sito inicial se cre\u00f3 Flask?",
+    "options": [
+      {
+        "text": "Como un framework empresarial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Como un proyecto acad\u00e9mico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Como una broma del d\u00eda de los Inocentes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Como una alternativa a Django.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 114,
+    "question": "\u00bfCu\u00e1l es la estructura de directorios recomendada para un proyecto Flask simple?",
+    "options": [
+      {
+        "text": "Una estructura MVC estricta con modelos, vistas y controladores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una estructura basada en paquetes para proyectos grandes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una estructura simple con \u00abapp.py\u00bb, venv/ , static/ y otros archivos b\u00e1sicos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una estructura de aplicaci\u00f3n de f\u00e1brica con blueprints.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 115,
+    "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de Werkzeug en Flask?",
+    "options": [
+      {
+        "text": "Manejar las plantillas HTML.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proporcionar un ORM para bases de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Manejar las interacciones de bajo nivel con servidores web.",
+        "isCorrect": true
+      },
+      {
+        "text": "Gestionar la autenticaci\u00f3n de usuarios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 116,
+    "question": "\u00bfQu\u00e9 caracter\u00edstica se introdujo en la versi\u00f3n 0.11 de Flask?",
+    "options": [
+      {
+        "text": "Una nueva interfaz de l\u00ednea de comandos (CLI).",
+        "isCorrect": true
+      },
+      {
+        "text": "Vistas as\u00edncronas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Soporte para Python 3.",
+        "isCorrect": false
+      },
+      {
+        "text": "Integraci\u00f3n con python-dotenv.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 117,
+    "question": "\u00bfPara qu\u00e9 sirve la funci\u00f3n get_or_404() en Flask-SQLAlchemy?",
+    "options": [
+      {
+        "text": "Para crear un registro si no existe.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para obtener un registro por ID o devolver un error 404 si no existe.",
+        "isCorrect": true
+      },
+      {
+        "text": "Para verificar si una tabla existe en la base de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para comprobar conexiones a la base de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 118,
+    "question": "\u00bfCu\u00e1l es la filosof\u00eda central de Flask?",
+    "options": [
+      {
+        "text": "Todo incluido.",
+        "isCorrect": false
+      },
+      {
+        "text": "Micro, pero no demasiado.",
+        "isCorrect": true
+      },
+      {
+        "text": "Convenci\u00f3n sobre configuraci\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bater\u00edas no incluidas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 119,
+    "question": "\u00bfEn qu\u00e9 a\u00f1o se cre\u00f3 Flask?",
+    "options": [
+      {
+        "text": "2008.",
+        "isCorrect": false
+      },
+      {
+        "text": "2011.",
+        "isCorrect": false
+      },
+      {
+        "text": "2007.",
+        "isCorrect": false
+      },
+      {
+        "text": "2010.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 120,
+    "question": "\u00bfQu\u00e9 funci\u00f3n se utiliza com\u00fanmente en FastAPI para obtener una sesi\u00f3n de base de datos?",
+    "options": [
+      {
+        "text": "db_connection().",
+        "isCorrect": false
+      },
+      {
+        "text": "session_maker().",
+        "isCorrect": false
+      },
+      {
+        "text": "get_db().",
+        "isCorrect": true
+      },
+      {
+        "text": "create_session().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 121,
+    "question": "\u00bfQu\u00e9 patr\u00f3n arquitect\u00f3nico implementa FastAPI para la gesti\u00f3n de componentes reutilizables?",
+    "options": [
+      {
+        "text": "Factory method.",
+        "isCorrect": false
+      },
+      {
+        "text": "Singleton.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dependency injection.",
+        "isCorrect": true
+      },
+      {
+        "text": "Observer pattern.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 122,
+    "question": "\u00bfQu\u00e9 m\u00e9todo HTTP se utiliza t\u00edpicamente para actualizar un recurso existente en una API REST?",
+    "options": [
+      {
+        "text": "POST.",
+        "isCorrect": false
+      },
+      {
+        "text": "PUT.",
+        "isCorrect": true
+      },
+      {
+        "text": "PATH.",
+        "isCorrect": false
+      },
+      {
+        "text": "UPDATE.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 123,
+    "question": "\u00bfQu\u00e9 se necesita definir en Pydantic para validar los datos de entrada de una API?",
+    "options": [
+      {
+        "text": "Funciones validadoras.",
+        "isCorrect": false
+      },
+      {
+        "text": "Modelos con anotaciones de tipo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Esquemas JSON.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reglas de expresiones regulares.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 124,
+    "question": "\u00bfQu\u00e9 clase base se utiliza com\u00fanmente para definir modelos SQLAlchemy?",
+    "options": [
+      {
+        "text": "SQLModel.",
+        "isCorrect": false
+      },
+      {
+        "text": "ModelBase.",
+        "isCorrect": false
+      },
+      {
+        "text": "declarative_base().",
+        "isCorrect": true
+      },
+      {
+        "text": "BaseEntity.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 125,
+    "question": "\u00bfQui\u00e9n es el creador de FastAPI?",
+    "options": [
+      {
+        "text": "Sebasti\u00e1n Ram\u00edrez.",
+        "isCorrect": true
+      },
+      {
+        "text": "Armin Ronacher.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tom Christie.",
+        "isCorrect": false
+      },
+      {
+        "text": "David Beazley.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 126,
+    "question": "\u00bfQu\u00e9 m\u00e9todo de SQLAlchemy confirma los cambios en la base de datos?",
+    "options": [
+      {
+        "text": "db.save().",
+        "isCorrect": false
+      },
+      {
+        "text": "db.commit().",
+        "isCorrect": true
+      },
+      {
+        "text": "db.flush().",
+        "isCorrect": false
+      },
+      {
+        "text": "db.update().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 127,
+    "question": "\u00bfQu\u00e9 representa el c\u00f3digo de estado HTTP 201?",
+    "options": [
+      {
+        "text": "OK.",
+        "isCorrect": false
+      },
+      {
+        "text": "Created.",
+        "isCorrect": true
+      },
+      {
+        "text": "Accepted.",
+        "isCorrect": false
+      },
+      {
+        "text": "No Content.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 128,
+    "question": "\u00bfCu\u00e1l de las siguientes empresas no se menciona como usuaria de FastAPI?",
+    "options": [
+      {
+        "text": "Microsoft.",
+        "isCorrect": false
+      },
+      {
+        "text": "Netflix.",
+        "isCorrect": false
+      },
+      {
+        "text": "Uber.",
+        "isCorrect": false
+      },
+      {
+        "text": "Apple.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 129,
+    "question": "\u00bfQu\u00e9 librer\u00eda se recomienda para el hash de contrase\u00f1as en aplicaciones FastAPI?",
+    "options": [
+      {
+        "text": "hashlib.",
+        "isCorrect": false
+      },
+      {
+        "text": "passlib.",
+        "isCorrect": true
+      },
+      {
+        "text": "bcrypt.",
+        "isCorrect": false
+      },
+      {
+        "text": "cryptography.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 130,
+    "question": "\u00bfCu\u00e1l es la estructura de datos fundamental de NumPy?",
+    "options": [
+      {
+        "text": "DataFrame.",
+        "isCorrect": false
+      },
+      {
+        "text": "Series.",
+        "isCorrect": false
+      },
+      {
+        "text": "ndarray.",
+        "isCorrect": true
+      },
+      {
+        "text": "Matrix.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 131,
+    "question": "\u00bfQu\u00e9 funci\u00f3n de NumPy calcula los percentiles de un conjunto de datos?",
+    "options": [
+      {
+        "text": "np.percent().",
+        "isCorrect": false
+      },
+      {
+        "text": "np.quantile().",
+        "isCorrect": false
+      },
+      {
+        "text": "np.percentile().",
+        "isCorrect": true
+      },
+      {
+        "text": "np.rank().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 132,
+    "question": "\u00bfQu\u00e9 es la vectorizaci\u00f3n en el contexto de NumPy?",
+    "options": [
+      {
+        "text": "La capacidad de realizar operaciones sobre arrays completos sin necesidad de iterar expl\u00edcitamente.",
+        "isCorrect": true
+      },
+      {
+        "text": "El proceso de convertir matrices en vectores unidimensionales.",
+        "isCorrect": false
+      },
+      {
+        "text": "La transformaci\u00f3n de valores escalares a matrices.",
+        "isCorrect": false
+      },
+      {
+        "text": "La aplicaci\u00f3n de \u00e1lgebra vectorial a estructuras de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 133,
+    "question": "\u00bfQu\u00e9 funci\u00f3n de NumPy crea un array con n\u00fameros equidistantes en un rango espec\u00edfico?",
+    "options": [
+      {
+        "text": "np.arange().",
+        "isCorrect": false
+      },
+      {
+        "text": "np.linspace().",
+        "isCorrect": true
+      },
+      {
+        "text": "np.sequence().",
+        "isCorrect": false
+      },
+      {
+        "text": "np.range().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 134,
+    "question": "\u00bfC\u00f3mo se calcula el determinante de una matriz en NumPy ?",
+    "options": [
+      {
+        "text": "np.det().",
+        "isCorrect": false
+      },
+      {
+        "text": "np.linalg.det().",
+        "isCorrect": true
+      },
+      {
+        "text": "matrix.determinant().",
+        "isCorrect": false
+      },
+      {
+        "text": "np.determinant().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 135,
+    "question": "\u00bfQu\u00e9 comando se utiliza para instalar NumPy?",
+    "options": [
+      {
+        "text": "pip install numpy.",
+        "isCorrect": true
+      },
+      {
+        "text": "conda install numpy.",
+        "isCorrect": false
+      },
+      {
+        "text": "apt-get install numpy.",
+        "isCorrect": false
+      },
+      {
+        "text": "npm install numpy.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 136,
+    "question": "\u00bfQu\u00e9 m\u00e9todo se utiliza para generar n\u00fameros aleatorios con distribuci\u00f3n normal en NumPy ?",
+    "options": [
+      {
+        "text": "np.random().",
+        "isCorrect": false
+      },
+      {
+        "text": "np.random.uniform().",
+        "isCorrect": false
+      },
+      {
+        "text": "np.random.default_rng().normal().",
+        "isCorrect": true
+      },
+      {
+        "text": "np.normal().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 137,
+    "question": "\u00bfQu\u00e9 m\u00e9todo se utiliza para cambiar la forma de un array sin modificar sus datos?",
+    "options": [
+      {
+        "text": "reshape().",
+        "isCorrect": true
+      },
+      {
+        "text": "resize().",
+        "isCorrect": false
+      },
+      {
+        "text": "reorder().",
+        "isCorrect": false
+      },
+      {
+        "text": "remold().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 138,
+    "question": "\u00bfC\u00f3mo se accede a la forma (dimensiones) de un array en NumPy?",
+    "options": [
+      {
+        "text": "array.form.",
+        "isCorrect": false
+      },
+      {
+        "text": "array.dimensions.",
+        "isCorrect": false
+      },
+      {
+        "text": "array.shape.",
+        "isCorrect": true
+      },
+      {
+        "text": "array.size().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 139,
+    "question": "\u00bfC\u00f3mo se importa convencionalmente NumPy en scripts de Python?",
+    "options": [
+      {
+        "text": "import numpy.",
+        "isCorrect": false
+      },
+      {
+        "text": "from numpy import * .",
+        "isCorrect": false
+      },
+      {
+        "text": "import numpy as np.",
+        "isCorrect": true
+      },
+      {
+        "text": "require numpy.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 140,
+    "question": "\u00bfQu\u00e9 operaci\u00f3n permite calcular un promedio m\u00f3vil en una serie temporal?",
+    "options": [
+      {
+        "text": "serie.moving_avg().",
+        "isCorrect": false
+      },
+      {
+        "text": "serie.rolling().mean().",
+        "isCorrect": true
+      },
+      {
+        "text": "serie.window_mean().",
+        "isCorrect": false
+      },
+      {
+        "text": "serie.smooth().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 141,
+    "question": "\u00bfQu\u00e9 tipo de \u00edndice se crea por defecto si no se especifica al crear una Series o DataFrame?",
+    "options": [
+      {
+        "text": "\u00cdndice num\u00e9rico secuencial, empezando en cero.",
+        "isCorrect": true
+      },
+      {
+        "text": "\u00cdndice basado en los valores de la primera columna.",
+        "isCorrect": false
+      },
+      {
+        "text": "\u00cdndice alfab\u00e9tico de letras.",
+        "isCorrect": false
+      },
+      {
+        "text": "\u00cdndice temporal basado en la fecha de creaci\u00f3n.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 142,
+    "question": "\u00bfQu\u00e9 m\u00e9todo se usa para ordenar un DataFrame por los valores de una columna?",
+    "options": [
+      {
+        "text": "df.order_by(\u2018columna\u2019).",
+        "isCorrect": false
+      },
+      {
+        "text": "df.sort_values(\u2018columna\u2019).",
+        "isCorrect": true
+      },
+      {
+        "text": "df.sort(\u2018columna\u2019).",
+        "isCorrect": false
+      },
+      {
+        "text": "df.arrange(\u2018columna\u2019).",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 143,
+    "question": "\u00bfQu\u00e9 diferencia principal existe entre los m\u00e9todos iloc y loc en Pandas?",
+    "options": [
+      {
+        "text": "iloc permite seleccionar datos num\u00e9ricos, mientras que loc solo texto.",
+        "isCorrect": false
+      },
+      {
+        "text": "iloc funciona con DataFrames y loc solo con series.",
+        "isCorrect": false
+      },
+      {
+        "text": "iloc selecciona por posici\u00f3n num\u00e9rica, mientras que loc selecciona por etiquetas.",
+        "isCorrect": true
+      },
+      {
+        "text": "iloc permite filtrar datos, mientras que loc solo permite visualizarlos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 144,
+    "question": "\u00bfQu\u00e9 limitaci\u00f3n conceptual presenta Pandas respecto al procesamiento de datos?",
+    "options": [
+      {
+        "text": "No puede manejar datos temporales con precisi\u00f3n.",
+        "isCorrect": false
+      },
+      {
+        "text": "No permite operaciones vectorizadas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Est\u00e1 dise\u00f1ado principalmente para computaci\u00f3n en memoria en una sola m\u00e1quina.",
+        "isCorrect": true
+      },
+      {
+        "text": "No soporta datos categ\u00f3ricos eficientemente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 145,
+    "question": "\u00bfQu\u00e9 accesorio permite realizar operaciones con cadenas de texto en Pandas?",
+    "options": [
+      {
+        "text": "df[\u2018texto\u2019].string.",
+        "isCorrect": false
+      },
+      {
+        "text": "df[\u2018texto\u2019].str.",
+        "isCorrect": true
+      },
+      {
+        "text": "df[\u2018texto\u2019].text.",
+        "isCorrect": false
+      },
+      {
+        "text": "df[\u2018texto\u2019].chars.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 146,
+    "question": "\u00bfQu\u00e9 funci\u00f3n se utiliza para concatenar DataFrames verticalmente?",
+    "options": [
+      {
+        "text": "pd.concat([df1, df2], axis=0).",
+        "isCorrect": true
+      },
+      {
+        "text": "pd.append(df1, df2).",
+        "isCorrect": false
+      },
+      {
+        "text": "pd.stack([df1, df2]).",
+        "isCorrect": false
+      },
+      {
+        "text": "pd.union(df1, df2).",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 147,
+    "question": "\u00bfC\u00f3mo se pueden filtrar las filas de un DataFrame donde una columna cumple una condici\u00f3n?",
+    "options": [
+      {
+        "text": "df.filter(df.columna > valor).",
+        "isCorrect": false
+      },
+      {
+        "text": "df.where(df.columna > valor).",
+        "isCorrect": false
+      },
+      {
+        "text": "df[df[\u2018columna\u2019] > valor].",
+        "isCorrect": true
+      },
+      {
+        "text": "df.select(df.columna > valor).",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 148,
+    "question": "\u00bfC\u00f3mo se importa convencionalmente Pandas en scripts de Python?",
+    "options": [
+      {
+        "text": "import pandas.",
+        "isCorrect": false
+      },
+      {
+        "text": "from pandas import * .",
+        "isCorrect": false
+      },
+      {
+        "text": "import pandas as pd.",
+        "isCorrect": true
+      },
+      {
+        "text": "require pandas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 149,
+    "question": "\u00bfQu\u00e9 funci\u00f3n se utiliza para analizar r\u00e1pidamente la informaci\u00f3n de un DataFrame incluyendo tipos de datos y valores no nulos?",
+    "options": [
+      {
+        "text": "df.summary().",
+        "isCorrect": false
+      },
+      {
+        "text": "df.describe().",
+        "isCorrect": false
+      },
+      {
+        "text": "df.info().",
+        "isCorrect": true
+      },
+      {
+        "text": "df.details().",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Python - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  }
+]

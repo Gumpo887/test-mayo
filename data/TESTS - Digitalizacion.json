@@ -1,0 +1,3777 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué invención tecnológica fue el hito principal que impulsó la 1.ª Revolución Industrial?",
+    "options": [
+      {
+        "text": "La electricidad",
+        "isCorrect": false
+      },
+      {
+        "text": "La máquina de vapor",
+        "isCorrect": true
+      },
+      {
+        "text": "Las Tecnologías de la Información",
+        "isCorrect": false
+      },
+      {
+        "text": "El motor de explosión",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 2,
+    "question": "¿Cuáles fueron las nuevas fuentes de energía que caracterizaron a la 2.ª Revolución Industrial?",
+    "options": [
+      {
+        "text": "El vapor y la eólica",
+        "isCorrect": false
+      },
+      {
+        "text": "Las baterías recargables y el hidrógeno",
+        "isCorrect": false
+      },
+      {
+        "text": "La electricidad y el gas (junto al uso del petróleo)",
+        "isCorrect": true
+      },
+      {
+        "text": "La energía nuclear",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 3,
+    "question": "Aunque ya vivíamos en un mundo digital, ¿cuál fue el gran motor reciente que obligó a una transformación digital acelerada en 2020?",
+    "options": [
+      {
+        "text": "La invención de las redes 5G",
+        "isCorrect": false
+      },
+      {
+        "text": "La pandemia global",
+        "isCorrect": true
+      },
+      {
+        "text": "La creación de la robótica colaborativa",
+        "isCorrect": false
+      },
+      {
+        "text": "La primera computadora",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 4,
+    "question": "¿Qué tecnología NO es una de las tecnologías clave de la actual 4.ª Revolución Industrial (Industria 4.0)?",
+    "options": [
+      {
+        "text": "La Inteligencia Artificial (IA)",
+        "isCorrect": false
+      },
+      {
+        "text": "El Internet de las Cosas (IoT)",
+        "isCorrect": false
+      },
+      {
+        "text": "El telar hidráulico y la máquina de hilar",
+        "isCorrect": true
+      },
+      {
+        "text": "La Robótica avanzada y colaborativa",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 5,
+    "question": "Según las previsiones del temario, ¿cuál será el enfoque principal de la futura 5.ª Revolución Industrial?",
+    "options": [
+      {
+        "text": "Retomar la producción manual masiva",
+        "isCorrect": false
+      },
+      {
+        "text": "Transicionar hacia una industria resiliente, sostenible y centrada en el ser humano",
+        "isCorrect": true
+      },
+      {
+        "text": "Sustituir completamente a los humanos por robots",
+        "isCorrect": false
+      },
+      {
+        "text": "Basarse exclusivamente en la energía del carbón",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 6,
+    "question": "¿Cuál es una de las ventajas esenciales de la digitalización empresarial, vital para la supervivencia de las PYMES?",
+    "options": [
+      {
+        "text": "Reducir la conectividad",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumentar la dependencia de procesos manuales",
+        "isCorrect": false
+      },
+      {
+        "text": "La reducción de costes, la eficiencia operativa y evitar la brecha digital",
+        "isCorrect": true
+      },
+      {
+        "text": "El aumento de los tiempos de respuesta al cliente",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué son los Sistemas Ciberfísicos (CPS)?",
+    "options": [
+      {
+        "text": "Software de ofimática utilizado en recursos humanos",
+        "isCorrect": false
+      },
+      {
+        "text": "Computadoras aisladas sin conexión a internet",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistemas puramente mecánicos de la primera revolución",
+        "isCorrect": false
+      },
+      {
+        "text": "La integración de componentes físicos con capacidades digitales y de red (que unen el mundo físico y computacional)",
+        "isCorrect": true
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 8,
+    "question": "Dentro de un Sistema Ciberfísico, ¿qué componente es el encargado de recopilar los datos del entorno físico?",
+    "options": [
+      {
+        "text": "Los algoritmos",
+        "isCorrect": false
+      },
+      {
+        "text": "Los sensores",
+        "isCorrect": true
+      },
+      {
+        "text": "Las redes 5G",
+        "isCorrect": false
+      },
+      {
+        "text": "Los actuadores y robots",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 9,
+    "question": "En las empresas, ¿cuál es el enfoque principal de los entornos IT (Tecnología de la Información)?",
+    "options": [
+      {
+        "text": "Controlar procesos físicos y maquinaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Procesar, almacenar y transmitir datos e información",
+        "isCorrect": true
+      },
+      {
+        "text": "Ensamblar piezas en una cadena de montaje",
+        "isCorrect": false
+      },
+      {
+        "text": "Monitorear la temperatura de un reactor nuclear",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál de las siguientes es la principal prioridad de los entornos OT (Tecnología Operativa)?",
+    "options": [
+      {
+        "text": "La disponibilidad, continuidad y seguridad física de los procesos",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusivamente la confidencialidad de los correos electrónicos",
+        "isCorrect": false
+      },
+      {
+        "text": "La estética del software empresarial",
+        "isCorrect": false
+      },
+      {
+        "text": "El desarrollo de páginas web",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál de los siguientes ejemplos pertenece claramente a un entorno OT (Tecnología Operativa)?",
+    "options": [
+      {
+        "text": "Servidores de bases de datos",
+        "isCorrect": false
+      },
+      {
+        "text": "Programas ERP (Planificación de Recursos Empresariales)",
+        "isCorrect": false
+      },
+      {
+        "text": "Redes eléctricas, control de maquinaria y sensores industriales",
+        "isCorrect": true
+      },
+      {
+        "text": "Software de diseño gráfico",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 12,
+    "question": "¿Qué es exactamente la Convergencia IT/OT en el marco de la Industria 4.0?",
+    "options": [
+      {
+        "text": "La separación física de las oficinas y las fábricas",
+        "isCorrect": false
+      },
+      {
+        "text": "La integración de ambos mundos para optimizar procesos industriales, tomar decisiones inmediatas y mejorar la eficiencia",
+        "isCorrect": true
+      },
+      {
+        "text": "La eliminación de los componentes físicos en las fábricas",
+        "isCorrect": false
+      },
+      {
+        "text": "La desconexión temporal de internet para asegurar la información",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 13,
+    "question": "¿Qué son las Tecnologías Habilitadoras Digitales (THD)?",
+    "options": [
+      {
+        "text": "Aquellas herramientas tecnológicas que hacen posible la transformación digital y son el motor del cambio en los procesos productivos",
+        "isCorrect": true
+      },
+      {
+        "text": "Herramientas analógicas usadas para el mantenimiento de máquinas de vapor",
+        "isCorrect": false
+      },
+      {
+        "text": "Dispositivos diseñados exclusivamente para el ocio en el hogar",
+        "isCorrect": false
+      },
+      {
+        "text": "Normativas legales sobre privacidad de datos",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 14,
+    "question": "¿Cuál es el beneficio más destacado del uso de la Impresión 3D (fabricación aditiva) en la fabricación avanzada?",
+    "options": [
+      {
+        "text": "El aumento de los residuos generados",
+        "isCorrect": false
+      },
+      {
+        "text": "La capacidad de automatizar y ofrecer personalización exacta a las necesidades del cliente",
+        "isCorrect": true
+      },
+      {
+        "text": "Su incapacidad para crear prototipos rápidos",
+        "isCorrect": false
+      },
+      {
+        "text": "Que solo permite el uso de materiales de madera",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 15,
+    "question": "¿Qué característica técnica diferencia a las redes 5G y las hace fundamentales para operaciones en tiempo real como cirugías remotas?",
+    "options": [
+      {
+        "text": "Su gran latencia",
+        "isCorrect": false
+      },
+      {
+        "text": "Su baja velocidad",
+        "isCorrect": false
+      },
+      {
+        "text": "Su baja latencia (tiempo de respuesta casi inmediato)",
+        "isCorrect": true
+      },
+      {
+        "text": "Su baja densidad de conexión",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 16,
+    "question": "¿Cuál es la definición general del Cloud Computing (La nube)?",
+    "options": [
+      {
+        "text": "Discos duros físicos que las empresas compran para sus oficinas",
+        "isCorrect": false
+      },
+      {
+        "text": "Tecnología que permite el acceso a recursos informáticos a través de internet, bajo demanda y como servicio",
+        "isCorrect": true
+      },
+      {
+        "text": "Un modelo donde no se permite compartir recursos",
+        "isCorrect": false
+      },
+      {
+        "text": "Redes de área local sin salida a internet",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 17,
+    "question": "En los modelos de servicio Cloud, si el proveedor ofrece servidores, almacenamiento y redes (hardware básico) y el cliente gestiona todo lo demás (sistema operativo y aplicaciones), ¿qué modelo se está usando?",
+    "options": [
+      {
+        "text": "Software como Servicio (SaaS)",
+        "isCorrect": false
+      },
+      {
+        "text": "Plataforma como Servicio (PaaS)",
+        "isCorrect": false
+      },
+      {
+        "text": "Infraestructura como Servicio (IaaS)",
+        "isCorrect": true
+      },
+      {
+        "text": "Computación Difusa (Fog)",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 18,
+    "question": "Si tu empresa contrata licencias para utilizar aplicaciones listas para usar por internet, como Microsoft 365, Dropbox o Gmail, ¿qué servicio es?",
+    "options": [
+      {
+        "text": "IaaS",
+        "isCorrect": false
+      },
+      {
+        "text": "SaaS",
+        "isCorrect": true
+      },
+      {
+        "text": "PaaS",
+        "isCorrect": false
+      },
+      {
+        "text": "Mist Computing",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 19,
+    "question": "¿Qué tipo de despliegue de nube se caracteriza por tener una infraestructura compartida por múltiples clientes, ofreciendo un coste reducido y gran flexibilidad (ej. AWS, Google Cloud)?",
+    "options": [
+      {
+        "text": "Nube privada",
+        "isCorrect": false
+      },
+      {
+        "text": "Nube pública",
+        "isCorrect": true
+      },
+      {
+        "text": "Nube híbrida",
+        "isCorrect": false
+      },
+      {
+        "text": "Nube comunitaria",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 20,
+    "question": "Si un banco requiere máxima seguridad, privacidad y control exclusivo sobre sus datos altamente sensibles, ¿qué tipo de nube es la más adecuada?",
+    "options": [
+      {
+        "text": "Nube pública",
+        "isCorrect": false
+      },
+      {
+        "text": "Nube comunitaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Nube privada",
+        "isCorrect": true
+      },
+      {
+        "text": "Edge Computing",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 21,
+    "question": "¿Qué modelo informático procesa los datos en el propio dispositivo o muy cerca de su origen para reducir latencias críticas y mejorar la seguridad?",
+    "options": [
+      {
+        "text": "Cloud Computing centralizado",
+        "isCorrect": false
+      },
+      {
+        "text": "Edge Computing (Computación en el Borde)",
+        "isCorrect": true
+      },
+      {
+        "text": "Sistemas expertos clásicos",
+        "isCorrect": false
+      },
+      {
+        "text": "SaaS",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 22,
+    "question": "En un sistema de domótica, si un ordenador en el salón recoge y filtra la información de varias cámaras antes de decidir si avisa a la nube, este nodo intermedio está aplicando:",
+    "options": [
+      {
+        "text": "Fog Computing (Computación en la Niebla)",
+        "isCorrect": true
+      },
+      {
+        "text": "Mist Computing",
+        "isCorrect": false
+      },
+      {
+        "text": "Computación Cuántica",
+        "isCorrect": false
+      },
+      {
+        "text": "Nube pública",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 23,
+    "question": "¿Qué representa el concepto de Big Data?",
+    "options": [
+      {
+        "text": "Un software de contabilidad para pymes",
+        "isCorrect": false
+      },
+      {
+        "text": "La capacidad de almacenar y analizar volúmenes gigantescos de datos a gran velocidad para detectar patrones y conocimiento útil",
+        "isCorrect": true
+      },
+      {
+        "text": "Una marca de servidores físicos",
+        "isCorrect": false
+      },
+      {
+        "text": "El registro de un único usuario en una web",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 24,
+    "question": "¿Cuál de los siguientes no forma parte de las conocidas \"7 V\" del Big Data?",
+    "options": [
+      {
+        "text": "Volumen",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocidad",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtualidad",
+        "isCorrect": true
+      },
+      {
+        "text": "Veracidad",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 25,
+    "question": "Dentro de las características del Big Data, ¿a qué se refiere el concepto de \"Veracidad\"?",
+    "options": [
+      {
+        "text": "A que los datos deben ser fiables y de calidad",
+        "isCorrect": true
+      },
+      {
+        "text": "Al volumen gigantesco de la información",
+        "isCorrect": false
+      },
+      {
+        "text": "A la capacidad gráfica de representar datos (visualización)",
+        "isCorrect": false
+      },
+      {
+        "text": "A la diversidad de formatos analizados (variedad)",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 26,
+    "question": "¿Qué tecnología tecnológica descentralizada permite registrar transacciones de forma segura, inmutable (sin poder ser manipulada) y sin intermediarios?",
+    "options": [
+      {
+        "text": "Blockchain (Cadena de bloques)",
+        "isCorrect": true
+      },
+      {
+        "text": "Cloud Computing",
+        "isCorrect": false
+      },
+      {
+        "text": "Gemelos Digitales",
+        "isCorrect": false
+      },
+      {
+        "text": "Realidad Virtual",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 27,
+    "question": "¿Qué utilidad principal tienen las Realidades Inmersivas (Virtual y Aumentada) en el entorno industrial?",
+    "options": [
+      {
+        "text": "Solo sirven para videojuegos de ocio",
+        "isCorrect": false
+      },
+      {
+        "text": "Procesar datos masivos de los clientes",
+        "isCorrect": false
+      },
+      {
+        "text": "Entrenar a operarios en entornos simulados sin riesgos físicos ni grandes costes, y guiar mantenimientos",
+        "isCorrect": true
+      },
+      {
+        "text": "Imprimir piezas en tres dimensiones",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 28,
+    "question": "¿Qué característica fundamental diferencia a los \"Cobots\" (Robótica Colaborativa) de los antiguos robots industriales?",
+    "options": [
+      {
+        "text": "Su incapacidad para ser programados",
+        "isCorrect": false
+      },
+      {
+        "text": "Que trabajan encerrados en jaulas de seguridad",
+        "isCorrect": false
+      },
+      {
+        "text": "Que están diseñados para trabajar de manera flexible y segura compartiendo espacio codo con codo con las personas",
+        "isCorrect": true
+      },
+      {
+        "text": "Que solo se utilizan para la recolección agrícola",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 29,
+    "question": "Una réplica virtual exacta de un motor de avión real que usa datos en tiempo real para prever errores y simular fallos antes de que ocurran en el entorno físico, es un ejemplo de:",
+    "options": [
+      {
+        "text": "Blockchain",
+        "isCorrect": false
+      },
+      {
+        "text": "Fog Computing",
+        "isCorrect": false
+      },
+      {
+        "text": "Big Data",
+        "isCorrect": false
+      },
+      {
+        "text": "Gemelo Digital (Digital Twin)",
+        "isCorrect": true
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 30,
+    "question": "¿A qué se denomina \"Huella Digital\" en el entorno empresarial y personal?",
+    "options": [
+      {
+        "text": "A la firma manuscrita digitalizada de un contrato",
+        "isCorrect": false
+      },
+      {
+        "text": "Al rastro de datos y registros de actividad que dejan las personas y máquinas al interactuar con internet y redes internas",
+        "isCorrect": true
+      },
+      {
+        "text": "Al sensor utilizado en las puertas para huellas dactilares",
+        "isCorrect": false
+      },
+      {
+        "text": "A la latencia generada por una red 5G",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 31,
+    "question": "En ciberseguridad, un virus que secuestra datos bloqueando sistemas y pide un rescate económico a cambio de liberarlos se conoce como:",
+    "options": [
+      {
+        "text": "Digital Twin",
+        "isCorrect": false
+      },
+      {
+        "text": "Cobot",
+        "isCorrect": false
+      },
+      {
+        "text": "Ransomware",
+        "isCorrect": true
+      },
+      {
+        "text": "PaaS",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 32,
+    "question": "¿Por qué un ciberataque a los entornos OT (Tecnología Operativa) puede resultar mucho más crítico que en un entorno puramente IT?",
+    "options": [
+      {
+        "text": "Porque podría alterar procesos físicos reales, poniendo en riesgo la seguridad humana e infraestructuras críticas (ej. alterar el agua de una planta)",
+        "isCorrect": true
+      },
+      {
+        "text": "Porque se saturaría el correo electrónico corporativo",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque los trabajadores perderían el acceso a la ofimática",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque los entornos OT no usan sensores",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 33,
+    "question": "¿Qué define de forma general a un agente de Inteligencia Artificial (IA)?",
+    "options": [
+      {
+        "text": "Es un sistema que carece de sensores",
+        "isCorrect": false
+      },
+      {
+        "text": "Es un sistema con la capacidad de percibir, razonar y actuar respecto a su entorno",
+        "isCorrect": true
+      },
+      {
+        "text": "Es un programa informático que requiere ser operado manualmente línea por línea",
+        "isCorrect": false
+      },
+      {
+        "text": "Es una máquina basada puramente en almacenamiento Cloud",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 34,
+    "question": "¿Qué evento marcó un hito histórico de la Inteligencia Artificial en 1997?",
+    "options": [
+      {
+        "text": "La acuñación del término por John McCarthy",
+        "isCorrect": false
+      },
+      {
+        "text": "La invención de la máquina de vapor",
+        "isCorrect": false
+      },
+      {
+        "text": "La victoria de la computadora Deep Blue contra el campeón mundial de ajedrez Garry Kasparov",
+        "isCorrect": true
+      },
+      {
+        "text": "El nacimiento del concepto del Gemelo Digital",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 35,
+    "question": "¿Cuál es el propósito del clásico \"Test de Turing\"?",
+    "options": [
+      {
+        "text": "Medir el rendimiento de procesamiento de una tarjeta gráfica (GPU)",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluar la seguridad de una red WiFi",
+        "isCorrect": false
+      },
+      {
+        "text": "Determinar si una máquina puede exhibir un comportamiento inteligente indistinguible del de un humano en una conversación",
+        "isCorrect": true
+      },
+      {
+        "text": "Comprobar si un dato es veraz en un análisis de Big Data",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 36,
+    "question": "Desde el punto de vista de su capacidad, un sistema como Alexa, diseñado para entender órdenes de voz específicas y ejecutarlas pero que carece de conciencia general, es un ejemplo de:",
+    "options": [
+      {
+        "text": "Inteligencia Artificial Fuerte (General)",
+        "isCorrect": false
+      },
+      {
+        "text": "Inteligencia Artificial Débil (Estrecha)",
+        "isCorrect": true
+      },
+      {
+        "text": "IA Simbólica Pura",
+        "isCorrect": false
+      },
+      {
+        "text": "Inteligencia Artificial Subsimbólica",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 37,
+    "question": "¿Existe en la actualidad la IA Fuerte (Inteligencia Artificial General)?",
+    "options": [
+      {
+        "text": "Sí, es la tecnología que utilizan los coches autónomos",
+        "isCorrect": false
+      },
+      {
+        "text": "Sí, se usa ampliamente en medicina predictiva",
+        "isCorrect": false
+      },
+      {
+        "text": "No, es un concepto teórico de una mente artificial capaz de igualar la flexibilidad y profundidad cognitiva humana, pero que aún no se ha logrado",
+        "isCorrect": true
+      },
+      {
+        "text": "Sí, fue inventada en la década de los 50",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 38,
+    "question": "A nivel de funcionamiento interno, ¿en qué se basa la IA Simbólica?",
+    "options": [
+      {
+        "text": "En redes neuronales artificiales profundas",
+        "isCorrect": false
+      },
+      {
+        "text": "En reglas lógicas y representación explícita de símbolos (ej: \"Si A pasa, entonces haz B\")",
+        "isCorrect": true
+      },
+      {
+        "text": "En el aprendizaje estadístico no supervisado",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusivamente en Big Data sin algoritmos",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 39,
+    "question": "La IA Subsimbólica intenta emular la forma de aprender del cerebro humano mediante el procesamiento de enormes cantidades de datos como si fuera una \"caja negra\". ¿Qué tecnología es la base de esto?",
+    "options": [
+      {
+        "text": "Sistemas Ciberfísicos",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistemas Expertos Clásicos",
+        "isCorrect": false
+      },
+      {
+        "text": "Redes Neuronales Artificiales (Machine Learning / Deep Learning)",
+        "isCorrect": true
+      },
+      {
+        "text": "Sistemas Operativos Tradicionales",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 40,
+    "question": "Dentro de los niveles de riesgo en la aplicación de la IA, técnicas como clasificar a los ciudadanos socialmente (social scoring) o el reconocimiento biométrico masivo indiscriminado, se consideran éticamente:",
+    "options": [
+      {
+        "text": "Riesgo bajo",
+        "isCorrect": false
+      },
+      {
+        "text": "Riesgo inaceptable",
+        "isCorrect": true
+      },
+      {
+        "text": "Prácticas recomendadas y obligatorias",
+        "isCorrect": false
+      },
+      {
+        "text": "Riesgo alto, pero de libre implementación",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 41,
+    "question": "¿Cuál es la definición general del \"Machine Learning\" (Aprendizaje Automático)?",
+    "options": [
+      {
+        "text": "Tecnología que permite a las máquinas aprender a partir de los datos y mejorar sus predicciones sin necesidad de programar reglas explícitas para cada caso",
+        "isCorrect": true
+      },
+      {
+        "text": "Un sistema de almacenamiento masivo de datos en discos",
+        "isCorrect": false
+      },
+      {
+        "text": "El proceso de diseñar hardware para ordenadores",
+        "isCorrect": false
+      },
+      {
+        "text": "La monitorización del correo electrónico",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 42,
+    "question": "Si para entrenar a una IA le proporcionamos miles de fotos de tumores junto con etiquetas claras que dicen si son benignos o malignos (datos de entrada + salida esperada), estamos usando:",
+    "options": [
+      {
+        "text": "Aprendizaje No Supervisado",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprendizaje por Refuerzo",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprendizaje Supervisado",
+        "isCorrect": true
+      },
+      {
+        "text": "Edge Computing",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 43,
+    "question": "En Machine Learning, si alimentamos al algoritmo con datos de clientes sin ninguna etiqueta y le pedimos que descubra por sí mismo patrones y agrupe a los usuarios por similitudes (Clustering), estamos utilizando:",
+    "options": [
+      {
+        "text": "Aprendizaje Simbólico",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprendizaje No Supervisado",
+        "isCorrect": true
+      },
+      {
+        "text": "Aprendizaje Supervisado",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprendizaje por Refuerzo",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 44,
+    "question": "Un coche autónomo o un robot que aprende a caminar recibiendo recompensas cuando hace un movimiento correcto y penalizaciones cuando se equivoca, ¿qué tipo de aprendizaje aplica?",
+    "options": [
+      {
+        "text": "Deep Learning Simbólico",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprendizaje No Supervisado",
+        "isCorrect": false
+      },
+      {
+        "text": "Clustering",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprendizaje por Refuerzo",
+        "isCorrect": true
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 45,
+    "question": "¿Qué fase de un proyecto típico de Machine Learning requiere la limpieza de datos, el arreglo de formatos y la gestión de valores nulos, y suele ocupar el 80% del tiempo de los científicos de datos?",
+    "options": [
+      {
+        "text": "Las Pruebas (Testing)",
+        "isCorrect": false
+      },
+      {
+        "text": "El Preprocesamiento",
+        "isCorrect": true
+      },
+      {
+        "text": "La Producción",
+        "isCorrect": false
+      },
+      {
+        "text": "El Entrenamiento",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 46,
+    "question": "¿Qué diferencia técnica fundamental existe entre el Machine Learning tradicional y el Deep Learning (Aprendizaje Profundo)?",
+    "options": [
+      {
+        "text": "El Deep Learning no utiliza redes neuronales",
+        "isCorrect": false
+      },
+      {
+        "text": "El Machine Learning necesita más hardware avanzado (GPUs) que el Deep Learning",
+        "isCorrect": false
+      },
+      {
+        "text": "El Deep Learning utiliza Redes Neuronales de múltiples capas, requiere muchos más datos y hardware específico, y ofrece mayor precisión en áreas complejas",
+        "isCorrect": true
+      },
+      {
+        "text": "El Deep Learning solo sirve para aprender de bases de datos de texto plano",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 47,
+    "question": "Si una empresa necesita analizar radiografías, identificar caras en imágenes o reconocer patrones de voz complejos, ¿qué tecnología es la óptima a elegir?",
+    "options": [
+      {
+        "text": "Big Data estructural",
+        "isCorrect": false
+      },
+      {
+        "text": "Machine Learning básico basado en regresiones",
+        "isCorrect": false
+      },
+      {
+        "text": "Deep Learning (Visión por Computador y Redes Neuronales)",
+        "isCorrect": true
+      },
+      {
+        "text": "Fog Computing",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 48,
+    "question": "En el sector sanidad, usar relojes inteligentes (Wearables) para monitorizar el ritmo cardíaco en tiempo real de millones de usuarios y que una máquina prevea y avise a emergencias si detecta anomalías previas a un infarto, es una aplicación que integra:",
+    "options": [
+      {
+        "text": "Impresión 3D e IA Simbólica",
+        "isCorrect": false
+      },
+      {
+        "text": "Big Data y Machine Learning",
+        "isCorrect": true
+      },
+      {
+        "text": "Nube Privada y Blockchain",
+        "isCorrect": false
+      },
+      {
+        "text": "Robótica y Gemelos Digitales",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 49,
+    "question": "En una plataforma comercial de streaming (como Netflix), si la aplicación analiza qué usuarios son similares a ti para ofrecerte \"Personalización de la Experiencia\", ¿qué sistema derivado de la IA se está empleando?",
+    "options": [
+      {
+        "text": "Trazabilidad de Blockchain",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantenimiento predictivo industrial",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistemas de Recomendación basados en IA y análisis de datos",
+        "isCorrect": true
+      },
+      {
+        "text": "Epidemiología computacional",
+        "isCorrect": false
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 50,
+    "question": "Dentro de la \"Minería de Datos (Data Mining)\", ¿cómo se llama la técnica cuyo objetivo es formar grupos de elementos o clientes similares para, por ejemplo, realizar segmentación de mercado?",
+    "options": [
+      {
+        "text": "Regresión",
+        "isCorrect": false
+      },
+      {
+        "text": "Asociación",
+        "isCorrect": false
+      },
+      {
+        "text": "Transparencia Digital",
+        "isCorrect": false
+      },
+      {
+        "text": "Clustering (Agrupamiento)",
+        "isCorrect": true
+      }
+    ],
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 51,
+    "question": "¿Cuál fue uno de los principales inventos de la Primera Revolución Industrial?",
+    "options": [
+      {
+        "text": "Internet.",
+        "isCorrect": false
+      },
+      {
+        "text": "La televisión.",
+        "isCorrect": false
+      },
+      {
+        "text": "La máquina de vapor.",
+        "isCorrect": true
+      },
+      {
+        "text": "La energía eléctrica.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 52,
+    "question": "En el contexto de la Industria 4.0, ¿qué tecnología es comúnmente utilizada para almacenar grandes volúmenes de datos?",
+    "options": [
+      {
+        "text": "Disquetes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cintas magnéticas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacenamiento en la nube.",
+        "isCorrect": true
+      },
+      {
+        "text": "CD-ROM.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 53,
+    "question": "¿Qué diferencia principal hay entre IT y OT?",
+    "options": [
+      {
+        "text": "IT se basa en producción y OT en análisis.",
+        "isCorrect": false
+      },
+      {
+        "text": "OT es digital y IT es mecánica.",
+        "isCorrect": false
+      },
+      {
+        "text": "IT gestiona datos y OT controla procesos físicos.",
+        "isCorrect": true
+      },
+      {
+        "text": "No hay diferencia entre ambos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 54,
+    "question": "¿Qué aporta la digitalización en cuanto a la gestión del riesgo?",
+    "options": [
+      {
+        "text": "Aumenta la incertidumbre.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejora la identificación y gestión temprana de problemas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduce el análisis de datos disponibles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Obliga a tomar decisiones más lentas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 55,
+    "question": "¿Cuál fue un avance destacado de la Tercera Revolución Industrial?",
+    "options": [
+      {
+        "text": "Desarrollo del motor de combustión.",
+        "isCorrect": false
+      },
+      {
+        "text": "Uso del telégrafo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aparición de ordenadores y energías renovables.",
+        "isCorrect": true
+      },
+      {
+        "text": "Implementación del vapor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 56,
+    "question": "¿Qué cambio supuso la Segunda Revolución Industrial?",
+    "options": [
+      {
+        "text": "Introducción del big data.",
+        "isCorrect": false
+      },
+      {
+        "text": "Uso de la robótica colaborativa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Uso de nuevas fuentes de energía como electricidad y gas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Digitalización de procesos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 57,
+    "question": "¿Qué objetivo tiene la economía circular en la Industria 5.0?",
+    "options": [
+      {
+        "text": "Sustituir personas por máquinas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reutilizar recursos y reducir residuos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Eliminar toda innovación tecnológica.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear productos únicos sin replicabilidad.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 58,
+    "question": "¿Qué término se refiere a la tecnología que permite que sistemas físicos y digitales interactúen?",
+    "options": [
+      {
+        "text": "Internet.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistema ciberfísico.",
+        "isCorrect": true
+      },
+      {
+        "text": "Red social.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacenamiento en la nube.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 59,
+    "question": "¿Qué aspecto representa una tendencia hacia la Quinta Revolución Industrial?",
+    "options": [
+      {
+        "text": "Exclusión del trabajador humano.",
+        "isCorrect": false
+      },
+      {
+        "text": "Menor personalización del producto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Industria centrada en las personas y sostenibilidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Mayor contaminación.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 60,
+    "question": "¿Qué representa el concepto de smart factory?",
+    "options": [
+      {
+        "text": "Una fábrica con empleados altamente capacitados.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una fábrica automatizada e interconectada que se adapta dinámicamente a las necesidades.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un centro logístico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una oficina inteligente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 61,
+    "question": "¿Qué elemento caracteriza a la informática en la nube?",
+    "options": [
+      {
+        "text": "Los servicios se acceden remotamente desde cualquier dispositivo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Los datos se almacenan en servidores físicos locales.",
+        "isCorrect": false
+      },
+      {
+        "text": "No necesita conexión a Internet.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo funciona en red local.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 62,
+    "question": "¿Qué función tiene la informática en la nube en una empresa digitalizada?",
+    "options": [
+      {
+        "text": "Controlar robots.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diseñar piezas industriales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Gestionar manualmente el mantenimiento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Procesar y almacenar datos de forma remota.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 63,
+    "question": "¿Cuál es una función típica de la IA en la empresa?",
+    "options": [
+      {
+        "text": "Pintar objetos automáticamente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Comprimir archivos grandes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Automatizar decisiones y predecir comportamientos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Conectar sensores por cable.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 64,
+    "question": "¿Cuál de estas es una función de la ciberseguridad en entornos digitales?",
+    "options": [
+      {
+        "text": "Crear prototipos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Simular movimientos físicos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Proteger sistemas IT y OT de accesos no autorizados.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aumentar el rendimiento de impresoras.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 65,
+    "question": "¿Qué ventaja aporta la informática difusa (fog computing)?",
+    "options": [
+      {
+        "text": "Evita el uso de sensores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimina la necesidad de conexión.",
+        "isCorrect": false
+      },
+      {
+        "text": "Procesa datos en el propio dispositivo o cerca del origen.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduce el rendimiento de la nube.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 66,
+    "question": "¿Qué ventaja aporta la robótica colaborativa frente a la robótica tradicional?",
+    "options": [
+      {
+        "text": "Mayor consumo energético.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mayor aislamiento de los operarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Interacción segura y directa con humanos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Funcionamiento solo en grandes empresas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 67,
+    "question": "¿Qué objetivo tiene el uso de blockchain en la cadena de suministro?",
+    "options": [
+      {
+        "text": "Aumentar el tamaño de los paquetes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Garantizar la trazabilidad segura e inmutable.",
+        "isCorrect": true
+      },
+      {
+        "text": "Controlar manualmente los envíos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Conectar sensores de temperatura.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 68,
+    "question": "¿Qué permite la tecnología háptica en un entorno de realidad virtual?",
+    "options": [
+      {
+        "text": "Escuchar sonidos tridimensionales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ver imágenes más nítidas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sentir texturas y movimientos físicos simulados.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aumentar la velocidad de conexión.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 69,
+    "question": "¿Qué tecnología combina datos físicos y digitales para crear entornos inmersivos interactivos?",
+    "options": [
+      {
+        "text": "Robótica industrial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Big data.",
+        "isCorrect": false
+      },
+      {
+        "text": "Realidad aumentada.",
+        "isCorrect": true
+      },
+      {
+        "text": "Informática en la nube.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 70,
+    "question": "¿Qué tecnología se utiliza para recrear sensaciones táctiles en entornos digitales?",
+    "options": [
+      {
+        "text": "Blockchain.",
+        "isCorrect": false
+      },
+      {
+        "text": "Háptica.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ciberseguridad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Inteligencia artificial (IA).",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 71,
+    "question": "¿Qué tipo de nube combina servicios públicos y privados?",
+    "options": [
+      {
+        "text": "Pública.",
+        "isCorrect": false
+      },
+      {
+        "text": "Privada.",
+        "isCorrect": false
+      },
+      {
+        "text": "Híbrida.",
+        "isCorrect": true
+      },
+      {
+        "text": "Comunitaria.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 72,
+    "question": "¿Cuál de estas no es una ventaja del cloud?",
+    "options": [
+      {
+        "text": "Acceso remoto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducción de costes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Escalabilidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Inversión fija obligatoria.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 73,
+    "question": "¿Qué permite la escalabilidad del cloud?",
+    "options": [
+      {
+        "text": "Ajustar recursos según demanda.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reducir usuarios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumentar personal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Desactivar servicios fijos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 74,
+    "question": "¿Cuál de estas características define al cloud?",
+    "options": [
+      {
+        "text": "Autoservicio bajo demanda.",
+        "isCorrect": true
+      },
+      {
+        "text": "Licencia perpetua.",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceso solo local.",
+        "isCorrect": false
+      },
+      {
+        "text": "Configuración fija.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 75,
+    "question": "¿Qué es el cloud computing?",
+    "options": [
+      {
+        "text": "Un disco duro externo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un sistema operativo local.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un modelo de prestación de servicios digitales por red.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un antivirus para redes.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 76,
+    "question": "¿Cuál de estas afirmaciones es falsa?",
+    "options": [
+      {
+        "text": "La nube se adapta a empresas de cualquier tamaño.",
+        "isCorrect": false
+      },
+      {
+        "text": "Los datos en la nube no necesitan seguridad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Puede usarse desde dispositivos móviles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permite colaboración en tiempo real.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 77,
+    "question": "¿Qué característica mejora la productividad con cloud computing?",
+    "options": [
+      {
+        "text": "Almacenamiento limitado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Trabajo colaborativo en tiempo real.",
+        "isCorrect": true
+      },
+      {
+        "text": "Revisión manual de documentos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Necesidad de compartir archivos por USB.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 78,
+    "question": "¿Qué expresión define la alta disponibilidad en la nube?",
+    "options": [
+      {
+        "text": "Acceso solo en horas de oficina.",
+        "isCorrect": false
+      },
+      {
+        "text": "Necesidad de instalar en local.",
+        "isCorrect": false
+      },
+      {
+        "text": "Disponibilidad 24/7 desde cualquier lugar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dependencia de disco duro físico.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 79,
+    "question": "¿Qué rol cumple el edge computing respecto al cloud?",
+    "options": [
+      {
+        "text": "Sustituye al cloud.",
+        "isCorrect": false
+      },
+      {
+        "text": "Centraliza todo el procesamiento.",
+        "isCorrect": false
+      },
+      {
+        "text": "Acerca el procesamiento al lugar de uso.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bloquea el acceso remoto.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 80,
+    "question": "¿Cuál de estos riesgos es frecuente en entornos cloud mal gestionados?",
+    "options": [
+      {
+        "text": "Falta de copias de seguridad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pérdida de electricidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sobrecarga de papel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Lentitud del sistema operativo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 81,
+    "question": "¿Qué principio guía el desarrollo de una IA confiable en Europa?",
+    "options": [
+      {
+        "text": "Rentabilidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Respeto a los derechos fundamentales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Automatización total.",
+        "isCorrect": false
+      },
+      {
+        "text": "Minimización de costes.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 82,
+    "question": "¿Qué herramienta permite descubrir patrones ocultos en grandes volúmenes de información para apoyar la toma de decisiones?",
+    "options": [
+      {
+        "text": "Big data.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ciberseguridad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Minería de datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Blockchain.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 83,
+    "question": "¿Qué debe cumplir un modelo de IA generativa como ChatGPT según la normativa de la UE?",
+    "options": [
+      {
+        "text": "No usar datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evitar cualquier tipo de respuesta.",
+        "isCorrect": false
+      },
+      {
+        "text": "Revelar que el contenido fue generado por IA.",
+        "isCorrect": true
+      },
+      {
+        "text": "Operar sin intervención humana.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 84,
+    "question": "¿Qué avance marcó el inicio del uso comercial del reconocimiento de voz?",
+    "options": [
+      {
+        "text": "Deep Blue gana al ajedrez.",
+        "isCorrect": false
+      },
+      {
+        "text": "Google lanza una aplicación de voz en 2008.",
+        "isCorrect": true
+      },
+      {
+        "text": "Primer chatbot.",
+        "isCorrect": false
+      },
+      {
+        "text": "Traducción automática.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 85,
+    "question": "¿Quién propuso el test de Turing como criterio para determinar si una máquina piensa?",
+    "options": [
+      {
+        "text": "Descartes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alan Turing.",
+        "isCorrect": true
+      },
+      {
+        "text": "Marvin Minsky.",
+        "isCorrect": false
+      },
+      {
+        "text": "John McCarthy.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 86,
+    "question": "¿Qué tipo de inteligencia artificial (IA) está diseñada para realizar tareas específicas como responder preguntas o clasificar correos electrónicos?",
+    "options": [
+      {
+        "text": "IA general.",
+        "isCorrect": false
+      },
+      {
+        "text": "IA simbólica.",
+        "isCorrect": false
+      },
+      {
+        "text": "IA débil.",
+        "isCorrect": true
+      },
+      {
+        "text": "IA fuerte.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 87,
+    "question": "¿Cuál es un sistema considerado de riesgo inaceptable, según la Ley de Inteligencia Artificial de la Unión Europea?",
+    "options": [
+      {
+        "text": "Sistemas de puntuación social.",
+        "isCorrect": true
+      },
+      {
+        "text": "Predicción del clima.",
+        "isCorrect": false
+      },
+      {
+        "text": "Recomendación de productos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Traducción automática.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 88,
+    "question": "¿Cuál de los siguientes sectores utiliza IA para análisis de imágenes médicas?",
+    "options": [
+      {
+        "text": "Agricultura.",
+        "isCorrect": false
+      },
+      {
+        "text": "Industria manufacturera.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hostelería.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 89,
+    "question": "¿Qué exige la normativa europea para los sistemas de IA considerados de alto riesgo?",
+    "options": [
+      {
+        "text": "Libertad total de uso.",
+        "isCorrect": false
+      },
+      {
+        "text": "Registro opcional.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo supervisión automática.",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluación continua y registro en la base de datos.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 90,
+    "question": "¿Qué tecnología de IA se utiliza para ajustar la producción en función de la demanda real en la industria?",
+    "options": [
+      {
+        "text": "Blockchain.",
+        "isCorrect": false
+      },
+      {
+        "text": "Drones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Producción basada en demanda con sensores e IA.",
+        "isCorrect": true
+      },
+      {
+        "text": "Redes sociales.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 91,
+    "question": "¿Cuál de estas amenazas afecta a la seguridad de los datos?",
+    "options": [
+      {
+        "text": "Incremento de ventas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Malware y ransomware.",
+        "isCorrect": true
+      },
+      {
+        "text": "Crecimiento de personal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Uso de emails corporativos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 92,
+    "question": "¿Qué herramienta ayuda a visualizar patrones y datos en gráficos?",
+    "options": [
+      {
+        "text": "Antivirus.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cortafuegos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Power BI.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cifrado de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 93,
+    "question": "¿Qué objetivo busca la personalización en las empresas?",
+    "options": [
+      {
+        "text": "Crear un solo producto para todos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Igualar los precios para todos los clientes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ofrecer productos ajustados a cada cliente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reducir la cantidad de productos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 94,
+    "question": "¿Qué característica del big data está relacionada con la precisión y veracidad de los datos?",
+    "options": [
+      {
+        "text": "Velocidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Visualización.",
+        "isCorrect": false
+      },
+      {
+        "text": "Veracidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Variedad.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 95,
+    "question": "¿Cuál de estos no es un objetivo de la ciencia de datos en las empresas?",
+    "options": [
+      {
+        "text": "Detección de fraudes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pintura artística.",
+        "isCorrect": true
+      },
+      {
+        "text": "Optimización de procesos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejora de la experiencia del cliente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 96,
+    "question": "¿Qué perfil se encarga de crear la infraestructura de datos en las empresas?",
+    "options": [
+      {
+        "text": "Director financiero.",
+        "isCorrect": false
+      },
+      {
+        "text": "Jefe de ventas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ingeniero de datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Experto en redes sociales.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 97,
+    "question": "¿Qué se busca garantizar con la confidencialidad en la seguridad de datos?",
+    "options": [
+      {
+        "text": "Que los datos sean verificados.",
+        "isCorrect": false
+      },
+      {
+        "text": "Que estén en la nube.",
+        "isCorrect": false
+      },
+      {
+        "text": "Que solo los autorizados accedan.",
+        "isCorrect": true
+      },
+      {
+        "text": "Que se borren rápidamente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 98,
+    "question": "¿Qué método de análisis se basa en aprender de ejemplos etiquetados?",
+    "options": [
+      {
+        "text": "Aprendizaje no supervisado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Algoritmos de clusterización.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprendizaje supervisado.",
+        "isCorrect": true
+      },
+      {
+        "text": "Redes sociales.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 99,
+    "question": "¿Cuál de estas no forma parte de las siete V del big data?",
+    "options": [
+      {
+        "text": "Volumen.",
+        "isCorrect": false
+      },
+      {
+        "text": "Velocidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Variedad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Valoración personal.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 100,
+    "question": "¿Qué permiten las tecnologías habilitadoras digitales (THD)?",
+    "options": [
+      {
+        "text": "Reemplazar al profesorado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformar procesos productivos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Eliminar la industria.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducir salarios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 101,
+    "question": "¿Cuál de las siguientes es una THD?",
+    "options": [
+      {
+        "text": "Fotocopiadora.",
+        "isCorrect": false
+      },
+      {
+        "text": "Impresora láser.",
+        "isCorrect": false
+      },
+      {
+        "text": "Inteligencia artificial.",
+        "isCorrect": true
+      },
+      {
+        "text": "Bolígrafo digital.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 102,
+    "question": "¿Qué organización definió el modelo cloud ampliamente citado?",
+    "options": [
+      {
+        "text": "IEEE.",
+        "isCorrect": false
+      },
+      {
+        "text": "MIT.",
+        "isCorrect": false
+      },
+      {
+        "text": "NIST.",
+        "isCorrect": true
+      },
+      {
+        "text": "Apple.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 103,
+    "question": "¿Qué característica define a la nube pública?",
+    "options": [
+      {
+        "text": "Uso exclusivo de una organización.",
+        "isCorrect": false
+      },
+      {
+        "text": "Infraestructura compartida.",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo disponible en Europa.",
+        "isCorrect": false
+      },
+      {
+        "text": "No escalable.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 104,
+    "question": "¿Qué permite el big data?",
+    "options": [
+      {
+        "text": "Almacenar información de manera analógica",
+        "isCorrect": false
+      },
+      {
+        "text": "Procesar grandes volúmenes de datos",
+        "isCorrect": true
+      },
+      {
+        "text": "Imprimir datos en papel",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducir la conectividad",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 105,
+    "question": "¿Cuál es una ventaja económica del cloud?",
+    "options": [
+      {
+        "text": "Mayor coste en hardware.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mayor gasto en licencias.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pago por uso.",
+        "isCorrect": true
+      },
+      {
+        "text": "Necesidad de centros de datos propios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 106,
+    "question": "¿Qué es un gemelo digital?",
+    "options": [
+      {
+        "text": "Un robot físico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una copia en papel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una réplica virtual de un objeto real.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una impresora 3D.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 107,
+    "question": "¿Qué permite la red 5G?",
+    "options": [
+      {
+        "text": "Mayor latencia.",
+        "isCorrect": false
+      },
+      {
+        "text": "Baja velocidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Conectividad lenta.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alta velocidad y baja latencia.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 108,
+    "question": "¿Cuál es una característica del modelo cloud?",
+    "options": [
+      {
+        "text": "Acceso bajo demanda desde cualquier lugar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Acceso limitado solo desde la empresa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo funciona con conexión 5G.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo disponible en papel.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 109,
+    "question": "¿Qué es la informática en la nube?",
+    "options": [
+      {
+        "text": "El uso de papel digital.",
+        "isCorrect": false
+      },
+      {
+        "text": "La creación de robots físicos.",
+        "isCorrect": false
+      },
+      {
+        "text": "El acceso remoto a datos y aplicaciones por Internet.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un sistema de energía renovable.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 110,
+    "question": "¿Cuál de estas tecnologías se considera parte de las realidades inmersivas?",
+    "options": [
+      {
+        "text": "Bluetooth.",
+        "isCorrect": false
+      },
+      {
+        "text": "Realidad virtual.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nube híbrida.",
+        "isCorrect": false
+      },
+      {
+        "text": "USB-C.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 111,
+    "question": "¿Cuál de las siguientes opciones es una ventaja del cloud para las pymes?",
+    "options": [
+      {
+        "text": "Altos costes iniciales",
+        "isCorrect": false
+      },
+      {
+        "text": "Dependencia de servidores locales",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceso a tecnologías avanzadas sin gran inversión",
+        "isCorrect": true
+      },
+      {
+        "text": "Falta de escalabilidad",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 112,
+    "question": "¿Qué implica la escalabilidad del cloud?",
+    "options": [
+      {
+        "text": "Reducción del personal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Adaptación flexible del servicio según la demanda.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cierre de servidores.",
+        "isCorrect": false
+      },
+      {
+        "text": "Duplicación de documentos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 113,
+    "question": "¿Cuál es una buena práctica en ciberseguridad cloud?",
+    "options": [
+      {
+        "text": "Compartir contraseñas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Usar 2FA (doble autenticación).",
+        "isCorrect": true
+      },
+      {
+        "text": "Hacer copias físicas diarias.",
+        "isCorrect": false
+      },
+      {
+        "text": "Conectar desde redes abiertas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 114,
+    "question": "¿Qué permite la robótica colaborativa?",
+    "options": [
+      {
+        "text": "Controlar ordenadores a distancia.",
+        "isCorrect": false
+      },
+      {
+        "text": "Simular datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Colaborar de forma segura entre humanos y robots.",
+        "isCorrect": true
+      },
+      {
+        "text": "Enseñar idiomas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 115,
+    "question": "¿Qué define a una nube híbrida?",
+    "options": [
+      {
+        "text": "Combina nube privada y pública.",
+        "isCorrect": true
+      },
+      {
+        "text": "Es exclusivamente pública.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo sirve para correo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Es parte de una red cerrada.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 116,
+    "question": "¿Qué permite el uso del cloud computing en educación?",
+    "options": [
+      {
+        "text": "Desconectar las aulas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Limitar el acceso al contenido.",
+        "isCorrect": false
+      },
+      {
+        "text": "Compartir materiales y acceder desde cualquier dispositivo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Evitar el uso de Internet.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 117,
+    "question": "¿Qué permite el procesamiento masivo de datos?",
+    "options": [
+      {
+        "text": "Imprimir informes físicos rápidamente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Analizar grandes cantidades de información en tiempo real.",
+        "isCorrect": true
+      },
+      {
+        "text": "Eliminar datos antiguos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Desconectar sistemas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 118,
+    "question": "¿Qué característica es clave en las realidades inmersivas?",
+    "options": [
+      {
+        "text": "Imágenes impresas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Documentación en papel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Impresoras 3D.",
+        "isCorrect": false
+      },
+      {
+        "text": "Simulación digital del entorno.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 119,
+    "question": "¿Qué tecnología mejora la toma de decisiones mediante datos?",
+    "options": [
+      {
+        "text": "Inteligencia artificial.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cableado estructurado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sensor de humedad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fotocopiadora.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 120,
+    "question": "¿Qué sector puede beneficiarse de la IA para diagnósticos médicos?",
+    "options": [
+      {
+        "text": "Logística.",
+        "isCorrect": false
+      },
+      {
+        "text": "Educación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sanidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Turismo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 121,
+    "question": "¿Cuál es una ventaja del cloud en sostenibilidad?",
+    "options": [
+      {
+        "text": "Mayor consumo energético.",
+        "isCorrect": false
+      },
+      {
+        "text": "Centros de datos poco eficientes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Uso más eficiente de recursos compartidos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Necesidad de papel.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 122,
+    "question": "¿Cuál de las siguientes afirmaciones refleja una ventaja estratégica del uso de cloud computing en empresas?",
+    "options": [
+      {
+        "text": "Facilita la transformación y escalabilidad del modelo de negocio.",
+        "isCorrect": true
+      },
+      {
+        "text": "Permite mantener estructuras tradicionales sin cambios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce el contacto digital con el cliente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimina la necesidad de planificación a largo plazo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 123,
+    "question": "¿Qué papel desempeñan los gemelos digitales en la toma de decisiones industriales?",
+    "options": [
+      {
+        "text": "Son modelos artísticos 3D.",
+        "isCorrect": false
+      },
+      {
+        "text": "Simulan procesos para optimizar decisiones sin riesgo físico.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sustituyen los recursos humanos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se usan solo en videojuegos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 124,
+    "question": "¿Cuál es una diferencia clave entre el edge computing y el cloud computing tradicional?",
+    "options": [
+      {
+        "text": "El edge procesa los datos en servidores centrales.",
+        "isCorrect": false
+      },
+      {
+        "text": "El cloud tiene menor latencia.",
+        "isCorrect": false
+      },
+      {
+        "text": "El edge reduce la latencia al acercar el procesamiento al origen del dato.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ambos funcionan sin Internet.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 125,
+    "question": "¿Qué es la IA simbólica?",
+    "options": [
+      {
+        "text": "Una técnica de minería de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un modelo biológico de redes neuronales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un enfoque que usa reglas lógicas para resolver problemas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una técnica para procesar imágenes médicas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 126,
+    "question": "¿Qué tipo de IA (inteligencia artificial) busca imitar la mente humana en su totalidad?",
+    "options": [
+      {
+        "text": "IA subsimbólica.",
+        "isCorrect": false
+      },
+      {
+        "text": "IA fuerte.",
+        "isCorrect": true
+      },
+      {
+        "text": "IA débil.",
+        "isCorrect": false
+      },
+      {
+        "text": "IA de lenguaje natural.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 127,
+    "question": "¿Qué son las siete V del big data?",
+    "options": [
+      {
+        "text": "Valores, volumen, velocidad, variedad, veracidad, visualización y valor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Valores, volumen, veracidad, variedad, victoria, vivacidad y verificación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Volumen, velocidad, variedad, veracidad, viabilidad, visualización y valor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Volumen, velocidad, vulnerabilidad, veracidad, virtualidad, variedad y valor.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 128,
+    "question": "¿Cuál de estos no es un método de aprendizaje en IA?",
+    "options": [
+      {
+        "text": "Aprendizaje supervisado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprendizaje no supervisado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprendizaje por refuerzo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprendizaje estancado.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 129,
+    "question": "¿Qué principio de seguridad busca que los datos permanezcan exactos y sin alteraciones?",
+    "options": [
+      {
+        "text": "Confidencialidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Integridad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Disponibilidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ninguna de las anteriores.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 130,
+    "question": "¿Qué técnica de IA utiliza múltiples capas de redes neuronales?",
+    "options": [
+      {
+        "text": "Aprendizaje supervisado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Algoritmos básicos de IA.",
+        "isCorrect": false
+      },
+      {
+        "text": "Deep learning.",
+        "isCorrect": true
+      },
+      {
+        "text": "Algoritmos de segmentación manual.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 131,
+    "question": "¿Qué principio busca que solo usuarios autorizados accedan a la información?",
+    "options": [
+      {
+        "text": "Confidencialidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Integridad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Disponibilidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Visualización.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 132,
+    "question": "¿Qué campo de la IA se ocupa de procesar el lenguaje humano?",
+    "options": [
+      {
+        "text": "Análisis de imágenes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Control de calidad en fábricas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Procesamiento de lenguaje natural (PLN).",
+        "isCorrect": true
+      },
+      {
+        "text": "Mantenimiento predictivo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 133,
+    "question": "¿Qué objetivo tiene la personalización en las empresas?",
+    "options": [
+      {
+        "text": "Igualar las ofertas para todos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducir la variedad de productos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Adaptar los productos y servicios a cada cliente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Eliminar la segmentación.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 134,
+    "question": "¿Qué representa la veracidad en big data?",
+    "options": [
+      {
+        "text": "La rapidez con la que llegan los datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "El tamaño del conjunto de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "La calidad y fiabilidad de los datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "La forma gráfica de representar los datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 135,
+    "question": "¿Qué medida ayuda a proteger datos frente a accesos no autorizados?",
+    "options": [
+      {
+        "text": "Compartir las contraseñas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminar los backups.",
+        "isCorrect": false
+      },
+      {
+        "text": "Autenticación multifactor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Guardar los datos sin protección.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 136,
+    "question": "¿Qué recurso ayuda a representar patrones complejos y dinámicos?",
+    "options": [
+      {
+        "text": "Reglas de papel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Redes manuales de contactos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Visualización de datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Libros de texto en papel.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 137,
+    "question": "¿Qué aspecto mide la velocidad en big data?",
+    "options": [
+      {
+        "text": "Cuánto dinero se gana.",
+        "isCorrect": false
+      },
+      {
+        "text": "Qué tanto se varía el tipo de dato.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuán rápido se generan y procesan los datos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cuántas personas los ven.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 138,
+    "question": "¿Qué tipo de aprendizaje utiliza datos sin etiquetas?",
+    "options": [
+      {
+        "text": "Supervisado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Supervisado reforzado.",
+        "isCorrect": false
+      },
+      {
+        "text": "No supervisado.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ninguno.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 139,
+    "question": "¿Qué técnica detecta patrones extraños en datos financieros?",
+    "options": [
+      {
+        "text": "Pintura de gráficos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Marketing digital.",
+        "isCorrect": false
+      },
+      {
+        "text": "Análisis de fraude y riesgo.",
+        "isCorrect": true
+      },
+      {
+        "text": "Elaboración de flyers.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 140,
+    "question": "¿Qué significa visualización de datos?",
+    "options": [
+      {
+        "text": "Representar gráficamente patrones y tendencias.",
+        "isCorrect": true
+      },
+      {
+        "text": "Compartir datos en redes sociales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cambiar datos manualmente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear música a partir de datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 141,
+    "question": "¿Qué tipo de IA incluye asistentes virtuales como Alexa o Siri?",
+    "options": [
+      {
+        "text": "IA simbólica básica.",
+        "isCorrect": false
+      },
+      {
+        "text": "Árboles de decisión manuales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Deep learning.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ninguna de las anteriores.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 142,
+    "question": "¿Qué principio de seguridad garantiza que los datos estén disponibles cuando se necesiten?",
+    "options": [
+      {
+        "text": "Confidencialidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Integridad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Disponibilidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Visualización.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 143,
+    "question": "¿Qué tecnología permite gestionar grandes volúmenes de datos a través de clústeres distribuidos?",
+    "options": [
+      {
+        "text": "Word y PowerPoint.",
+        "isCorrect": false
+      },
+      {
+        "text": "Procesadores de texto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hadoop.",
+        "isCorrect": true
+      },
+      {
+        "text": "Hojas de cálculo básicas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 144,
+    "question": "¿Qué riesgo puede tener el uso inadecuado de datos?",
+    "options": [
+      {
+        "text": "Mejora continua garantizada.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mayor creatividad sin límites.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vulneración de la privacidad y normativas legales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aumento automático de beneficios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 145,
+    "question": "¿Qué significa que la IA sea fuerte?",
+    "options": [
+      {
+        "text": "Simula la mente humana completa.",
+        "isCorrect": true
+      },
+      {
+        "text": "No requiere entrenamiento de datos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo realiza cálculos simples.",
+        "isCorrect": false
+      },
+      {
+        "text": "Funciona sin datos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 146,
+    "question": "¿Qué técnica usa datos etiquetados para entrenar modelos?",
+    "options": [
+      {
+        "text": "No supervisado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Supervisado.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aprendizaje difuso.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aleatorio.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 147,
+    "question": "¿Qué es un árbol de decisión en IA?",
+    "options": [
+      {
+        "text": "Una lista de tareas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Una red social para empresas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un diagrama con reglas lógicas de decisión.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una hoja de cálculo básica.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 148,
+    "question": "¿Qué permite la analítica avanzada?",
+    "options": [
+      {
+        "text": "Decorar las oficinas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Tomar decisiones basadas en datos reales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reemplazar todos los empleados.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hacer copias de seguridad únicamente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  },
+  {
+    "id": 149,
+    "question": "¿Qué es el deep learning?",
+    "options": [
+      {
+        "text": "Aprender solo manualmente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo usar gráficos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprender a partir de grandes cantidades de datos y redes neuronales profundas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Revisión de correo electrónico.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Digitalizacion - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf"
+  }
+]

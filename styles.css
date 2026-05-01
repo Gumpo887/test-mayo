@@ -90,6 +90,39 @@ button {
   padding: 0.7rem 0.85rem;
 }
 
+button.subject-button {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0.25rem;
+  text-align: left;
+}
+
+button.subject-button small {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  line-height: 1.25;
+}
+
+button.subject-button.disabled:disabled {
+  opacity: 0.76;
+}
+
+.question-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  margin-bottom: 0.65rem;
+  border: 1px solid #f59e0b;
+  border-radius: 999px;
+  padding: 0.25rem 0.55rem;
+  color: #fef3c7;
+  background: rgba(245, 158, 11, 0.16);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
 button.primary {
   background: var(--primary);
   border-color: var(--primary);

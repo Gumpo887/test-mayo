@@ -1,0 +1,3890 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué significan las siglas ODS?",
+    "options": [
+      {
+        "text": "Organización para el Desarrollo Social",
+        "isCorrect": false
+      },
+      {
+        "text": "Objetivos de Desarrollo Sostenible",
+        "isCorrect": true
+      },
+      {
+        "text": "Oportunidades de Desarrollo Sistémico",
+        "isCorrect": false
+      },
+      {
+        "text": "Objetivos de Descarbonización Sectorial",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 2,
+    "question": "¿En qué se basa el modelo económico lineal clásico?",
+    "options": [
+      {
+        "text": "Extraer, fabricar, usar y desechar",
+        "isCorrect": true
+      },
+      {
+        "text": "Rediseñar, reutilizar, reciclar y regenerar",
+        "isCorrect": false
+      },
+      {
+        "text": "Prevenir, reducir y reutilizar",
+        "isCorrect": false
+      },
+      {
+        "text": "Extraer, reciclar y desechar",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué evalúan los criterios ASG en el entorno empresarial?",
+    "options": [
+      {
+        "text": "Aspectos Agrícolas, Sostenibles y Ganaderos",
+        "isCorrect": false
+      },
+      {
+        "text": "Aspectos Ambientales, Sociales y de Gobernanza",
+        "isCorrect": true
+      },
+      {
+        "text": "Asociaciones, Sociedades y Gestión",
+        "isCorrect": false
+      },
+      {
+        "text": "Acuerdos de Sostenibilidad Global",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 4,
+    "question": "¿Qué significa la sigla RSC?",
+    "options": [
+      {
+        "text": "Rentabilidad Social y Comercial",
+        "isCorrect": false
+      },
+      {
+        "text": "Riesgo Sostenible Corporativo",
+        "isCorrect": false
+      },
+      {
+        "text": "Responsabilidad Social Corporativa",
+        "isCorrect": true
+      },
+      {
+        "text": "Reducción del Sistema Contaminante",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál es el objetivo principal de la sostenibilidad en los sectores productivos?",
+    "options": [
+      {
+        "text": "Fomentar el crecimiento económico ilimitado",
+        "isCorrect": false
+      },
+      {
+        "text": "Satisfacer las necesidades actuales sin comprometer la capacidad de las generaciones futuras",
+        "isCorrect": true
+      },
+      {
+        "text": "Maximizar la extracción de recursos naturales",
+        "isCorrect": false
+      },
+      {
+        "text": "Fomentar el uso exclusivo de energía fósil",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 6,
+    "question": "¿Qué es la \"Descarbonización\"?",
+    "options": [
+      {
+        "text": "Aumentar la extracción de carbón en minas",
+        "isCorrect": false
+      },
+      {
+        "text": "El proceso de reducir o eliminar las emisiones de carbono en todos los procesos productivos",
+        "isCorrect": true
+      },
+      {
+        "text": "Promover el modelo económico lineal",
+        "isCorrect": false
+      },
+      {
+        "text": "Fabricar productos con plástico reciclado",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué indicador se utiliza para medir la cantidad de Gases de Efecto Invernadero (GEI) emitidos directa o indirectamente?",
+    "options": [
+      {
+        "text": "La Huella Hídrica",
+        "isCorrect": false
+      },
+      {
+        "text": "El Nivel de Ozono",
+        "isCorrect": false
+      },
+      {
+        "text": "La Huella de Carbono",
+        "isCorrect": true
+      },
+      {
+        "text": "El Índice de Reciclaje",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 8,
+    "question": "En el ámbito de la economía circular, ¿qué tres acciones fundamentales (las 3R) marcan la gestión sostenible inicial?",
+    "options": [
+      {
+        "text": "Recoger, Reestructurar, Replantear",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducir, Reutilizar, Reciclar",
+        "isCorrect": true
+      },
+      {
+        "text": "Renovar, Recargar, Reubicar",
+        "isCorrect": false
+      },
+      {
+        "text": "Reparar, Revender, Regalar",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 9,
+    "question": "¿Qué acuerdo internacional firmado en 2015 fue clave para la transición hacia una economía baja en carbono?",
+    "options": [
+      {
+        "text": "Protocolo de Kioto",
+        "isCorrect": false
+      },
+      {
+        "text": "Acuerdo de París (COP21)",
+        "isCorrect": true
+      },
+      {
+        "text": "Tratado de Versalles",
+        "isCorrect": false
+      },
+      {
+        "text": "Cumbre de Río",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál de las siguientes acciones NO es sostenible y está prohibida bajo la actual normativa de transición energética en España?",
+    "options": [
+      {
+        "text": "El fomento de energías renovables",
+        "isCorrect": false
+      },
+      {
+        "text": "La rehabilitación de edificios para eficiencia energética",
+        "isCorrect": false
+      },
+      {
+        "text": "Las nuevas autorizaciones para la exploración y producción de hidrocarburos y uranio",
+        "isCorrect": true
+      },
+      {
+        "text": "La instalación de paneles solares NIVEL MEDIO: Retos Ambientales y Sociales",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 11,
+    "question": "¿Cuáles son las brechas que definen la desigualdad territorial, ambiental y digital en el contexto de sostenibilidad?",
+    "options": [
+      {
+        "text": "Brechas exclusivas de género",
+        "isCorrect": false
+      },
+      {
+        "text": "Brechas en servicios, entorno y tecnología",
+        "isCorrect": true
+      },
+      {
+        "text": "Diferencias en el acceso a la educación universitaria",
+        "isCorrect": false
+      },
+      {
+        "text": "Desigualdades generacionales en el ámbito rural",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 12,
+    "question": "Desde el ámbito social, ¿qué medida principal ayuda a minimizar el impacto negativo del desarrollo económico?",
+    "options": [
+      {
+        "text": "Fomentar el trabajo informal",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducir la fiscalidad a grandes corporaciones",
+        "isCorrect": false
+      },
+      {
+        "text": "La fiscalidad progresiva, el empleo digno y la igualdad de género",
+        "isCorrect": true
+      },
+      {
+        "text": "Privatizar todos los servicios públicos",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 13,
+    "question": "¿Por qué es fundamental la cooperación internacional frente a los retos sociales y ambientales?",
+    "options": [
+      {
+        "text": "Para unificar una sola moneda global",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque los retos globales necesitan respuestas colectivas y alianzas público-privadas",
+        "isCorrect": true
+      },
+      {
+        "text": "Porque permite trasladar la contaminación a países menos desarrollados",
+        "isCorrect": false
+      },
+      {
+        "text": "Para eliminar las aduanas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 14,
+    "question": "¿Qué problema advierte el concepto de \"transición ecológica justa\"?",
+    "options": [
+      {
+        "text": "Que el cambio climático no afecta a la industria",
+        "isCorrect": false
+      },
+      {
+        "text": "Que el progreso ecológico puede generar exclusión laboral y desigualdades si no contempla las consecuencias sociales",
+        "isCorrect": true
+      },
+      {
+        "text": "Que las energías renovables son más caras",
+        "isCorrect": false
+      },
+      {
+        "text": "Que la economía circular es exclusiva de las grandes empresas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 15,
+    "question": "¿Cuántos Objetivos de Desarrollo Sostenible (ODS) componen la Agenda 2030?",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "15",
+        "isCorrect": false
+      },
+      {
+        "text": "17",
+        "isCorrect": true
+      },
+      {
+        "text": "20",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 16,
+    "question": "¿A qué Objetivo de Desarrollo Sostenible (ODS) corresponde la \"Acción por el clima\"?",
+    "options": [
+      {
+        "text": "ODS 4",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 5",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 13",
+        "isCorrect": true
+      },
+      {
+        "text": "ODS 16",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 17,
+    "question": "¿A qué ODS se asocia directamente el cuidado de los océanos, mares y recursos marinos?",
+    "options": [
+      {
+        "text": "ODS 6",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 12",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 14",
+        "isCorrect": true
+      },
+      {
+        "text": "ODS 15",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 18,
+    "question": "La meta de \"garantizar modalidades de consumo y producción sostenibles\" corresponde al:",
+    "options": [
+      {
+        "text": "ODS 2",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 7",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 10",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 12",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 19,
+    "question": "¿Cuál de los siguientes corresponde al ODS 7?",
+    "options": [
+      {
+        "text": "Fin de la pobreza",
+        "isCorrect": false
+      },
+      {
+        "text": "Energía asequible y no contaminante",
+        "isCorrect": true
+      },
+      {
+        "text": "Vida de ecosistemas terrestres",
+        "isCorrect": false
+      },
+      {
+        "text": "Trabajo decente y crecimiento económico",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 20,
+    "question": "Según el enfoque sistémico de la Agenda 2030, ¿qué significa que los ODS generen \"sinergias\"?",
+    "options": [
+      {
+        "text": "Que no pueden cumplirse todos a la vez",
+        "isCorrect": false
+      },
+      {
+        "text": "Que el avance en un ODS (como educación) impulsa mejoras en otros (como empleo o igualdad)",
+        "isCorrect": true
+      },
+      {
+        "text": "Que solo aplican a países desarrollados",
+        "isCorrect": false
+      },
+      {
+        "text": "Que requieren la creación de nuevas leyes restrictivas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 21,
+    "question": "¿Qué es el \"Ecopostureo\" o \"Greenwashing\"?",
+    "options": [
+      {
+        "text": "Una técnica de limpieza ecológica",
+        "isCorrect": false
+      },
+      {
+        "text": "Un sello de calidad ambiental europeo",
+        "isCorrect": false
+      },
+      {
+        "text": "Publicidad engañosa donde las empresas comunican ser sostenibles sin demostrarlo realmente",
+        "isCorrect": true
+      },
+      {
+        "text": "Un sistema de reforestación",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 22,
+    "question": "¿Cómo se denomina al mecanismo en el que una organización invierte en proyectos ambientales (como reforestación) para neutralizar sus propias emisiones inevitables de GEI?",
+    "options": [
+      {
+        "text": "Ecodiseño",
+        "isCorrect": false
+      },
+      {
+        "text": "Compensación de emisiones",
+        "isCorrect": true
+      },
+      {
+        "text": "Economía funcional",
+        "isCorrect": false
+      },
+      {
+        "text": "Economía colaborativa",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 23,
+    "question": "¿Qué concepto describe la situación en la que el avance en un área específica de sostenibilidad compromete o frena el progreso en otra área (efecto adverso)?",
+    "options": [
+      {
+        "text": "Trade-off",
+        "isCorrect": true
+      },
+      {
+        "text": "Greenwashing",
+        "isCorrect": false
+      },
+      {
+        "text": "Sinergia",
+        "isCorrect": false
+      },
+      {
+        "text": "Obsolescencia programada",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 24,
+    "question": "¿A qué nos referimos con \"Movilidad Sostenible\"?",
+    "options": [
+      {
+        "text": "A la construcción de más autopistas para reducir atascos",
+        "isCorrect": false
+      },
+      {
+        "text": "A fomentar exclusivamente el uso de vehículos diésel modernos",
+        "isCorrect": false
+      },
+      {
+        "text": "A un conjunto de desplazamientos que reducen emisiones y consumo energético (transporte público, bicicletas, etc.)",
+        "isCorrect": true
+      },
+      {
+        "text": "Al traslado de industrias contaminantes fuera de las ciudades",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 25,
+    "question": "¿Cuál es la principal razón por la que la pérdida de biodiversidad es un riesgo crítico?",
+    "options": [
+      {
+        "text": "Afecta únicamente al turismo local",
+        "isCorrect": false
+      },
+      {
+        "text": "Los ecosistemas proporcionan servicios esenciales como aire, agua, polinización y equilibrio ambiental",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduce las áreas disponibles para construir",
+        "isCorrect": false
+      },
+      {
+        "text": "Impide el correcto funcionamiento de los paneles solares NIVEL MEDIO-ALTO: Modelo Lineal vs. Economía Circular",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 26,
+    "question": "¿Cuál es la principal falla o límite del modelo económico lineal?",
+    "options": [
+      {
+        "text": "La alta participación de la ciudadanía",
+        "isCorrect": false
+      },
+      {
+        "text": "Su dependencia de recursos que son infinitos",
+        "isCorrect": false
+      },
+      {
+        "text": "Basarse en un crecimiento ilimitado, ignorando el agotamiento de los recursos naturales finitos",
+        "isCorrect": true
+      },
+      {
+        "text": "Generar demasiada energía renovable",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 27,
+    "question": "En el modelo lineal, la sobreexplotación agrícola y ganadera intensiva conlleva directamente a:",
+    "options": [
+      {
+        "text": "Un aumento inmediato de la biodiversidad",
+        "isCorrect": false
+      },
+      {
+        "text": "La desertificación, deforestación y contaminación de acuíferos",
+        "isCorrect": true
+      },
+      {
+        "text": "Una disminución de los purines",
+        "isCorrect": false
+      },
+      {
+        "text": "La generación de empleo en el sector tecnológico",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 28,
+    "question": "La sobrepesca, impulsada por sistemas de producción clásicos, genera:",
+    "options": [
+      {
+        "text": "Desequilibrio de cadenas alimentarias y captura accidental",
+        "isCorrect": true
+      },
+      {
+        "text": "Incremento de plásticos tipo PET",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducción del cambio climático",
+        "isCorrect": false
+      },
+      {
+        "text": "Reforestación marina",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 29,
+    "question": "¿Qué elementos de los Residuos de Aparatos Eléctricos y Electrónicos (RAEE) suponen un alto riesgo ambiental si acaban en vertederos comunes?",
+    "options": [
+      {
+        "text": "Restos de papel y cartón",
+        "isCorrect": false
+      },
+      {
+        "text": "Plásticos y metales pesados",
+        "isCorrect": true
+      },
+      {
+        "text": "Vidrio y madera",
+        "isCorrect": false
+      },
+      {
+        "text": "Humedad y biomasa",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 30,
+    "question": "¿Cuáles son los residuos característicos del sector agrícola y ganadero que representan un fuerte coste ambiental?",
+    "options": [
+      {
+        "text": "Lodos de depuradoras",
+        "isCorrect": false
+      },
+      {
+        "text": "Purines, plásticos de invernaderos y envases de fitosanitarios",
+        "isCorrect": true
+      },
+      {
+        "text": "Inertes de construcción",
+        "isCorrect": false
+      },
+      {
+        "text": "Materiales radioactivos",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 31,
+    "question": "Frente a la extracción masiva del modelo lineal, la economía circular propone como enfoque de producción:",
+    "options": [
+      {
+        "text": "Extraer, fabricar y usar",
+        "isCorrect": false
+      },
+      {
+        "text": "Enfocarse en el corto plazo y bajo coste",
+        "isCorrect": false
+      },
+      {
+        "text": "Rediseñar, reutilizar, reciclar y regenerar",
+        "isCorrect": true
+      },
+      {
+        "text": "Fomentar el uso del vertedero controlado",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 32,
+    "question": "A diferencia del diseño lineal enfocado en el bajo coste, el diseño de productos en la economía circular se enfoca en:",
+    "options": [
+      {
+        "text": "La obsolescencia programada",
+        "isCorrect": false
+      },
+      {
+        "text": "La durabilidad, reparación y reutilización",
+        "isCorrect": true
+      },
+      {
+        "text": "El uso exclusivo de polímeros no reciclables",
+        "isCorrect": false
+      },
+      {
+        "text": "Las importaciones de larga distancia",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 33,
+    "question": "¿Qué concepto de la economía circular busca concebir el producto desde su origen para facilitar su reparación o posterior reciclaje, priorizando el mínimo impacto ambiental?",
+    "options": [
+      {
+        "text": "Economía funcional",
+        "isCorrect": false
+      },
+      {
+        "text": "Ecodiseño",
+        "isCorrect": true
+      },
+      {
+        "text": "Sinergia productiva",
+        "isCorrect": false
+      },
+      {
+        "text": "Greenwashing",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 34,
+    "question": "Dentro de la economía circular, ¿en qué consiste la \"Valorización\"?",
+    "options": [
+      {
+        "text": "En aumentar el precio de venta de los productos ecológicos",
+        "isCorrect": false
+      },
+      {
+        "text": "En englobar el proceso de reciclaje y añadir la recuperación energética (como biogás o calor) de los desechos no reciclables",
+        "isCorrect": true
+      },
+      {
+        "text": "En sustituir mano de obra por tecnología",
+        "isCorrect": false
+      },
+      {
+        "text": "En cobrar por el uso de bolsas de plástico",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 35,
+    "question": "¿Qué tipo de contaminación atmosférica se asocia directamente a la quema de combustibles fósiles en el modelo clásico?",
+    "options": [
+      {
+        "text": "Exceso de oxígeno puro",
+        "isCorrect": false
+      },
+      {
+        "text": "Emisión de gases y partículas que provocan calentamiento global, lluvia ácida y degradación de la capa de ozono",
+        "isCorrect": true
+      },
+      {
+        "text": "Aumento de la salinidad marina",
+        "isCorrect": false
+      },
+      {
+        "text": "Lixiviados en el subsuelo",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 36,
+    "question": "La economía circular y sostenible busca la sustitución de la matriz energética hacia fuentes como:",
+    "options": [
+      {
+        "text": "Petróleo y carbón de minería local",
+        "isCorrect": false
+      },
+      {
+        "text": "Gas natural y uranio",
+        "isCorrect": false
+      },
+      {
+        "text": "Eólica, solar, maremotriz e hidráulica",
+        "isCorrect": true
+      },
+      {
+        "text": "Leña de bosques primarios",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 37,
+    "question": "¿Qué principio de la economía circular imita a la naturaleza persiguiendo el objetivo de \"Residuo Cero\"?",
+    "options": [
+      {
+        "text": "El diseño regenerativo",
+        "isCorrect": true
+      },
+      {
+        "text": "La movilidad lineal",
+        "isCorrect": false
+      },
+      {
+        "text": "La competencia corporativa",
+        "isCorrect": false
+      },
+      {
+        "text": "El comercio internacional",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 38,
+    "question": "La transición hacia una economía circular aporta múltiples ventajas económicas a las empresas, destacando:",
+    "options": [
+      {
+        "text": "El aumento de dependencia de materias primas exteriores",
+        "isCorrect": false
+      },
+      {
+        "text": "El ahorro de costes por eficiencia energética y reducción de consumo de materiales",
+        "isCorrect": true
+      },
+      {
+        "text": "La necesidad de aumentar la producción de un solo uso",
+        "isCorrect": false
+      },
+      {
+        "text": "El incremento en el pago de impuestos ambientales",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 39,
+    "question": "¿Qué se entiende por \"empleo verde\", una de las grandes ventajas de la sostenibilidad?",
+    "options": [
+      {
+        "text": "Exclusivamente el trabajo en zonas rurales o bosques",
+        "isCorrect": false
+      },
+      {
+        "text": "Profesiones relacionadas con la descarbonización, eficiencia energética, reciclaje, y energías renovables",
+        "isCorrect": true
+      },
+      {
+        "text": "El voluntariado sin remuneración en ONGs",
+        "isCorrect": false
+      },
+      {
+        "text": "Trabajos temporales en la agricultura",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 40,
+    "question": "A nivel macroeconómico, aplicar la economía circular aporta \"resiliencia\" al sistema productivo, lo cual significa:",
+    "options": [
+      {
+        "text": "Mayor vulnerabilidad a los cambios políticos",
+        "isCorrect": false
+      },
+      {
+        "text": "Resistencia frente a la falta de suministros, independencia de precios de materias primas y fortaleza ante crisis",
+        "isCorrect": true
+      },
+      {
+        "text": "Menor capacidad de exportación",
+        "isCorrect": false
+      },
+      {
+        "text": "Dependencia absoluta del sector financiero NIVEL DIFÍCIL: Aplicación Teórica y Normativa Avanzada",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 41,
+    "question": "¿Qué es la \"Economía Funcional\" dentro de los pilares de la economía circular?",
+    "options": [
+      {
+        "text": "Organizar el organigrama de la empresa en áreas ambientales",
+        "isCorrect": false
+      },
+      {
+        "text": "Evitar el derroche vendiendo el servicio o el uso del producto en lugar de la propiedad del mismo",
+        "isCorrect": true
+      },
+      {
+        "text": "Fomentar el uso de criptomonedas para evitar impacto físico",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejorar los procesos bancarios para inversiones sostenibles",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 42,
+    "question": "En relación al origen y control del ecopostureo, recientemente en 2024 se ha emitido una directiva europea (2024/825) con el principal objetivo de:",
+    "options": [
+      {
+        "text": "Limitar la producción de envases de vidrio",
+        "isCorrect": false
+      },
+      {
+        "text": "Empoderar a los consumidores para la transición ecológica y protegerlos contra las prácticas comerciales desleales y engañosas",
+        "isCorrect": true
+      },
+      {
+        "text": "Prohibir definitivamente las campañas publicitarias de la industria textil",
+        "isCorrect": false
+      },
+      {
+        "text": "Obligar a que todos los comercios sean 100% solares",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 43,
+    "question": "En la comparativa directa entre economía lineal y circular, ¿qué característica define el uso de energía en el modelo circular?",
+    "options": [
+      {
+        "text": "Principalmente de origen fósil para mantener la eficiencia",
+        "isCorrect": false
+      },
+      {
+        "text": "Basada estrictamente en energía nuclear",
+        "isCorrect": false
+      },
+      {
+        "text": "Principalmente energía renovable, promoviendo la descarbonización",
+        "isCorrect": true
+      },
+      {
+        "text": "Uso intensivo de energía no regulada",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 44,
+    "question": "En el modelo clásico de gestión, los residuos urbanos que terminan masivamente en vertederos se componen mayoritariamente de:",
+    "options": [
+      {
+        "text": "Purines y fitosanitarios",
+        "isCorrect": false
+      },
+      {
+        "text": "Restos de alimentos (biorresiduos), papel, cartón y envases",
+        "isCorrect": true
+      },
+      {
+        "text": "Tierras de cantería y escombros",
+        "isCorrect": false
+      },
+      {
+        "text": "Chatarra de vehículos",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 45,
+    "question": "Dentro de la \"Estrategia de descarbonización logística\", se promueven medidas como:",
+    "options": [
+      {
+        "text": "Aumentar el número de viajes para repartir el peso",
+        "isCorrect": false
+      },
+      {
+        "text": "Optimización de rutas evitando trayectos innecesarios y viajes en vacío",
+        "isCorrect": true
+      },
+      {
+        "text": "Priorizar el transporte en vehículos de combustión antiguos pero baratos",
+        "isCorrect": false
+      },
+      {
+        "text": "Enviar todos los pedidos en embalajes de plástico de un solo uso",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 46,
+    "question": "En la legislación española para el Cambio Climático, ¿cuál es uno de los objetivos fijados para el año 2030 en materia de emisiones de GEI?",
+    "options": [
+      {
+        "text": "Reducirlas un 90%",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumentarlas moderadamente",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducirlas un 23% (respecto a 1990)",
+        "isCorrect": true
+      },
+      {
+        "text": "Mantenerlas igual que en 2020",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 47,
+    "question": "Las siglas PETE, HDPE o PVC, comúnmente encontradas dentro de los triángulos de reciclaje, ¿a qué hacen referencia?",
+    "options": [
+      {
+        "text": "A diferentes categorías de Residuos Eléctricos y Electrónicos (RAEE)",
+        "isCorrect": false
+      },
+      {
+        "text": "A las fases del Ecodiseño industrial",
+        "isCorrect": false
+      },
+      {
+        "text": "A la clasificación técnica de los distintos tipos de polímeros (plásticos) para su correcto reciclaje",
+        "isCorrect": true
+      },
+      {
+        "text": "A normativas de emisiones de CO2",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 48,
+    "question": "¿Por qué se dice que el diseño regenerativo fomenta la competitividad empresarial?",
+    "options": [
+      {
+        "text": "Porque obliga a despedir personal y automatizar todo",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque genera productos innovadores, reduce la dependencia de materias vírgenes e impulsa inversiones verdes",
+        "isCorrect": true
+      },
+      {
+        "text": "Porque permite esquivar los impuestos de emisiones",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque fomenta el monopolio",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 49,
+    "question": "La economía circular requiere innovación tecnológica constante. ¿Cuál de estos es un ejemplo de aplicación tecnológica para la sostenibilidad?",
+    "options": [
+      {
+        "text": "La impresión continua de recibos en papel no reciclable",
+        "isCorrect": false
+      },
+      {
+        "text": "La digitalización logística y la sustitución de sistemas fósiles por electrificación limpia",
+        "isCorrect": true
+      },
+      {
+        "text": "La quema de residuos al aire libre para ahorrar transporte",
+        "isCorrect": false
+      },
+      {
+        "text": "Mantener la maquinaria antigua sin revisiones energéticas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 50,
+    "question": "Según la visión global de la sostenibilidad y la Agenda 2030, un verdadero desarrollo sostenible solo se logra si existe un equilibrio constante entre tres esferas o pilares fundamentales. ¿Cuáles son?",
+    "options": [
+      {
+        "text": "Política, Tecnología y Ciencia",
+        "isCorrect": false
+      },
+      {
+        "text": "Economía, Sociedad y Medioambiente",
+        "isCorrect": true
+      },
+      {
+        "text": "Producción, Consumo y Desecho",
+        "isCorrect": false
+      },
+      {
+        "text": "Legislación, Fiscalidad y Beneficio empresarial",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "verified",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Simulacro Test 3a (Alumno - Miguel Jose).pdf",
+    "sourcePart": "verified-simulacro"
+  },
+  {
+    "id": 51,
+    "question": "¿Qué es el desarrollo sostenible?",
+    "options": [
+      {
+        "text": "Un modelo económico basado en el crecimiento sin límites.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un concepto exclusivamente ecológico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un modelo que busca satisfacer las necesidades actuales sin comprometer las futuras.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una estrategia empresarial para mejorar las ventas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 52,
+    "question": "¿Qué significa el enfoque ASG para las empresas?",
+    "options": [
+      {
+        "text": "Solo aplicar normas medioambientales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cumplir con impuestos verdes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Integrar la sostenibilidad en decisiones estratégicas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Externalizar procesos contaminantes.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 53,
+    "question": "¿Cuál de estos documentos internacionales establece diecisiete Objetivos de Desarrollo Sostenible?",
+    "options": [
+      {
+        "text": "El Acuerdo de París.",
+        "isCorrect": false
+      },
+      {
+        "text": "La Cumbre de Estocolmo.",
+        "isCorrect": false
+      },
+      {
+        "text": "La Agenda 2030.",
+        "isCorrect": true
+      },
+      {
+        "text": "El Protocolo de Kioto.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 54,
+    "question": "¿Cuál es el principal objetivo del desarrollo sostenible?",
+    "options": [
+      {
+        "text": "Aumentar el consumo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Conservar únicamente los recursos naturales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Satisfacer necesidades presentes sin comprometer el futuro.",
+        "isCorrect": true
+      },
+      {
+        "text": "Incrementar el PIB mundial.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 55,
+    "question": "¿Cuál es un ejemplo de acción empresarial ASG?",
+    "options": [
+      {
+        "text": "Uso de materiales contaminantes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Transparencia financiera.",
+        "isCorrect": true
+      },
+      {
+        "text": "Evadir impuestos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Desigualdad salarial.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 56,
+    "question": "¿Qué cumbre internacional tuvo lugar en 1992 y se centró en sostenibilidad?",
+    "options": [
+      {
+        "text": "Cumbre de París.",
+        "isCorrect": false
+      },
+      {
+        "text": "Conferencia de Estocolmo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cumbre de Río de Janeiro.",
+        "isCorrect": true
+      },
+      {
+        "text": "COP26.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 57,
+    "question": "¿Cuál de estos no es un beneficio empresarial del enfoque sostenible?",
+    "options": [
+      {
+        "text": "Mejora de la imagen.",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceso a financiación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mayor consumo energético.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fidelización del cliente.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 58,
+    "question": "¿Qué organismo aprobó la Agenda 2030?",
+    "options": [
+      {
+        "text": "Unión Europea.",
+        "isCorrect": false
+      },
+      {
+        "text": "Banco Mundial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Naciones Unidas.",
+        "isCorrect": true
+      },
+      {
+        "text": "G7.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 59,
+    "question": "¿Qué significa no dejar a nadie atrás?",
+    "options": [
+      {
+        "text": "Solo proteger a los países ricos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Excluir a los contaminantes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Promover igualdad y justicia social.",
+        "isCorrect": true
+      },
+      {
+        "text": "Priorizar la economía.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 60,
+    "question": "¿Qué evento internacional en 1992 marcó un hito en la acción ambiental global?",
+    "options": [
+      {
+        "text": "Protocolo de Kioto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cumbre de Estocolmo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cumbre de la Tierra de Río de Janeiro.",
+        "isCorrect": true
+      },
+      {
+        "text": "Acuerdo de París.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 61,
+    "question": "¿Cuál de estas acciones no es coherente con la economía circular?",
+    "options": [
+      {
+        "text": "Reparar productos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reciclar materiales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diseñar para un solo uso.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reutilizar envases.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 62,
+    "question": "¿Qué gas se libera por la descomposición de residuos orgánicos en vertederos?",
+    "options": [
+      {
+        "text": "CO2.",
+        "isCorrect": false
+      },
+      {
+        "text": "CH4.",
+        "isCorrect": true
+      },
+      {
+        "text": "N2O.",
+        "isCorrect": false
+      },
+      {
+        "text": "O3.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 63,
+    "question": "¿Qué tipo de servicio ecosistémico proporciona el control de inundaciones?",
+    "options": [
+      {
+        "text": "Cultural.",
+        "isCorrect": false
+      },
+      {
+        "text": "De abastecimiento.",
+        "isCorrect": false
+      },
+      {
+        "text": "De regulación.",
+        "isCorrect": true
+      },
+      {
+        "text": "De soporte.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 64,
+    "question": "¿Cuál de las siguientes fuentes es considerada energía renovable?",
+    "options": [
+      {
+        "text": "Gas natural.",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbón.",
+        "isCorrect": false
+      },
+      {
+        "text": "Energía solar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Diésel.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 65,
+    "question": "¿Cuál de estas acciones representa una medida de descarbonización en una empresa?",
+    "options": [
+      {
+        "text": "Uso de gasóleo en maquinaria.",
+        "isCorrect": false
+      },
+      {
+        "text": "Instalación de paneles solares.",
+        "isCorrect": true
+      },
+      {
+        "text": "Compra de productos importados.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumento de horas de operación.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 66,
+    "question": "¿Qué estrategia consiste en convertir residuos en nuevos productos?",
+    "options": [
+      {
+        "text": "Reducción.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reutilización.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reciclaje.",
+        "isCorrect": true
+      },
+      {
+        "text": "Vertido.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 67,
+    "question": "¿Qué estrategia pertenece a la movilidad sostenible?",
+    "options": [
+      {
+        "text": "Aumento del tráfico de vehículos privados.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fomento de energías fósiles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Uso de bicicletas y transporte público.",
+        "isCorrect": true
+      },
+      {
+        "text": "Expansión de zonas industriales en áreas naturales.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 68,
+    "question": "¿Qué práctica ayuda a reducir la huella ecológica en un entorno laboral?",
+    "options": [
+      {
+        "text": "Uso de plásticos desechables.",
+        "isCorrect": false
+      },
+      {
+        "text": "Consumo energético constante.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reutilización de materiales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Impresión excesiva de documentos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 69,
+    "question": "¿Cuál de los siguientes gases es el más abundante en la atmósfera y contribuye significativamente al efecto invernadero natural?",
+    "options": [
+      {
+        "text": "CO2.",
+        "isCorrect": false
+      },
+      {
+        "text": "CH4.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vapor de agua.",
+        "isCorrect": true
+      },
+      {
+        "text": "O3.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 70,
+    "question": "¿Qué actividad humana contribuye directamente a la pérdida de biodiversidad?",
+    "options": [
+      {
+        "text": "Rotación de cultivos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Deforestación masiva.",
+        "isCorrect": true
+      },
+      {
+        "text": "Uso de energías renovables.",
+        "isCorrect": false
+      },
+      {
+        "text": "Siembra de especies autóctonas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 71,
+    "question": "¿Qué medida ayuda directamente a reducir la brecha digital?",
+    "options": [
+      {
+        "text": "Reducción del IVA.",
+        "isCorrect": false
+      },
+      {
+        "text": "Planes de alfabetización tecnológica.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reforma fiscal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Subsidios agrarios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 72,
+    "question": "¿Qué puede fomentar la igualdad de género en el ámbito laboral?",
+    "options": [
+      {
+        "text": "Reducción del salario mínimo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminación de permisos parentales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Políticas de conciliación familiar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Restricciones al emprendimiento.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 73,
+    "question": "¿Cuál es una función principal de los presupuestos participativos?",
+    "options": [
+      {
+        "text": "Reducir impuestos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Privatizar servicios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fomentar la participación ciudadana.",
+        "isCorrect": true
+      },
+      {
+        "text": "Eliminar gasto público.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 74,
+    "question": "¿Qué concepto está más directamente relacionado con la igualdad de oportunidades en el acceso a servicios públicos básicos?",
+    "options": [
+      {
+        "text": "Desigualdad digital.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fiscalidad regresiva.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cohesión social.",
+        "isCorrect": true
+      },
+      {
+        "text": "Productividad laboral.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 75,
+    "question": "La brecha salarial de género se refiere a:",
+    "options": [
+      {
+        "text": "Diferencia en el coste de vida.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diferencia en el acceso a salud.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diferencia de salarios por trabajos equivalentes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Desigualdad educativa entre sexos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 76,
+    "question": "¿Qué aspecto no forma parte de la educación para el desarrollo sostenible?",
+    "options": [
+      {
+        "text": "Conciencia crítica.",
+        "isCorrect": false
+      },
+      {
+        "text": "Consumo responsable.",
+        "isCorrect": false
+      },
+      {
+        "text": "Competencias digitales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Participación ciudadana.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 77,
+    "question": "¿Cuál es una medida clave para lograr una transición ecológica justa?",
+    "options": [
+      {
+        "text": "Recortes en gasto social.",
+        "isCorrect": false
+      },
+      {
+        "text": "Eliminar subsidios a energías renovables.",
+        "isCorrect": false
+      },
+      {
+        "text": "Invertir en formación para empleos verdes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Incrementar el consumo de productos importados.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 78,
+    "question": "¿Qué ejemplo refleja una acción propia de la economía social?",
+    "options": [
+      {
+        "text": "Outsourcing de servicios financieros.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fondo de inversión en bolsa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cooperativa agrícola local.",
+        "isCorrect": true
+      },
+      {
+        "text": "Empresa multinacional tecnológica.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 79,
+    "question": "¿Qué principio debe guiar las alianzas público-privadas sostenibles?",
+    "options": [
+      {
+        "text": "Maximización de beneficios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Competencia desleal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Responsabilidad social.",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusividad empresarial.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 80,
+    "question": "¿Cuál es un ejemplo de economía social?",
+    "options": [
+      {
+        "text": "Empresa multinacional.",
+        "isCorrect": false
+      },
+      {
+        "text": "Empresa de capital riesgo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cooperativa de trabajadores.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fondo especulativo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 81,
+    "question": "¿Qué objetivo busca asegurar agua potable y saneamiento para todos?",
+    "options": [
+      {
+        "text": "ODS 6.",
+        "isCorrect": true
+      },
+      {
+        "text": "ODS 3.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 7.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 12.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 82,
+    "question": "¿Qué ODS se relaciona directamente con la acción climática?",
+    "options": [
+      {
+        "text": "ODS 3.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 6.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 13.",
+        "isCorrect": true
+      },
+      {
+        "text": "ODS 15.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 83,
+    "question": "¿Qué ODS está enfocado en la mejora de la nutrición y seguridad alimentaria?",
+    "options": [
+      {
+        "text": "ODS 2.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 6.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 9.",
+        "isCorrect": true
+      },
+      {
+        "text": "ODS 12.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 84,
+    "question": "¿Qué sector tiene un papel clave en la implementación de la RSC?",
+    "options": [
+      {
+        "text": "El Estado.",
+        "isCorrect": false
+      },
+      {
+        "text": "El sistema educativo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Las empresas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Las ONG.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 85,
+    "question": "¿Qué herramienta permite medir el impacto de la RSC?",
+    "options": [
+      {
+        "text": "Publicidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Balance financiero.",
+        "isCorrect": false
+      },
+      {
+        "text": "Memoria de sostenibilidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Encuestas de mercado.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 86,
+    "question": "¿Qué principio promueve la economía circular dentro de los ODS?",
+    "options": [
+      {
+        "text": "Producción en masa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Consumo desechable.",
+        "isCorrect": false
+      },
+      {
+        "text": "Producción y consumo responsables.",
+        "isCorrect": true
+      },
+      {
+        "text": "Uso ilimitado de recursos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 87,
+    "question": "¿Cuál es el objetivo principal del ODS 1?",
+    "options": [
+      {
+        "text": "Fomentar la economía digital.",
+        "isCorrect": false
+      },
+      {
+        "text": "Erradicar la pobreza en todas sus formas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Promover la innovación.",
+        "isCorrect": true
+      },
+      {
+        "text": "Garantizar acceso a Internet.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 88,
+    "question": "¿Qué ODS promueve ciudades sostenibles e inclusivas?",
+    "options": [
+      {
+        "text": "ODS 3.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 8.",
+        "isCorrect": true
+      },
+      {
+        "text": "ODS 11.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 16.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 89,
+    "question": "¿Qué ODS promueve la vida submarina sostenible?",
+    "options": [
+      {
+        "text": "ODS 14.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 6.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 13.",
+        "isCorrect": true
+      },
+      {
+        "text": "ODS 16.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 90,
+    "question": "¿Por qué es importante alinear la RSC con los ODS?",
+    "options": [
+      {
+        "text": "Para mejorar el margen de beneficio exclusivamente.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para lograr una transformación social sostenible.",
+        "isCorrect": true
+      },
+      {
+        "text": "Para reducir los impuestos empresariales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para recibir subvenciones internacionales.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 91,
+    "question": "¿Qué tipo de residuos contiene sustancias peligrosas para la salud y el medioambiente?",
+    "options": [
+      {
+        "text": "Residuos orgánicos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Residuos urbanos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Residuos peligrosos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Residuos reciclables.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 92,
+    "question": "¿Cuál de estas acciones no se relaciona con la economía circular?",
+    "options": [
+      {
+        "text": "Compostar residuos orgánicos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reciclar envases de plástico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Incinerar residuos sin recuperar energía.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reparar electrodomésticos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 93,
+    "question": "¿Qué ventaja social aporta la economía circular?",
+    "options": [
+      {
+        "text": "Aumento del consumo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Incremento de residuos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Creación de empleo verde.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reducción del reciclaje.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 94,
+    "question": "¿Qué recurso se considera ilimitado en el contexto de sostenibilidad?",
+    "options": [
+      {
+        "text": "Petróleo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Energía solar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Litio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Agua fósil.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 95,
+    "question": "¿Qué medida fomenta el cambio hacia una economía circular?",
+    "options": [
+      {
+        "text": "Incentivos fiscales para prácticas sostenibles.",
+        "isCorrect": true
+      },
+      {
+        "text": "Subvenciones a industrias contaminantes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducción de tasas al vertido.",
+        "isCorrect": false
+      },
+      {
+        "text": "Promoción del plástico de un solo uso.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 96,
+    "question": "¿Qué residuo requiere una gestión especial por su toxicidad?",
+    "options": [
+      {
+        "text": "Cartón.",
+        "isCorrect": false
+      },
+      {
+        "text": "Textiles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Disolventes industriales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alimentos orgánicos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 97,
+    "question": "¿Qué sector fue el mayor emisor de gases de efecto invernadero en España en 2022?",
+    "options": [
+      {
+        "text": "Agricultura.",
+        "isCorrect": false
+      },
+      {
+        "text": "Transporte.",
+        "isCorrect": true
+      },
+      {
+        "text": "Industria química.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sector servicios.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 98,
+    "question": "¿Qué componente es clave para hacer duradero un producto?",
+    "options": [
+      {
+        "text": "Uso de materiales desechables.",
+        "isCorrect": false
+      },
+      {
+        "text": "Producción en masa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diseño modular y reparable.",
+        "isCorrect": true
+      },
+      {
+        "text": "Obsolescencia programada.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 99,
+    "question": "¿Qué tipo de residuos se generan en mayor volumen en Europa?",
+    "options": [
+      {
+        "text": "RAEE.",
+        "isCorrect": false
+      },
+      {
+        "text": "Residuos agrícolas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Residuos urbanos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Residuos industriales.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 100,
+    "question": "¿Cuál es una ventaja de la economía circular respecto al modelo lineal?",
+    "options": [
+      {
+        "text": "Incremento de residuos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mayor dependencia energética.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducción de costes y residuos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Uso de productos de un solo uso",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 101,
+    "question": "¿Qué institución supervisa el cumplimiento de los ODS en España?",
+    "options": [
+      {
+        "text": "Ministerio de Defensa.",
+        "isCorrect": false
+      },
+      {
+        "text": "Comisión Nacional de los Mercados.",
+        "isCorrect": false
+      },
+      {
+        "text": "Alto Comisionado para la Agenda 2030.",
+        "isCorrect": true
+      },
+      {
+        "text": "Banco de España.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 102,
+    "question": "¿Por qué es importante la gobernanza en sostenibilidad?",
+    "options": [
+      {
+        "text": "Porque impone sanciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque decide precios.",
+        "isCorrect": true
+      },
+      {
+        "text": "Porque garantiza decisiones éticas y transparentes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque dirige campañas publicitarias.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 103,
+    "question": "¿Qué organismo promueve la educación para el desarrollo sostenible (EDS) a nivel global?",
+    "options": [
+      {
+        "text": "FMI.",
+        "isCorrect": false
+      },
+      {
+        "text": "UNESCO.",
+        "isCorrect": true
+      },
+      {
+        "text": "OMS.",
+        "isCorrect": false
+      },
+      {
+        "text": "OIT.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 104,
+    "question": "¿Qué documento internacional establece los diecisiete ODS?",
+    "options": [
+      {
+        "text": "Protocolo de Kioto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Acuerdo de París.",
+        "isCorrect": false
+      },
+      {
+        "text": "Agenda 2030.",
+        "isCorrect": true
+      },
+      {
+        "text": "Cumbre de Roma.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 105,
+    "question": "¿Qué significa ASG en sostenibilidad empresarial?",
+    "options": [
+      {
+        "text": "Alimentación, suministro y gestión.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambiental, social y gobernanza.",
+        "isCorrect": true
+      },
+      {
+        "text": "Análisis de sostenibilidad global.",
+        "isCorrect": false
+      },
+      {
+        "text": "Administración y servicios generales.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 106,
+    "question": "¿Qué papel tiene la FP en la sostenibilidad?",
+    "options": [
+      {
+        "text": "Ninguno.",
+        "isCorrect": false
+      },
+      {
+        "text": "Formar profesionales comprometidos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Rechazar políticas verdes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aplicar solo teoría.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 107,
+    "question": "¿Qué mide la huella de carbono?",
+    "options": [
+      {
+        "text": "Uso de agua.",
+        "isCorrect": false
+      },
+      {
+        "text": "Contaminación de suelos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Emisiones de gases de efecto invernadero.",
+        "isCorrect": true
+      },
+      {
+        "text": "Consumo eléctrico.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 108,
+    "question": "¿Que practica refleja la economía circular?",
+    "options": [
+      {
+        "text": "Usar materiales vírgenes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Desechar productos rotos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reutilizar materiales de construcción.",
+        "isCorrect": false
+      },
+      {
+        "text": "Comprar más.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 109,
+    "question": "¿Qué tipo de movilidad es más sostenible?",
+    "options": [
+      {
+        "text": "Uso del coche privado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bicicleta y transporte público.",
+        "isCorrect": true
+      },
+      {
+        "text": "Avión de bajo coste.",
+        "isCorrect": false
+      },
+      {
+        "text": "Moto de gasolina.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 110,
+    "question": "Una cooperativa que reinvierte beneficios en su comunidad es:",
+    "options": [
+      {
+        "text": "Economía informal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Economía social.",
+        "isCorrect": false
+      },
+      {
+        "text": "Economía digital.",
+        "isCorrect": true
+      },
+      {
+        "text": "Empresa tradicional.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 111,
+    "question": "¿Qué ODS busca la igualdad de género?",
+    "options": [
+      {
+        "text": "ODS 1.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 5.",
+        "isCorrect": true
+      },
+      {
+        "text": "ODS 9.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 12.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 112,
+    "question": "¿Qué medida favorece una transición ecológica justa?",
+    "options": [
+      {
+        "text": "Recortes sociales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Formación en empleos verdes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aumento del transporte aéreo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Expansión urbanística.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 113,
+    "question": "¿Qué objetivo persigue la Agenda 2030?",
+    "options": [
+      {
+        "text": "Crecimiento industrial global.",
+        "isCorrect": false
+      },
+      {
+        "text": "Aumento del PIB.",
+        "isCorrect": false
+      },
+      {
+        "text": "Erradicar la pobreza y proteger el planeta.",
+        "isCorrect": true
+      },
+      {
+        "text": "Regular el comercio mundial.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 114,
+    "question": "¿Cuál es uno de los compromisos del Acuerdo de París?",
+    "options": [
+      {
+        "text": "Evitar los ciclones tropicales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Limitar el aumento de temperatura a 1,5 - 2 °C.",
+        "isCorrect": true
+      },
+      {
+        "text": "Prohibir el plástico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Frenar la urbanización.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 115,
+    "question": "¿Qué ODS promueve la educación de calidad?",
+    "options": [
+      {
+        "text": "ODS 8.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 4.",
+        "isCorrect": false
+      },
+      {
+        "text": "ODS 6.",
+        "isCorrect": true
+      },
+      {
+        "text": "ODS 10.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 116,
+    "question": "¿Cuál de los siguientes gases es un GEI natural y antropogénico?",
+    "options": [
+      {
+        "text": "Argón.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dióxido de carbono (CO2).",
+        "isCorrect": true
+      },
+      {
+        "text": "Helio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oxígeno.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 117,
+    "question": "¿Qué tipo de energía es renovable?",
+    "options": [
+      {
+        "text": "Gas natural.",
+        "isCorrect": false
+      },
+      {
+        "text": "Carbón.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solar.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 118,
+    "question": "¿Qué ecosistema tiene más capacidad de absorber carbono?",
+    "options": [
+      {
+        "text": "Desierto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Bosque.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ciudad.",
+        "isCorrect": true
+      },
+      {
+        "text": "Montaña rocosa.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 119,
+    "question": "¿Por qué es importante la huella de carbono?",
+    "options": [
+      {
+        "text": "Mide la eficiencia del agua.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permite cuantificar el impacto climático de una persona o actividad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustituye el impuesto al carbono.",
+        "isCorrect": true
+      },
+      {
+        "text": "Define la calidad del aire.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 120,
+    "question": "Una empresa que fomenta la contratación inclusiva y la igualdad de género está actuando en el ámbito:",
+    "options": [
+      {
+        "text": "Ambiental.",
+        "isCorrect": false
+      },
+      {
+        "text": "Social.",
+        "isCorrect": true
+      },
+      {
+        "text": "Económico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Financiero.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 121,
+    "question": "¿Qué significa obsolescencia programada?",
+    "options": [
+      {
+        "text": "Reparar productos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fabricar objetos con vida útil limitada a propósito.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reciclar rápido.",
+        "isCorrect": true
+      },
+      {
+        "text": "Innovación ecológica.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 122,
+    "question": "¿Qué término se refiere al desarrollo que satisface las necesidades del presente sin comprometer las del futuro?",
+    "options": [
+      {
+        "text": "Crecimiento económico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Productividad industrial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Desarrollo sostenible.",
+        "isCorrect": true
+      },
+      {
+        "text": "Competitividad global.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 123,
+    "question": "¿Cuál de estos no es un pilar del desarrollo sostenible?",
+    "options": [
+      {
+        "text": "Social.",
+        "isCorrect": false
+      },
+      {
+        "text": "Económico.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tecnológico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Medioambiental.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 124,
+    "question": "¿Qué significa huella de carbono?",
+    "options": [
+      {
+        "text": "El impacto del ruido industrial.",
+        "isCorrect": false
+      },
+      {
+        "text": "El consumo de agua por habitante.",
+        "isCorrect": false
+      },
+      {
+        "text": "El volumen de emisiones de gases de efecto invernadero.",
+        "isCorrect": true
+      },
+      {
+        "text": "La cantidad de residuos generados.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 125,
+    "question": "¿Qué es la economía circular?",
+    "options": [
+      {
+        "text": "Una forma de organización del comercio internacional.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un modelo basado en el reciclaje y la reutilización.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un sistema de pagos digitales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Una estrategia para el crecimiento urbano.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 126,
+    "question": "¿Cuál de las siguientes no es una energía renovable?",
+    "options": [
+      {
+        "text": "Eólica.",
+        "isCorrect": false
+      },
+      {
+        "text": "Solar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nuclear.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hidráulica.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 127,
+    "question": "¿Qué organismo europeo vela por el cumplimiento de la legislación ambiental?",
+    "options": [
+      {
+        "text": "ONU.",
+        "isCorrect": false
+      },
+      {
+        "text": "OMC.",
+        "isCorrect": false
+      },
+      {
+        "text": "Agencia Europea de Medioambiente.",
+        "isCorrect": true
+      },
+      {
+        "text": "Banco Central Europeo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 128,
+    "question": "¿Cuál es un beneficio de la digitalización en el ámbito medioambiental?",
+    "options": [
+      {
+        "text": "Aumento del consumo de papel.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mayor uso de transporte privado.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejora de la eficiencia energética.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reducción de empleos cualificados.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 129,
+    "question": "¿Qué sector es uno de los principales emisores de gases de efecto invernadero?",
+    "options": [
+      {
+        "text": "Educación.",
+        "isCorrect": false
+      },
+      {
+        "text": "Agricultura.",
+        "isCorrect": true
+      },
+      {
+        "text": "Comercio.",
+        "isCorrect": false
+      },
+      {
+        "text": "Turismo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 130,
+    "question": "¿Qué concepto promueve la reducción, reutilización y reciclaje?",
+    "options": [
+      {
+        "text": "Triple impacto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Desarrollo lineal.",
+        "isCorrect": false
+      },
+      {
+        "text": "Regla de las 3R.",
+        "isCorrect": true
+      },
+      {
+        "text": "Capitalismo verde.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 131,
+    "question": "¿Qué objetivo tiene el Acuerdo de París?",
+    "options": [
+      {
+        "text": "Aumentar el comercio entre países.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducir el desempleo juvenil.",
+        "isCorrect": true
+      },
+      {
+        "text": "Limitar el calentamiento global.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fomentar la innovación tecnológica.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 132,
+    "question": "¿Qué significa neutralidad climática?",
+    "options": [
+      {
+        "text": "Usar energías limpias.",
+        "isCorrect": false
+      },
+      {
+        "text": "Equilibrar las emisiones con absorciones.",
+        "isCorrect": false
+      },
+      {
+        "text": "No emitir gases contaminantes.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reducir el uso del plástico.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 133,
+    "question": "Qué es el cambio climático?",
+    "options": [
+      {
+        "text": "Una teoría sin evidencia científica.",
+        "isCorrect": false
+      },
+      {
+        "text": "La variación estacional de temperaturas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alteración global del clima debido a la acción humana.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un proceso natural sin intervención humana.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 134,
+    "question": "¿Qué se busca con el concepto de sostenibilidad social?",
+    "options": [
+      {
+        "text": "Maximizar el beneficio económico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Garantizar justicia y equidad social.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducir la inversión pública.",
+        "isCorrect": true
+      },
+      {
+        "text": "Fomentar el turismo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 135,
+    "question": "¿Cuál es una barrera para la transición ecológica?",
+    "options": [
+      {
+        "text": "Educación ambiental.",
+        "isCorrect": false
+      },
+      {
+        "text": "Acceso a tecnologías verdes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dependencia de energías fósiles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Concienciación ciudadana.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 136,
+    "question": "¿Qué recurso natural está más amenazado por el cambio climático?",
+    "options": [
+      {
+        "text": "Petróleo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hierro.",
+        "isCorrect": false
+      },
+      {
+        "text": "Oro.",
+        "isCorrect": false
+      },
+      {
+        "text": "Agua.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 137,
+    "question": "¿Cuál es una práctica típica de la economía lineal?",
+    "options": [
+      {
+        "text": "Reutilizar productos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Compostar productos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Usar materias recicladas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Desechar tras el uso.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 138,
+    "question": "¿Qué significa el término resiliencia ecológica?",
+    "options": [
+      {
+        "text": "Capacidad de crear residuos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacidad de un ecosistema de adaptarse y recuperarse.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aumento de recursos naturales.",
+        "isCorrect": false
+      },
+      {
+        "text": "Inmunidad frente al cambio climático.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 139,
+    "question": "¿Qué etiqueta indica que un producto tiene bajo impacto ambiental?",
+    "options": [
+      {
+        "text": "CE.",
+        "isCorrect": true
+      },
+      {
+        "text": "ECO.",
+        "isCorrect": false
+      },
+      {
+        "text": "ISO.",
+        "isCorrect": false
+      },
+      {
+        "text": "FSC.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 140,
+    "question": "¿Qué significa descarbonización?",
+    "options": [
+      {
+        "text": "Reducción de emisiones de CO2.",
+        "isCorrect": false
+      },
+      {
+        "text": "Emisión de más carbono.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reemplazo de carbono por oxígeno.",
+        "isCorrect": false
+      },
+      {
+        "text": "Uso de carbón ecológico.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 141,
+    "question": "¿Qué propone la Agenda 2030?",
+    "options": [
+      {
+        "text": "Limitar el desarrollo industrial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Establecer objetivos globales de desarrollo sostenible.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducir las competencias locales.",
+        "isCorrect": true
+      },
+      {
+        "text": "Aumentar la burocracia ambiental.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 142,
+    "question": "La protección a la biodiversidad suele quedar lejos de los objetivos empresariales. Sin embargo, esta estrategia tiene un triple beneficio, ¿cuál de los siguientes ítems no forma parte de su utilidad?",
+    "options": [
+      {
+        "text": "Adaptación al cambio climático.",
+        "isCorrect": false
+      },
+      {
+        "text": "Beneficios económicos.",
+        "isCorrect": true
+      },
+      {
+        "text": "Lucha contra la brecha salarial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mitigación del cambio climático.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 143,
+    "question": "Señale cuál de las siguientes acciones no es una de las 3R de la ecoeficiencia.",
+    "options": [
+      {
+        "text": "Restaurar.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reutilizar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reducir.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reciclar.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 144,
+    "question": "En España, el marco legislativo básico en materia de biodiversidad es:",
+    "options": [
+      {
+        "text": "El plan estratégico estatal del patrimonio natural y de la biodiversidad a 2030.",
+        "isCorrect": false
+      },
+      {
+        "text": "La ley de Cambio Climático y Transición Energética.",
+        "isCorrect": false
+      },
+      {
+        "text": "La ley de Patrimonio Natural y de la biodiversidad.",
+        "isCorrect": true
+      },
+      {
+        "text": "La Ley Europea de Restauración de la Naturaleza.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 145,
+    "question": "Señale la afirmación verdadera relativa a los grupos de interés de una empresa.",
+    "options": [
+      {
+        "text": "Son aquellos que tienen vínculo directo con la empresa, por trabajar en ella o invertir su dinero en ella.",
+        "isCorrect": false
+      },
+      {
+        "text": "La empresa necesita conocer las expectativas de sus grupos de interés y priorizarlas.",
+        "isCorrect": true
+      },
+      {
+        "text": "En inglés se designan con el término shareholder.",
+        "isCorrect": false
+      },
+      {
+        "text": "El tercer sector no forma parte de los grupos de interés de una empresa.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  },
+  {
+    "id": 146,
+    "question": "Señala la respuesta correcta relativa a la diligencia debida en materia de DD. HH. de una empresa.",
+    "options": [
+      {
+        "text": "Todas son correctas.",
+        "isCorrect": true
+      },
+      {
+        "text": "La obligación de realizarla emana de los principios rectores de las Naciones Unidas sobre las empresas y los DD. HH.",
+        "isCorrect": false
+      },
+      {
+        "text": "Implica la determinación de los impactos en los DD. HH. causados por una empresa tanto de forma directa como indirecta.",
+        "isCorrect": false
+      },
+      {
+        "text": "Incluye mecanismos de reparación y compensación cuando los efectos sean negativos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "manual-review",
+    "confidence": "alta",
+    "sourceFile": "TESTS/TESTS/Sostenibilidad - Tests Plataforma + Trimestrales (Alumno - Patricia).pdf",
+    "sourcePart": "platform-and-exams",
+    "reviewedAsDudosa": true
+  }
+]
