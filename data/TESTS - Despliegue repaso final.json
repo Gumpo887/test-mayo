@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué comando muestra los contenedores Docker activos?",
+    "options": [
+      { "text": "docker ps", "isCorrect": true },
+      { "text": "docker active", "isCorrect": false },
+      { "text": "docker list", "isCorrect": false },
+      { "text": "docker images", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué archivo contiene la configuración principal de Apache Tomcat?",
+    "options": [
+      { "text": "tomcat.conf", "isCorrect": false },
+      { "text": "web.xml", "isCorrect": false },
+      { "text": "server.xml", "isCorrect": true },
+      { "text": "apache.conf", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué herramienta web permite administrar bases de datos MySQL/MariaDB?",
+    "options": [
+      { "text": "Tomcat Manager", "isCorrect": false },
+      { "text": "phpMyAdmin", "isCorrect": true },
+      { "text": "Jenkins", "isCorrect": false },
+      { "text": "Docker Hub", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 4,
+    "question": "¿Qué comando comprueba conectividad con otro equipo?",
+    "options": [
+      { "text": "ping", "isCorrect": true },
+      { "text": "ssh", "isCorrect": false },
+      { "text": "traceroute", "isCorrect": false },
+      { "text": "connect", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 5,
+    "question": "¿Qué comando muestra el directorio actual?",
+    "options": [
+      { "text": "pwd", "isCorrect": true },
+      { "text": "ls", "isCorrect": false },
+      { "text": "dir", "isCorrect": false },
+      { "text": "cd", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 6,
+    "question": "¿Qué comando crea un directorio en Linux?",
+    "options": [
+      { "text": "md", "isCorrect": false },
+      { "text": "mkdir", "isCorrect": true },
+      { "text": "dir", "isCorrect": false },
+      { "text": "create", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué herramienta genera certificados SSL gratuitos?",
+    "options": [
+      { "text": "Jenkins", "isCorrect": false },
+      { "text": "Gradle", "isCorrect": false },
+      { "text": "OpenSSL", "isCorrect": false },
+      { "text": "Certbot", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 8,
+    "question": "¿Qué carpeta contiene las webs activas en Apache?",
+    "options": [
+      { "text": "sites-available", "isCorrect": false },
+      { "text": "sites-enabled", "isCorrect": true },
+      { "text": "apache-enabled", "isCorrect": false },
+      { "text": "mods-enabled", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 9,
+    "question": "¿Qué comando lista archivos en Linux?",
+    "options": [
+      { "text": "pwd", "isCorrect": false },
+      { "text": "ls", "isCorrect": true },
+      { "text": "show", "isCorrect": false },
+      { "text": "files", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 10,
+    "question": "¿Qué lenguaje se ejecuta normalmente en Apache con mod_php?",
+    "options": [
+      { "text": "Java", "isCorrect": false },
+      { "text": "PHP", "isCorrect": true },
+      { "text": "Kotlin", "isCorrect": false },
+      { "text": "C#", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 11,
+    "question": "¿Mediante qué herramienta digital podemos garantizar la identidad de las partes en una comunicación?",
+    "options": [
+      { "text": "Proxy", "isCorrect": false },
+      { "text": "Firewall", "isCorrect": false },
+      { "text": "DNS", "isCorrect": false },
+      { "text": "Certificado digital", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 12,
+    "question": "¿Qué comando muestra las imágenes Docker descargadas?",
+    "options": [
+      { "text": "docker show", "isCorrect": false },
+      { "text": "docker images", "isCorrect": true },
+      { "text": "docker img", "isCorrect": false },
+      { "text": "docker list", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 13,
+    "question": "¿Cuál es el código de respuesta de un servidor web si no se tiene acceso a la página solicitada?",
+    "options": [
+      { "text": "403", "isCorrect": true },
+      { "text": "500", "isCorrect": false },
+      { "text": "200", "isCorrect": false },
+      { "text": "404", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 14,
+    "question": "¿Qué comando ejecuta un contenedor Docker?",
+    "options": [
+      { "text": "docker run", "isCorrect": true },
+      { "text": "docker start", "isCorrect": false },
+      { "text": "docker execute", "isCorrect": false },
+      { "text": "docker init", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 15,
+    "question": "¿Qué comando cambia permisos en Linux?",
+    "options": [
+      { "text": "grant", "isCorrect": false },
+      { "text": "chown", "isCorrect": false },
+      { "text": "perm", "isCorrect": false },
+      { "text": "chmod", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 16,
+    "question": "¿Qué tecnología permite contenerizar aplicaciones?",
+    "options": [
+      { "text": "Git", "isCorrect": false },
+      { "text": "Apache", "isCorrect": false },
+      { "text": "Docker", "isCorrect": true },
+      { "text": "MariaDB", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 17,
+    "question": "¿En qué carpeta se encuentran los Virtual Host disponibles en Apache?",
+    "options": [
+      { "text": "/etc/apache2/mods-enabled", "isCorrect": false },
+      { "text": "/etc/apache2/sites-available", "isCorrect": true },
+      { "text": "/usr/apache/sites", "isCorrect": false },
+      { "text": "/var/www/html", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 18,
+    "question": "¿Qué puerto utiliza HTTPS?",
+    "options": [
+      { "text": "22", "isCorrect": false },
+      { "text": "80", "isCorrect": false },
+      { "text": "443", "isCorrect": true },
+      { "text": "21", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 19,
+    "question": "¿Qué interfaz web permite administrar Apache Tomcat?",
+    "options": [
+      { "text": "Tomcat Manager", "isCorrect": true },
+      { "text": "Admin Panel", "isCorrect": false },
+      { "text": "Control Web", "isCorrect": false },
+      { "text": "Tomcat Control Center", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 20,
+    "question": "¿Qué comando instala Apache2 en Ubuntu?",
+    "options": [
+      { "text": "sudo apt install apache2", "isCorrect": true },
+      { "text": "apache install", "isCorrect": false },
+      { "text": "sudo install apache2", "isCorrect": false },
+      { "text": "apt apache2", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 21,
+    "question": "¿Qué comando permite comprobar el estado de Apache?",
+    "options": [
+      { "text": "systemctl status apache2", "isCorrect": true },
+      { "text": "status apache", "isCorrect": false },
+      { "text": "apache status", "isCorrect": false },
+      { "text": "apache2 check", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 22,
+    "question": "¿Cuál de los siguientes registros DNS permite asociar un dominio a una dirección IP?",
+    "options": [
+      { "text": "Registro CNAME", "isCorrect": false },
+      { "text": "Registro A", "isCorrect": true },
+      { "text": "Registro MX", "isCorrect": false },
+      { "text": "Registro PTR", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 23,
+    "question": "¿Qué servidor web es el más utilizado junto a PHP en entornos Linux?",
+    "options": [
+      { "text": "Tomcat", "isCorrect": false },
+      { "text": "Nginx únicamente", "isCorrect": false },
+      { "text": "Apache2", "isCorrect": true },
+      { "text": "IIS", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 24,
+    "question": "¿Cuál es el puerto por defecto de un servicio FTP?",
+    "options": [
+      { "text": "443", "isCorrect": false },
+      { "text": "21", "isCorrect": true },
+      { "text": "22", "isCorrect": false },
+      { "text": "20", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 25,
+    "question": "¿Qué comando mueve o renombra archivos?",
+    "options": [
+      { "text": "rename", "isCorrect": false },
+      { "text": "mv", "isCorrect": true },
+      { "text": "cp", "isCorrect": false },
+      { "text": "move", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 26,
+    "question": "¿Qué directorio contiene los logs de Apache normalmente?",
+    "options": [
+      { "text": "/logs/apache", "isCorrect": false },
+      { "text": "/etc/apache2/logs", "isCorrect": false },
+      { "text": "/usr/logs", "isCorrect": false },
+      { "text": "/var/log/apache2", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 27,
+    "question": "¿Qué comando reinicia Apache en Linux?",
+    "options": [
+      { "text": "apache2 reload", "isCorrect": false },
+      { "text": "systemctl restart apache2", "isCorrect": true },
+      { "text": "apache restart", "isCorrect": false },
+      { "text": "service restart apache", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 28,
+    "question": "¿Qué comando Git guarda cambios en local?",
+    "options": [
+      { "text": "git upload", "isCorrect": false },
+      { "text": "git commit", "isCorrect": true },
+      { "text": "git save", "isCorrect": false },
+      { "text": "git snapshot", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 29,
+    "question": "¿Qué código HTTP indica “Página no encontrada”?",
+    "options": [
+      { "text": "403", "isCorrect": false },
+      { "text": "404", "isCorrect": true },
+      { "text": "301", "isCorrect": false },
+      { "text": "200", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 30,
+    "question": "¿Qué comando permite habilitar un sitio en Apache?",
+    "options": [
+      { "text": "siteon", "isCorrect": false },
+      { "text": "a2ensite", "isCorrect": true },
+      { "text": "a2enable", "isCorrect": false },
+      { "text": "apache-enable", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 31,
+    "question": "¿Qué comando Git añade archivos al área de preparación?",
+    "options": [
+      { "text": "git init", "isCorrect": false },
+      { "text": "git add", "isCorrect": true },
+      { "text": "git push", "isCorrect": false },
+      { "text": "git prepare", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 32,
+    "question": "¿Qué formato de archivo se utiliza para empaquetar aplicaciones web Java para su despliegue?",
+    "options": [
+      { "text": ".zip", "isCorrect": false },
+      { "text": ".jsp", "isCorrect": false },
+      { "text": ".class", "isCorrect": false },
+      { "text": ".war", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 33,
+    "question": "¿Qué código HTTP indica acceso prohibido?",
+    "options": [
+      { "text": "404", "isCorrect": false },
+      { "text": "500", "isCorrect": false },
+      { "text": "401", "isCorrect": false },
+      { "text": "403", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 34,
+    "question": "¿Qué fichero de configuración se suele utilizar para PHP en Apache?",
+    "options": [
+      { "text": "php.conf", "isCorrect": false },
+      { "text": "php.xml", "isCorrect": false },
+      { "text": "config.php", "isCorrect": false },
+      { "text": "php.ini", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 35,
+    "question": "¿Qué código HTTP indica error interno del servidor?",
+    "options": [
+      { "text": "301", "isCorrect": false },
+      { "text": "500", "isCorrect": true },
+      { "text": "200", "isCorrect": false },
+      { "text": "403", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 36,
+    "question": "¿Qué hace un registro CNAME en un servidor DNS?",
+    "options": [
+      { "text": "Asocia una IP a un dominio", "isCorrect": false },
+      { "text": "Define el servidor de correo", "isCorrect": false },
+      { "text": "Resuelve una IP inversa", "isCorrect": false },
+      { "text": "Crea un alias de otro dominio", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 37,
+    "question": "¿Qué comando Git descarga y fusiona cambios?",
+    "options": [
+      { "text": "git pull", "isCorrect": true },
+      { "text": "git merge", "isCorrect": false },
+      { "text": "git clone", "isCorrect": false },
+      { "text": "git fetch", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 38,
+    "question": "¿Qué comando muestra la IP de un servidor Linux?",
+    "options": [
+      { "text": "ip a", "isCorrect": true },
+      { "text": "show ip", "isCorrect": false },
+      { "text": "net ip", "isCorrect": false },
+      { "text": "ipconfig", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 39,
+    "question": "¿Qué significan las siglas JDK en Java?",
+    "options": [
+      { "text": "Java Development Kit", "isCorrect": true },
+      { "text": "Java Data Kit", "isCorrect": false },
+      { "text": "Java Development Kellogs", "isCorrect": false },
+      { "text": "Java Deployment Kernel", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 40,
+    "question": "¿Qué protocolo utiliza SSH?",
+    "options": [
+      { "text": "TCP", "isCorrect": true },
+      { "text": "UDP", "isCorrect": false },
+      { "text": "ARP", "isCorrect": false },
+      { "text": "ICMP", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 41,
+    "question": "¿Qué servicio traduce dominios en direcciones IP?",
+    "options": [
+      { "text": "SSH", "isCorrect": false },
+      { "text": "DHCP", "isCorrect": false },
+      { "text": "DNS", "isCorrect": true },
+      { "text": "FTP", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 42,
+    "question": "¿Qué tipo de servidor es Apache Tomcat?",
+    "options": [
+      { "text": "Servidor DNS", "isCorrect": false },
+      { "text": "Servidor de base de datos", "isCorrect": false },
+      { "text": "Servidor FTP", "isCorrect": false },
+      { "text": "Servidor de aplicaciones Java", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 43,
+    "question": "¿Qué directiva indica la carpeta raíz de una web?",
+    "options": [
+      { "text": "DocumentRoot", "isCorrect": true },
+      { "text": "Require", "isCorrect": false },
+      { "text": "ServerAdmin", "isCorrect": false },
+      { "text": "Alias", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 44,
+    "question": "¿Qué puerto utiliza HTTP?",
+    "options": [
+      { "text": "443", "isCorrect": false },
+      { "text": "8080", "isCorrect": false },
+      { "text": "80", "isCorrect": true },
+      { "text": "21", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 45,
+    "question": "¿Qué directiva Apache permite sobrescribir configuraciones mediante .htaccess?",
+    "options": [
+      { "text": "PermitOverride", "isCorrect": false },
+      { "text": "OverrideEnable", "isCorrect": false },
+      { "text": "AccessControl", "isCorrect": false },
+      { "text": "AllowOverride", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 46,
+    "question": "¿Qué tipo de servidor se encarga de ejecutar la lógica de negocio de una aplicación web?",
+    "options": [
+      { "text": "Servidor proxy", "isCorrect": false },
+      { "text": "Servidor de aplicaciones", "isCorrect": true },
+      { "text": "Servidor de caché", "isCorrect": false },
+      { "text": "Servidor DNS", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 47,
+    "question": "¿Qué comando copia archivos en Linux?",
+    "options": [
+      { "text": "cp", "isCorrect": true },
+      { "text": "mv", "isCorrect": false },
+      { "text": "copy", "isCorrect": false },
+      { "text": "clone", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 48,
+    "question": "¿Qué comando cambia de directorio?",
+    "options": [
+      { "text": "pwd", "isCorrect": false },
+      { "text": "cp", "isCorrect": false },
+      { "text": "cd", "isCorrect": true },
+      { "text": "mv", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 49,
+    "question": "¿Qué protocolo se utiliza normalmente para administrar un servidor Linux de forma remota y segura?",
+    "options": [
+      { "text": "Telnet", "isCorrect": false },
+      { "text": "SSH", "isCorrect": true },
+      { "text": "FTP", "isCorrect": false },
+      { "text": "HTTP", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 50,
+    "question": "¿Qué registro DNS se utiliza para correo electrónico?",
+    "options": [
+      { "text": "PTR", "isCorrect": false },
+      { "text": "TXT", "isCorrect": false },
+      { "text": "MX", "isCorrect": true },
+      { "text": "CNAME", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 51,
+    "question": "¿Cuál de las siguientes capas se encarga de mostrar la interfaz de usuario y recoger la interacción del usuario?",
+    "options": [
+      { "text": "Capa de lógica de negocio", "isCorrect": false },
+      { "text": "Capa de acceso a datos", "isCorrect": false },
+      { "text": "Capa de presentación", "isCorrect": true },
+      { "text": "Capa de infraestructura", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 52,
+    "question": "¿Qué comando crea un nuevo repositorio Git?",
+    "options": [
+      { "text": "git new", "isCorrect": false },
+      { "text": "git create", "isCorrect": false },
+      { "text": "git init", "isCorrect": true },
+      { "text": "git start", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 53,
+    "question": "¿Qué servidor de base de datos suele utilizar LAMP?",
+    "options": [
+      { "text": "Oracle", "isCorrect": false },
+      { "text": "Redis", "isCorrect": false },
+      { "text": "MariaDB/MySQL", "isCorrect": true },
+      { "text": "SQLite", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 54,
+    "question": "¿Qué comando elimina archivos?",
+    "options": [
+      { "text": "rm", "isCorrect": true },
+      { "text": "erase", "isCorrect": false },
+      { "text": "remove", "isCorrect": false },
+      { "text": "del", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 55,
+    "question": "¿Qué protocolo permite transferir archivos?",
+    "options": [
+      { "text": "FTP", "isCorrect": true },
+      { "text": "SSH", "isCorrect": false },
+      { "text": "DHCP", "isCorrect": false },
+      { "text": "DNS", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 56,
+    "question": "¿Qué capa de una arquitectura web se encarga de comunicarse con la base de datos?",
+    "options": [
+      { "text": "Capa de acceso a datos", "isCorrect": true },
+      { "text": "Servidor proxy", "isCorrect": false },
+      { "text": "Capa de presentación", "isCorrect": false },
+      { "text": "Capa de red", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 57,
+    "question": "¿Qué comando permite deshabilitar un Virtual Host?",
+    "options": [
+      { "text": "a2siteoff", "isCorrect": false },
+      { "text": "a2dissite", "isCorrect": true },
+      { "text": "apache-disable", "isCorrect": false },
+      { "text": "disable-site", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 58,
+    "question": "¿Qué archivo contiene normalmente los Virtual Host en Ubuntu?",
+    "options": [
+      { "text": "/etc/apache2/sites-available", "isCorrect": true },
+      { "text": "/var/www", "isCorrect": false },
+      { "text": "/etc/apache2/apache2.conf", "isCorrect": false },
+      { "text": "/usr/apache/conf", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 59,
+    "question": "¿Qué comando recarga Apache sin detener el servicio?",
+    "options": [
+      { "text": "apache reload", "isCorrect": false },
+      { "text": "apache2 restart", "isCorrect": false },
+      { "text": "reload apache", "isCorrect": false },
+      { "text": "systemctl reload apache2", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 60,
+    "question": "¿Qué comando elimina un contenedor Docker?",
+    "options": [
+      { "text": "docker remove-container", "isCorrect": false },
+      { "text": "docker delete", "isCorrect": false },
+      { "text": "docker rm", "isCorrect": true },
+      { "text": "docker erase", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 61,
+    "question": "¿En qué carpeta se despliegan las aplicaciones web en Tomcat?",
+    "options": [
+      { "text": "webapps", "isCorrect": true },
+      { "text": "www", "isCorrect": false },
+      { "text": "sites", "isCorrect": false },
+      { "text": "apps", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 62,
+    "question": "¿Qué registro DNS crea un alias?",
+    "options": [
+      { "text": "A", "isCorrect": false },
+      { "text": "PTR", "isCorrect": false },
+      { "text": "CNAME", "isCorrect": true },
+      { "text": "MX", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 63,
+    "question": "¿Qué comando cambia el propietario de un archivo?",
+    "options": [
+      { "text": "chmod", "isCorrect": false },
+      { "text": "chown", "isCorrect": true },
+      { "text": "grant", "isCorrect": false },
+      { "text": "owner", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 64,
+    "question": "¿Qué protocolo utiliza HTTPS?",
+    "options": [
+      { "text": "UDP", "isCorrect": false },
+      { "text": "FTP", "isCorrect": false },
+      { "text": "SSL/TLS", "isCorrect": true },
+      { "text": "SSH", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 65,
+    "question": "¿Qué directiva indica el dominio principal de un Virtual Host?",
+    "options": [
+      { "text": "DocumentRoot", "isCorrect": false },
+      { "text": "DirectoryIndex", "isCorrect": false },
+      { "text": "ServerName", "isCorrect": true },
+      { "text": "Alias", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 66,
+    "question": "¿Qué registro DNS resuelve una IP inversa?",
+    "options": [
+      { "text": "TXT", "isCorrect": false },
+      { "text": "SOA", "isCorrect": false },
+      { "text": "PTR", "isCorrect": true },
+      { "text": "MX", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 67,
+    "question": "¿Cuál es el archivo principal de configuración del servidor web Apache?",
+    "options": [
+      { "text": "apache.conf", "isCorrect": false },
+      { "text": "server.conf", "isCorrect": false },
+      { "text": "apache2.conf", "isCorrect": true },
+      { "text": "httpd.conf", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 68,
+    "question": "¿Qué comando se utiliza para descargar una imagen desde Docker Hub?",
+    "options": [
+      { "text": "docker pull", "isCorrect": true },
+      { "text": "docker download", "isCorrect": false },
+      { "text": "docker install", "isCorrect": false },
+      { "text": "docker run", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 69,
+    "question": "¿Qué comando actualiza repositorios en Ubuntu?",
+    "options": [
+      { "text": "apt repositories", "isCorrect": false },
+      { "text": "sudo apt update", "isCorrect": true },
+      { "text": "repo update", "isCorrect": false },
+      { "text": "apt refresh", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 70,
+    "question": "¿Qué comando permite clonar un repositorio remoto en tu equipo?",
+    "options": [
+      { "text": "git clone", "isCorrect": true },
+      { "text": "git pull", "isCorrect": false },
+      { "text": "git fork", "isCorrect": false },
+      { "text": "git copy", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 71,
+    "question": "¿Qué servicio web utiliza Tomcat?",
+    "options": [
+      { "text": "PHP", "isCorrect": false },
+      { "text": "Node.js", "isCorrect": false },
+      { "text": "Java/Jakarta EE", "isCorrect": true },
+      { "text": "ASP.NET", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 72,
+    "question": "¿Qué código HTTP indica éxito?",
+    "options": [
+      { "text": "404", "isCorrect": false },
+      { "text": "500", "isCorrect": false },
+      { "text": "302", "isCorrect": false },
+      { "text": "200", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 73,
+    "question": "¿Cuál es el puerto por defecto del servidor Apache Tomcat?",
+    "options": [
+      { "text": "8080", "isCorrect": true },
+      { "text": "80", "isCorrect": false },
+      { "text": "21", "isCorrect": false },
+      { "text": "443", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 74,
+    "question": "¿Qué puerto utiliza SSH?",
+    "options": [
+      { "text": "21", "isCorrect": false },
+      { "text": "80", "isCorrect": false },
+      { "text": "25", "isCorrect": false },
+      { "text": "22", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 75,
+    "question": "¿Qué significa LAMP?",
+    "options": [
+      { "text": "Linux Apache MariaDB PHP", "isCorrect": false },
+      { "text": "Linux Application MySQL PHP", "isCorrect": false },
+      { "text": "Linux Apache MySQL PHP", "isCorrect": true },
+      { "text": "Linux Apache Mongo PHP", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 76,
+    "question": "¿Qué herramienta se utiliza para control de versiones?",
+    "options": [
+      { "text": "Git", "isCorrect": true },
+      { "text": "Docker", "isCorrect": false },
+      { "text": "Tomcat", "isCorrect": false },
+      { "text": "Apache", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 77,
+    "question": "¿Qué archivo contiene aplicaciones Java web empaquetadas?",
+    "options": [
+      { "text": ".war", "isCorrect": true },
+      { "text": ".zip", "isCorrect": false },
+      { "text": ".java", "isCorrect": false },
+      { "text": ".jar", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 78,
+    "question": "¿Qué directiva Apache concede acceso a todos los usuarios?",
+    "options": [
+      { "text": "Allow all", "isCorrect": false },
+      { "text": "Grant access", "isCorrect": false },
+      { "text": "Access allow", "isCorrect": false },
+      { "text": "Require all granted", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 79,
+    "question": "¿Qué puerto utiliza DNS normalmente?",
+    "options": [
+      { "text": "443", "isCorrect": false },
+      { "text": "80", "isCorrect": false },
+      { "text": "22", "isCorrect": false },
+      { "text": "53", "isCorrect": true }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  },
+  {
+    "id": 80,
+    "question": "¿Qué comando Git envía cambios al repositorio remoto?",
+    "options": [
+      { "text": "git upload", "isCorrect": false },
+      { "text": "git send", "isCorrect": false },
+      { "text": "git push", "isCorrect": true },
+      { "text": "git publish", "isCorrect": false }
+    ],
+    "answerSource": "user-provided",
+    "confidence": "alta",
+    "sourceFile": "Despliegue repaso final"
+  }
+]

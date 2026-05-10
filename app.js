@@ -7,6 +7,7 @@ const subjects = [
   { label: "IPE", file: "IPE.json" },
   { label: "TESTS - Cliente", file: "TESTS - Cliente.json" },
   { label: "TESTS - Despliegue", file: "TESTS - Despliegue.json" },
+  { label: "Despliegue repaso final", file: "TESTS - Despliegue repaso final.json" },
   { label: "TESTS - Digitalizacion", file: "TESTS - Digitalizacion.json" },
   { label: "TESTS - Interfaces", file: "TESTS - Interfaces.json" },
   { label: "TESTS - Python", file: "TESTS - Python.json" },
