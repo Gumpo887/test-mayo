@@ -10,6 +10,7 @@ const subjects = [
   { label: "Despliegue repaso final", file: "TESTS - Despliegue repaso final.json" },
   { label: "TESTS - Digitalizacion", file: "TESTS - Digitalizacion.json" },
   { label: "TESTS - Interfaces", file: "TESTS - Interfaces.json" },
+  { label: "Interfaces Kahoot", file: "Interfaces Kahoot.json" },
   { label: "TESTS - Python", file: "TESTS - Python.json" },
   { label: "TESTS - Servidor", file: "TESTS - Servidor.json" },
   { label: "TESTS - Sostenibilidad", file: "TESTS - Sostenibilidad.json" },

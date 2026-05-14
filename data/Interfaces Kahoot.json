@@ -1,0 +1,2212 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué es una interfaz de usuario (UI)?",
+    "options": [
+      {
+        "text": "Un sistema operativo para dispositivos móviles.",
+        "isCorrect": false
+      },
+      {
+        "text": "La parte visual e interactiva de una aplicación o sitio web.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un lenguaje de programación específico.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un hardware especializado para diseño gráfico.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=7076b092-3c7d-42e6-9b19-c08de8241f9c&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál de los siguientes no es un componente básico de una interfaz web según el documento?",
+    "options": [
+      {
+        "text": "Cabecera (header).",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuerpo (body).",
+        "isCorrect": false
+      },
+      {
+        "text": "Pie de página (footer).",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistema de gestión de bases de datos.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=7076b092-3c7d-42e6-9b19-c08de8241f9c&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 3,
+    "question": "El equilibrio informal se logra principalmente mediante:",
+    "options": [
+      {
+        "text": "La aplicación de la simetría perfecta en el diseño.",
+        "isCorrect": false
+      },
+      {
+        "text": "La aplicación de la simetría perfecta en el diseño.",
+        "isCorrect": true
+      },
+      {
+        "text": "La eliminación de todos los elementos gráficos.",
+        "isCorrect": false
+      },
+      {
+        "text": "El uso exclusivo de imágenes sin texto.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=7076b092-3c7d-42e6-9b19-c08de8241f9c&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 4,
+    "question": "¿Qué función cumple la cabecera (header) en una interfaz web?",
+    "options": [
+      {
+        "text": "Identificar la marca o empresa, pudiendo incluir logotipo y textos",
+        "isCorrect": true
+      },
+      {
+        "text": "Mostrar únicamente imágenes animadas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Servir como el área exclusiva para formularios de contacto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Almacenar la información interna de la página.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=7076b092-3c7d-42e6-9b19-c08de8241f9c&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 5,
+    "question": "El equilibrio formal en un diseño se basa en:",
+    "options": [
+      {
+        "text": "La disposición caótica de los elementos.",
+        "isCorrect": false
+      },
+      {
+        "text": "La simetría y la búsqueda de un centro óptico.",
+        "isCorrect": true
+      },
+      {
+        "text": "El uso excesivo de colores.",
+        "isCorrect": false
+      },
+      {
+        "text": "La eliminación de cualquier forma de simetría.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=7076b092-3c7d-42e6-9b19-c08de8241f9c&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 6,
+    "question": "¿Cuál es el objetivo principal del prototipado dentro del ciclo de vida del diseño web?",
+    "options": [
+      {
+        "text": "Implementar el sitio final",
+        "isCorrect": false
+      },
+      {
+        "text": "Escribir el código del backend",
+        "isCorrect": false
+      },
+      {
+        "text": "Definir el plan de marketing",
+        "isCorrect": false
+      },
+      {
+        "text": "Conformar ideas y explorar alternativas visuales",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=703d6444-3876-4bac-9eec-a4d9cb87d255&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué describe mejor a un wireframe ?",
+    "options": [
+      {
+        "text": "Un diseño final listo para publicar",
+        "isCorrect": false
+      },
+      {
+        "text": "Un prototipo con interacciones reales",
+        "isCorrect": false
+      },
+      {
+        "text": "Un catálogo de recursos gráficos",
+        "isCorrect": false
+      },
+      {
+        "text": "Un esquema de baja fidelidad sin estilos final",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=703d6444-3876-4bac-9eec-a4d9cb87d255&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 8,
+    "question": "¿Qué es un wireflow ?",
+    "options": [
+      {
+        "text": "Un manual de identidad visual",
+        "isCorrect": false
+      },
+      {
+        "text": "Un mapa del sitio para SEO",
+        "isCorrect": false
+      },
+      {
+        "text": "Un árbol de navegación que muestra el flujo del usuario entre wireframes",
+        "isCorrect": true
+      },
+      {
+        "text": "Un set de componentes UI",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=703d6444-3876-4bac-9eec-a4d9cb87d255&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 9,
+    "question": "En el proceso, un mockup se caracteriza por…",
+    "options": [
+      {
+        "text": "Ser de alta fidelidad con funcionalidad implementada",
+        "isCorrect": false
+      },
+      {
+        "text": "Proponer imágenes, colores y tipografías sobre la estructura del wireframe",
+        "isCorrect": true
+      },
+      {
+        "text": "Ser únicamente monocromático",
+        "isCorrect": false
+      },
+      {
+        "text": "Sustituir la guía de estilo",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=703d6444-3876-4bac-9eec-a4d9cb87d255&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál es el propósito de una guía de estilo ?",
+    "options": [
+      {
+        "text": "Establecer políticas de seguridad",
+        "isCorrect": false
+      },
+      {
+        "text": "Documentar código",
+        "isCorrect": false
+      },
+      {
+        "text": "Agrupar decisiones de diseño (logo, paleta, ....) para coherencia visual",
+        "isCorrect": true
+      },
+      {
+        "text": "Definir precios del proyecto",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=703d6444-3876-4bac-9eec-a4d9cb87d255&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 11,
+    "question": "¿Cuándo es especialmente necesaria una guía de estilo?",
+    "options": [
+      {
+        "text": "Cuando hay una sola página",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo en e-commerce",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuando no hay equipo de diseño",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuando participan muchos profesionales en el mismo sitio",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=703d6444-3876-4bac-9eec-a4d9cb87d255&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 12,
+    "question": "¿Qué no se incluye en un wireframe de baja fidelidad?",
+    "options": [
+      {
+        "text": "Tipografías elaboradas y esquemas de color",
+        "isCorrect": true
+      },
+      {
+        "text": "Estructura de la información",
+        "isCorrect": false
+      },
+      {
+        "text": "Jerarquía de contenidos",
+        "isCorrect": false
+      },
+      {
+        "text": "Elementos básicos de interacción",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=703d6444-3876-4bac-9eec-a4d9cb87d255&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 13,
+    "question": "¿Cuál es la diferencia clave entre mockup y prototipo ?",
+    "options": [
+      {
+        "text": "El mockup es siempre responsive y el prototipo no",
+        "isCorrect": false
+      },
+      {
+        "text": "El prototipo incluye interacción; el mockup muestra apariencia sin funcion",
+        "isCorrect": true
+      },
+      {
+        "text": "No existe diferencia",
+        "isCorrect": false
+      },
+      {
+        "text": "El mockup es más detallado que el diseño final",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=703d6444-3876-4bac-9eec-a4d9cb87d255&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 14,
+    "question": "¿Qué tipo de mockup se aproxima más al diseño final (incluye colores y tipografía)?",
+    "options": [
+      {
+        "text": "Wireframe",
+        "isCorrect": false
+      },
+      {
+        "text": "Mockup de baja fidelidad",
+        "isCorrect": false
+      },
+      {
+        "text": "Mockup de alta fidelidad",
+        "isCorrect": true
+      },
+      {
+        "text": "Boceto a mano alzada",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=703d6444-3876-4bac-9eec-a4d9cb87d255&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 15,
+    "question": "¿Qué beneficio aporta el prototipado antes de implementar el sitio completo?",
+    "options": [
+      {
+        "text": "Aumenta automáticamente el tráfico",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce la necesidad de contenidos",
+        "isCorrect": false
+      },
+      {
+        "text": "Identifica problemas de usabilidad, diseño y estructura con bajo costo",
+        "isCorrect": true
+      },
+      {
+        "text": "Elimina la fase de pruebas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=703d6444-3876-4bac-9eec-a4d9cb87d255&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 16,
+    "question": "¿Cuál de las siguientes unidades en CSS es absoluta?",
+    "options": [
+      {
+        "text": "em",
+        "isCorrect": false
+      },
+      {
+        "text": "px",
+        "isCorrect": true
+      },
+      {
+        "text": "%",
+        "isCorrect": false
+      },
+      {
+        "text": "rem",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=37d2a3fe-fc3d-4355-8112-bec00ee9dfa9&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 17,
+    "question": "¿Qué unidad se basa en el tamaño de fuente del elemento padre?",
+    "options": [
+      {
+        "text": "px",
+        "isCorrect": false
+      },
+      {
+        "text": "pt",
+        "isCorrect": false
+      },
+      {
+        "text": "em",
+        "isCorrect": true
+      },
+      {
+        "text": "cm",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=37d2a3fe-fc3d-4355-8112-bec00ee9dfa9&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 18,
+    "question": "¿Cuál es la unidad relativa que se basa en el tamaño de fuente del html?",
+    "options": [
+      {
+        "text": "vh",
+        "isCorrect": false
+      },
+      {
+        "text": "rem",
+        "isCorrect": true
+      },
+      {
+        "text": "mm",
+        "isCorrect": false
+      },
+      {
+        "text": "pc",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=37d2a3fe-fc3d-4355-8112-bec00ee9dfa9&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 19,
+    "question": "¿Cuál de estas unidades representa el 1% de la altura de la ventana?",
+    "options": [
+      {
+        "text": "vh",
+        "isCorrect": true
+      },
+      {
+        "text": "vw",
+        "isCorrect": false
+      },
+      {
+        "text": "rem",
+        "isCorrect": false
+      },
+      {
+        "text": "pt",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=37d2a3fe-fc3d-4355-8112-bec00ee9dfa9&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 20,
+    "question": "¿Cuántos milímetros hay en un centímetro en CSS?",
+    "options": [
+      {
+        "text": "10mm",
+        "isCorrect": true
+      },
+      {
+        "text": "5mm",
+        "isCorrect": false
+      },
+      {
+        "text": "100mm",
+        "isCorrect": false
+      },
+      {
+        "text": "25.4mm",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=37d2a3fe-fc3d-4355-8112-bec00ee9dfa9&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 21,
+    "question": "Si el tamaño de fuente base es 16px, ¿cuánto es 2em?",
+    "options": [
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "32",
+        "isCorrect": true
+      },
+      {
+        "text": "16",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=37d2a3fe-fc3d-4355-8112-bec00ee9dfa9&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 22,
+    "question": "¿Cuál es la diferencia entre px y % en CSS?",
+    "options": [
+      {
+        "text": "px es relativo y % es absoluto.",
+        "isCorrect": false
+      },
+      {
+        "text": "px es absoluto y % es relativo al contenedor padre.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ambos son unidades relativas.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambos son unidades absolutas.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=37d2a3fe-fc3d-4355-8112-bec00ee9dfa9&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 23,
+    "question": "¿Qué pasa si usas una unidad relativa en el tamaño de texto de una página web?",
+    "options": [
+      {
+        "text": "Siempre se mantiene del mismo tamaño sin importar el dispositivo.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se vuelve más pequeño cada vez que recargas la página.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se vuelve invisible.",
+        "isCorrect": false
+      },
+      {
+        "text": "Se adapta según el tamaño del contenedor o pantalla.",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=37d2a3fe-fc3d-4355-8112-bec00ee9dfa9&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 24,
+    "question": "Si quieres que un elemento en tu web tenga siempre el mismo tamaño sin importar la pantalla, ¿qué unidad deberías usar?",
+    "options": [
+      {
+        "text": "% (porcentaje).",
+        "isCorrect": false
+      },
+      {
+        "text": "px (píxeles).",
+        "isCorrect": true
+      },
+      {
+        "text": "vw (ancho de la pantalla).",
+        "isCorrect": false
+      },
+      {
+        "text": "em",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=37d2a3fe-fc3d-4355-8112-bec00ee9dfa9&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 25,
+    "question": "¿Qué unidad es mejor para que el texto sea más fácil de leer en distintos dispositivos?",
+    "options": [
+      {
+        "text": "cm (centímetros).",
+        "isCorrect": false
+      },
+      {
+        "text": "mm (milímetros).",
+        "isCorrect": false
+      },
+      {
+        "text": "rem (basado en el tamaño del texto del navegador).",
+        "isCorrect": true
+      },
+      {
+        "text": "pt (puntos tipográficos).",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=37d2a3fe-fc3d-4355-8112-bec00ee9dfa9&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 26,
+    "question": "Si un diseñador web dice que usa vh y vw en su diseño, ¿qué está controlando?",
+    "options": [
+      {
+        "text": "El tamaño de los elementos basado en la altura y ancho de la pantalla.",
+        "isCorrect": true
+      },
+      {
+        "text": "La cantidad de memoria que usa la página.",
+        "isCorrect": false
+      },
+      {
+        "text": "La visibilidad de los elementos en la web.",
+        "isCorrect": false
+      },
+      {
+        "text": "La velocidad de carga del sitio web.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=37d2a3fe-fc3d-4355-8112-bec00ee9dfa9&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 27,
+    "question": "¿Qué problema principal vino a resolver flexbox en CSS?",
+    "options": [
+      {
+        "text": "Animaciones 3D",
+        "isCorrect": false
+      },
+      {
+        "text": "Alineación y distribución en una sola dimensión",
+        "isCorrect": true
+      },
+      {
+        "text": "Cargar fuentes externas",
+        "isCorrect": false
+      },
+      {
+        "text": "Compatibilidad con SVG",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=d870e73c-a0ab-4486-a94b-01a3104e0881&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es la diferencia clave entre Flexbox y Grid?",
+    "options": [
+      {
+        "text": "Flexbox es unidimensional; Grid es bidimensional",
+        "isCorrect": true
+      },
+      {
+        "text": "Flexbox es más nuevo que Grid",
+        "isCorrect": false
+      },
+      {
+        "text": "Flexbox es para impresión y Grid para web",
+        "isCorrect": false
+      },
+      {
+        "text": "Grid reemplaza completamente a Flexbox",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=d870e73c-a0ab-4486-a94b-01a3104e0881&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 29,
+    "question": "¿Qué describe “flujo normal” en CSS?",
+    "options": [
+      {
+        "text": "El orden del DOM",
+        "isCorrect": false
+      },
+      {
+        "text": "El orden de apilamiento (z-index)",
+        "isCorrect": false
+      },
+      {
+        "text": "El modelo de caja",
+        "isCorrect": false
+      },
+      {
+        "text": "El comportamiento por defecto de colocación sin cambios de diseño",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=d870e73c-a0ab-4486-a94b-01a3104e0881&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 30,
+    "question": "¿Qué hace la propiedad display en el flujo normal?",
+    "options": [
+      {
+        "text": "Cambia el tamaño de fuente",
+        "isCorrect": false
+      },
+      {
+        "text": "Controla visibilidad únicamente",
+        "isCorrect": false
+      },
+      {
+        "text": "Define cómo se comporta la caja (block, inline, etc.)",
+        "isCorrect": true
+      },
+      {
+        "text": "Establece la posición absoluta",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=d870e73c-a0ab-4486-a94b-01a3104e0881&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 31,
+    "question": "¿Qué efecto conceptual tiene float: left aplicado a un elemento?",
+    "options": [
+      {
+        "text": "Lo centra verticalmente",
+        "isCorrect": false
+      },
+      {
+        "text": "Lo saca del flujo normal y permite que el contenido fluya a su alrededor",
+        "isCorrect": true
+      },
+      {
+        "text": "Lo fija a la ventana",
+        "isCorrect": false
+      },
+      {
+        "text": "Lo envía detrás de otros elementos",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=d870e73c-a0ab-4486-a94b-01a3104e0881&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 32,
+    "question": "En Flexbox, ¿qué es el “eje principal” (main axis)?",
+    "options": [
+      {
+        "text": "Siempre vertical",
+        "isCorrect": false
+      },
+      {
+        "text": "Siempre horizontal",
+        "isCorrect": false
+      },
+      {
+        "text": "El eje definido por flex-direction",
+        "isCorrect": true
+      },
+      {
+        "text": "El eje de escritura del idioma",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=d870e73c-a0ab-4486-a94b-01a3104e0881&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 33,
+    "question": "¿Qué papel cumple el contenedor flexible?",
+    "options": [
+      {
+        "text": "Es el elemento con display: flex que controla a sus hijos",
+        "isCorrect": true
+      },
+      {
+        "text": "Es cualquier div con ancho fijo",
+        "isCorrect": false
+      },
+      {
+        "text": "Es el primer article del documento",
+        "isCorrect": false
+      },
+      {
+        "text": "Es el body siempre",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=d870e73c-a0ab-4486-a94b-01a3104e0881&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 34,
+    "question": "¿Para qué sirve flex-wrap?",
+    "options": [
+      {
+        "text": "Para cambiar el orden de tabulación",
+        "isCorrect": false
+      },
+      {
+        "text": "Para permitir que los ítems flex pasen a múltiples líneas/columnas",
+        "isCorrect": true
+      },
+      {
+        "text": "Para alinear en el eje transversal",
+        "isCorrect": false
+      },
+      {
+        "text": "Para definir el ancho mínimo del contenedor",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=d870e73c-a0ab-4486-a94b-01a3104e0881&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 35,
+    "question": "¿Qué alinean justify-content y align-items respectivamente en Flexbox?",
+    "options": [
+      {
+        "text": "Ambos en el eje transversal",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambos en el eje principal",
+        "isCorrect": false
+      },
+      {
+        "text": "justify-content en el principal y align-items en el transversal",
+        "isCorrect": true
+      },
+      {
+        "text": "justify-content en el transversal y align-items en el principal",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=d870e73c-a0ab-4486-a94b-01a3104e0881&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 36,
+    "question": "Al declarar display: grid en un contenedor sin más propiedades, ¿qué sucede?",
+    "options": [
+      {
+        "text": "Se crea una cuadrícula de tres columnas automáticamente",
+        "isCorrect": false
+      },
+      {
+        "text": "Nada cambia: se comporta como una sola columna",
+        "isCorrect": true
+      },
+      {
+        "text": "Los hijos se superponen",
+        "isCorrect": false
+      },
+      {
+        "text": "Todos los hijos se centran",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=d870e73c-a0ab-4486-a94b-01a3104e0881&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 37,
+    "question": "¿Para qué se usa grid-template-columns?",
+    "options": [
+      {
+        "text": "Para definir el número y tamaño de columnas de la cuadrícula",
+        "isCorrect": true
+      },
+      {
+        "text": "Para alinear contenido en el eje transversal",
+        "isCorrect": false
+      },
+      {
+        "text": "Para crear áreas con nombre",
+        "isCorrect": false
+      },
+      {
+        "text": "Para establecer el alto de filas implícitas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=d870e73c-a0ab-4486-a94b-01a3104e0881&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 38,
+    "question": "¿Qué atributo del elemento es esencial para la accesibilidad?",
+    "options": [
+      {
+        "text": "alt",
+        "isCorrect": true
+      },
+      {
+        "text": "title",
+        "isCorrect": false
+      },
+      {
+        "text": "id",
+        "isCorrect": false
+      },
+      {
+        "text": "srcset",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=55056ad6-d6bb-4cc4-bc23-75cf832bfc48&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 39,
+    "question": "¿Qué atributo del permite la carga diferida de imágenes?",
+    "options": [
+      {
+        "text": "preload",
+        "isCorrect": false
+      },
+      {
+        "text": "loading=\"lazy\"",
+        "isCorrect": true
+      },
+      {
+        "text": "async",
+        "isCorrect": false
+      },
+      {
+        "text": "defer",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=55056ad6-d6bb-4cc4-bc23-75cf832bfc48&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 40,
+    "question": "¿Qué propiedad CSS define cómo se ajusta una imagen a su contenedor?",
+    "options": [
+      {
+        "text": "background-position",
+        "isCorrect": false
+      },
+      {
+        "text": "object-fit",
+        "isCorrect": true
+      },
+      {
+        "text": "background-image",
+        "isCorrect": false
+      },
+      {
+        "text": "overflow",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=55056ad6-d6bb-4cc4-bc23-75cf832bfc48&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 41,
+    "question": "¿Cuál es el formato de imagen más adecuado cuando se necesita transparencia?",
+    "options": [
+      {
+        "text": "PNG",
+        "isCorrect": true
+      },
+      {
+        "text": "JPG",
+        "isCorrect": false
+      },
+      {
+        "text": "GIF",
+        "isCorrect": false
+      },
+      {
+        "text": "BMP",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=55056ad6-d6bb-4cc4-bc23-75cf832bfc48&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 42,
+    "question": "¿Qué formato ofrece mejor compresión manteniendo buena calidad para imágenes en la web?",
+    "options": [
+      {
+        "text": "TIFF",
+        "isCorrect": false
+      },
+      {
+        "text": "PNG",
+        "isCorrect": false
+      },
+      {
+        "text": "RAW",
+        "isCorrect": false
+      },
+      {
+        "text": "WebP",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=55056ad6-d6bb-4cc4-bc23-75cf832bfc48&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 43,
+    "question": "¿Qué atributo del muestra los controles del reproductor?",
+    "options": [
+      {
+        "text": "controls",
+        "isCorrect": true
+      },
+      {
+        "text": "autoplay",
+        "isCorrect": false
+      },
+      {
+        "text": "loop",
+        "isCorrect": false
+      },
+      {
+        "text": "muted",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=55056ad6-d6bb-4cc4-bc23-75cf832bfc48&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 44,
+    "question": "¿Qué atributo del permite que el vídeo se repita al finalizar?",
+    "options": [
+      {
+        "text": "repeat",
+        "isCorrect": false
+      },
+      {
+        "text": "auto",
+        "isCorrect": false
+      },
+      {
+        "text": "loop",
+        "isCorrect": true
+      },
+      {
+        "text": "reload",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=55056ad6-d6bb-4cc4-bc23-75cf832bfc48&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 45,
+    "question": "¿Qué evento de vídeo indica que la reproducción ha finalizado?",
+    "options": [
+      {
+        "text": "play",
+        "isCorrect": false
+      },
+      {
+        "text": "waiting",
+        "isCorrect": false
+      },
+      {
+        "text": "ended",
+        "isCorrect": true
+      },
+      {
+        "text": "pause",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=55056ad6-d6bb-4cc4-bc23-75cf832bfc48&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 46,
+    "question": "¿Qué atributo del permite silenciar el sonido al inicio?",
+    "options": [
+      {
+        "text": "volume",
+        "isCorrect": false
+      },
+      {
+        "text": "muted",
+        "isCorrect": true
+      },
+      {
+        "text": "loop",
+        "isCorrect": false
+      },
+      {
+        "text": "off",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=55056ad6-d6bb-4cc4-bc23-75cf832bfc48&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 47,
+    "question": "¿Cuál de los siguientes formatos es un contenedor multimedia popular y compatible con la mayoría de navegadores?",
+    "options": [
+      {
+        "text": "OGG",
+        "isCorrect": false
+      },
+      {
+        "text": "MOV",
+        "isCorrect": false
+      },
+      {
+        "text": "MP4",
+        "isCorrect": true
+      },
+      {
+        "text": "FLAC",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=55056ad6-d6bb-4cc4-bc23-75cf832bfc48&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 48,
+    "question": "¿Qué concepto describe la representación estructurada de un documento HTML en forma de árbol lógico?",
+    "options": [
+      {
+        "text": "API",
+        "isCorrect": false
+      },
+      {
+        "text": "DOM",
+        "isCorrect": true
+      },
+      {
+        "text": "Codec",
+        "isCorrect": false
+      },
+      {
+        "text": "CSSOM",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo/?quizId=55056ad6-d6bb-4cc4-bc23-75cf832bfc48&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 49,
+    "question": "¿Qué se considera un requisito básico para una buena experiencia de usuario?",
+    "options": [
+      {
+        "text": "Que una web se vea y se use bien en cualquier dispositivo",
+        "isCorrect": true
+      },
+      {
+        "text": "Que todas las páginas usen siempre ancho fijo",
+        "isCorrect": false
+      },
+      {
+        "text": "Que el diseño sea idéntico en móvil y escritorio, sin cambios.",
+        "isCorrect": false
+      },
+      {
+        "text": "Que solo exista un diseño específico por dispositivo",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=7739dcab-8aa7-4ae6-8d6e-b9bcc9d9a278&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 50,
+    "question": "¿Qué describe mejor al diseño fluido (líquido)?",
+    "options": [
+      {
+        "text": "Control absoluto del resultado final, mal para diferentes resoluciones",
+        "isCorrect": false
+      },
+      {
+        "text": "El layout crece/encoge con la ventana; cuesta mas predecir el resultado",
+        "isCorrect": true
+      },
+      {
+        "text": "Cambia la estructura según el ancho del navegador",
+        "isCorrect": false
+      },
+      {
+        "text": "Usa diseños específicos por dispositivo con resoluciones predefinidas",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=7739dcab-8aa7-4ae6-8d6e-b9bcc9d9a278&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 51,
+    "question": "En la meta viewport recomendada, ¿qué significa width=device-width?",
+    "options": [
+      {
+        "text": "Activa el modo impresión (print) por defecto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fuerza el zoom inicial a 1 (sin zoom) en todos los casos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Hace que el navegador simule un ancho de escritorio y escale la página.",
+        "isCorrect": false
+      },
+      {
+        "text": "Renderiza la página al 100% del ancho real del dispositivo",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=7739dcab-8aa7-4ae6-8d6e-b9bcc9d9a278&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 52,
+    "question": "En un sistema de parrilla (grid system), ¿qué elemento agrupa columnas dentro del contenedor?",
+    "options": [
+      {
+        "text": "Contenedor",
+        "isCorrect": false
+      },
+      {
+        "text": "Filas",
+        "isCorrect": true
+      },
+      {
+        "text": "Columnas",
+        "isCorrect": false
+      },
+      {
+        "text": "Viewport",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=7739dcab-8aa7-4ae6-8d6e-b9bcc9d9a278&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 53,
+    "question": "En una parrilla de 12 columnas, ¿cuánto mide 1 columna aproximadamente?",
+    "options": [
+      {
+        "text": "10%",
+        "isCorrect": false
+      },
+      {
+        "text": "12,5%",
+        "isCorrect": false
+      },
+      {
+        "text": "8,33%",
+        "isCorrect": true
+      },
+      {
+        "text": "6,25%",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=7739dcab-8aa7-4ae6-8d6e-b9bcc9d9a278&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 54,
+    "question": "En Flexbox, por defecto ¿cómo es el main axis ?",
+    "options": [
+      {
+        "text": "Vertical (arriba→abajo",
+        "isCorrect": false
+      },
+      {
+        "text": "Diagonal",
+        "isCorrect": false
+      },
+      {
+        "text": "Horizontal (izquierda→derecha)",
+        "isCorrect": true
+      },
+      {
+        "text": "Depende siempre de la orientación del dispositivo",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=7739dcab-8aa7-4ae6-8d6e-b9bcc9d9a278&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 55,
+    "question": "¿Cuál NO es una forma típica de usar media queries?",
+    "options": [
+      {
+        "text": "Estilos condicionales con @media (y también @import)",
+        "isCorrect": false
+      },
+      {
+        "text": "“Targeting” en HTML con atributo media= en , , , etc.",
+        "isCorrect": false
+      },
+      {
+        "text": "Detección en JS con Window.matchMedia() y escucha con addEventListener()",
+        "isCorrect": false
+      },
+      {
+        "text": "Reemplazar HTML en el servidor para cada dispositivo sin CSS",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=7739dcab-8aa7-4ae6-8d6e-b9bcc9d9a278&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 56,
+    "question": "¿Cuáles son los media types más comunes?",
+    "options": [
+      {
+        "text": "all (por defecto), screen, print ✅",
+        "isCorrect": true
+      },
+      {
+        "text": "mobile, tablet, desktop",
+        "isCorrect": false
+      },
+      {
+        "text": "hover, orientation, color",
+        "isCorrect": false
+      },
+      {
+        "text": "min-width, max-width, width",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=7739dcab-8aa7-4ae6-8d6e-b9bcc9d9a278&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 57,
+    "question": "Si usas not u only en una media query, ¿qué debes especificar?",
+    "options": [
+      {
+        "text": "Un media feature obligatorio (por ejemplo width)",
+        "isCorrect": false
+      },
+      {
+        "text": "Un media type explícito (por ejemplo screen)",
+        "isCorrect": true
+      },
+      {
+        "text": "Un breakpoint fijo en píxeles siempre",
+        "isCorrect": false
+      },
+      {
+        "text": "Un grid container con display:grid",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=7739dcab-8aa7-4ae6-8d6e-b9bcc9d9a278&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 58,
+    "question": "¿Qué define principalmente al User Experience (UX)?",
+    "options": [
+      {
+        "text": "La capacidad de una app para funcionar sin conexión.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cómo los individuos perciben, comprenden e interactúan con un sistema.",
+        "isCorrect": true
+      },
+      {
+        "text": "El código de programación utilizado en el backend.",
+        "isCorrect": false
+      },
+      {
+        "text": "El número de seguidores en redes sociales.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 59,
+    "question": "¿Quién es conocido como el \"progenitor de la UX\" por su trabajo en Apple?",
+    "options": [
+      {
+        "text": "Jakob Nielsen.",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry Dreyfuss.",
+        "isCorrect": false
+      },
+      {
+        "text": "Donald Norman.",
+        "isCorrect": true
+      },
+      {
+        "text": "Alan Cooper.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 60,
+    "question": "¿Cuál de estas es una técnica de análisis CUALITATIVO?",
+    "options": [
+      {
+        "text": "Cuestionarios masivos.",
+        "isCorrect": false
+      },
+      {
+        "text": "Análisis de métricas web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Entrevistas a usuarios.",
+        "isCorrect": true
+      },
+      {
+        "text": "Evaluación A/B.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 61,
+    "question": "¿En qué consiste la técnica de \"Card Sorting\"?",
+    "options": [
+      {
+        "text": "Comparar dos versiones de un botón.",
+        "isCorrect": false
+      },
+      {
+        "text": "Organizar información en grupos según la lógica del usuario.",
+        "isCorrect": true
+      },
+      {
+        "text": "Medir el tiempo que tarda un usuario en comprar.",
+        "isCorrect": false
+      },
+      {
+        "text": "Diseñar el logotipo de la marca.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 62,
+    "question": "¿Qué herramienta gratuita se utiliza para realizar cuestionarios en línea?",
+    "options": [
+      {
+        "text": "OptimalSort.",
+        "isCorrect": false
+      },
+      {
+        "text": "Google Analytics",
+        "isCorrect": false
+      },
+      {
+        "text": "Miro",
+        "isCorrect": false
+      },
+      {
+        "text": "Google Forms",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 63,
+    "question": "¿Cuál es el propósito de una evaluación A/B?",
+    "options": [
+      {
+        "text": "Contrastar dos versiones de un elemento para ver cuál rinde mejor",
+        "isCorrect": true
+      },
+      {
+        "text": "Crear un perfil de usuario ficticio",
+        "isCorrect": false
+      },
+      {
+        "text": "Organizar notas adhesivas en la pared.",
+        "isCorrect": false
+      },
+      {
+        "text": "Entrevistar a dos personas al mismo tiempo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 64,
+    "question": "¿Cuál es el PRIMER paso en el flujo habitual del proceso de diseño UX?",
+    "options": [
+      {
+        "text": "Prototipado",
+        "isCorrect": false
+      },
+      {
+        "text": "Investigación",
+        "isCorrect": true
+      },
+      {
+        "text": "Implementación",
+        "isCorrect": false
+      },
+      {
+        "text": "Elaboración visual",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 65,
+    "question": "¿Qué es un \"User Persona\"?",
+    "options": [
+      {
+        "text": "El jefe del proyecto de diseño.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un personaje ficticio basado en datos reales del usuario ideal.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un robot que testea la web.",
+        "isCorrect": false
+      },
+      {
+        "text": "El programador senior del equipo.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 66,
+    "question": "¿Para qué sirve un \"Mapa de Afinidad\"?",
+    "options": [
+      {
+        "text": "Para dibujar la ruta que sigue el ratón del usuario.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para calcular el presupuesto del proyecto",
+        "isCorrect": false
+      },
+      {
+        "text": "Para elegir la gama cromática de la web.",
+        "isCorrect": false
+      },
+      {
+        "text": "Para organizar visualmente grandes volúmenes de datos/ identificar patrones",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 67,
+    "question": "¿Qué ventaja económica ofrece el UX según las fuentes?",
+    "options": [
+      {
+        "text": "Elimina la necesidad de marketing.",
+        "isCorrect": false
+      },
+      {
+        "text": "Permite cobrar más caro el producto.",
+        "isCorrect": false
+      },
+      {
+        "text": "Reduce costos al evitar correcciones en etapas avanzadas.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reduce el pago de impuestos tecnológicos.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 68,
+    "question": "¿Qué pionero se centró en la ergonomía y la relación humano-máquina antes que Norman?",
+    "options": [
+      {
+        "text": "Alan Turing.",
+        "isCorrect": false
+      },
+      {
+        "text": "Henry Dreyfuss.",
+        "isCorrect": true
+      },
+      {
+        "text": "Tim Berners-Lee.",
+        "isCorrect": false
+      },
+      {
+        "text": "Vinton Cerf.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 69,
+    "question": "¿Qué herramienta visual presenta de forma secuencial la organización de todo el contenido de un sitio web?",
+    "options": [
+      {
+        "text": "Prototipo de alta fidelidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Mapa de afinidad.",
+        "isCorrect": false
+      },
+      {
+        "text": "Árbol de contenidos (o mapa del sitio)",
+        "isCorrect": true
+      },
+      {
+        "text": "Guion de entrevista.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 70,
+    "question": "En la fase de \"Prototipo\", ¿qué se busca principalmente?",
+    "options": [
+      {
+        "text": "Crear modelos interactivos para visualizar y probar el concepto.",
+        "isCorrect": true
+      },
+      {
+        "text": "Escribir el código definitivo en HTML",
+        "isCorrect": false
+      },
+      {
+        "text": "Realizar el lanzamiento comercial.",
+        "isCorrect": false
+      },
+      {
+        "text": "Contratar al equipo de soporte.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 71,
+    "question": "¿Qué se hace durante la fase de \"Monitoreo\" tras el lanzamiento?",
+    "options": [
+      {
+        "text": "Definir los colores de la marca.",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear las tarjetas para el card sorting.",
+        "isCorrect": false
+      },
+      {
+        "text": "Seguimiento constante del comportamiento y satisfacción real.",
+        "isCorrect": true
+      },
+      {
+        "text": "Entrevistar a los directivos de la empresa.",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 72,
+    "question": "¿Qué factor/es es/son clave para una experiencia satisfactoria?",
+    "options": [
+      {
+        "text": "Que la web sea solo estética",
+        "isCorrect": false
+      },
+      {
+        "text": "La ausencia de imágenes para que cargue rápido.",
+        "isCorrect": false
+      },
+      {
+        "text": "El uso obligatorio de bases de datos relacionales",
+        "isCorrect": false
+      },
+      {
+        "text": "Usabilidad, accesibilidad y consistencia visual",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=f99b6509-2bc1-42ba-9c8d-e96530dd685a&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 73,
+    "question": "¿Qué es la accesibilidad web?",
+    "options": [
+      {
+        "text": "Diseñar webs solo para móviles",
+        "isCorrect": false
+      },
+      {
+        "text": "Cumplir únicamente leyes tecnológicas",
+        "isCorrect": false
+      },
+      {
+        "text": "Crear sitios visualmente atractivos",
+        "isCorrect": false
+      },
+      {
+        "text": "Diseñar webs utilizables por todas las personas",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 74,
+    "question": "¿Qué conjunto de principios resume la accesibilidad web según las WCAG?",
+    "options": [
+      {
+        "text": "HTML",
+        "isCorrect": false
+      },
+      {
+        "text": "SEO",
+        "isCorrect": false
+      },
+      {
+        "text": "POUR",
+        "isCorrect": true
+      },
+      {
+        "text": "UX",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 75,
+    "question": "¿Qué significa que un contenido sea “perceptible”?",
+    "options": [
+      {
+        "text": "Que solo use texto",
+        "isCorrect": false
+      },
+      {
+        "text": "Que la información pueda ser percibida por todos los usuarios",
+        "isCorrect": true
+      },
+      {
+        "text": "Que funcione solo con ratón",
+        "isCorrect": false
+      },
+      {
+        "text": "Que tenga animaciones",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 76,
+    "question": "¿Qué nivel de conformidad WCAG se recomienda para la mayoría de webs?",
+    "options": [
+      {
+        "text": "Nivel A",
+        "isCorrect": false
+      },
+      {
+        "text": "Nivel AAA",
+        "isCorrect": false
+      },
+      {
+        "text": "Nivel B",
+        "isCorrect": false
+      },
+      {
+        "text": "Nivel AA",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 77,
+    "question": "¿Qué organización desarrolla las WCAG?",
+    "options": [
+      {
+        "text": "Google",
+        "isCorrect": false
+      },
+      {
+        "text": "Mozilla",
+        "isCorrect": false
+      },
+      {
+        "text": "W3C (World Wide Web Consortium)",
+        "isCorrect": true
+      },
+      {
+        "text": "Microsoft",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 78,
+    "question": "¿Cuál NO es un principio POUR?",
+    "options": [
+      {
+        "text": "Perceptible",
+        "isCorrect": false
+      },
+      {
+        "text": "Operable",
+        "isCorrect": false
+      },
+      {
+        "text": "Visual",
+        "isCorrect": true
+      },
+      {
+        "text": "Robusto",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 79,
+    "question": "¿Para qué sirve el atributo alt en una imagen?",
+    "options": [
+      {
+        "text": "Para mejorar solo el SEO",
+        "isCorrect": false
+      },
+      {
+        "text": "Para describir la imagen a usuarios con lectores de pantalla",
+        "isCorrect": true
+      },
+      {
+        "text": "Para cambiar el tamaño de la imagen",
+        "isCorrect": false
+      },
+      {
+        "text": "Para cargarla más rápido",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 80,
+    "question": "¿Cuándo debe usarse alt=\"\" en una imagen?",
+    "options": [
+      {
+        "text": "Cuando la imagen es importante",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuando la imagen tiene texto",
+        "isCorrect": false
+      },
+      {
+        "text": "Nunca",
+        "isCorrect": false
+      },
+      {
+        "text": "Cuando es decorativa y no aporta información",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 81,
+    "question": "¿Qué ventaja aporta el HTML semántico?",
+    "options": [
+      {
+        "text": "Facilita la comprensión del contenido por tecnologías de asistencia",
+        "isCorrect": true
+      },
+      {
+        "text": "Hace la web más lenta",
+        "isCorrect": false
+      },
+      {
+        "text": "Elimina la necesidad de CSS",
+        "isCorrect": false
+      },
+      {
+        "text": "Solo mejora el diseño visual",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 82,
+    "question": "¿Cuál es la función de la etiqueta en formularios?",
+    "options": [
+      {
+        "text": "Decorar el formulario",
+        "isCorrect": false
+      },
+      {
+        "text": "Enviar datos",
+        "isCorrect": false
+      },
+      {
+        "text": "Asociar texto descriptivo a un campo de entrada",
+        "isCorrect": true
+      },
+      {
+        "text": "Validar el formulario",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 83,
+    "question": "¿Qué ratio mínima de contraste recomienda WCAG para texto normal?",
+    "options": [
+      {
+        "text": "2:1",
+        "isCorrect": false
+      },
+      {
+        "text": "3:1",
+        "isCorrect": false
+      },
+      {
+        "text": "4.5:1",
+        "isCorrect": true
+      },
+      {
+        "text": "7:1",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 84,
+    "question": ". ¿Por qué es recomendable usar unidades relativas como em o rem?",
+    "options": [
+      {
+        "text": "Porque son obligatorias",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque reducen el código",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque evitan usar CSS",
+        "isCorrect": false
+      },
+      {
+        "text": "Porque permiten ajustar el texto a las preferencias del usuario",
+        "isCorrect": true
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  },
+  {
+    "id": 85,
+    "question": "¿Cuál es una ventaja de herramientas como WAVE?",
+    "options": [
+      {
+        "text": "Sustituyen completamente las pruebas manuales",
+        "isCorrect": false
+      },
+      {
+        "text": "Mejoran solo el diseño visual",
+        "isCorrect": false
+      },
+      {
+        "text": "Ayudan a detectar y corregir problemas de accesibilidad",
+        "isCorrect": true
+      },
+      {
+        "text": "Solo sirven para programadores expertos",
+        "isCorrect": false
+      }
+    ],
+    "answerSource": "kahoot",
+    "confidence": "alta",
+    "sourceFile": "https://kahoot.it/solo?quizId=20f79a11-b9fd-4042-a937-5e221f0b7e3b&gameMode=nano",
+    "sourcePart": "interfaces-kahoot"
+  }
+]
